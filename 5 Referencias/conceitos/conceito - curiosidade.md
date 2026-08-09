@@ -1,0 +1,1 @@
+**Curiosidade** é definida como o **desejo de saber, conhecer ou ver algo novo ou desconhecido**, caracterizando-se também como a capacidade natural e inata da inquiribilidade que impulsiona a exploração, a investigação e o aprendizado

@@ -1,0 +1,137 @@
+seu desejo pode ser apenas parcialmente atendido ou você
+pode sofrer consequências imprevistas como resultado da
+forma que você formulou o desejo. Por exemplo, desejar
+que um vilão esteja morto pode impulsionar você para um
+período no tempo em que o vilão não esteja mais vivo,
+efetivamente removendo você do jogo. Similarmente,
+desejar um item mágico lendário ou um artefato poderia, instantaneamente, transportar você para a presença do
+dono atual do item.
+O estresse da conjuração dessa magia para produzir
+qualquer efeito diferente de copiar outra magia enfraquece você. Após enfrentar esse estresse, a cada vez
+que você conjurar uma magia, antes de terminar um descanso longo, você sofrerá 1d10 de dano necrótico por
+nível da magia. Esse dano não pode ser reduzido ou
+prevenido de forma alguma. Além disso, sua Força cai para 3, se ela já não for 3 ou inferior, por 2d4 dias. Para
+cada dia desses que você permanecer descansando e não
+fizer nada além de atividades leves, seu tempo de recuperação é reduzido em 2 dias. Finalmente, existe 33
+por cento de chance de você se tornar incapaz de conjurar
+desejo
+novamente se você sofrer esse estresse.
+novamente se você sofrer esse estresse.
+ESINTEGRAR
+6° nível de transmutação Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+: V, S, M (um ímã e uma pitada de poeira)
+Duração
+: Instantânea
+Um fino raio esverdeado é lançado da ponta do seu dedo em um alvo que você possa ver dentro do alcance. O alvo
+pode ser uma criatura, um objeto ou uma criação de energia mágica, como uma muralha criada por
+muralha
+de energia
+Uma criatura afetada por essa magia deve realizar um
+teste de resistência de Destreza. Se falhar na resistência,
+o alvo sofrerá 10d6 + 40 de dano de energia. Se esse dano
+reduzir os pontos de vida do alvo a 0, ele será desintegrado.
+Uma criatura desintegrada e tudo que ela está
+vestindo ou carregando, exceto itens mágicos, são reduzidos a uma pilha de um fino pó acinzentado. A
+criatura só pode ser trazida de volta a vida por meio das
+magias
+magias surreição verdadeira
+ou
+desejo
+desejo
+Essa magia desintegra, automaticamente, um objeto
+não-mágico Grande ou menor ou uma criação de energia mágica. Se o alvo for um objeto ou criação de energia Enorme ou maior, a magia desintegra uma porção de 3
+metros cúbicos dele. Um item mágico não pode ser afetado
+por essa magia.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 7° nível ou superior, o dano aumenta em 3d6 para cada nível do espaço acima do 6°.
+6°.
+ESPEDAÇAR
+2° nível de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+: V, S, M (uma lasca de mica)
+Duração
+: Instantânea
+Um alto som estridente, dolorosamente intenso, emerge de um ponto, à sua escolha, dentro do alcance. Cada criatura, numa esfera de 3 metros de raio, centrada no
+ponto deve fazer um teste de resistência de Constituição.
+Uma criatura sofre 3d8 de dano trovejante se falhar na resistência ou metade desse dano se obtiver sucesso. Uma
+criatura feita de material inorgânico como pedra, cristal ou metal, tem desvantagem nesse teste de resistência.
+Um objeto não-mágico que não esteja sendo vestido ou
+carregado, também sofre o dano, se estiver na área da
+magia.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 3° nível ou
+superior, o dano aumenta em 1d8 para cada nível do
+espaço acima do 2°.
+espaço acima do 2°.
+ESPERTAR
+5° nível de transmutação
+Tempo de Conjuração: 8 horas Alcance
+: Toque
+Componentes
+: V, S, M (uma ágata valendo, no mínimo,
+1.000 po que será consumida pela magia)
+Duração
+: Instantân
+: Instantân
+: Instantân
+Depois de gastar o tempo de conjuração traçando runas
+mágicas com uma gema preciosa, você toca uma besta ou
+planta Enorme ou menor. O alvo deve ter ou um valor de Inteligência nulo, ou Inteligência 3 ou menor. O alvo
+ganha Inteligência 10. O alvo também ganha a
+capacidade de falar um idioma que você conheça. Se o alvo for uma planta, ela ganha a habilidade de mover
+seus membros, raízes, vinhas, trepadeiras e assim por
+diante, e ganha sentidos similares ao de um humano. Seu Mestre escolhe as estatísticas apropriadas para o arbusto
+desperto ou árvore desperta.
+A besta ou planta desperta estará enfeitiçada por você
+por 30 dias ou até você ou seus companheiros fazerem qualquer coisa nociva contra ela. Quando a condição
+enfeitiçado terminar, a criatura desperta pode escolher permanecer amigável a você, baseado em como ela foi
+tratada enquanto estava enfeitiçada.
+tratada enquanto estava enfeitiçada.
+ESPISTAR
+5° nível de ilusão
+Tempo de Conjuração: 1 ação Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 hora
+Você fica invisível ao mesmo tempo que uma cópia ilusória sua aparece onde você estava. A cópia permanece
+pela duração, mas a invisibilidade acaba se você atacar ou
+conjurar uma magia.
+Você pode usar sua ação para mover a cópia ilusória
+até o dobro do seu deslocamento e fazê-
+até o dobro do seu deslocamento e fazê-
+gesticular, falar
+e se comportar da forma que você quiser.Você pode ver através dos olhos e ouvir através dos
+ouvidos da cópia como se você estivesse localizado onde
+ela está. Em cada um dos seus turnos, com uma ação bônus, você pode trocar o uso dos sentidos dela pelo seu
+ou voltar novamente. Enquanto você está usando os
+sentidos dela, você fica cego e surdo ao que está a sua volta.
+volta.
+ESTRUIÇÃO
+ESTRUIÇÃO
+ANIDORA
+5° nível de abjuração
+Tempo de Conjuração: 1 ação bônus
+Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+Duração
+Concentração, até 1 minuto
+Da próxima vez que você atingir uma criatura com um
+ataque com arma, antes do fim da magia, seu ataque
+crepita com energia e o ataque causa 5d6 de dano de
+energia extra ao alvo. Além disso, se esse ataque reduzir o
+alvo a 50 pontos de vida ou menos, você a bane. Se o alvo

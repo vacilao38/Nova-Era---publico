@@ -1,0 +1,145 @@
+OMINAR
+OMINAR
+ESSOA
+5° nível de encantamento
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+Duração
+Concentração, até 1 minuto
+Você tenta seduzir um humanoide que você possa ver
+dentro do alcance. Ele deve ser bem sucedido num teste
+de resistência de Sabedoria ou ficará enfeitiçado por você
+pela duração. Se você ou criaturas amigáveis a você estiverem lutando com ele, ele terá vantagem no teste de
+resistência.
+Enquanto o alvo estiver enfeitiçado, você terá uma
+ligação telepática com ela, contanto que ambos estejam no mesmo plano de existência. Você pode usar essa ligação
+telepática para emitir comandos para a criatura enquanto você estiver consciente (não requer uma ação), aos quais
+ela obedece da melhor forma possível. Você pode
+especificar um curso de ação simples e genérico, como´$WDTXHDTXHODFULDWXUDµ´&RUUDDWpDOLµRX´7UDJD
+DTXHOHREMHWRµ6HD
+criatura completar a ordem e não
+receber direções posteriores de você, ela se defenderá e se
+auto preservará da melhor forma que puder.
+Você pode usar sua ação para tomar controle total e
+preciso do alvo. Até o final do seu próximo turno, a criatura realiza apenas as ações que você escolher e não
+faz nada que você não permita que ela faça. Durante esse
+período, você também pode fazer com que a criatura use uma reação, mas isso requer que você usa sua própria
+reação também.
+Cada vez que o alvo sofrer dano, ele realiza um novo
+teste de resistência de Sabedoria contra a magia. Se obtiver sucesso no teste de resistência, a magia termina.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 6° nível, a duração será concentração, até 10 minutos. Quando você usar um
+espaço de magia de 7° nível, a duração será concentração, até 1 hora. Quando você usar um espaço de magia de 8°
+nível, a duração será concentração, até 8 horas.
+nível, a duração será concentração, até 8 horas.
+RUIDISMO
+Truque de transmutação
+Tempo de Conjuração: 1 ação Alcance
+: 9 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Sussurrando para os espíritos da natureza, você cria um dos seguintes efeitos, dentro do alcance:
+dos seguintes efeitos, dentro do alcance:
+Você cria um efeito sensorial minúsculo e inofensivo
+que prevê como será o clima na sua localização pelas
+próximas 24 horas. O efeito deve se manifestar como um globo dourado para céu claro, uma nuvem para
+chuva, flocos de neve para nevasca e assim por diante.
+Esse efeito persiste por 1 rodada.
+Esse efeito persiste por 1 rodada.
+Você faz uma flor florescer, uma semente brotar ou um
+folha amadurecer, instantaneamente.
+folha amadurecer, instantaneamente.
+Você cria um efeito sensorial inofensivo instantâneo,
+como folhas caindo, um sopro de vento, o som de um
+pequeno animal ou o suave odor de um repolho. O
+efeito deve caber num cubo de 1,5 metro.
+efeito deve caber num cubo de 1,5 metro.
+Você, instantaneamente, acende ou apaga uma vela,
+tocha ou fogueira pequena.
+tocha ou fogueira pequena.
+UELO
+UELO
+OMPELIDO
+1° nível de encantamento
+Tempo de Conjuração: 1 ação bônus
+Alcance
+: 9 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Você tenta compelir uma criatura a duelar com você. Uma criatura que você possa ver, dentro do alcance, deve realizar um teste de resistência de Sabedoria. Se falhar, a
+criatura é atraída por você, compelida pela sua exigência
+divina. Pela duração, ela tem desvantagem nas jogadas de ataque contra criaturas diferentes de você e deve
+realizar um teste de resistência de Sabedoria cada vez
+que tentar se mover para um espaço que esteja a mais de 9 metros de você; se ela passar no teste de resistência,
+essa magia não restringirá o movimento do alvo nesse
+turno.
+A magia termina se você atacar qualquer outra
+criatura, se você conjurar uma magia que afete uma criatura hostil diferente do alvo, se uma criatura amigável a você causar dano ou conjurar uma magia
+nociva nele ou se você terminar seu turno a mais de 9
+metros do alvo.
+metros do alvo.
+NCARNAÇÃO
+NCARNAÇÃO
+ANTASMAGÓRICA
+9° nível de ilusão Tempo de Conjuração: 1 ação
+Alcance
+: 36 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Baseado nos mais profundos medos de um grupo de criaturas, você cria criaturas ilusórias nas mentes delas,
+visíveis apenas por elas. Cada criatura numa esfera com 9 metros de raio centrada num ponto, à sua escolha, dentro
+do alcance, deve realizar um teste de resistência de
+Sabedoria. Se falhar na resistência, uma criatura ficará amedrontada pela duração. A ilusão invoca os medos mais
+profundos da criatura, manifestando seus piores
+pesadelos como uma ameaça implacável. No final de cada turno da criatura amedrontada, ela deve ser bem
+sucedida num teste de resistência de Sabedoria ou sofrerá
+4d10 de dano psíquico. Se obtiver sucesso na resistência,
+a magia termina para essa criatura.
+a magia termina para essa criatura.
+NCONTRAR
+NCONTRAR
+RMADILHAS
+2° nível de adivinhação
+Tempo de Conjuração: 1 ação
+Alcance
+: 36 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você sente a presença de qualquer armadilha dentro do alcance a qual você tenha linha de visão. Uma armadilha, para os propósitos dessa magia, inclui qualquer coisa que
+possa causar um efeito repentino ou inesperado em você,
+considerado nocivo ou indesejável, que foi especificamente planejado para ser por seu criador. Portanto, a magia
+sentirá a área afetada pela magia
+alarme, alarme,
+glifo de
+vigilância ou uma armadilha mecânica de fosso, mas ela
+não revelará uma fragilidade natural no piso, um teto
+instável ou um sumidouro escondido.
+Essa magia apenas revela que existe uma magia
+presente. Você não descobre a localização de cada armadilha, mas você também descobre a natureza
+genérica do perigo representando pela armadilha que você sentiu.
+você sentiu.
+NCONTRAR O
+NCONTRAR O
+AMINHO
+6° nível de adivinhação
+Tempo de Conjuração: 1 minuto
+Alcance
+: Pessoal

@@ -1,0 +1,149 @@
+HUVA DE
+HUVA DE
+ETEOROS
+9° nível de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+Alcance
+quilômetro
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Esferas de fogo incandescentes atingem o solo em quatro pontos diferentes que você possa ver, dentro do alcance.Cada criatura numa esfera de 12 metros de raio, centrada
+em cada ponto escolhido por você, deve realizar um teste
+de resistência de Destreza. A esfera se espalha, dobrando esquinas. Uma criatura sofre 20d6 de dano de fogo e 20d6
+de dano de concussão se falhar na resistência ou metade
+desse dano se obtiver sucesso. Uma criatura na área de mais de uma explosão de chamas é afetada apenas uma
+vez.
+A magia causa dano aos objetos na área e incendeia
+objetos inflamáveis que não estejam sendo vestidos ou carregados.
+carregados.
+ÍRCULO DA
+ÍRCULO DA
+ORTE
+6° nível de necromancia
+Tempo de Conjuração: 1 ação Alcance
+: 45 metros
+Componentes
+: V, S, M (o pó de uma pérola negra
+esmagada valendo, no mínimo, 500 po)
+Duração
+: Instantânea
+Uma esfera de energia negativa ondula em um raio de 18
+metros de um ponto ao alcance. Cada criatura na área
+deve realizar um teste de resistência de Constituição. Um alvo sofre 8d6 de dano necrótico se falhar no seu teste de
+resistência, ou metade desse dano se passar.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 7° nível ou superior, o dano aumenta em 2d6 para cada nível do espaço acima do
+6°.
+6°.
+ÍRCULO DE
+ÍRCULO DE
+ODER
+5° nível de abjuração Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal (9 metros de raio)
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 10 minutos
+Energia divina irradia de você, distorcendo e espalhando energia mágica a até 9 metros de você. Até a magia
+acabar, a esfera se move com você, centrada em você. Pela duração, cada criatura amigável na área (incluindo você)
+tem vantagem em testes de resistência contra magias e
+outros efeitos mágicos. Além disso, quando uma criatura afetada for bem sucedida num teste de resistência contra
+uma magia ou efeito mágico realizado para sofrer apenas
+metade do dano, ao invés disso, ela não sofrerá dano nenhum se passar na resistência.
+nenhum se passar na resistência.
+ÍRCULO DE
+ÍRCULO DE
+ELETRANSPORTE
+5° nível de conjuração
+Tempo de Conjuração: 1 minuto
+Alcance
+: 3 metros
+Componentes
+: V, M (giz e tintas raros infundidos com
+pedras preciosas no valor de 50 po, consumidos pela magia)
+Duração
+: 1 rodada
+À medida que você conjura essa magia, você desenha um
+círculo de 3 metros de diâmetro no chão, inscrevendo
+selos que conectam sua localização a um círculo de teletransporte permanente, à sua escolha, cuja sequência
+de selos você conheça e esteja no mesmo plano de
+existência que você. Um portal cintilante se abre dentro
+do círculo que você desenhou e permanece aberto até o
+final do seu próximo turno. Qualquer criatura que entrar
+no portal, instantaneamente, aparecerá a 1,5 metro do
+círculo de destino ou no espaço desocupado mais próximo,
+se o espaço estiver ocupado.
+Muitos templos principais, guildas e outros locais
+importantes possuem círculos de teletransporte permanentes inscritos em algum lugar dos seus confins.
+Cada círculo desse inclui uma sequência única de selos
+Cada círculo desse inclui uma sequência única de selos
+Cada círculo desse inclui uma sequência única de selos
+uma sequência de runas mágicas dispostas em um padrão
+específico. Quando você adquire a capacidade de conjurar
+essa magia pela primeira vez, você aprende a sequência de selos de dois destinos no Plano Material, determinadas
+pelo Mestre. Você pode aprender sequências de selos
+adicionais durante suas aventuras. Você pode consignar uma nova sequência de selos a memória após estuda-
+uma nova sequência de selos a memória após estuda-
+por 1 minuto.
+Você pode criar um círculo de teletransporte
+permanente ao conjurar essa magia no mesmo local a
+cada dia por um ano. Você não precisa usar o círculo para
+se teletransportar quando você conjurar a magia desse
+modo.
+modo.
+ÍRCULO
+ÍRCULO
+ÁGICO
+3° nível de abjuração
+Tempo de Conjuração: 1 minuto
+Alcance
+: 3 metros
+Componentes
+: V, S, M (água benta ou pó de prata e
+ferro valendo, no mínimo, 100 po, consumidos pela magia)
+Duração
+: 1 hora
+Você cria um cilindro de energia mágica de 3 metros de
+raio por 6 metros de altura, centrado num ponto no solo
+que você possa ver, dentro do alcance. Runas brilhantes aparecem toda vez que o cilindro toca o chão ou outra
+superfície.
+Escolha um ou mais dos tipos de criaturas seguintes:
+celestiais, corruptores, elementais, fadas ou mortos-vivos.
+O círculo afeta uma criatura do tipo escolhido das
+seguintes maneiras:
+seguintes maneiras:
+A criatura não consegue entrar no cilindro
+voluntariamente por meios não-mágicos. Se a criatura
+tentar usar teletransporte ou viagem interplanar para
+fazê-lo, ela deve, primeiro, ser bem sucedida num teste de resistência de Carisma.
+de resistência de Carisma.
+A criatura tem desvantagem nas jogadas de ataque contra alvos dentro do cilindro.
+contra alvos dentro do cilindro.
+Alvos dentro do cilindro não podem ser enfeitiçados,
+amedrontados ou possuídos pela criatura.
+Quando você conjurar essa magia, você pode decidir
+que a mágica dela opere na direção reversa, prevenindo
+que uma criatura de um tipo especifico saia do cilindro e
+protegendo os alvos fora dele.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 4° nível ou superior, a duração aumenta em 1 hora para cada nível do espaço acima do 3°.
+do espaço acima do 3°.
+LARIVIDÊNCIA
+3° nível de adivinhação
+Tempo de Conjuração: 10 minutos
+Alcance
+: 1,5 quilômetro
+Componentes
+: V, S, M (um foco valendo, no mínimo, 100
+po, também um chifre cravejado de joias para ouvir ou
+um olho de vidro para ver)
+Duração
+: Concentração, até 10 minutos

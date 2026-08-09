@@ -1,0 +1,227 @@
+O ponto de origem da esfera está incluso em sua área
+de efeito.
+de efeito.
+INHA
+Uma linha se estende de seu ponto de origem em um
+caminho reto até seu comprimento e cobre uma área
+definida pela sua largura.
+O ponto de origem da linha não está incluso em sua
+área de efeito, a menos que você decida o contrário.
+área de efeito, a menos que você decida o contrário.
+ESTES DE
+ESTES DE
+ESISTÊNCIA
+ESISTÊNCIA
+Muitas magias especificam que o alvo pode fazer um teste de resistência para evitar alguns ou todos os de resistência para evitar alguns ou todos os
+eitos dela.
+A magia especifica a habilidade que o alvo deve usar para
+se salvar e o que acontece se obtiver sucesso ou falha.
+A CD para resistir suas magias é igual a 8 + o seu
+modificador de habilidade para conjurar magias + seu bônus de proficiência + quaisquer modificadores
+especiais.
+especiais.
+OGADAS D
+OGADAS D
+OGADAS D
+TAQUE
+TAQUE
+Algumas magias exigem que você faça uma jogada de ataque para determinar se o efeito mágico acertou o alvo
+destinado. O seu bônus de ataque com um ataque mágico
+é igual ao seu modificador de habilidade para conjura
+é igual ao seu modificador de habilidade para conjura
+magias + seu bônus de proficiência.
+A maioria das magias exige jogadas de ataque que
+envolvem ataques à distância. É necessário lembrar que você possui desvantagem nas jogadas de ataque à
+distância se estiver a até 1,5 metro de uma criatura hostil
+a você que possa vê-lo e que não esteja incapacitada (veja o capítulo 9).
+o capítulo 9).
+OMBINANDO
+OMBINANDO
+FEITOS
+FEITOS
+ÁGICOS
+ÁGICOS
+Os efeitos de diferentes magias se somam enquanto as
+durações dessas magias acontecem ao mesmo tempo. Os
+efeitos de magias iguais conjuradas múltiplas vezes, no
+entanto, não se somam. Ao invés disto, o efeito mais
+potente
+potente
+como o bônus mais elevado
+como o bônus mais elevado
+dessas magias dessas magias
+aplica enquanto suas durações permanecerem
+sobrepostos.
+Por exemplo, se dois clérigos conjura
+Por exemplo, se dois clérigos conjura
+bênção
+bênção
+bênção
+bênção
+mesmo alvo, o personagem ganha o benefício de apenas um. Ele ou ela não irá jogar dois dados de bônus.
+um. Ele ou ela não irá jogar dois dados de bônus.
+um. Ele ou ela não irá jogar dois dados de bônus.
+um. Ele ou ela não irá jogar dois dados de bônus.
+RAMA
+RAMA
+DE
+DE
+DE
+GIA
+GIA
+Os mundos nos multiversos de D&D são lugares mágicos.
+Os mundos nos multiversos de D&D são lugares mágicos.
+Toda
+existência é impregnada com poder mágico e energia em
+existência é impregnada com poder mágico e energia em
+potencial repousa inexplorada sob cada pedra,
+riacho, criatura
+riacho, criatura
+vivente e mesmo no próprio ar. Magia bruta é o produto de
+vivente e mesmo no próprio ar. Magia bruta é o produto de
+criação, a silenciosa e descuidada vontade da existência,
+criação, a silenciosa e descuidada vontade da existência,
+permeando cada pedaço de matéria e presente em cada
+permeando cada pedaço de matéria e presente em cada
+manifestação de energia.
+manifestação de energia.
+Mortais não podem moldar diretamente a magia b
+ruta. Ao
+ruta. Ao
+invés disso, eles fazem uso da trama de magia, um tipo de
+invés disso, eles fazem uso da trama de magia, um tipo de
+conexão entre
+conjuradores
+conjuradores
+e a substância da magia
+e a substância da magia
+bruta.
+Nos
+Reinos Esquecidos
+Reinos Esquecidos
+chamam
+chamam
+na de a Trama e
+na de a Trama e
+reconhecem sua
+essência como a deusa Mystra, mas são
+essência como a deusa Mystra, mas são
+vários os modos de
+nomeá
+nomeá
+la e de
+visualizar essa conexão.
+visualizar essa conexão.
+Independente do nome,
+sem a Trama, magia bruta está
+sem a Trama, magia bruta está
+trancafiada e inacessível. Mesmo o
+mais poderoso arquimago
+mais poderoso arquimago
+não pode acender um candelabro com
+magia em uma área
+magia em uma área
+onde a Trama fora despedaçada. Mas cercado
+pela Trama,
+pela Trama,
+pela Trama,
+pela Trama,
+conjurado
+res
+res
+podem moldar raios para explodir
+podem moldar raios para explodir
+sobre inimigos, transportar
+sobre inimigos, transportar
+se centenas de quilômetros em
+se centenas de quilômetros em
+um
+piscar de olhos ou mesmo reverter o efeito da morte.
+piscar de olhos ou mesmo reverter o efeito da morte.
+Toda magia depende da Trama, embora diferentes tipos de
+Toda magia depende da Trama, embora diferentes tipos de
+magia a acessam de variadas maneiras. As magias d
+os magos,
+os magos,
+bruxos, feiticeiros e bardos são comumente chamadas de
+bruxos, feiticeiros e bardos são comumente chamadas de
+magia
+magia
+magia
+arcana
+arcana
+. Essas magias dependem da compreensão
+. Essas magias dependem da compreensão
+. Essas magias dependem da compreensão
+aprendida ou
+intuitiva
+intuitiva
+intuitiva
+sobre os
+trabalhos da Trama.
+Os c
+onjuradores
+onjuradores
+a colhem
+diretamente dos veios da Trama
+diretamente dos veios da Trama
+para poder criar o efeito
+desejado. O cavaleiro místico, bem
+desejado. O cavaleiro místico, bem
+como o trapaceiro arcano,
+também usam magia arcana. As
+também usam magia arcana. As
+magias de clérigos, druidas,
+paladinos e patrulheiros são
+paladinos e patrulheiros são
+chamadas de
+magias divinas
+magias divinas
+magias divinas
+magias divinas
+deuses, a força divina da
+deuses, a força divina da
+natureza ou o fardo pesado do
+juramento de um paladin
+juramento de um paladin
+juramento de um paladin
+Sempre que um efeito mágico é criado, os fios da Trama se
+Sempre que um efeito mágico é criado, os fios da Trama se
+entrelaçam, retorcem e dobram para fazer o efeito possível.
+entrelaçam, retorcem e dobram para fazer o efeito possível.
+Quando um personagem usa magias de adivinhação, como
+Quando um personagem usa magias de adivinhação, como
+detectar magia
+detectar magia
+ou
+identificação
+, ele vislumbra a Trama. Uma
+, ele vislumbra a Trama. Uma
+magia como
+dissipar ma
+gia
+gia
+suaviza a Trama. Magias como
+suaviza a Trama. Magias como
+campo
+antimagia
+antimagia
+realinham a Trama para que a magia flua ao
+realinham a Trama para que a magia flua ao
+redor do
+campo, ao invés de atravessar
+campo, ao invés de atravessar
+a área afetada pela
+a área afetada pela
+magia. E nos
+lugares onde a Trama está danifica ou
+lugares onde a Trama está danifica ou
+despedaçada, a magia
+funciona de modo imprevisível
+funciona de modo imprevisível
+funciona de modo imprevisível
+funciona de modo imprevisível
+funciona de modo imprevisível
+funciona de modo imprevisível
+não funciona.
+não funciona.

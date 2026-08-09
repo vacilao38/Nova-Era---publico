@@ -1,0 +1,128 @@
+ECU
+ECU RAÇÃO
+RAÇÃO
+RCANA
+Você aprendeu como recuperar um pouco de sua energia
+mágica estudando seu grimório. Uma vez por dia, quando
+você terminar um descanso curto, você pode escolher
+espaços de magia gastos para recuperá-los. Os espaços gastos a serem recuperados podem ser de qualquer combinação de níveis de magia, desde que sejam iguais ou inferiores a metade de seu nível de mago (arredondado para cima) e nenhum deles seja de 6º ou superior.
+Por exemplo, se você é um mago de 4º nível, você pode
+recuperar até 2 espaços de magia gastos. Você pode recuperar o espaço de uma magia de 2º nível ou os espaços de duas magias de 1º nível.
+espaços de duas magias de 1º nível.
+RADIÇÃO
+RADIÇÃO
+RCANA
+Quando alcança o 2º nível, você pode escolher uma
+Tradição Arcana, moldando sua prática de magia em uma das oito escolas: Abjuração, Adivinhação, Conjuração, Encantamento, Evocação, Ilusão, Necromancia e Transmutação, todas detalhadas no fim da descrição da
+classe.
+Sua escolha confere características no 2º nível e de
+novo no 6º, 10º e 14º nível.
+novo no 6º, 10º e 14º nível.
+NCREMENTO NO
+NCREMENTO NO
+ALOR DE
+ALOR DE
+ABILIDADE
+ABILIDADE
+Quando você atinge o 4° nível e novamente no 8°, 12°, 16°
+e 19° nível, você pode aumentar um valor de habilidade, à sua escolha, em 2 ou você pode aumentar dois valores de habilidade, à sua escolha, em 1. Como padrão, você não pode elevar um valor de habilidade acima de 20 com essa característica.
+característica.
+OMINAR
+OMINAR
+AGIA
+No 18º nível, você alcança tamanha maestria em determinadas magias que pode conjurá-las à vontade.
+Você escolhe uma magia de mago de 1º nível e uma magia
+de mago de 2º nível de seu grimório. Você as conjura em
+seu nível mínimo, sem gastar espaços de magia quando as tiver preparadas. Caso queira, você pode conjurá-las com um espaço de nível superior, porém gastará espaços de magia, como normalmente se faz.
+magia, como normalmente se faz.
+SSINATURA
+SSINATURA
+SSINATURA
+ICA
+Quando alcançar o 20º nível, você adquire domínio
+completo de duas poderosas magias e pode conjurá-las
+sem muito esforço. Escolha duas magias de mago de 3º
+nível em seu grimório como sua assinatura mágica. Você sempre tem essas magias preparadas e elas não contam
+como magias preparadas em sua lista, além de você poder
+conjurar cada uma das magias escolhidas, uma vez ao dia, como magias de 3º nível, sem gastar nenhum espaço.
+Quando o fizer, você não poderá fazê-lo de novo antes de
+terminar um descanso curto ou longo.
+Se você quiser conjurar essas magias com espaços de
+níveis superiores, a magia gastará espaços de magia, como normalmente se faz.
+como normalmente se faz.
+RADIÇÕES
+A
+RCANAS
+O estudo de magia é antigo, remetendo às primeiras
+descobertas letais da magia. Está firmemente
+estabelecido nos mundos de D&D, com várias tradições
+dedicadas ao seu complexo estudo.
+As tradiç
+As tradiç
+arcanas mais comu
+arcanas mais comu
+no multiverso
+envolvem as escolas de magia. Magos, através das eras, catalogaram milhares de magias, agrupando-as em oito
+categorias chamadas escolas, como descrito no capítulo
+10. Em alguns lugares, essas tradições são literalmente
+escolas. Um mago pode estudar na Escola de Ilusão, enquanto outro estuda em um ponto diferente da cidade
+na Escola de Encantamento. Em outras instituições, elas
+funcionam mais como departamentos acadêmicos, com faculdades rivais competindo por estudantes e financiamentos. Mesmo os magos que treinam aprendizes na solidão de suas próprias torres, utilizam essa divisão da magia em escolas como um instrumento pedagógico, já
+que as magias de cada escola requerem um domínio de
+técnicas diferentes.
+técnicas diferentes.
+SCOLA DE
+SCOLA DE
+BJURAÇÃO
+A Escola de Abjuração enfatiza magias que bloqueiam,
+expulsão ou protegem. Detratores dessa escola dizem que
+sua tradição trata de contradição, negação, ao invés de asserções positivas. Você compreende, no entanto, que terminar efeitos nocivos, proteger os fracos e banir influências malignas é tudo, menos um vazio filosófico.
+influências malignas é tudo, menos um vazio filosófico.
+É uma vocação de orgulho e respeito.
+Chamados de abjuradores, membros dessa escola são
+procurados quando espíritos sinistros precisam ser exorcizados, quando locais importantes devem ser guardados contra espionagem mágica e quando portais para outros planos de existência precisam ser selados.
+para outros planos de existência precisam ser selados.
+BJURAÇÃO
+BJURAÇÃO
+NSTRUÍDA
+NSTRUÍDA
+Quando você escolhe essa escola no 2º nível, o ouro e o tempo que você precisa gastar para copiar uma magia da escola de abjuração em seu grimório é reduzido à metade.
+escola de abjuração em seu grimório é reduzido à metade.
+ROTEÇÃO
+ROTEÇÃO
+RCANA
+RCANA
+A partir do 2° nível, você pode tecer a magia a sua volta para proteção. Quando você conjura uma magia de abjuração de 1° nível ou superior, você pode, simultaneamente, usar uma vertente do poder da magia
+para criar uma proteção mágica em si mesmo, que dura
+até você terminar um descanso longo. A proteção tem
+pontos de vida iguais ao dobro do seu nível de mago + seu
+modificador de Inteligência. Sempre que você sofrer dano, a proteção sofrerá o dano no lugar. Se o dano reduzir a proteção a 0 pontos de vida, você sofre qualquer dano remanescente.
+Quando a proteção estiver com 0 pontos de vida, e
+Quando a proteção estiver com 0 pontos de vida, e
+não poderá mais absorver dano, mas a mágica permanece.Toda vez que você conjurar uma magia de abjuração de 1°nível ou superior, a proteção recupera um número de pontos de vida igual ao dobro do nível da magia.
+Uma vez que você tenha criado a proteção, você não
+pode criá-
+pode criá-novamente até terminar um descanso longo.
+novamente até terminar um descanso longo.
+ROTEÇÃO
+ROTEÇÃO
+ROJETADA
+ROJETADA
+A partir do 6° nível, quando uma criatura que você possa
+ver a até 9 metros sofrer dano, você pode usar sua reação
+para fazer com que sua Proteção Arcana absorva aquele para fazer com que sua Proteção Arcana absorva aquele
+no. Se esse dano reduzir a proteção a 0 pontos de vida,
+a criatura protegida sofrerá qualquer dano remanescente.
+a criatura protegida sofrerá qualquer dano remanescente.
+BJURAÇÃO
+BJURAÇÃO
+PRIMORADA
+PRIMORADA
+A partir do 10° nível, quando você conjurar uma magia de
+abjuração que requeira que você realize um teste de
+habilidade como parte da conjuração da magia (como em
+contramágica
+contramágica contramágica
+dissipar magia
+), você adiciona seu bônus
+de proficiência a esse teste de habilidade.

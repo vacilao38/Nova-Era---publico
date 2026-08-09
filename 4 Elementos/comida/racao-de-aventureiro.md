@@ -1,0 +1,1 @@
+Um pão ta duro capaz de quebrar a fechadura de uma porta. Possivelmente pode ser usado como uma arma.

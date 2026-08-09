@@ -1,0 +1,76 @@
+prematuramente usando uma ação bônus no seu turno.
+Você reverte automaticamente se cair inconsciente, cair a 0 pontos de vida ou morrer.
+Enquanto estiver transformado, as seguintes regras se
+aplicam:
+aplicam:
+Suas estatísticas de jogo são substituídas pelas
+estatísticas da besta, mas você mantem sua tendência,
+personalidade e valores de Inteligência, Sabedoria e Carisma. Você também mantem suas proficiências em todas as suas perícias e testes de resistência, além de receber as proficiências da criatura. Se a criatura possuir a mesma proficiência que você e o bônus no
+bloco de estatística dela for maior que o seu, você
+usará o bônus da criatura no lugar do seu. Se a criatura possuir qualquer ação lendária ou de covil, você não pode usá-
+você não pode usá-você não pode usá-
+você não pode usá-
+Quando você se transforma, você assume os pontos de vida e Dados de Vida da criatura. Quando você reverte
+a sua forma normal, você retorna ao número de pontos
+de vida que tinha antes de se transformar. Porém, se você reverter como resultado de ter caído a 0 pontos de
+vida, todo o dano excedente será transferido para a
+sua forma normal. Por exemplo, se você sofrer 10 pontos de dano em forma animal e tiver apenas 1
+ponto de vida restante, você reverte e sofre 9 de dano.
+Contanto que o dano excedente não reduza você a 0 pontos de vida, você não cairá inconsciente.
+pontos de vida, você não cairá inconsciente.
+Você não pode conjurar magias e sua capacidade de fala ou de realizar qualquer ação que requeira mãos são limitadas pelas capacidades da forma da besta que
+você assumiu. Transformar-se não interrompe sua
+concentração em uma magia que você já tenha conjurado, no entanto, nem previne você de realizar ações que são parte da conjuração, como
+convocar
+relâmpagos
+que você já tenha conjurado.
+que você já tenha conjurado.
+Você mantem os benefícios de todas as características
+de classe, raça ou outras fontes, e pode usá-
+de classe, raça ou outras fontes, e pode usá-s caso a
+nova forma seja fisicamente capaz de fazê-lo. No
+entanto, você não pode usar qualquer dos seus
+sentidos especiais, como visão no escuro, a não ser que a sua nova forma também tenha esse sentido.
+a sua nova forma também tenha esse sentido.
+Você pode escolher se o seu equipamento cai no chão
+no seu espaço, é assimilado a sua nova forma ou é
+usado por ela. Equipamentos vestidos e carregados funcionam normalmente, mas o Mestre decide qual equipamento é viável para a nova forma vestir ou usar, baseado na forma e tamanho da criatura. O seu equipamento não muda de forma ou tamanho
+para se adaptar à nova forma e,
+qualquer equipamento que a nova forma não possa vestir deve, ou cair no chão ou ser assimilado por ela.Equipamentos assimilados não terão efeito até você deixar a forma.
+efeito até você deixar a forma.
+ÍRCULO
+ÍRCULO
+RUÍDICO
+No 2° nível, você escolhe se identificar com um
+círculo de druidas: o Círculo da Terra ou o Círculo da
+círculo de druidas: o Círculo da Terra ou o Círculo da
+Lua, ambos detalhados no final da descrição da classe.
+Sua escolha lhe concede características no 2° nível e
+novamente no 6°, 10° e 14° nível.
+novamente no 6°, 10° e 14° nível.
+NCREMENTO NO
+NCREMENTO NO
+ALOR DE
+ALOR DE
+ABILIDADE
+ABILIDADE
+Quando você atinge o 4° nível e novamente no 8°, 12°, 16°
+e 19° nível, você pode aumentar um valor de habilidade, à
+sua escolha, em 2 ou você pode aumentar dois valores de habilidade, à sua escolha, em 1. Como padrão, você não
+pode elevar um valor de habilidade acima de 20 com essa característica.
+característica.
+ORPO
+ORPO
+TEMPORAL
+Começando no 18° nível, a magia primordial que você controla faz com que você envelheça mais lentamente.Para cada 10 anos que passarem, seu corpo envelhece apenas 1.
+apenas 1.
+AGIAS DA
+AGIAS DA
+ESTA
+A partir do 18° nível, você pode conjurar muitas das suas magias em qualquer forma que assumir usando a Forma Selvagem. Você pode realizar os componentes somáticos e
+verbais de uma magia de druida na forma de besta, mas
+você não é capaz de prover os componentes materiais.
+você não é capaz de prover os componentes materiais.
+RQUIDRUIDA
+No 20° nível, você pode usar sua Forma Selvagem um
+número ilimitado de vezes.

@@ -1,0 +1,187 @@
+Testes de Resistência:
+Inteligência, Sabedoria
+Perícias:
+Escolha duas dentre Arcanismo, Adestrar
+Animais, Intuição, Medicina, Natureza, Percepção,
+Religião e Sobrevivência
+Religião e Sobrevivência
+QUIPAMENTO
+QUIPAMENTO
+Você começa com o seguinte equipamento, além do
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+) um escudo de madeira ou (
+) um escudo de madeira ou (
+) qualquer arma
+simples
+simples
+simples
+) uma cimitarra ou (
+) uma cimitarra ou (
+) qualquer arma corpo-a-corpo
+simples
+simples
+simples
+) um pacote de estudioso ou (
+) um pacote de estudioso ou (
+) um pacote de
+explorador
+explorador
+Armadura de couro, um pacote de aventureiro e um
+foco druídico
+foco druídico
+RUÍDICO
+Você conhece o Druídico, o idioma secreto dos druidas.
+Você pode falar esse idioma e usá-lo para deixar
+mensagens escondidas. Você e outros que conheçam esse
+idioma automaticamente veem tais mensagens. Outros perceberão a presença da mensagem se passarem num
+teste de Sabedoria (Percepção) CD 15, mas não
+conseguirão decifrá-lo sem magia.
+conseguirão decifrá-lo sem magia.
+ONJURAÇÃO
+ONJURAÇÃO
+Baseado na essência divina da própria natureza, você
+pode conjurar magias para moldar sua essência a sua
+vontade. Veja o capítulo 10 para as regras gerais de conjuração e o capítulo 11 para a lista de magias de druida.
+druida.
+RUQUES
+Você conhece dois truques, à sua escolha, da lista de magias de druida. Você aprende truques de druida adicionais, à sua escolha, em níveis mais altos, como
+mostrado na coluna Truques Conhecidos da tabela O
+Druida.
+Druida.
+REPARANDO E
+REPARANDO E
+ONJURANDO
+ONJURANDO
+AGIAS
+A tabela O Druida mostra quantos espaços de magia você têm para conjurar suas magias de 1º nível e superiores.Para conjurar uma dessas magias, você precisa gastar um espaço do nível da magia ou superior. Você recupera todos os espaços gastos quando termina um descanso longo.
+os espaços gastos quando termina um descanso longo.
+os espaços gastos quando termina um descanso longo.
+LANTAS E
+LANTAS E
+LORESTAS
+LORESTAS
+AGRADAS
+AGRADAS
+O druida tem certas plantas como sagradas, em particular o
+amieiro, freix
+o, bétula, elder, avelã, azevinho, zimbro, visco,
+carvalho, sorva, salgueiro e teixo. Druidas, muitas vezes, usam
+essas plantas como parte de seu foco de conjuração,
+incorporando lascas de carvalho ou teixo ou ramos de visco
+branco.
+branco.
+Da mesma forma, um drui
+da usa tais madeiras para fazer
+outros objetos, com armas e escudos. O teixo está associado a
+morte e renascimento, então, empunhaduras de cimitarras ou
+foices seriam feitas com esse material. O freixo está associado
+com a vida e o carvalho com a força. Es
+sas madeiras fazem
+excelentes cabos ou armas inteiras, como clavas ou
+bordões
+bordões
+assim como escudos. O amieiro é associado ao ar e seria usado
+para armas de arremesso, como dardos e azagaias.
+para armas de arremesso, como dardos e azagaias.
+Os druidas de regiões que não possuem as plantas descritas
+aqui, t
+em que escolher outras plantas para usos similares. Por
+exemplo, um druida de uma região desértica valorizaria a árvore
+da iúca e as plantas de cacto.
+da iúca e as plantas de cacto.
+Você prepara a lista de magias disponíveis
+selecionando-as da lista de magias de Druida. Você seleciona um número de magias igual ao seu modificador de Sabedoria + seu nível de druida (mínimo de uma
+magia). Essas magias devem ser de níveis que você
+possua espaços de magia.
+Por exemplo, se você é um druida de 3º nível, você
+possui quatro espaços de magia de 1º nível e dois de 2º nível. Com Sabedoria 16, sua lista de magias preparadas pode incluir 6 magias, combinando as de 1º e 2º nível em
+qualquer ordem. Se você preparar a magia de 1º nível
+curar ferimentos
+, você pode conjurá-
+, você pode conjurá-com um espaço de
+magia de 1º ou de 2º nível. Ao conjurar a magia, você não a retira de sua lista de magias preparadas, podendo conjurá-la de novo se tiver espaços de magia disponíveis.
+Você pode modificar a sua lista de magias preparadas
+quando termina um descanso longo. Preparar uma nova lista de magias de druida requer tempo gasto em preces e meditação: no mínimo 1 minuto por nível de magia para cada magia preparada.
+cada magia preparada.
+ABILIDADE DE
+ABILIDADE DE
+ONJURAÇÃO
+Sabedoria é a sua habilidade para você conjurar suas magias de druida, já que sua magia vem da sua devoção e sintonia com a natureza. Você usa sua Sabedoria sempre que alguma magia se referir a sua habilidade de conjurar magias. Além disso, você usa o seu modificador de Sabedoria para definir a CD dos testes de resistência para
+as magias de druida que você conjura e quando você
+realiza uma jogada de ataque com uma magia.
+CD para suas magias
+= 8 + bônus de proficiência +
+seu modificador de Sabedoria
+Modificador de ataque de magia
+Modificador de ataque de magia
+Modificador de ataque de magia
+seu bônus de proficiência +
+seu bônus de proficiência +
+seu modificador de Sabedoria
+seu modificador de Sabedoria
+ONJURAÇÃO DE
+ONJURAÇÃO DE
+ITUAL
+Você pode conjurar qualquer magia de druida que você
+conheça como um ritual se ela possuir o descritor ritual.
+conheça como um ritual se ela possuir o descritor ritual.
+OCO DE
+OCO DE
+ONJURAÇÃO
+Você pode usar um foco druídico (encontrado no capítulo
+5) como foco de conjuração das suas magias de druida.
+5) como foco de conjuração das suas magias de druida.
+ORMA
+ORMA
+ELVAGEM
+A partir do 2° nível, você pode usar sua ação para assumir
+magicamente a forma de uma besta que você já tenha visto antes. Você pode usar essa característica duas vezes.Você recupera os usos quando termina um descanso curto ou longo.
+Seu nível de druida determina as bestas em que você
+pode se transformar, como mostrado na tabela Formas de Besta. No 2° nível, por exemplo, você pode se transformar em qualquer besta que possui nível de desafio 1/4 ou inferior que não possua deslocamento de voo ou natação.
+inferior que não possua deslocamento de voo ou natação.
+ORMAS DE
+ORMAS DE
+ESTA
+ESTA
+Nível
+Nível
+ND Má
+ND Má
+ND Má
+ND Má
+Limitações
+Limitações
+Exemplo
+Exemplo
+Exemplo
+Exemplo
+Exemplo
+Exemplo
+Sem deslocamento de voo
+ou natação
+ou natação
+Lobo
+Lobo
+Lobo
+Lobo
+Lobo
+Lobo
+Sem deslocamento de voo
+Sem deslocamento de voo
+Crocodilo
+Crocodilo
+Crocodilo
+Crocodilo
+Crocodilo
+Crocodilo
+Crocodilo
+Crocodilo
+Águia gigante
+Águia gigante
+Você pode continuar na forma de besta por um número
+de horas igual à metade do seu nível de druida
+(arredondado para baixo). Então, você volta a sua forma
+original, a não ser que você gaste outro uso dessa característica. Você pode reverter a sua forma normal

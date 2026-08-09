@@ -1,0 +1,202 @@
+Alguns efeitos requerem teste de resistência. Quando
+você usar um desses efeitos, a CD é igual a das suas
+magias de clérigo.
+A partir do 6º nível, você pode Canalizar Divindade
+duas vezes entre descansos e a partir do 18º nível, três vezes. Você recupera os usos dessa característica quando
+termina um descanso curto ou longo.
+termina um descanso curto ou longo.
+ANALIZAR
+ANALIZAR
+IVINDADE:
+IVINDADE:
+XPULSAR
+XPULSAR
+ORTOS-
+ORTOS-IVOS
+IVOS
+Usando uma ação, você levanta seu símbolo sagrado e
+murmura uma prece repreendendo os mortos-vivos. Cada morto-vivo que puder ver ou ouvir você em um raio de 9 metros a partir de você, deve fazer um teste de resistência
+de Sabedoria. Se falhar, a criatura está expulsa por 1
+minuto ou até sofrer algum dano.
+Uma criatura expulsa deve usar seu turno para fugir
+da melhor forma possível e de forma alguma pode aproximar-se a mais
+aproximar-se a mais
+9 metros de você por vontade
+própria. Ela também não pode usar reações. Como uma
+ação, a criatura pode apenas realizar uma Disparada ação, a criatura pode apenas realizar uma Disparada
+ação, a criatura pode apenas realizar uma Disparada
+tentar escapar de um efeito que a impeça de
+tentar escapar de um efeito que a impeça de
+mover.mover.
+Se não há lugar para ir, a criatura pode usar a ação
+Esquivar.
+Esquivar.
+Esquivar.
+NCREMENTO NO
+NCREMENTO NO
+ALOR DE
+ALOR DE
+ABILIDADE
+ABILIDADE
+Quando você atinge o 4° nível e novamente no 8°, 12°, 16°e 19° nível, você pode aumentar um valor de habilidade, à sua escolha, em 2 ou você pode aumentar dois valores de habilidade, à sua escolha, em 1. Como padrão, você não
+pode elevar um valor de habilidade acima de 20 com essa
+característica.
+característica.
+ESTRUIR
+ESTRUIR
+ORTOS-
+ORTOS-
+ORTOS-
+A partir do 5º nível, quando um morto-vivo falhar no teste
+de resistência contra a sua característica Expulsar
+Mortos-vivos, ele é instantaneamente destruído se o Nível
+de Desafio dele for menor ou igual ao valor da tabela
+Destruir Mortos-vivos, de acordo com seu nível de clérigo.
+Destruir Mortos-vivos, de acordo com seu nível de clérigo.
+ESTRUIR
+ESTRUIR
+ORTOS
+ORTOS
+ORTOS
+IVOS
+IVOS
+Nível de
+Clérigo
+Clérigo
+Destrói Mortos
+Destrói Mortos
+Vivos de ND
+Vivos de ND
+Vivos de ND
+Vivos de ND
+1/2 ou menor
+1/2 ou menor
+1/2 ou menor
+1/2 ou menor
+1 ou menor
+1 ou menor
+1 ou menor
+1 ou menor
+2 ou menor
+2 ou menor
+2 ou menor
+2 ou menor
+3 ou m
+enor
+enor
+enor
+enor
+4 ou menor
+4 ou menor
+4 ou menor
+NTERVENÇÃO
+NTERVENÇÃO
+IVINA
+A partir do 10º nível, você pode rogar à sua divindade para que auxilie você em uma árdua tarefa.
+Implorar pelo auxílio requer uma ação. Você precisa
+descrever o que busca e realizar uma rolagem de dado de percentagem. Se o resultado for menor ou igual ao seu nível de clérigo, sua divindade intervém. O Mestre
+escolhe a natureza da intervenção. O efeito de qualquer
+magia de clérigo ou magia de domínio é apropriado como resultado.
+Se sua divindade intervir, você fica impedido de usar
+essa característica de novo por 7 dias. Do contrário, você pode usá-la de novo após terminar um descanso longo.
+No 20º nível, seus pedidos de intervenção funcionam
+automaticamente, sem necessidade de rolagem de dados.
+automaticamente, sem necessidade de rolagem de dados.
+OMÍNIOS
+D
+IVINOS
+Em um panteão, cada divindade tem influência sobre
+certos aspectos da vida mortal e da civilização
+certos aspectos da vida mortal e da civilização
+chamados
+de domínios divinos. Juntando-se os domínios sobre os quais uma divindade tem influência, têm-se um conjunto denominado portfólio da divindade. Por exemplo, o
+portfólio do deus grego Apolo inclui os domínios do
+Conhecimento, da Luz e da Vida. Como um clérigo, você escolhe um aspecto de sua divindade para enfatizar,
+ganhando os poderes relativos àquele domínio.
+Essa escolha pode ainda corresponder a um gr
+Essa escolha pode ainda corresponder a um gr
+Essa escolha pode ainda corresponder a um gr
+dedicado àquele deus. Apolo, por exemplo, pode ser YHQHUDGRHPXPDUHJLmRFRPR3KRHEXV ´UDGLDQWHµ
+YHQHUDGRHPXPDUHJLmRFRPR3KRHEXV ´UDGLDQWHµ
+Apolo, enfatizando sua associação sobre o domínio da Luz,
+e em outro local como Apolo Acesius
+´FXUDQGHLURµ
+enfatizando seu domínio sobre a Vida. Da mesma forma, o domínio que você escolher poderia simplesmente representar uma preferência pessoal, o aspecto da
+divindade que mais agrada você.
+A descrição de cada domínio inclui exemplos de
+divindades que têm influência sobre eles. Estão incluídos deuses dos mundos dos Reinos Esquecidos, Greyhawk,
+Dragonlance e de Eberron, além dos antigos panteões Celta, Egípcio, Grego e Nórdico.
+Celta, Egípcio, Grego e Nórdico.
+OMÍNIO DO
+OMÍNIO DO
+ONHECIMENTO
+Os deuses do conhecimento
+Os deuses do conhecimento
+como Oghma, Boccob,
+Gilean, Aureon e Thoth
+Gilean, Aureon e Thoth
+valorizam o estudo e
+compreensão acima de tudo. Alguns ensinam que o
+conhecimento deve ser coletado e partilhado em
+bibliotecas e universidades ou promovem o conhecimento prático do artesanato e da invenção. Algumas divindades escondem conhecimentos e os mantem em segredo para si mesmos. E outros prometem a seus seguidores que eles ganharão poderes tremendos se desvendarem os segredos
+do multiverso. Os seguidores desses deuses estudam
+conhecimento exotérico, coletam tomos antigos, escavam
+locais secretos da terra e aprendem tudo que podem.
+Alguns deuses do conhecimento que promovem a prática de ofícios e criação incluem deuses da forja como Gond, Reorx, Onatar, Moradin, Hefesto e Goibhniu.
+Reorx, Onatar, Moradin, Hefesto e Goibhniu.
+AGIAS DO
+AGIAS DO
+OMÍNIO DO
+OMÍNIO DO
+ONHECIMENTO
+ONHECIMENTO
+Nível de Clérigo
+Nível de Clérigo
+Magias
+Magias
+Magias
+Magias
+comando, identificação
+comando, identificação
+comando, identificação
+comando, identificação
+augúrio
+, sugestão
+, sugestão
+, sugestão
+, sugestão
+dificultar detecção, falar com os mortos
+dificultar detecção, falar com os mortos
+dificultar detecção, falar com os mortos
+dificultar detecção, falar com os mortos
+olho arcano, confusão
+olho arcano, confusão
+olho arcano, confusão
+olho arcano, confusão
+conhecimento lendário
+, vidência
+, vidência
+, vidência
+ÊNÇÃOS
+ÊNÇÃOS
+ÊNÇÃOS
+ÊNÇÃOS
+ONHECIMENTO
+ONHECIMENTO
+No 1° nível, você aprende dois idiomas, à sua escolha
+No 1° nível, você aprende dois idiomas, à sua escolha
+Você também se torna proficiente em duas perícias, à sua
+escolha, dentre as seguintes: Arcanismo, História,
+Natureza ou Religião.
+Seu bônus de proficiência é dobrado em qualquer teste
+de habilidade que você fizer usando qualquer dessas
+perícias.
+perícias.
+ANALIZAR
+ANALIZAR
+IVINDADE:
+IVINDADE:
+ONHECIMENTO DAS
+ONHECIMENTO DAS RAS
+RAS
+A partir do 2° nível, você pode usar seu Canalizar Divindade para beber da fonte divina do conhecimento.Com uma ação, você escolhe uma perícia ou ferramenta.Por 10 minutos, você terá proficiência com a perícia ou ferramenta escolhida.

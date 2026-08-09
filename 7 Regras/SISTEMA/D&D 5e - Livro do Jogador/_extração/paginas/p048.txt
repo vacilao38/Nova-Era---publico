@@ -1,0 +1,116 @@
+NCREMENTO NO
+NCREMENTO NO
+ALOR DE ALOR DE
+ABILIDADE
+ABILIDADE
+Quando você atinge o 4° nível e novamente no 8°, 12°, 16°
+e 19° nível, você pode aumentar um valor de habilidade, à
+sua escolha, em 2 ou você pode aumentar dois valores de
+habilidade, à sua escolha em 1. Como padrão, você não pode elevar um valor de habilidade acima de 20 com essa característica.
+característica.
+característica.
+característica.
+XTRA
+XTRA
+A partir do 5° nível, você pode atacar duas vezes, ao invés de uma, sempre que você realizar a ação de Ataque no seu turno.
+turno.
+OVIMENTO
+OVIMENTO
+ÁPIDO
+ÁPIDO
+Começando no 5° nível, seu deslocamento aumenta em 3 metros enquanto você não estiver vestindo uma armadura pesada.
+pesada.
+NSTINTO
+NSTINTO
+ELVAGEM
+ELVAGEM
+No 7° nível, seu instinto está tão apurado que você recebe vantagem nas jogadas de iniciativa.
+Além disso, se você estiver surpreso no começo de um
+combate e não estiver incapacitado, você pode agir
+normalmente no seu primeiro turno, mas apenas se você
+entrar em fúria antes de realizar qualquer outra coisa neste turno.
+neste turno.
+RÍTICO
+RÍTICO
+RUTAL
+RUTAL
+A partir do 9° nível, você pode rolar um dado de dano de arma adicional quando estiver determinando o dano extra de um acerto crítico com uma arma corpo-a-corpo.
+Isso aumenta para dois dados adicionais no 13° nível e
+três dados adicionais no 17° nível.
+três dados adicionais no 17° nível.
+ÚRIA
+ÚRIA
+MPLACÁVEL
+MPLACÁVEL
+A partir do 11° nível, sua fúria pode manter você lutando independente da gravidade dos seus ferimentos. Se você cair para 0 pontos de vida enquanto estiver em fúria e
+não morrer, você pode realizar um teste de resistência de
+Constituição CD 10. Se você for bem sucedido, você volta para 1 ponto de vida ao invés disso.
+Cada vez que você utilizar essa característica após a
+primeira, a CD aumenta em 5. Assim que você terminar um descanso curto ou longo a CD volta para 10.
+um descanso curto ou longo a CD volta para 10.
+ÚRIA
+ÚRIA
+ERSISTENTE
+ERSISTENTE
+A partir do 15° nível, sua fúria é tão brutal que ela só termina prematuramente se você cair inconsciente ou se
+você decidir terminá-
+você decidir terminá-
+ORÇA
+ORÇA
+NDOMÁVEL
+NDOMÁVEL
+A partir do 18° nível, se o total de um teste de Força seu
+for menor que o seu valor de Força, você pode usar esse
+valor no lugar do resultado.
+valor no lugar do resultado.
+AMPEÃO
+AMPEÃO
+RIMITIVO
+RIMITIVO
+No 20° nível, você incorpora os poderes da natureza. Seu
+No 20° nível, você incorpora os poderes da natureza. Seu
+valores de Força e Constituição aumentam em 4. Seu máximo para esses valores agora é 24.
+máximo para esses valores agora é 24.AMINHO
+AMINHO
+RIMITIVO
+A fúria queima no coração de cada bárbaro, uma
+queimação que leva-os a grandeza. Bárbaros diferentes,
+no entanto, atribuem suas fúrias a fontes diferentes. Para
+alguns, é um reservatório interno onde a dor, aflição e raiva são forjados numa fúria dura como aço. Outros
+veem-na como uma bênção espiritual, uma dadiva de um
+totem animal.
+totem animal.
+AMINHO DO
+AMINHO DO
+URIOSO
+Para alguns bárbaros, a fúria é um meio para um fim
+Para alguns bárbaros, a fúria é um meio para um fim
+Para alguns bárbaros, a fúria é um meio para um fim
+esse fim é a violência. O Caminho do Furioso é um caminho de fúria livre, entumecido em sangue. A medida que você entra na fúria de um furioso, você vibra no caos da batalha, despreocupado com a sua própria saúde ou bem-estar.
+bem-estar.
+RENESI
+RENESI
+Começando no momento que você escolhe esse caminho no
+3° nível, você pode entrar num frenesi quando estiver em
+fúria. Se você desejar, pela duração da sua fúria, você pode realizar um único ataque corpo-a-corpo com arma, com uma ação bônus, em cada um de seus turnos ap
+com uma ação bônus, em cada um de seus turnos ap
+esse. Quando sua fúria acabar, você sofrerá um nível de
+exaustão (como descrito no apêndice A).
+exaustão (como descrito no apêndice A).
+ÚRIA
+ÚRIA
+NCONSCIENTE
+NCONSCIENTE
+A partir do 6° nível, você não pode ser enfeitiçado ou
+amedrontado enquanto estiver em fúria. Se você estava enfeitiçado ou amedrontado quando entrou em fúria, o efeito é suspenso pela duração da fúria.
+efeito é suspenso pela duração da fúria.
+RESENÇA
+RESENÇA
+NTIMIDANTE
+NTIMIDANTE
+A partir do 10° nível, você pode usar sua ação para
+amedrontar alguém com sua presença intimidante.
+Quando o fizer, escolha uma criatura que você possa ver a 9 metros. Se a criatura puder ver ou ouvir você, ela deve ser bem sucedida num teste de resistência de Sabedoria(CD igual a 8 + seu bônus de proficiência + seu
+modificador de Carisma) ou ficara com medo de você até o
+fim do seu próximo turno. Nos turnos seguintes, você pode usar sua ação para estender a duração desse efeito na criatura amedrontada até o início do seu próximo turno. Esse efeito termina se a criatura terminar seu turno fora da sua linha de visão ao a mais de 18 metros
+de você.

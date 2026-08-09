@@ -1,0 +1,165 @@
+ROFICIÊNCIAS
+ROFICIÊNCIAS
+Quando você ganha um nível em uma classe diferente da
+sua primeira, você ganha apenas algumas das
+proficiências iniciais da classe, como mostrado na tabela
+Proficiências de Multiclasse.
+Proficiências de Multiclasse.
+ROFICIÊNCIAS DE
+ROFICIÊNCIAS DE
+ULTICLASSE
+ULTICLASSE
+Classe
+Classe
+Proficiência Adquirida
+Proficiência Adquirida
+Bárbaro
+Bárbaro
+Escudos, armas simples, armas marciais
+Escudos, armas simples, armas marciais
+Bardo
+Bardo
+Armadura leve, uma perícia de sua
+escolha, um
+instrumento musical de sua escolha
+instrumento musical de sua escolha
+Bruxo
+Bruxo
+Armadura leve, armas simples
+Armadura leve, armas simples
+Clérigo
+Clérigo
+Armadura leve, armadura média, escudos
+Armadura leve, armadura média, escudos
+Druida
+Druida
+Armadura leve, armadura média, escudos (druidas
+não usarão armaduras ou escudos feitos de metal)
+não usarão armaduras ou escudos feitos de metal)
+Feiticeiro
+Feiticeiro
+Feiticeiro
+Feiticeiro
+Guerreiro
+Guerreiro
+Armadura leve, armadura média, escudos, armas
+simples, armas marciais
+simples, armas marciais
+Ladino
+Ladino
+Armaduras leve, uma perícia da lista de perícias da
+classe, ferramentas de ladrão
+classe, ferramentas de ladrão
+Mago
+Mago
+Mago
+Mago
+Monge
+Monge
+Armas simples, espadas curtas
+Armas simples, espadas curtas
+Paladino
+Paladino
+Armadura leve, armadura média,
+escudos, armas
+simples, armas marciais
+simples, armas marciais
+Patrulheiro
+Patrulheiro
+Armadura leve, armadura média, escudos, armas
+simples, armas marciais, uma perícia da lista de
+perícias da classe
+perícias da classe
+perícias da classe
+ARACTERÍSTICAS DE
+ARACTERÍSTICAS DE
+LASSE
+Quando você ganha um novo nível em uma classe, você adquire suas características daquele nível. Algumas características, no entanto, possuem regras adicionais quando você faz multiclasse: Canalizar Divindade, Ataque Extra, Defesa sem Armadura e Conjuração.
+Ataque Extra, Defesa sem Armadura e Conjuração.
+ANALIZAR
+ANALIZAR
+IVINDADE
+Se você já tiver a característica Canalizar Divindade e
+ganhar um nível em uma classe que também garanta essa
+característica, você ganha os efeitos de Canalizar
+Divindade de ambas as classes, mas adquirir a característica novamente não lhe dá usos adicionais dela.
+Você ganha usos adicionais apenas quando alcançar um
+nível de classe que explicitamente diga isso. Por exemplo, se você for um clérigo 6/paladino 4, você pode usar
+Canalizar Divindade duas vezes entre descansos, porque
+você seu nível de clérigo é alto o suficiente para te conceder mais usos. Sempre que você usar essa
+característica, você pode escolher qualquer efeito de
+Canalizar Divindade disponível a você por suas duas classes.
+classes.
+TAQUE
+TAQUE XTRA
+Se você ganhar a característica de classe Ataque Extra de
+mais de uma classe, as características não se somam.
+Você não poderá fazer mais de dois ataques com essa característica, a não ser que esteja especificado que você
+pode (como na versão de guerreiro de Ataque Extra).
+Similarmente, a invocação mística de bruxo Lâmina Sedenta não lhe concede ataques adicionais se você
+também tiver Ataque Extra.
+também tiver Ataque Extra.
+EFESA SEM
+EFESA SEM RMADURA
+Se você já tiver a característica Defesa sem Armadura,
+você não pode ganha-la de outra classe.
+você não pode ganha-la de outra classe.
+ONJURAÇÃO
+Sua capacidade de conjuração depende, parcialmente, da
+combinação de níveis em todas as suas classes
+conjuradoras e, parcialmente, no nível individual dessas
+classes. Uma vez que você tenha a característica
+Conjuração de mais de uma classe, use as regras abaixo.
+Se você for multiclasse, mas tiver a característica
+Conjuração apenas em uma classe, você segue as regras descritas na classe.
+Magias Conhecidas e Preparadas.
+Você determina
+quais magias você conhece e quais pode preparar de cada classe individualmente, como se você fosse um membro de
+única classe dessa classe. Se você for
+única classe dessa classe. Se você for
+patrulheiro
+4/mago 3, por exemplo, você sabe três magias de
+patrulheiro de 1° nível, baseadas no seu nível de
+patrulheiro. Como um mago de 3° nível, você conhece três
+truques e seu grimório contem dez magias de mago, duas das quais (as duas adquiridas quando você alcança o 3°
+nível de mago) podem ser magias de 2° nível. Se sua
+Inteligência for 16, você pode preparar seis magias de mago do seu grimório.
+Cada magia que você conhece e prepara está associada
+com uma das suas classes e você usa a habilidade de conjuração dessa classe quando você conjura a magia. Da
+mesma forma, um foco de conjuração, como um símbolo
+sagrado, pode ser usado apenas para as magias da classe associada a esse foco.
+Espaços de Magia.
+Você determina seus espaços de
+magia disponíveis juntando todos os seus níveis nas classes bardo, clérigo, druida, feiticeiro e mago, metade do
+seus níveis (arredondado para baixo) nas classes paladino
+e patrulheiro e um terço dos seus níveis de guerreiro ou ladino (arredondado para baixo) se você tiver ladino (arredondado para baixo) se você tiver
+característica Cavaleiro Arcano ou a característica
+Trapaceiro Arcano. Use esse total para determinar seus espaços de magia consultando a tabela Multiclasse para
+Conjurador.
+Se você tiver mais de uma classe conjuradora, essa
+tabela pode conceder a você espaços de magia de níveis mais altos que as magias que você conhece ou pode
+preparar. Você pode usar esses espaços, mas apenas para conjurar suas magias de nível inferior. Se uma magia de
+nível inferior que você conjurar, como
+mãos flamejantes
+mãos flamejantes
+tiver o efeito de aprimoramento quando conjurada usando
+um espaço de magia mais alto, você pode usar o efeito
+desse aprimoramento, mesmo que você não possua
+nenhuma magia de nível tão elevado.
+Por exemplo, se você fosse o supracitado patrulheiro Por exemplo, se você fosse o supracitado patrulheiro
+mago 3, você contaria como um personagem de 5° nível para determinar seus espaços de magia: você teria quatro espaços de 1° nível, três espaços de 2° nível e dois espaços
+de 3° nível. No entanto, você não conhece qualquer magia
+de 3° nível, nem conhece qualquer magia de 2° nível de patrulheiro. Você pode usar os espaços de magia desses
+níveis para conjurar as magias que você conhece
+níveis para conjurar as magias que você conhece
+e,
+potencialmente, aprimorando seus efeitos.
+Magia de Pacto.
+Se você tiver tanto a característica
+de classe Conjuração quanto a característica de classe
+Magia de Pacto da classe bruxo, você pode usar os espaços de magia que você ganhar da sua característica Magia de
+Pacto para conjurar magias que você conhece ou tem
+preparadas de classes com a característica de classe
+Conjuração, e você pode usar os espaços de magia
+adquiridos da característica de classe Conjuração para
+conjurar as magias de bruxo que você conhece.

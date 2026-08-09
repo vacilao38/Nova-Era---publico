@@ -1,0 +1,28 @@
+---
+title: "Ficha de Personagem"
+capitulo: "Ficha"
+pagina_inicial: 313
+pagina_final: 314
+fonte: "Livro do Jogador"
+tipo: regra
+status_editorial: formatado_automaticamente
+tags:
+  - dnd/regras/ficha
+---
+# Ficha de Personagem
+
+## Relacionados
+- [[00 Sumário]]
+- [[Criação de Personagem]]
+- [[Combate]]
+- [[Magia]]
+
+> Fonte: Livro do Jogador, p. 313
+
+## APÊNDICE E: LEITURA INSPIRADORA
+
+## Inspiração Para Todo O Trabalho De Fantasia
+
+que eu fiz decorre diretamente do amor que meu pai me deu quando eu era um rapaz, pois ele passou muitas horas me contando histórias que ele fez enquanto estamos juntos, contos de velhos homens de mantos que podiam conceder desejos, de anéis mágicos e espadas encantadas ou de feiticeiros perversos e espadachins intrépidos... ... Todos nós tendemos a buscar grande ajuda na fantasia quando somos muito jovens, de contos de fadas como os escritos pelos Irmãos Grimm e Andrew Lang. Esses, muitas vezes, levam a leitura de livros de mitologia, folheando através de bestiários e consultando compilações dos mitos de diversas terras e povos. Após tal embasamento, eu construí meu interesse em fantasia, sendo um ávido leitor de todas as ficções cientificas e literaturas fantásticas desde 1950. Os autores a seguir foram minhas inspirações particulares. –E. Gary Gygax, Guia do Mestre (1979) Uma grande parte da literatura de fantasia havia sido publicada antes do coautor de DUNGEONS & DRAGONS escrever essas palavras, importantes avanços nas obras estabelecidas nos mundos compartilhados de D&D. A lista a seguir inclui a lista original de Gary e algumas obras adicionais que foram inspiradoras para os desenvolvedores nos anos desde então. Ahmed, Saladin. Throne of the Crescent Moon. Alexander, Lloyd. The Book of Three e o resto da série Chronicles of Prydain. Anderson, Poul. The Broken Sword, The High Crusade, e Three Hearts and Three Lions. Anthony, Piers. Split Infinity e o resto da série Apprentice Adept. Augusta, Lady Gregory. Gods and Fighting Men. Bear, Elizabeth. Range of Ghosts e o resto da trilogia Eternal Sky. Bellairs, John. The Face in the Frost. Brackett, Leigh. The Best of Leigh Brackett, The Long Tomorrow, e The Sword of Rhiannon. Brooks, Terry. The Sword of Shannara e o resto dos romances de Shannara. Brown, Fredric. Hall of Mirrors e What Mad Universe. Bulfinch, Thomas. Bulfinch’s Mythology. Burroughs, Edgar Rice. At the Earth’s Core e o resto da série Pellucidar, Pirates of Venus e o resto da série Venus, e A Princess of Mars e o resto da série Mars. Carter, Lin. Warrior of World’s End e o resto da série World’s End. Cook, Glen. The Black Company e o resto da série Black Company. de Camp, L. Sprague. The Fallible Fiend e Lest Darkness Fall. de Camp, L. Sprague & Fletcher Pratt. The Compleat Enchanter e o resto da série Harold Shea, e Carnelian Cube. Derleth, August e H.P. Lovecraft. Watchers out of Time. Dunsany, Lord. The Book of Wonder, The Essential Lord Dunsany Collection, The Gods of Pegana, The King of Elfland’s Daughter, Lord Dunsany Compendium, e The Sword of Welleran and Other Tales. Farmer, Philip Jose. Maker of Universes e o resto da série World of Tiers. Fox, Gardner. Kothar and the Conjurer’s Curse e o resto da série Kothar, e Kyrik and the Lost Queen e o resto da série Kyrik. Froud, Brian & Alan Lee. Faeries. Hickman, Tracy & Margaret Weis. Dragons of Autumn Twilight e o resto da Trilogia da Crónica. Hodgson, William Hope. The Night Land. Howard, Robert E. The Coming of Conan the Cimmerian e o resto da série Conan. Jemisin, N.K. The Hundred Thousand Kingdoms e o resto da série Inheritance, The Killing Moon, e The Shadowed Sun. **Jordan.** Robert. The Eye of the World e o resto da série Wheel of Time. Kay, Guy Gavriel. Tigana. King, Stephen. The Eyes of the Dragon. Lanier, Sterling. Hiero’s Journey e The Unforsaken Hiero. LeGuin, Ursula. A Wizard of Earthsea e o resto da série Earthsea. Leiber, Fritz. Swords and Deviltry e o resto da série Fafhrd & Gray Mouser. Lovecraft, H.P. The Complete Works. Lynch, Scott. The Lies of Locke Lamora e o resto da série Gentlemen Bastard. Martin, George R.R. A Game of Thrones e o resto da série Song of Ice and Fire. McKillip, Patricia. The Forgotten Beasts of Eld. Merritt, A. Creep, Shadow, Creep; Dwellers in the Mirage; e The Moon Pool. Mieville, China. Perdido Street Station e o resto dos romances Bas-Lag. Moorcock, Michael. Elric of Melnibone e o resto da série Elric, e The Jewel in the Skull e o resto da série Hawkmoon. Norton, Andre. Quag Keep e Witch World. Offutt, Andrew J., ed. Swords against Darkness III. Peake, Mervyn. Titus Groan e o resto da série Gormenghast. Pratchett, Terry. The Colour of Magic e o resto da série Discworld. Pratt, Fletcher. Blue Star. Rothfuss, Patrick. The Name of the Wind e o resto da série Kingkiller. Saberhagen, Fred. The Broken Lands e Changeling Earth. Salvatore, R.A. The Crystal Shard e o resto de The Legend of Drizzt. Sanderson, Brandon. Mistborn e o resto da trilogia de Mistborn. Smith, Clark Ashton. The Return of the Sorcerer. St. Clair, Margaret. Change the Sky and Other Stories, The Shadow People, e Sign of the Labrys. Tolkien, J.R.R. The Hobbit, The Lord of the Rings, e The Silmarillion. Tolstoy, Nikolai. The Coming of the King. Vance, Jack. The Dying Earth e The Eyes of the Overworld. Weinbaum, Stanley. Valley of Dreams e The Worlds of If. Wellman, Manly Wade. The Golgotha Dancers. Williamson, Jack. The Cosmic Express e The Pygmy Planet. Wolfe, Gene. The Shadow of the Torturer e o resto do The Book of the New Sun. Zelazny, Roger. Jack of Shadows e Nine Princes in Amber e o resto da série Amber.
+
+> Fonte: Livro do Jogador, p. 314

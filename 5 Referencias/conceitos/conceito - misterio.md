@@ -1,0 +1,1 @@
+**Mistério** é definido como tudo cuja causa é **oculta, desconhecida, incompreensível ou inexplicável**, funcionando como um **enigma** ou segredo que a razão humana não consegue desvendar completamente

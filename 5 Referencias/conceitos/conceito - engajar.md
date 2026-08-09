@@ -1,0 +1,1 @@
+**Engajar** é um verbo que significa **participar de maneira colaborativa em algo**, **alinhar-se a uma causa** ou **envolver-se com dedicação**.  A palavra tem origem no francês _engager_, que em português equivale a comprometer, empenhar ou contratar.

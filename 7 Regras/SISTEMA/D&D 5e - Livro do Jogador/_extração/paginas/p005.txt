@@ -1,0 +1,104 @@
+Todos esses mundos compartilham características,
+mas cada um é diferenciado por sua própria história e
+cultura, monstros e raças distintas, geografia fantástica, masmorras antigas e vilões ardilosos. Algumas raças têm
+peculiaridades próprias em cada um dos mundos. Os
+halflings no cenário de Dark Sun, por exemplo, são canibais que vivem nas selvas, e os elfos são nômades do deserto. Alguns dos mundos possuem raças que são desconhecidas nos demais cenários, como os forjados bélicos, soldados criados e imbuídos de vida para lutar na
+Última Guerra. Alguns dos mundos são dominados por
+uma grande história, como a Guerra da Lança que tem um papel principal no cenário de Dragonlance. Mas todos são mundos de D&D, e você pode usar as regras desse livro para criar personagens e jogar em qualquer um deles.
+Seu Mestre pode ambientar a campanha em um
+desses mundos ou em um que ele mesmo criar. Como há tanta diversidade entre os mundos de D&D, você pode conferir com seu Mestre as regras da casa, aquelas feitas
+e adaptadas por vocês e que irão afetar o jogo. No fim das
+contas, o Mestre é a autoridade sobre a campanha e o
+cenário, mesmo se for ambientado em um mundo
+publicado.
+publicado.
+SANDO ESTE
+SANDO ESTE
+IVRO
+IVRO
+é dividido em três partes:
+é dividido em três partes: Parte 1
+é sobre a criação de personagens,
+fornecendo as regras e diretrizes que você precisa para fazer o personagem que você irá jogar. Inclui informações sobre várias raças, classes, antecedentes, equipamentos e outras opções para personalização que você pode escolher.
+Muitas das regras da parte 1 dependem da parte 2 e 3. Se
+você encontrar algum conceito do jogo na parte 1 que você não entender, consulte o índice do livro.
+não entender, consulte o índice do livro.Parte 2
+detalha as regras de como jogar o jogo, além
+do básico descrito nessa introdução. Essa parte aborda o tipo de rolagem de dados que você faz para determinar o
+sucesso ou falha nas tarefas que seu personagem se
+envolve e descreve as três categorias mais gerais de atividades do jogo: exploração, interação e combate.
+atividades do jogo: exploração, interação e combate.Parte 3
+é toda sobre magia. Aborda a natureza da
+magia nos mundos de D&D, as regras para conjurar magias e a seleção típica de magias disponíveis para um
+personagem ou monstro que usa magia no jogo.
+personagem ou monstro que usa magia no jogo.OMO
+OMO
+OGAR
+O jogo de D
+UNGEONS
+& D
+RAGONS
+se desdobra de acordo
+com os seguintes passos.
+1. O Mestre descreve o ambiente.
+É o que
+É o que
+Mestre
+diz aos jogadores, onde os aventureiros estão e os
+arredores, apresentando um escopo básico de opções para
+eles (quantas portas os conduzem para fora do cômodo, o
+que está sobre a mesa, quem está na taverna e assim por
+diante).
+2. Os jogadores descrevem o que querem fazer.
+Algumas vezes, um jogador fala por todo o grupo, dizendo:
+"Nós seguimos pela porta leste", por exemplo.Aventureiros diferentes tomam ações diferentes, um
+aventureiro pode procurar por um baú do tesouro,
+enquanto que um segundo examina um símbolo esotérico
+cravado na parede e um terceiro mantém a vigília
+cravado na parede e um terceiro mantém a vigília
+aproximação de monstros. Os jogadores não têm que agir
+em turnos, mas o Mestre escuta cada jogador e decide como resolver suas ações.
+como resolver suas ações.
+Algumas vezes, resolver uma ação é simples. Se um
+aventureiro quer atravessar o cômodo e abrir a porta, o
+Mestre pode simplesmente dizer que a porta se abre e
+descreve o que ela revela. Mas a porta pode estar trancada, o piso pode esconder uma armadilha mortal, ou pode haver alguma outra circunstância mais desafiadora para que o aventureiro complete a tarefa. Nesses casos, o Mestre decide o que acontece, geralmente contando com a
+jogada dos dados para determinar o resultado de uma
+ação.
+3. O Mestre narra os resultados das ações dos
+aventureiros
+. Descrever os resultados leva a outro ponto
+de decisão, o que retorna o fluxo do jogo de volta para o passo 1.
+Esse padrão se mantém se os aventureiros estão
+cautelosamente explorando uma ruína, conversando com um príncipe corrupto, ou se presos em um combate mortal contra um poderoso dragão. Em certas situações,
+particularmente em combate, a ação é mais bem
+estruturada e os jogadores (e o Mestre) usam turnos para
+escolher e resolver ações.
+Mas na maior parte do tempo, o jogo é fluido e flexível,
+adaptando às circunstâncias da aventura. Com frequência, a ação em uma aventura se ambienta na imaginação dos jogadores e do Mestre, contando com as
+descrições verbais do Mestre para imaginarem a cena.
+Alguns Mestres gostam de usar música, arte ou efeitos de sons gravados para ajudar a preparar o clima, e muitos jogadores e Mestres fazem uso de vozes diferentes para os vários aventureiros, monstros e outros personagens que vivem no jogo. Algumas vezes, um Mestre pode dispor de
+um mapa e usar marcadores ou miniaturas para
+representar cada criatura envolvida na cena e ajudar os jogadores a acompanhar onde cada um está.
+jogadores a acompanhar onde cada um está.
+ADOS
+ADOS
+ADOS
+J
+OGO
+OGO
+O jogo usa dados poliédricos com diferentes números de lados. Você pode encontrar dados assim em lojas de jogos
+e em livrarias.
+Nestas regras, os diferentes dados são referenciados
+pela letra d seguido do número de lados: d4, d6, d8, d10,
+d12 e d20. Por exemplo, um d6 é um dado de seis faces (o dado cúbico típico que muitos jogos utilizam).
+O dado percentual, ou d100, funciona um pouco
+diferente. Você gera um número de 1 a 100 ao jogar dois dados de dez faces enumerados de 0 a 9. Um dado(escolhido antes de jogar) fornece as dezenas, e o outro as unidades. Se vocês tirar um 7 e um 1, por exemplo, o número final é 71. Dois 0 representam 100. Alguns dados de dez faces são enumerados em dezenas (00, 10, 20 e por
+aí vai), facilitando a identificação entre dezenas e
+unidades. Nesse caso, se tirar 70 e 1, tem-se 71, se tirar 00 e 0, tem-se 100.
+Quando você precisar jogar os dados, as regras dizem
+quantos dados de um determinado tipo serão utilizados,
+bem como os modificadores a adicionar. Por exemplo, "3d8
++ 5" significa que você deve jogar três dados de oito faces, adicioná-los, e somar 5 ao total. A mesma notação aparece
+nas expressões "1d3" e "1d2". Para simular a jogada de
+1d3, jogue 1d6 e divida o resultado pela metade(arredondando para cima). Para simular "1d2", jogue

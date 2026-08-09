@@ -1,0 +1,152 @@
+REA
+REA
+SCORREGADIA
+1° nível de conjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+: V, S, M (um pouco de pele de porco ou
+manteiga)
+Duração
+: 1 minuto
+Graxa escorregadia cobre o solo em um quadrado de 3
+metros centrado em um ponto, dentro do alcance, tornando essa área em terreno difícil pela duração.
+Quando a graxa aparece, cada criatura de pé na área
+deve ser bem sucedida num teste de resistência de deve ser bem sucedida num teste de resistência de
+streza ou cairá no chão. Uma criatura que entre na
+área ou termine seu turno nela, deve ser bem sucedido num teste de resistência de Destreza ou cairá no chão.
+num teste de resistência de Destreza ou cairá no chão.
+RMA
+RMA
+LEMENTAL
+3° nível de transmutação Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+Componentes Componentes
+Componentes
+Duração
+: Concentração, até 1 hora
+Uma arma não-mágica que você tocar se torna uma arma mágica. Escolha um dos tipos de dano a seguir: ácido,
+elétrico, frio, fogo ou trovejante. Pela duração, a arma tem+1 de bônus nas jogadas de ataque e causa 1d4 de dano
+extra, do tipo de elemento escolhido, ao atingir.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 5° ou 6° nível, o bônus nas jogadas de ataque aumenta pra +2 e o dano
+extra aumenta para 2d4. Quando você usar um espaço de magia de 7° nível ou superior, o bônus aumenta para +3 e
+o dano extra aumenta para 3d4.
+o dano extra aumenta para 3d4.
+RMA
+RMA
+SPIRITUAL
+2° nível de evocação
+Tempo de Conjuração: 1 ação bônus Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: 1 minuto
+Você cria uma arma espectral flutuante, dentro do alcance, que permanece pela duração ou até você conjurar
+essa magia novamente. Quando você conjura essa magia,
+você pode realizar um ataque corpo-a-corpo com magia contra uma criatura a 1,5 metro da arma. Se atingir, o
+alvo sofre dano de energia igual a 1d8 + seu modificador
+de habilidade de conjuração.
+Com uma ação bônus, no seu turno, você pode mover a
+arma até 6 metros e repetir o ataque contra uma criatura a 1,5 metro dela.
+A arma pode ter a forma que você desejar. Clérigos de
+divindades associadas com uma arma em particular(como St. Cuthbert é conhecido por sua maça ou Thor por seu martelo) fazem o efeito dessa magia se assemelhar a
+essa arma.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 4° nível ou superior, o dano aumenta em 1d8 para cada dois níveis do
+espaço acima do 2°.
+espaço acima do 2°.
+RMA
+RMA
+ÁGICA
+2° nível de transmutação Tempo de Conjuração: 1 ação bônus
+Alcance
+: Toque
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 hora
+Você toca uma arma não-mágica. Até a magia acabar, a
+arma se torna uma arma mágica com +1 de bônus nas
+jogadas de ataque e jogadas de dano.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 4° nível ou superior, o bônus aumenta para +2. Quando você usar um
+espaço de magia de 6° nível ou superior, o bônus aumenta para +3.
+para +3.
+RMADURA
+RMADURA
+RCANA
+1° nível de abjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, S, M (um pedaço de couro curado)
+Duração
+: 8 horas
+Você toca uma criatura voluntária que não esteja vestindo armadura e uma energia mágica protetora a envolve até a magia acabar. A CA base do alvo se torna 13 + o
+modificador de Destreza dele. A magia acaba se o alvo
+colocar uma armadura ou se você dissipa-la usando uma ação.
+ação.
+RMADURA DE
+RMADURA DE
+GATHYS
+1° nível de abjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal
+Componentes
+: V, S, M (um copo de água)
+Duração
+: 1 hora
+Uma força magica protetora envolve você, manifestando-se como um frio espectral que cobre você e seu equipamento. Você ganha 5 pontos de vida temporários
+pela duração. Se uma criatura atingir você com um
+ataque corpo-a-corpo enquanto estiver com esses pontos de vida, a criatura sofrerá 5 de dano de frio.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 2° nível ou superior, tanto os pontos de vida temporários quanto o
+dano de frio aumentam em 5 para cada nível do espaço
+acima do 1°.
+acima do 1°.
+RROMBAR
+2° nível de transmutação
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Escolha um objeto que você possa ver, dentro do alcance.O objeto pode ser uma porta, uma caixa, um baú ou um
+par de algemas, um cadeado ou outro objeto que contenha um meio mundano ou mágico que previne o acesso.
+Um alvo que esteja fechado por uma fechadura
+mundana ou preso ou barrado torna-se destrancado, destravado ou desbloqueado. Se o objeto tiver múltiplas
+fechaduras, apenas uma delas é destrancada.
+Se você escolher um alvo que esteja travado pela
+magia
+tranca arcana
+, essa magia será suprimida por 10
+minutos, durante esse período o alvo pode ser aberto e
+fechado normalmente.
+Quando você conjurar essa magia, uma batida forte,
+audível a até 90 metros de distância, emana do objeto alvo.
+alvo.
+SSASSINO SSASSINO
+ANTASMAGÓRICO
+4° nível de ilusão Tempo de Conjuração
+: 1 ação
+Alcance
+: 36 metros
+Componentes
+Componentes
+Componentes

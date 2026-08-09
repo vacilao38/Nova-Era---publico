@@ -1,0 +1,161 @@
+RUXARIA
+1° nível de encantamento
+Tempo de Conjuração: 1 ação bônus
+Alcance
+: 18 metros
+Componentes
+: V, S, M (o olho petrificado de um tritão)
+Duração
+: Concentração, até 1 hora
+Você coloca uma maldição em uma criatura que você
+possa ver, dentro do alcance. Até a magia acabar, você
+causa 1d6 de dano necrótico extra no alvo sempre que
+atingi-lo com um ataque. Além disso, escolha uma
+habilidade quando você conjurar a magia. O alvo tem
+desvantagem em testes de habilidade feitos com a
+habilidade escolhida.
+Se o alvo cair a 0 pontos de vida antes da magia
+acabar, você pode usar uma ação bônus, em um turno
+subsequente, para amaldiçoar outra criatura.
+Uma magia
+remover maldição
+conjurada no alvo acaba
+com a magia prematuramente.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 3° ou 4° nível, você
+poderá manter sua concentração na magia por até 8
+horas. Quando você usar um espaço de magia de 5° nível
+ou superior, você poderá manter sua concentração na
+magia por até 24 horas.
+magia por até 24 horas.
+AMINHAR EM
+AMINHAR EM
+RVORES
+5° nível de conjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Você adquire a habilidade de entrar em uma árvore e se
+mover de dentro dela para dentro de outra árvore de mesmo tipo à até 150 metros. Ambas as árvores devem
+estar vivas e ter, pelo menos, o mesmo tamanho que você.
+Você deve usar 1,5 metro de deslocamento para entrar numa árvore. Você, instantaneamente, sabe a localização
+de todas as outras árvores de mesmo tipo à 150 metros e,
+como parte do movimento usado para entrar na árvore,
+pode tanto passar por uma dessas árvores quanto sair da
+árvore em que você está. Você aparece no espaço que você
+quiser a 1,5 metro da árvore destino, usando outro movimento de 1,5 metro. Se você não tiver movimento
+restante, você aparece a 1,5 metro da árvore que você
+terminou seu movimento.
+Você pode usar esse habilidade de transporte uma vez
+por rodada pela duração. Você deve terminar cada turno fora da árvore.
+fora da árvore.
+AMINHAR NO
+AMINHAR NO
+ENTO
+6° nível de transmutação
+Tempo de Conjuração: 1 minuto
+Alcance
+: 9 metros
+Componentes
+: V, S, M (fogo e água benta)
+Duração
+: 8 horas
+Você e até dez criaturas voluntária que você possa ver, dentro do alcance, assumem uma forma gasosa pela duração, parecidas com pedaços de nuvem. Enquanto
+estiver na forma de nuvem, uma criatura tem
+deslocamento de voo de 90 metros e tem resistência a dano de concussão, cortante e perfurante de ataques não-
+mágicos. As únicas ações que uma criatura pode realizar
+nessa forma são a ação de Disparada ou para reverter a
+sua forma normal. Reverter leva 1 minuto, período pelo
+qual a criatura estará incapacitada e não poderá se
+mover. Até a magia acabar, uma criatura pode reverter para a forma de nuvem, o que também requer a
+transformação de 1 minuto.
+Se uma criatura estiver na forma de nuvem e voando
+quando o efeito acabar, a criatura descerá a 18 metros por rodada por 1 minuto, até aterrissar na solo, o que é feito
+com segurança. Se ela não puder aterrissar em 1 minuto,
+a criatura cairá a distância restante.
+a criatura cairá a distância restante.
+AMPO
+AMPO
+NTIMAGIA
+8° nível de abjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal (3 metros de raio)
+Component
+Component
+: V, S, M (um punhado de pó de ferro ou
+limalhas de ferro)
+Duração
+: Concentração, até 1 hora
+Uma esfera invisível, de 3 metros de raio, de antimagia envolve você. Essa área é separada da energia mágica que
+se espalha pelo multiverso. Dentro da esfera, magias não
+podem ser conjuradas, criaturas invocadas desaparecem e, até mesmo itens mágicos, se tornam mundanos. Até o
+fim da magia, a esfera se move com você, centrada em
+você.
+Magias e outros efeitos mágicos, exceto os criados por
+artefatos ou divindades, são suprimidos na esfera e não podem adentra-la. Um espaço gasto para conjurar uma magia suprimida é consumido. Enquanto o efeito estiver
+suprimido, ela não funciona, mas o tempo que ela
+permanecer suprimida é descontado da sua duração.
+Efeitos de Alvo
+Efeitos de Alvo
+Magias e outros efeitos mágicos,
+como
+mísseis mágicos
+mísseis mágicos mísseis mágicos
+enfeitiçar pessoa
+, que forem
+usados em uma criatura ou objeto dentro da esfera, não surtem efeito no alvo.
+Áreas de Magia
+. A área de outra magia ou efeito
+mágico, como uma
+bola de fogo
+, não se estende para
+dentro da esfera. Se a esfera sobrepor um área mágica, a
+parte da área que for coberta pela espera é suprimida.
+Por exemplo, as chás criadas por uma
+muralha de fogo
+muralha de fogo
+serão suprimidas dentro da esfera, criando um abertura
+na muralha se a sobreposição por grande o suficiente.
+Magias
+. Qualquer magia ativa ou outro efeito mágico
+em uma criatura ou objeto dentro da esfera é suprimido
+enquanto a criatura ou objeto permanecer dentro dela.
+Itens Mágicos
+. As propriedades e poderes de itens
+mágicos são suprimidas dentro da esfera. Por exemplo,
+uma
+espada longa +1
+dentro da esfera funciona como uma
+espada não-mágica.
+As propriedades e poderes de uma arma mágica são
+suprimidos se ela for usada contra um alvo dentro da
+esfera ou empunhada por um atacante dentro da esfera.Se uma arma mágica ou munição mágica deixar a esfera
+completamente (por exemplo, se você disparar uma flecha
+mágica ou arremessar uma lança mágica e um alvo fora da esfera), a magia do item deixa de ser suprimida tão
+logo ele deixe a esfera.
+Viagem Mágica
+. Teletransporte e viagem planar não
+funciona dentro da esfera, tanto se a esfera for o destino quando o ponto de partida para tais viagens mágicas. Um
+portal para outro lugar, mundo ou plano de existência, assim como um espaço extradimensional aberto, como o
+criado pela magia
+truque de corda
+, é temporariamente
+fechado enquanto estiver dentro da esfera.
+Criaturas e Objetos
+. Uma criatura ou objeto
+invocado ou criado através de magia, temporariamente
+desaparece da existência dentro da esfera. Tais criaturas reaparecem instantaneamente quando o espaço ocupado
+pela criatura não estiver mais dentro da esfera.
+Dissipar Magia
+. Magias e efeitos mágicos como
+dissipar magia, não surtem efeito sob esfera. Da mesma forma, esferas criadas por magias de
+campo antimagia
+campo antimagia
+diferentes não se anulam.

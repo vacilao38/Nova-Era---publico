@@ -1,0 +1,137 @@
+efeitos. A magia acaba quando todas as três duplicatas
+forem destruídas.
+Uma criatura não pode ser afetada por essa magia se
+não puder enxergar, se ela contar com outros sentidos
+além da visão, como percepção às cegas, ou se ela puder
+perceber ilusões como falsas, como com visão verdadeira.
+perceber ilusões como falsas, como com visão verdadeira.EGENERAÇÃO 7° nível de transmutação
+Tempo de Conjuração: 1 minuto Alcance
+: Toque
+Componentes
+: V, S, M (uma conta de oração e água
+benta)
+Duração
+: 1 hora
+Você toca uma criatura e estimula sua habilidade de cura
+natural. O alvo recupera 4d8 + 15 pontos de vida. Pela
+duração da magia o alvo recupera 1 ponto de vida no início de cada turno dela (10 pontos de vida por minuto).
+Os membro decepados do corpo do alvo (dedos, pernas,
+rabos e assim por diante), se tiver algum, são restaurados após 2 minutos. Se você tiver a parte decepada e segura-
+la contra o topo, a magia, instantaneamente, faz com que
+o membro se grude ao toco.
+o membro se grude ao toco.ELÂMPAGO 3° nível de evocação Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal (linha de 30 metros)
+Componentes
+: V, S, M (um pouco de pelo e uma haste de
+âmbar, cristal ou vidro)
+Duração
+: Instantânea
+Um relâmpago forma uma linha de 30 metros de
+comprimento e 1,5 metro de largura que é disparado por você em uma direção, à sua escolha. Cada criatura na
+linha deve realizar um teste de resistência de Destreza.
+Uma criatura sofre 8d6 de dano elétrico se falhar na resistência ou metade desse dano se obtiver sucesso.
+O relâmpago incendeia objetos inflamáveis na área
+que não estejam sendo vestidos ou carregados.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 4° nível ou superior, o dano aumenta em 1d6 para cada nível do espaço acima do 3°.
+espaço acima do 3°.EMOVER
+EMOVER
+ALDIÇÃO
+3° nível de abjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Ao seu toque, todas as maldições afetando uma criatura ou objeto terminam. Se o objeto for um item mágico amaldiçoado, sua maldição persiste, mas a magia rompe a
+sintonia do portador com o objeto, então permitindo que
+ele o remova ou descarte.
+ele o remova ou descarte.EPOUSO
+EPOUSO
+EPOUSO
+NQUILO
+2° nível de necromancia (ritual)Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, S, M (uma pitada de sal e uma peça de
+cobre colocada em cada um dos olhos do corpo, que devem permanecer ai pela duração)
+Duração
+: 10 dias
+Você toca um corpo ou outros restos mortais. Pela
+duração, o alvo estará protegido de decomposição e não
+pode se tornar um morto-vivo.
+A magia também estende, efetivamente, o limite de
+tempo para que o alvo seja trazido de volta a vida, já que os dias passados sob a influência dessa magia não contam
+no tempo limite de tais magias, como
+reviver os mortos
+reviver os mortos
+reviver os mortos EPREENSÃO
+EPREENSÃO
+NFERNAL
+1° nível de evocação Tempo de Conjuração: 1 reação, que você faz em
+resposta ao sofre dano de uma criatura a até 18 metros de você e que você possa ver
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você aponta seu dedo e a criatura que causou dano a você é, momentaneamente, envolta por chamas infernais. A
+criatura deve realizar um teste de resistência de
+Destreza. Ela sofre 2d10 de dano de fogo se falhar na resistência ou metade desse dano se obtiver sucesso.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 2° nível ou superior, o dano aumenta em 1d10 para cada nível do
+espaço acima do 1°.
+espaço acima do 1°.ESISTÊNCIA
+ESISTÊNCIA uque de abjuração
+Tempo de Conjuração: 1 ação Alcance
+: Toque
+Componentes
+: V, S, M (um manto em miniatura)
+Duração
+: Concentração, até 1 minuto
+Você toca uma criatura voluntária. Uma vez, antes da magia acabar, o alvo pode rolar um d4 e adicionar o valor
+jogado a um teste de resistência de sua escolha. Ele pode
+rolar o dado antes ou depois de realizar o teste de resistência. Então, a magia termina.
+resistência. Então, a magia termina.ESPIRAR NA
+ESPIRAR NA
+GUA
+3° nível de transmutação (ritual)Tempo de Conjuração: 1 ação
+Alcance
+: 9 metros
+Componentes
+: V, S, M (um pedaço de cana ou palha)
+Duração
+: 24 horas
+Essa magia concede a até dez criaturas voluntária que
+você possa ver, dentro do alcance, a habilidade de respirar
+HPEDL[RG·iJXDDWpDPDJLDDFDEDU$VFULDWXUDVDIHWDGDV também mantem sua forma normal de respiração.
+também mantem sua forma normal de respiração.ESSURREIÇÃO 7° nível de necromancia
+Tempo de Conjuração: 1 hora
+Alcance
+: Toque
+Componentes
+: V, S, M (um diamante valendo, no
+mínimo, 1.000 po, consumido pela magia)
+Duração
+: Instantânea
+Você toca uma criatura morta que não esteja assim
+Você toca uma criatura morta que não esteja assim
+mais de um século, que não tenha morrido por velhice e
+que não seja um morto-vivo. Se a alma da criatura estiver
+disposta e livre, o alvo volta a vida com todos os seus pontos de vida.
+Essa magia neutraliza quaisquer venenos e cura
+doenças normais que afetavam a criatura no momento da morte. Essa magia, no entanto, não remove doenças
+mágicas, maldições ou efeitos similares; se eles não
+tiverem sido removidos antes da conjuração da magia,
+eles voltam a afetar a criatura quando ela volta a viver.
+Essa magia fecha todos os ferimentos mortais e
+restaura partes do corpo perdidas.

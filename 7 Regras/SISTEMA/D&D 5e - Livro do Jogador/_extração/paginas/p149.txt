@@ -1,0 +1,63 @@
+Um objeto que não possua nenhuma semelhança com
+uma arma existente causa 1d4 de dano (o Mestre atribui
+o tipo de dano apropriado para o objeto). Se um
+personagem usar uma arma de ataque à distância para
+realizar um ataque corpo-a-corpo, ou arremessar uma
+arma corpo-a-corpo que não possua a propriedade arremesso, ela também causa 1d4 de dano. Uma arma improvisada de arremesso tem um alcance normal de improvisada de arremesso tem um alcance normal de metros e um alcance máximo de 18 metros.
+metros e um alcance máximo de 18 metros.
+RMAS DE
+RMAS DE
+RATA
+Alguns monstros que possuem imunidade ou Alguns monstros que possuem imunidade ou
+sistência
+às armas não mágicas são suscetíveis a armas de prata.Aventureiros precavidos investem algumas moedas extras para cobrir suas armas com prata. Você pode cobrir com prata uma única arma ou 10 peças de munição por 100
+po. Esse custo representa não apenas o preço da prata,
+mas o tempo e o conhecimento necessário para adicionar
+prata a uma arma sem deixá-la menos eficiente.
+prata a uma arma sem deixá-la menos eficiente.
+RMAS
+RMAS
+SPECIAIS
+Armas com regras especiais são descritas aqui.
+Lança de Montaria
+Lança de Montaria
+Você tem desvantagem quando
+usar a lança longa para atacar um alvo a até 1,5 metro
+usar a lança longa para atacar um alvo a até 1,5 metro
+usar a lança longa para atacar um alvo a até 1,5 metro
+você. Além disso, uma lança longa requer as duas mãos
+para ser empunhada quando você não está em uma montaria.
+Rede
+Rede
+Uma criatura Grande ou menor atingida por
+uma rede fica impedida até se libertar. Uma rede não
+afeta criaturas que não possuam uma forma definida, ou
+criaturas Enormes ou maiores. A criatura pode usar sua
+ação para realizar um teste de Força CD 10 para se
+libertar, ou outra criatura dentro do alcance que obtiver sucesso no teste pode fazer isso por ela. Causar 5 de dano cortante à rede (CA 10) também liberta a criatura sem feri-
+feri-, encerrando o efeito e destruindo a rede. Quando
+você usa uma ação, ação bônus, ou reação para atacar
+com a rede, você pode realizar apenas um ataque,
+independentemente do número de ataques que você possa realizar normalmente.
+realizar normalmente.
+QUIPAMENTO DE
+QUIPAMENTO DE
+VENTURA
+Esta seção descreve os itens que possuem regras especiais
+ou requerem mais explicações.
+Ábaco.
+O ábaco é um instrumento de O ábaco é um instrumento de
+, formado
+por uma moldura com bastões ou arames paralelos
+paralelos
+dispostos no sentido vertical, correspondentes cada um a
+uma posição digital (unidades, dezenas, etc.) e nos quais estão os elementos de contagem (fichas, bolas ou contas)
+que podem fazer-se deslizar livremente.
+Ácido
+Ácido
+Usando uma ação, você pode despejar o
+conteúdo desse vidro em uma criatura a até 1,5 metro de
+você, ou arremessar o vidro a até 6 metros de distância,
+quebrando-o no impacto. Em ambos os casos, você deve realizar um ataque à distância contra uma criatura ou
+objeto, tratando o ácido como uma arma improvisada. Se
+acertar, o alvo sofre 2d6 de dano ácido.

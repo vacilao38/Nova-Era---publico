@@ -1,0 +1,143 @@
+SQUENTAR SQUENTAR
+ETAL
+2° nível de transmutação
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+: V, S, M (um pedaço de ferro e uma
+chama)
+Duração
+: Concentração, até 1 minuto
+Escolha uma objeto manufaturado de metal, como uma arma de metal ou uma armadura pesada ou média de
+metal, que você possa ver dentro do alcance. Você faz com
+que o objeto brilhe vermelho-incandescente. Qualquer criatura em contato físico com o objeto sofrerá 2d8 de
+dano de fogo quando você conjurar a magia. Até a magia
+acabar, você pode usar uma ação bônus, em cada um dos seus turnos subsequentes, para causar esse dano
+novamente.
+Se uma criatura estiver segurando ou vestindo o objeto
+e sofrer o dano dele, a criatura deve ser bem sucedida num teste de resistência de Constituição ou largará o
+objeto se ela puder. Se ela não largar o objeto, ela terá desvantagem em jogadas de ataque e testes de habilidade
+até o início do seu próximo turno.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 3° nível ou
+superior, o dano aumenta em 1d8 para cada nível do
+espaço acima do 2°.
+espaço acima do 2°.
+STABILIZAR
+Truque de necromancia Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você toca uma criatura viva que esteja com 0 pontos de vida. A criatura é estabilizada. Essa magia não afeta
+mortos-vivos ou constructos.
+mortos-vivos ou constructos.
+XPLOSÃO
+XPLOSÃO
+OLAR
+8° nível de evocação Tempo de Conjuração: 1 ação
+Alcance
+: 45 metros
+Componentes
+: V, S, M (fogo e um pedaço de pedra do
+sol)
+Duração
+: Instantânea
+Luz solar brilhante lampeja num raio de 18 metros,
+centrada num ponto, à sua escolha, dentro do alcance.Cada criatura nessa luz, deve realizar um teste de
+resistência de Constituição. Com uma falha na
+resistência, uma criatura sofrerá 12d6 de dano radiante e ficará cega por 1 minuto. Se obtiver sucesso na
+resistência, ela sofrerá metade desse dano e não ficará
+cega por essa magia. Mortos-vivos e limos tem desvantagem nos seus testes de resistência.
+Uma criatura cega por essa magia faz outro teste de
+resistência de Constituição no final de cada um dos
+turnos dela. Se obtiver sucesso, ela não estará mais cega.
+Essa magia dissipa qualquer escuridão na área dela
+que tenha sido criada por um magia.
+que tenha sido criada por um magia.
+ABRICAR
+4° nível de transmutação
+Tempo de Conjuração: 10 minutos
+Alcance
+: 36 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você converte matéria-prima em produtos do mesmo material. Por exemplo, você pode construir uma ponte de
+madeira usando um amontoado de árvores, uma corda de
+um pedaço de cânhamo e roupas usando linho ou lã.
+Escolha matérias-primas que você possa ver, dentro do
+alcance. Você pode fabricar um objeto Grande ou menor
+(contido em 3 metros cúbicos ou em oito cubos de 1,5
+metro conectados), tendo uma quantidade suficiente de
+matéria-prima. Se você estiver trabalhando com metal, pedra ou outra substância mineral, no entanto, o objeto
+fabricado não pode ser maior que Médio (contido em
+apenas 1,5 metro cúbico). A quantidade de objetos feitos por essa magia é proporcional com a quantidade de
+matéria-prima.
+Criaturas ou itens mágicos não podem ser criados ou
+transmutados por essa magia. Você também não pode usá-la para criar itens que, geralmente, requerem um alto
+grau de perícia, como joalheria, armas, vidros ou armaduras, a não ser que você tenha proficiência com o
+tipo de ferramenta de artesanato usada para construir
+tais objetos.
+tais objetos.
+ALAR COM ALAR COM
+NIMAIS
+1° nível de adivinhação (ritual)
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: 10 minutos
+Você adquire a habilidade de compreender e se comunicar verbalmente com bestas, pela duração. O conhecimento e
+consciência de muitas bestas é limitado pela inteligência
+delas mas, no mínimo, as bestas poderão dar informações a você sobre os locais e monstros próximos, incluindo tudo
+que eles possam perceber ou tenham percebido no dia
+anterior. Você pode tentar persuadir uma besta a lhe prestar um favor, à critério do Mestre.
+prestar um favor, à critério do Mestre.
+ALAR COM OS
+ALAR COM OS
+ORTOS
+3° nível de necromancia
+Tempo de Conjuração: 1 ação
+Alcance
+: 3 metros
+Componentes
+: V, S, M (incenso aceso)
+Duração
+: 10 minutos
+Você concede o aspecto de vida e inteligência a um corpo, à sua escolha, dentro do alcance, permitindo que ele responda as perguntas que você fizer. O corpo ainda deve
+possuir uma boca e não pode ser um morto-vivo. A magia
+falha se o corpo já tiver sido alvo dessa magia nos últimos 10 dias.
+Até a magia acabar, você pode fazer ao corpo até cinco
+perguntas. O corpo sabe apenas o que ele sabia em vida, incluindo o idioma que ele conhecia. As respostas
+normalmente são breves, enigmáticas ou repetitivas e o
+corpo não está sob nenhuma compulsão que o obrigue a oferecer respostas verdadeiras se você for hostil a ele ou
+se ele reconhecer você como um inimigo. Essa magia não
+traz a alma da criatura de volta ao corpo, apenas anima seu espírito. Portanto, o corpo não pode aprender novas
+informações, não compreende nada que tenha acontecido
+depois da sua morte e não pode especular sobre eventos futuros.
+futuros.
+ALAR COM ALAR COM
+LANTAS
+1° nível de adivinhação (ritual)
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal (9 metros de raio)
+Componentes
+Componentes
+Componentes
+Duração
+: 10 minutos
+Você imbui as plantas a até 9 metros de você co
+Você imbui as plantas a até 9 metros de você co
+consciência e animação limitadas, dando-lhes a

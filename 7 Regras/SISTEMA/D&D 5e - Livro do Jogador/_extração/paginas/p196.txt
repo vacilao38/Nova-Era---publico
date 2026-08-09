@@ -1,0 +1,199 @@
+Se você puder fazer múltiplos ataques com a ação de
+Ataque, esse ataque substitui um deles.
+O alvo do encontrão deve ter no máximo uma categoria
+de tamanho maior que a sua, e deve estar ao seu alcance.
+Você realiza um teste de Força (Atletismo) resistido pelo
+teste de Força (Atletismo) ou Destreza (Acrobacia)
+teste de Força (Atletismo) ou Destreza (Acrobacia)
+teste de Força (Atletismo) ou Destreza (Acrobacia)teste de Força (Atletismo) ou Destreza (Acrobacia)
+alvo decide que habilidade usar. Se você vencer o teste resistido, você pode derrubar o alvo no chão ou empurrá-
+lo 1,5 metro para longe de você.
+lo 1,5 metro para longe de você.OBERTURA
+Paredes, árvores, criaturas e outros obstáculos podem
+fornecer cobertura durante o combate, fazendo o alvo ser
+mais difícil de ser acertado. O alvo pode se beneficiar da
+cobertura apenas quando o ataque ou outro efeito se
+origina do lado oposto da cobertura.
+São três graus de cobertura. Se o alvo está atrás de
+múltiplas fontes de cobertura, apenas aquela de maior
+grau se aplica, os graus de cobertura não se somam. Por
+exemplo, se um alvo está atrás de uma criatura que
+fornece meia-cobertura e de uma árvore que dá cobertura
+superior, o alvo possui cobertura superior.
+Um alvo com
+meia-cobertura
+tem +2 de bônus na CA
+e nos testes de resistência de Destreza. Um alvo tem
+meia-cobertura quando um obstáculo bloqueia pelo menos
+metade de seu corpo. O obstáculo pode ser uma mureta,
+uma parte de uma mobília grande, um tronco de árvore
+estreito ou uma criatura, seja ela inimiga ou amigável.
+Um alvo com
+três-quartos de cobertura
+tem +5 de
+bônus na CA e nos testes de resistência de Destreza. Um
+alvo tem cobertura superior quando, pelo menos, três
+quartos do quartos do
+corpo é coberto por um obstáculo. O
+obstáculo pode ser uma grade levadiça, uma seteira ou um tronco de árvore mais robusto.
+Um alvo com
+cobertura total
+não pode ser alvo
+direto de um ataque ou magia, porém algumas magias
+podem alcançá-lo ao inclui-lo na área de seu efeito. Um
+alvo tem cobertura total quando está completamente
+protegido por um obstáculo.
+protegido por um obstáculo.
+ANO E
+ANO E
+URA
+Ferimentos e o risco de morte são companheiros
+constantes daqueles que exploram os mundos de D&D.constantes daqueles que exploram os mundos de D&D.estocada de uma espada, uma flecha certeira, a explosão
+flamejante de uma
+bola de fogo
+, todos têm o potencial de
+causar dano ou até matar a mais resistente das criaturas.
+causar dano ou até matar a mais resistente das criaturas.
+ONTOS DE
+ONTOS DE
+ONTOS DE
+ONTOS DE
+ONTOS DE
+Pontos de vida representam a combinação da
+durabilidade física e mental, a vontade de viver, e sorte.
+durabilidade física e mental, a vontade de viver, e sorte.iaturas com mais pontos de vida são mais difíceis de
+matar. Aqueles com menos pontos de vida são mais
+frágeis.
+Os pontos de vida atuais de uma criatura (geralmente
+chamados apenas de pontos de vida) podem ser qualquer
+número entre o máximo de pontos de vida até 0. Esse
+número muda frequentemente à medida que a criatura
+sofre dano ou recebe cura.
+A qualquer momento que uma criatura sofrer dano,
+esse dano é subtraído de seus pontos de vida. A perda de
+pontos de vida não tem efeito nas capacidades da criatura
+até que ela caia a 0 pontos de vida.
+até que ela caia a 0 pontos de vida.
+OGADAS DE
+OGADAS DE
+ANO
+ANO
+Cada arma, magia e habilidades nocivas de um monstro
+especifica o dano que causa. Você joga o dado de dano, adiciona os modificadores e aplica o dano ao alvo. Armas
+mágicas, habilidades especiais e outros fatores podem garantir bônus ao dano.
+Quando você ataca com uma arma
+, você adiciona seu
+modificador de habilidade ao dano
+modificador de habilidade ao dano
+o mesmo modificador
+de habilidade usado para a jogada de ataque. Uma
+magia
+magia
+informa quais os dados de dano serão jogados e se
+informa quais os dados de dano serão jogados e se
+possível adicionar modificadores.
+Se uma magia ou outro efeito causar dano em
+mais de
+mais de
+ao mesmo tempo, jogue o dano uma única vez
+para todos os alvos. Por exemplo, quando um mago
+conjura bola de fogo
+ou um clérigo conjura coluna de
+chamas
+, o dano
+, o dano
+magia é jogado uma só vez para todas
+as criaturas atingidas pela explosão.
+as criaturas atingidas pela explosão.
+CERTOS
+CERTOS
+RÍTICOS
+Quando você obtém um acerto crítico, você rola dados de
+dano extras do ataque contra o alvo. Jogue todos os dados
+de dano duas vezes e some todos eles. Depois disso, adicione os modificadores relevantes normalmente. Para
+acelerar o jogo, você pode jogar todos os dados de dano de
+uma só vez.
+Por exemplo, se você jogar um acerto crítico com uma
+adaga, você joga 2d4 para o dano em vez de 1d4, adaga, você joga 2d4 para o dano em vez de 1d4, adiciona o modificador de habilidade relevante. Se o ataque envolve outros dados de dano, como a
+característica Ataque Furtivo, do ladino, ele joga esses
+dados duas vezes também.
+dados duas vezes também.
+IPOS DE
+IPOS DE
+ANO
+Diferentes ataques, magias e outros efeitos nocivos
+causam diferentes tipos de dano. Tipos de dano não têm
+regras próprias, mas outras regras, como resistência ao
+dano, dependem dos tipos de dano.
+Os tipos de dano estão listados à seguir, com exemplos
+para ajudar o Mestre a atribuir um tipo de dano a um
+novo efeito.
+Ácido
+Ácido
+A baforada corrosiva de um dragão negro e as
+enzimas dissolventes secretadas por um pudim negro
+causam dano ácido.
+Concussão
+Concussão
+Ataque brusco de força
+Ataque brusco de força
+martelos, queda,
+constrição e coisas do tipo
+constrição e coisas do tipo
+causam dano de concussão.
+Cortante
+Cortante
+Espadas, machados e garras de monstros
+causam dano cortante.
+Elétrico Elétrico
+A magia
+relâmpago
+e a baforada de um
+dragão azul causam dano elétrico.
+Energia
+Energia
+É energia mágica pura focada em causar
+dano. A maioria dos efeitos que causa dano de energia são
+magias, incluindo
+mísseis mágicos
+mísseis mágicos mísseis mágicos
+arma espiritual
+Fogo
+Fogo
+Dragões vermelhos sopram fogo e muitas
+magias conjuram chamas para causar dano de fogo.
+Frio Frio
+O frio infernal da lança do diabo do gelo e a
+explosão frígida da baforada de um dragão branco causam
+dano de frio.
+Necrótico
+Necrótico
+Dano necrótico, causado por mortos-vivos Dano necrótico, causado por mortos-vivos
+magias como
+toque arrepiante
+, seca a matéria e até
+mesmo a alma.
+Perfurante
+Perfurante
+Ataques de perfuração e empalação,
+incluindo lanças e mordidas de monstros, causam dano perfurante.
+Psíquico Psíquico
+Habilidades mentais como a rajada psiônica
+de um devorador de mentes causam dano psíquico.
+Radiante
+Radiante
+Dano radiante, causado pela magia de
+clérigo
+coluna de chamas
+ou a arma empunhada por um
+anjo, cauteriza a carne como fogo e sobrecarrega o espírito com poder.
+Trovejante
+Trovejante
+O estouro e concussão do som, como os
+efeitos da magia
+onda trovejante
+, causam dano trovejante.
+Veneno
+Veneno
+Ferrões venenosos e gases tóxicos da
+baforada de um dragão verde causam dano de veneno.

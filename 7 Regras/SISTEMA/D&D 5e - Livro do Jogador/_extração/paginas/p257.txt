@@ -1,0 +1,133 @@
+ETAMORFOSE
+ETAMORFOSE
+ERDADEIRA
+9° nível de transmutação
+Tempo de Conjuração: 1 ação
+Alcance
+: 9 metros
+Componentes
+: V, S, M (uma gota de mercúrio, uma
+porção de goma arábica e um pouco de fumaça)
+Duração
+: Concentração, até 1 hora
+Escolha uma criatura ou objeto não-mágico que você possa ver, dentro do alcance. Você transforma a criatura em uma criatura diferente, a criatura em um objeto ou o
+objeto em uma criatura (o objeto não pode nem estar
+objeto em uma criatura (o objeto não pode nem estar
+ndo vestido nem carregado por outra criatura). A
+transformação permanece pela duração ou até o alvo cair
+a 0 pontos de vida ou morrer. Se você se concentrar nessa
+magia por toda a duração, a transformação será permanente.
+Metamorfos não são afetados por essa magia. Uma
+criatura involuntária pode realizar um teste de resistência de Constituição e, se for bem sucedida, não
+será afetada por essa magia.
+Criatura em Criatura
+. Se você transformar uma
+criatura em outro tipo de criatura, a nova forma pode ser de qualquer tipo que você desejar, contanto que o nível de
+desafio seja igual ou menor que o do alvo (ou o nível dele, caso o alvo não possua nível de desafio). As estatísticas de
+jogo do alvo, incluindo seus valores de habilidades
+mentais, são substituídas pelas estatísticas da nova forma. Ele mantem sua tendência e personalidade.
+O alvo assume os pontos de vida da sua nova forma e,
+quando ela reverter a sua forma normal, a criatura retorna à quantidade de pontos de vida que ela tinha
+antes da transformação. Se ela reverter como resultado de
+ter caído a 0 pontos de vida, qualquer dano excedente é recebido pela sua forma normal. Contanto que o dano
+excedente não reduza os pontos de vida da forma normal
+da criatura a 0, ela não cairá inconsciente. Essa magia não pode afetar um alvo com 0 pontos de vida.
+A criatura é limitada em suas ações pela natureza da
+sua nova forma e ela não pode falar, conjurar magias ou
+realizar qualquer outra ação que precise de mãos ou de
+vocalização, a não ser que a nova forma seja capaz de tais
+ações.
+O equipamento do alvo mescla-se a sua nova forma. O
+alvo não pode ativar, empunhar ou, de outra forma, se beneficiar de qualquer de seus equipamentos.
+Objeto em Criatura
+. Você pode transformar um
+objeto em um tipo de criatura, contanto que o tamanho da criatura não seja maior que o tamanho do objeto e, o nível de desafio da criatura será 9 ou menor. A criatura é
+amigável a você e aos seus companheiros. Ela age em
+cada um dos seus turnos. Você decide qual ação ela realizará e como ela se move. O Mestre tem as
+estatísticas da criatura e resolve todas as ações e
+movimentos dela.
+Se a magia se tornar permanente, você não terá mais
+controle sobre a criatura. Ele pode continuar amigável a você, dependendo da forma como você a tratou.
+Criatura em Objeto
+. Se você transformar uma
+criatura em um objeto, ela se transformará, junto com tudo que estiver vestindo ou carregando, nessa forma. As estatísticas da criatura tornam-se as do objeto e a
+criatura não se lembrará do tempo que passou nessa
+forma, depois da magia acabar e ela retornar a sua forma normal.
+normal.
+IRAGEM
+7° nível de ilusão
+Tempo de Conjuração: 10 minutos
+Alcance
+: Visão
+Componentes
+Componentes
+Componentes
+Duração
+: 10 dias
+Você faz um terreno em uma área de até 1,5 quilômetro quadrados pareça, soe, cheire e, até, sinta com outro tipo
+de terreno natural. Os formatos gerais do terreno
+permanecem os mesmos, no entanto. Campos abertos ou uma estrada podem ser modificados para se
+assemelharem a um pântano, colina, fenda ou algum
+outro tipo de terreno difícil ou intransponível. Uma lagoa pode ser modificada para se parecer com um prado, um
+precipício com um declive suave ou um barranco
+pedregoso com uma estrada larga e lisa.
+Similarmente, você pode alterar a aparência de
+estruturas ou adiciona-las onde nenhuma existia. A magia não disfarça, esconde ou adiciona criaturas.
+A ilusão inclui elementos audíveis, visuais, táteis e
+olfativos, portanto, ela pode transformar solo limpo em terreno difícil (ou vice-versa) ou, de outra forma, impedir o movimento através da área. Qualquer porção de terreno
+ilusório (como uma rocha ou galho) que seja removida da
+área da magia desaparece imediatamente.
+Criaturas com visão verdadeira podem ver através da
+ilusão a verdadeira forma do terreno; porém, todos os outros elementos da ilusão permanecem, então, mesmo que a criatura esteja ciente da presença da ilusão, ela
+ainda interage fisicamente com a ilusão.
+ainda interage fisicamente com a ilusão.
+ISSÃO
+5° nível de encantamento
+Tempo de Conjuração: 1 minuto Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: 30 dias
+Você impõe um comando mágico a uma criatura que você possa ver, dentro do alcance, forçando-a a fazer algum
+serviço ou reprimindo-a por alguma ação ou curso de
+atividade, como você decidir. Se a criatura puder compreender você, ela deve ser bem sucedida num teste
+de resistência de Sabedoria ou ficará enfeitiçada por você
+pela duração. Enquanto a criatura estiver enfeitiçada por você, ela sofrerá 5d6 de dano psíquico toda vez que ela
+agir de maneira diretamente contrária às suas instruções,
+mas não mais de uma vez por dia. Uma criatura que não puder compreender você não é afetada por essa magia.
+Você pode emitir qualquer comando que escolher,
+exceto uma atividade que resulte em morte certa. Se você emitir um comando suicida, a magia termina.
+Você pode terminar a magia prematuramente usando
+uma ação para dissipa-la. As magias
+remover maldição,
+restauração maior
+ou
+desejo
+também podem termina-
+também podem termina-
+também podem termina-
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 7° ou 8° nível, a duração será 1 ano. Quando você conjurar essa magia
+usando um espaço de magia de 9° nível, a magia dura até
+ser terminada por uma das magias mencionadas acima.
+ser terminada por uma das magias mencionadas acima.
+ÍSSEIS
+ÍSSEIS
+ÁGICOS
+1° nível de evocação Tempo de Conjuração: 1 ação
+Alcance
+Alcance
+metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você cria três dardos brilhantes de energia mística. Cada
+dardo atinge uma criatura, à sua escolha, que você possa
+ver, dentro do alcance. Um dardo causa 1d4 + 1 de dano de energia ao alvo. Todos os dardos atingem
+simultaneamente e você pode direciona-los para atingir
+uma criatura ou várias.

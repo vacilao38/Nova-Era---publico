@@ -1,0 +1,151 @@
+Nomes de Infância:
+Climber, Earbender, Leaper, Pious,
+Shieldbiter, Zealous
+Nomes de Clã:
+Clethtinthiallor, Daardendrian,
+Delmirev, Drachedandion, Fenkenkabradon,
+Kepeshkmolik, Kerrhylon, Kimbatuul,
+Linxakasendalor, Myastan, Nemmonis, Norixius, Ophinshtalajiir, Prexijandilin, Shestendeliath, Turnuroth, Verthisathurgiesh, Yarjerit
+Turnuroth, Verthisathurgiesh, Yarjerit
+RAÇOS
+RAÇOS
+ACIAIS DOS
+ACIAIS DOS
+RACONATOS
+RACONATOS
+Sua herança dracônica se manifesta em vários traços que
+você partilha com outros draconatos.
+Aumento no Valor de Habilidade
+Aumento no Valor de Habilidade
+Seu valor de
+Força aumenta em 2 e seu valor de Carisma aumenta em
+Força aumenta em 2 e seu valor de Carisma aumenta em Força aumenta em 2 e seu valor de Carisma aumenta em
+Idade
+Idade
+Draconatos jovens crescem rapidamente. Eles
+caminham horas após nascerem, adquirindo o tamanho e desenvolvimento semelhante a de uma criança humana de 10 anos com 3 anos de idade e alcançam a maturidade
+aos 15. Eles costumam viver até os 80.
+Tendência
+Tendência
+Os draconatos tendem aos extremos,
+realizando uma escolha consciente de um lado ou do outro
+da guerra cósmica entre o bem e o mal (representada por Bahamut e Tiamat, respectivamente). A maioria dos draconatos é boa, mas os que vão para o lado de Tiamat podem se tornar vilões terríveis.
+Tamanho
+Tamanho
+Os draconatos são mais altos e mais
+pesados que os humanos, geralmente possuindo mais de 1,80 metro e normalmente pesando mais de 125 kg. Seu tamanho é Médio.
+tamanho é Médio.
+NCESTRAL
+NCESTRAL
+RACÔNICO
+RACÔNICO
+Dragão
+Dragão
+Tipo de Dano
+Tipo de Dano
+Arma de Sopro
+Arma de Sopro
+Azul
+Azul
+Elétrico
+Elétrico
+Linha de 1,
+5m/9m (teste de Des)
+5m/9m (teste de Des)
+Branco
+Branco
+Frio
+Frio
+Cone de 4,5m (teste de Con)
+Cone de 4,5m (teste de Con)
+Bronze
+Bronze
+Elétrico
+Elétrico
+Linha de 1,5m/9m (teste de Des)
+Linha de 1,5m/9m (teste de Des)
+Cobre
+Cobre
+Acido
+Acido
+Linha de 1,5m/9m (teste de Des)
+Linha de 1,5m/9m (teste de Des)
+Latão
+Latão
+Fogo
+Fogo
+Linha de 1,5m/9m (teste de Des)
+Linha de 1,5m/9m (teste de Des)
+Negro
+Negro
+Acido
+Acido
+Linha de 1,5m/9m (teste de Des)
+Linha de 1,5m/9m (teste de Des)
+Ouro
+Ouro
+Fogo
+Fogo
+Cone de 4,5m (teste de Des)
+Cone de 4,5m (teste de Des)
+Cone de 4,5m (teste de Des)
+Cone de 4,5m (teste de Des)
+Cone de 4,5m (teste de Des)
+Frio
+Frio
+Cone de 4,5m (teste de Con)
+Cone de 4,5m (teste de Con)
+Verde
+Verde
+Veneno
+Veneno
+Cone de 4,5m (teste de Con)
+Cone de 4,5m (teste de Con)
+Vermelho
+Vermelho
+Fogo
+Fogo
+Cone de 4,5m (teste de Des)
+Cone de 4,5m (teste de Des)
+Cone de 4,5m (teste de Des)
+RACONIANOS
+RACONIANOS
+No cenário de Dragonlance, os seguidores da deusa maligna
+Takhisis ap
+rendem um ritual sombrio que permite que eles
+corrompam ovos de dragões metálicos, produzindo draconatos
+malignos chamados draconianos. Cinco tipos de draconianos,
+correspondente aos cinco tipos de dragões metálicos, lutaram por
+Takhisis na Guerra da Lança
+: auraks (ouro), baaz (latão), bozak
+(bronze), kapak (cobre) e silvak (prata). No lugar de suas armas de
+sopro dracônica, eles possuem habilidades magicas únicas.
+sopro dracônica, eles possuem habilidades magicas únicas.
+Deslocamento Deslocamento
+Seu deslocamento base de caminhada
+é 9 metros.
+Ancestral Dracônico
+Ancestral Dracônico Você possui um ancestral
+dracônico. Escolha um tipo de dragão da tabela Ancestral Dracônico. Sua arma de sopro e resistência a dano são determinadas pelo tipo de dragão, como mostrado na tabela.
+Arma de Sopro
+Arma de Sopro Você pode usar uma ação para
+exalar energia destrutiva. Seu ancestral dracônico
+determina o tamanho, formado e tipo de dano que você
+expele.
+Quando você usa sua arma de sopro, cada criatura na
+área exalada deve realizar um teste de resistência, o tipo
+do teste é determinado pelo seu ancestral dracônico. A CD
+do teste de resistência é 8 + seu modificador de
+Constituição + seu bônus de proficiência. Uma criatura sofre 2d6 de dano num fracasso e metade desse dano num sucesso. O dano aumenta para 3d6 no 6° nível, 4d6 no 11°nível e 5d6 no 16° nível.
+Depois de usar sua arma de sopro, você não poderá
+utilizá-
+utilizá-novamente até completar um descanso curto ou
+longo.
+Resistência a Dano
+Resistência a Dano Você possui resistência ao tipo
+de dano associado ao seu ancestral dracônico.
+Idiomas
+Idiomas Você pode falar, ler e escrever Comum e
+Dracônico. O idioma Dracônico é conhecido por ser uma
+das mais antigas línguas e ainda é usado no estudo de
+magia. A linguagem soa áspera para a maioria das criaturas, incluindo várias consoantes e silabas firmes.

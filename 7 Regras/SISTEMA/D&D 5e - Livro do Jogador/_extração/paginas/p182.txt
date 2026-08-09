@@ -1,0 +1,127 @@
+APÍTULO
+APÍTULO
+APÍTULO APÍTULO
+VENTURANDO-VENTURANDO-
+VENTURANDO-
+NVESTIGAR A ANTIGA TUMBA DOS HORRORES,
+esgueirar-se através das estreitas vielas de
+Águas Profundas, abrir uma nova trilha através das densas florestas da Ilha do Pavor
+das densas florestas da Ilha do Pavor
+essas são
+as coisas de que são feitas as aventuras de as coisas de que são feitas as aventuras de
+as coisas de que são feitas as aventuras de
+GEONS
+& D
+RAGONS
+. Um personagem desse
+jogo pode explorar ruínas esquecidas e terras
+desconhecidas, descobrir segredos obscuros e planos
+sinistros, além de matar monstros perversos. E se tudo correr bem, o personagem vai sobreviver para reivindicar suas recompensas antes de embarcar em uma nova aventura.
+Esse capítulo aborda os conceitos básicos de uma vida
+de aventuras, desde a mecânica da movimentação até as complexas interações sociais. As regras para o descanso também estão nesse capítulo, juntamente com uma discussão sobre quais as atividades um personagem pode
+realizar entre suas aventuras.
+Não importa se os aventureiros estão explorando uma
+masmorra empoeirada ou as complexas relações de uma
+corte real, o jogo seguirá um ritmo natural, conforme
+descrito na introdução do livro:
+descrito na introdução do livro:
+O Mestre descreve o ambiente.
+O Mestre descreve o ambiente.
+Os jogadores descrevem o que eles desejam fazer.
+Os jogadores descrevem o que eles desejam fazer.
+O Mestre narra os resultados de suas ações.Normalmente, o Mestre utiliza um mapa como esboço
+da aventura, acompanhando o progresso dos personagens
+na medida que eles exploram os corredores da masmorra ou regiões selvagens. As notas do Mestre, incluindo a
+legenda do mapa, descrevem o que os aventureiros
+encontrarão assim que entrarem em cada nova área. Às vezes, a passagem do tempo e as ações dos aventureiros
+determinam o que acontece, por isso o Mestre pode usar
+uma linha do tempo ou um fluxograma para acompanhar uma linha do tempo ou um fluxograma para acompanhar
+progresso, em vez de um mapa.
+progresso, em vez de um mapa.
+progresso, em vez de um mapa.
+progresso, em vez de um mapa.
+Em situações em que manter o controle da passagem do
+tempo é importante, o Mestre determina o tempo que uma tarefa requer. O Mestre pode usar uma escala de
+tempo diferente, dependendo do contexto da situação. No
+ambiente de uma masmorra, o movimento dos aventureiros acontece em uma escala de
+minutos
+minutos minutos
+necessário cerca de um minuto para passar por um longo corredor, mais um minuto para verificar se há armadilhas na porta no final do corredor e uns bons dez minutos para
+vasculhar a câmara atrás de algum objeto interessante ou
+valioso.
+Em uma cidade ou região selvagem, muitas vezes é
+mais apropriado usar uma escala de
+horas
+. Aventureiros
+ansiosos para chegar à torre solitária no coração da floresta, podem percorrer os 24 km que os separam da
+torre em pouco menos de quatro horas.
+Para viagens longas, uma escala de
+dias
+funciona
+melhor. Seguindo a estrada de Portão de Baldur até
+Águas Profundas, os aventureiros viajam por quatro dias sem qualquer interferência, até uma emboscada goblin
+interromper sua jornada.
+Em combate e outras situações que exija um ritmo
+acelerado, o jogo baseia-se em rodadas
+, um espaço de
+tempo de 6 segundos descrito no capítulo 9.
+tempo de 6 segundos descrito no capítulo 9.
+OVIMENTO
+Nadar através das corredeiras de um rio, esgueirar-
+Nadar através das corredeiras de um rio, esgueirar-
+Nadar através das corredeiras de um rio, esgueirar-
+pelo corredor de uma masmorra, escalar uma encosta de
+montanha traiçoeira
+montanha traiçoeira
+todos os tipos de movimento
+desempenham um papel fundamental nas aventuras de D&D.
+O Mestre pode resumir o movimento dos aventureiros
+sem calcular distâncias exatas ou tempos de viagem:"Vocês viajam através da floresta e encontram a entrada da masmorra no final da noite do terceiro dia". Mesmo em
+uma masmorra, particularmente em uma masmorra
+grande ou em uma rede de cavernas, o Mestre pode resumir o movimento entre os encontros: "Depois de
+matar o guardião na entrada da antiga fortaleza dos
+anões e consultarem seu mapa, vocês percorrem quilômetros de corredores até chegarem a uma ponte
+estreita, semelhante a um arco de pedra, sobre um
+abismo."
+No entanto, algumas vezes é importante saber quanto
+tempo leva para ir de um ponto a outro, não importando se a resposta seja em dias, horas ou minutos. As regras para determinar o tempo de uma viagem dependem de
+dois fatores: o deslocamento e o ritmo de viagem das
+criaturas em movimento e o terreno em que elas estão se movendo.
+movendo.
+ESLOCAMENTO
+ESLOCAMENTO
+Cada personagem e monstro possui um deslocamento, que
+é a distância em metros que o personagem ou monstro
+pode andar em uma rodada. Esse número pressupõe explosões de movimento enérgico no meio de uma
+situação de risco de vida.
+As regras seguintes determinam o quanto um
+personagem ou monstro pode se mover em um minuto, uma hora ou um dia.
+uma hora ou um dia.ITMO
+ITMO
+ITMO IAGEM
+Durante uma viagem, um grupo de aventureiros pode Durante uma viagem, um grupo de aventureiros pode
+mover em um ritmo normal, rápido ou lento, como mostrado na tabela Ritmo de Viagem. A tabela indica a
+distância que um grupo pode se mover em um
+determinado período de tempo e qual o efeito do ritmo de viagem. Um ritmo rápido deixa os personagens com
+menos percepção, enquanto um ritmo lento torna possível
+se esconder e procurar uma área com mais cuidado(consulte a seção "Atividades durante Viagem" mais
+adiante nesse capítulo, para mais informações).
+Marcha Forçada
+Marcha Forçada
+A tabela Ritmo de Viagem assume
+que os personagens viajam 8 horas por dia. Eles podem ir além desse limite, mas correm o risco de exaustão.
+Para cada hora adicional de viagem além das 8 horas
+diárias, os personagens cobrem a distância indicada na
+coluna Hora para seu ritmo, e cada personagem deve
+realizar um teste de resistência de Constituição no final
+da hora. A CD é 10 +1 para cada hora acima das 8 horas.
+Em um fracasso no teste de resistência, um personagem sofre um nível de exaustão (veja o apêndice A).
+Montarias e Veículos
+Montarias e Veículos
+Para curtos espaços de tempo
+(até uma hora), muitos animais se movem muito mais rápido do que os humanoides. Um personagem montado
+pode andar a galope por aproximadamente uma hora,
+cobrindo o dobro da distância normal para um ritmo
+rápido. Se uma montaria descansada estiver disponível a
+cada 12 ou 15 quilômetros, os personagens podem cobrir
+distâncias maiores nesse ritmo, mas isso é muito raro, exceto em áreas densamente povoadas.

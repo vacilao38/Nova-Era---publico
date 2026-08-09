@@ -1,0 +1,150 @@
+As características táteis do terreno são inalteradas,
+portanto, as criaturas que adentrarem na área estão
+susceptíveis de ver através da ilusão. Se a diferença não
+for obvia ao toque, uma criatura que examine a ilusão
+cuidadosamente, pode realizar um teste de Inteligência
+(Investigação) contra a CD da magia para desacredita-
+(Investigação) contra a CD da magia para desacredita-
+Uma criatura que discernir a ilusão do que ela é, a
+enxerga como uma imagem vaga sobrepondo o terreno.
+enxerga como uma imagem vaga sobrepondo o terreno.
+OQUE
+OQUE
+RREPIANTE
+Truque de necromancia
+Tempo de Conjuração: 1 ação
+Alcance
+: 36 metros
+Componentes
+Componentes
+Componentes
+Duração
+: 1 rodada
+Você cria uma mão esquelética fantasmagórica no espaço de uma criatura, dentro do alcance. Realize um ataque à distância com magia contra a criatura para afeta-la com o
+frio sepulcral. Se atingir, a criatura sofre 1d8 de dano
+necrótico e não poderá recuperar pontos de vida até o início do seu próximo turno. Até lá, a mão ficará presa ao
+alvo.
+Se você atingir um alvo morto-vivo, ele terá
+desvantagem nas jogadas de ataque contra você até o
+final do seu próximo turno.
+O dano dessa magia aumenta em 1d8 quando você
+alcança o 5° nível (2d8), 11° nível (3d8) e 17° nível (4d8).
+alcança o 5° nível (2d8), 11° nível (3d8) e 17° nível (4d8).
+OQUE
+OQUE
+HOCANTE
+Truque de evocação Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Eletricidade surge da sua mão para transmitir um choque em uma criatura que você tentar tocar. Faça um ataque corpo-a-corpo com magia contra o alvo. Você tem
+vantagem na jogada de ataque se o alvo estiver vestindo
+qualquer armadura de metal. Se atingir, o alvo sofre 1d8
+de dano elétrico e não pode usar reações até o início do
+próximo turno dele.
+O dano da magia aumenta em 1d8 quando você
+alcança o 5° nível (2d8), 11° nível (3d8) e 17° nível (4d8).
+alcança o 5° nível (2d8), 11° nível (3d8) e 17° nível (4d8).
+OQUE
+OQUE
+AMPÍRICO
+3° nível de necromancia Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+Duração
+Concentração, até 1 minuto
+O toque da sua mão coberta de sombras pode drenar a força vital dos outros para curar seus ferimentos. Realize um ataque corpo-a-corpo com magia contra uma criatura
+ao seu alcance. Se atingir, o alvo sofre 3d6 de dano
+necrótico e você recupera pontos de vida igual à metade
+do dano necrótico causado. Até a magia acabar, você pode
+realizar o ataque novamente, no seu turno, com uma
+ação.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 4° nível ou magia usando um espaço de magia de 4° nível ou
+perior, o dano aumenta em 1d6 para cada nível do
+espaço acima do 3°.
+espaço acima do 3°.
+RANCA
+RANCA
+RCANA
+2° nível de abjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, S, M (pó de ouro valendo, no mínimo,
+25 po, consumido pela magia)
+Duração
+: Até ser dissipada
+Você toca uma porta, janela, portão, baú ou outra entrada
+fechada e ela ficará trancada pela duração. Você e as criaturas que você designar, quando você conjurar essa
+magia, podem abrir o objeto normalmente. Você também
+pode definir uma senha que, quando falada a 1,5 metro do objeto, suprime a magia por 1 minuto. De outra forma, ele
+é intransponível até ser quebrado ou a magia seja
+dissipada ou suprimida. Conjurar
+arrombar
+no objeto
+suprime a
+tranca arcana
+por 10 minutos.
+Enquanto estiver sob efeito dessa magia, o objeto é
+mais difícil de quebrar ou de forçar para abrir; a CD para quebra-lo ou de arromba-lo aumenta em 10.
+quebra-lo ou de arromba-lo aumenta em 10.
+RUQUE DE
+RUQUE DE
+ORDA
+2° nível de transmutação
+Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, S, M (pó de extrato de milho e um laço
+de pergaminho trançado)
+Duração
+: 1 hora
+Você toca um pedaço de corda que tenha até 18 metros de comprimento. Uma ponta da corda então, se ergue no ar
+até toda a corda estar erguida e perpendicular ao solo. Na
+ponta de cima da corda, uma entrada invisível se abre para um espaço extradimensional que permanece até a
+magia acabar.
+O espaço extradimensional pode ser alcançado
+escalando a corda até o topo. O espaço pode abrigar até oito criaturas Médias ou menores. A corda pode ser
+puxada para dentro do buraco, fazendo-a desaparecer para os observadores do lado de fora do espaço.
+Ataques e magias não podem ultrapassar a entrada,
+entrando ou saindo do espaço extradimensional, mas quem está dentro pode ver o lado de fora, como se
+estivesse olhando por uma janela de 0,9 metro por 1,5
+metro, centrada na corda.
+Tudo que estiver dentro do espaço extradimensional
+cai quando a magia acabar.
+cai quando a magia acabar.
+SUNAMI
+8° nível de conjuração
+Tempo de Conjuração: 1 minuto Alcance
+: Visão
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 6 rodadas
+Uma muralha de água aparece do nada num ponto, à sua escolha, dentro do alcance. Você pode fazer a muralha ter
+até 90 metros de comprimento, 90 metro de altura e 15
+metros de espessura. A muralha permanece pela duração.
+Quando a muralha aparece, cada criatura dentro da
+área deve realizar um teste de resistência de Força. Se falhar na resistência, uma criatura sofrerá 6d10 de dano
+de concussão ou metade desse dano se passar na
+resistência.
+No início de cada um dos seus turnos, após a muralha
+aparecer, ela, junto com qualquer criatura nela, se afasta 15 metros de você. Qualquer criatura Enorme ou menor
+dentro da muralha ou no espaço que a muralha entrar quando ela se mover, deve ser bem sucedida num teste de
+resistência de Força ou sofrerá 5d6 de dano de concussão.
+Uma criatura pode sofrer esse dano apenas uma vez por
+rodada. No final do turno, a altura da muralha é reduzida
+em 15 metros e o dano que as criaturas sofrem da magia

@@ -1,0 +1,150 @@
+nas rodadas subsequentes é reduzido em 1d10. Quando
+nas rodadas subsequentes é reduzido em 1d10. Quando
+muralha chegar a 0 metro de altura, a magia acaba.
+Uma criatura pega pela muralha, pode se mover
+nadando. Devido à força da onda, no entanto, a criatura
+deve realizar um teste de Força (Atletismo) contra a CD
+da magia para conseguir se mover. Se ela falhar no teste,
+não conseguirá se mover. Uma criatura que se mova para fora da área, cairá no chão.
+fora da área, cairá no chão.
+ELOCIDADE
+3° nível de transmutação
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+: V, S, M (uma raspa de raiz de alcaçuz)
+Duração
+: Concentração, até 1 minuto
+Escolha uma criatura voluntária que você possa ver, dentro do alcance. Até a magia acabar, o deslocamento do alvo é dobrado, ele ganha +2 de bônus na CA, ele tem
+vantagem em testes de resistência de Destreza e ganha
+uma ação adicional em cada um dos turnos dele. A ação pode ser usada apenas para realizar as ações de Ataque
+(um ataque com arma, apenas), Disparada, Desengajar,
+Esconder ou Usar um Objeto.
+Quando a magia acabar, o alvo não poderá se mover
+ou realizar ações até depois do seu próximo turno, à medida que uma onda de letargia toma conta dele.
+medida que uma onda de letargia toma conta dele.
+ER O
+ER O
+NVISÍVEL
+2° nível de adivinhação Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal
+Componentes
+: V, S, M (um pouco de talco e um pó de
+prata polvilhado)
+Duração
+: 1 hora
+Pela duração, você vê criaturas e objetos invisíveis como
+se eles fossem visíveis e você pode ver no Plano Etéreo.Criaturas e objetos etéreos parecem espectrais e
+translúcidos.
+translúcidos.
+IAGEM
+IAGEM
+LANAR
+7° nível de conjuração
+Tempo de Conjuração: 1 ação Alcance
+: Toque
+Componentes
+: V, S, M (uma haste metálica bifurcada
+valendo, no mínimo, 250 po, sintonizada com um plano de existência em particular)
+Duração
+: Instantânea
+Você e até oito criaturas voluntárias, que estejam de mãos dadas em um círculo, são transportadas para um plano de existência diferente. Você pode especificar o destino alvo
+em termos gerais, como a Cidade de Bronze do Plano
+Elemental do Fogo ou o palácio de Dispater na segunda camada dos Nove Infernos e você aparece no ou perto do
+destino. Se você estiver tentando chegar a Cidade de
+Bronze, por exemplo, você poderia chegar na Estrada de
+Aço dela, em frente aos Portões de Cinzas ou
+contemplando a cidade do outro lado do Mar de Fogo, à
+critério do Mestre.
+Alternativamente, se você conhecer a sequência de
+selos do círculo de teletransporte em outro plano de existência, essa magia pode leva-lo para esse círculo. Se o círculo de teletransporte for muito pequeno para
+comportar as criaturas que você está transportando, elas
+aparecerão no espaço desocupado mais próximo do
+círculo.
+Você pode usar essa magia para banir uma criatura
+involuntária para outro plano. Escolha uma criatura ao
+seu alcance e realize um ataque corpo-a-corpo com magia
+contra ela. Se atingir, a criatura deve realizar um teste de
+resistência de Carisma. Se a criatura falhar na
+resistência, ela é transportada para um local aleatório no
+plano de existência que você especificou. Uma criatura, uma vez transportada, deve encontrar seu próprio meio
+de retornar para seu plano de existência atual.
+de retornar para seu plano de existência atual.
+IDÊNCIA
+5° nível de adivinhação
+Tempo de Conjuração: 10 minutos Alcance
+: Pessoal
+Componentes
+: V, S, M (um foco valendo, no mínimo,
+1.000 po, como uma bola de cristal, espelho de prata ou fonte cheia de água benta)
+Duração
+: Concentração, até 10 minutos
+Você pode ver e ouvir uma criatura em particular, à sua escolha, que esteja no mesmo plano de existência que você. O alvo deve realizar um teste de resistência de
+Sabedoria, que é modificador de acordo com o quão bem
+você conhece o alvo e o tipo de conexão física que você tem você conhece o alvo e o tipo de conexão física que você tem
+m ele. Se um alvo souber que você está conjurando essa
+magia, ele pode falhar no teste de resistência voluntariamente, se ele quiser ser observado.
+Com um sucesso na resistência, o alvo não é afetado e
+você não pode usar essa magia contra ele novamente por 24 horas.
+Se falhar na resistência, a magia cria um sensor
+invisível a até 3 metros do alvo. Você pode ver e ouvir através do sensor, como se você estivesse onde ele está. O sensor se move com o alvo, permanecendo a 3 metros dele
+pela duração. Uma criatura que puder ver objetos
+invisíveis verá o sensor como um globo luminoso do tamanho de um punho.
+Ao invés de focar em uma criatura, você pode escolher
+um local que você já tenha visto antes como alvo dessa magia. Quando fizer isso, o sensor aparece no local e não
+se move.
+Conhecimento
+Conhecimento
+Modificador de
+Resistência
+Resistência
+Segunda mão (você ouviu falar do alvo)
+Segunda mão (você ouviu falar do alvo)
+Segunda mão (você ouviu falar do alvo)
+Segunda mão (você ouviu falar do alvo)
+Primeira mão (você foi apresentado ao alvo)
+Primeira mão (você foi apresentado ao alvo)
+Primeira mão (você foi apresentado ao alvo)
+Primeira mão (você foi apresentado ao alvo)
+Familiar (você conhece bem o alvo)
+Familiar (você conhece bem o alvo)
+Familiar (você conhece bem o alvo)
+Familiar (você conhece bem o alvo)
+Conexão
+Conexão
+Modificador de
+Resistência
+Resistência
+Descrição ou foto
+Descrição ou foto
+Descrição ou foto
+Descrição ou foto
+Pertences ou roupas
+Pertences ou roupas
+Pertences ou roupas
+Pertences ou roupas
+Parte do corpo, mexa de cabelo, recorte de
+unha ou simular
+unha ou simular
+unha ou simular
+unha ou simular
+unha ou simular
+ÍNCULO
+ÍNCULO
+ROTETOR
+2° nível de abjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, S, M (um par de anéis de platina
+valendo, no mínimo, 50 po cada, que você e o alvo
+devem usar pela duração)
+Duração
+: 1 hora
+Essa magia protege uma criatura voluntária que você
+tocar e cria uma conexão mística entre você e o alvo até a
+magia acabar. Enquanto o alvo estiver a até 18 metros de
+você, ele recebe +1 de bônus na CA, nos testes de resistência e terá resistência a todos os danos. No

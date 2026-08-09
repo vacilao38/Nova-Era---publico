@@ -1,0 +1,141 @@
+Se sua montaria for alvo de um efeito que permita a
+ela realizar um teste de resistência de Destreza para
+reduzir o dano à metade, ao invés disso, ela não sofre qualquer dano se for bem sucedida no teste de
+resistência, e apenas metade se falhar.
+resistência, e apenas metade se falhar.
+ONJURADOR DE
+ONJURADOR DE
+UERRA
+UERRA
+Pré-requisito: Capacidade de conjurar pelo menos uma
+magia
+Você praticou a conjuração de magias no meio do
+combate, aprendendo técnicas que lhe concedem os
+seguintes benefícios:
+seguintes benefícios:
+Você tem vantagem em testes de resistência d
+Você tem vantagem em testes de resistência d
+Constituição para manter sua concentração em uma
+magia quando você sofrer dano.
+magia quando você sofrer dano.
+Você pode realizar os componentes somáticos de uma magia mesmo quando está com armas ou um escudo em uma ou ambas as mãos.
+em uma ou ambas as mãos.
+Quando o movimento de uma criatura hostil provocar
+um ataque de oportunidade para você, você pode usar
+sua reação para conjurar uma magia na criatura, ao
+invés de realizar o ataque de oportunidade. A magia
+deve ter um tempo de conjuração de 1 ação e deve ter apenas uma criatura como alvo.
+apenas uma criatura como alvo.
+ONJURADOR DE
+ONJURADOR DE
+ITUAL
+ITUAL
+Pré-requisito: Inteligência ou Sabedoria 13 ou maior
+Você aprendeu um número de magias que você pode
+conjurar como rituais. Essas magias são escritas em um livro de rituais, o qual deve estar em suas mãos enquanto
+você conjura uma dessas magias.
+Quando você escolhe esse talento, você adquire um
+livro de rituais que contem duas magias de 1° nível, à sua escolha. Escolha uma das seguintes classes: bardo, bruxo,
+clérigo, druida, feiticeiro ou mago. Você deve escolher
+suas magias da lista de magias dessa classe e as magias
+escolhidas devem ter o descritor ritual. A classe que você
+escolheu também determina a habilidade de conjuração dessas magias: Carisma para bardo, bruxo ou feiticeiro;
+Sabedoria para clérigo ou druida; ou Inteligência para
+mago.
+Se você encontrar uma magia na forma escrita, como a
+contida em um
+pergaminho de magia ou o grimório de um
+mago, você é capaz de adicioná-la ao seu livro de rituais.A magia deve estar na lista de magias da classe escolhida,
+o nível da magia não pode ser maior que metade do seu
+nível (arredondado para cima) e deve conter o descritor ritual. O processo para copiar a magia no seu livro de
+rituais leva 2 horas por nível da magia e custa 50 po por
+nível. O custo representa os componentes materiais que você gasta para experimentar a magia até dominá-la, bem
+como as finas tintas utilizadas para escrevê-
+como as finas tintas utilizadas para escrevê-
+como as finas tintas utilizadas para escrevê-
+como as finas tintas utilizadas para escrevê-
+URANDEIRO
+URANDEIRO
+Você é um cirurgião capacitado, permitindo que você trate
+de ferimentos rapidamente, trazendo seus aliados de
+volta à luta. Você adquire os seguintes benefícios:
+volta à luta. Você adquire os seguintes benefícios:
+Quando você usar um kit de primeiros-socorros para
+estabilizar uma criatura morrendo, a criatura
+recupera 1 ponto de vida, ao invés disso.
+recupera 1 ponto de vida, ao invés disso.
+Com uma ação, você pode gastar um uso do kit de
+primeiros-socorros para tratar de uma criatura e
+restaurar 1d6 + 4 pontos de vida mais uma quantidade de pontos de vida adicionais igual ao número total de Dados de Vida da criatura. A criatura não pode recuperar pontos de vida através desse
+talento novamente até ter terminado um descanso
+curto ou longo.
+curto ou longo.
+UELIST
+UELIST
+UELIST
+EFENSIVO EFENSIVO
+Pré-requisito: Destreza 13 ou maior
+Quando você estiver empunhando uma arma de acuidade
+com a qual você seja proficiente e outra criatura atingir
+você com um ataque corpo-a-corpo, você pode usar sua
+reação para adicionar seu bônus de proficiência a sua CA para esse ataque, potencialmente fazendo o ataque errar.
+para esse ataque, potencialmente fazendo o ataque errar.
+SPECIALISTA EM
+SPECIALISTA EM
+ESTA
+ESTA
+Graças a sua pratica extensiva com bestas, você ganha os
+seguintes benefícios:
+seguintes benefícios:
+Você ignora a qualidade de recarga de bestas nas
+quais você é proficiente.
+quais você é proficiente.
+Estar a 1,5 metro de uma criatura hostil não impõem desvantagem nas suas jogadas de ataque à distância.
+desvantagem nas suas jogadas de ataque à distância.
+Quando você usa a ação de Ataque e ataca com uma
+arma de uma mão, você pode usar sua ação bônus para
+atacar com uma besta de mão carregada que você esteja empunhando.
+esteja empunhando.
+SPECIALISTA EM
+SPECIALISTA EM
+RIGA
+RIGA
+Acostumado a brigas de bar usando qualquer coisa como armas, e na falta, os punhos, você ganha os seguintes
+benefícios:
+benefícios:
+Aumente o valor de Força ou Constituição em 1, até o
+máximo de 20.
+máximo de 20.
+Seus ataques desarmados causam 1d4 de dano.
+Seus ataques desarmados causam 1d4 de dano.
+Quando você atinge uma criatura com um ataque desarmado ou com uma arma improvisada, no se
+desarmado ou com uma arma improvisada, no se
+turno, você pode usar uma ação bônus para tentar
+agarrar o alvo.
+agarrar o alvo.
+XPLORADOR DE
+XPLORADOR DE
+AVERNAS
+AVERNAS
+Alerta às armadilhas escondidas e portas secretas encontradas em muitas masmorras, você ganha os seguintes benefícios:
+seguintes benefícios:
+Você tem vantagem em testes de Sabedoria
+(Percepção) e de Inteligência (Investigação) feitos para
+detectar a presença de portas secretas.
+detectar a presença de portas secretas.
+Você tem vantagem em testes de resistência feitos
+para evitar ou resistir a armadilhas.
+para evitar ou resistir a armadilhas.
+Você tem resistência ao dano causado por armadilhas.
+Você tem resistência ao dano causado por armadilhas.
+Você pode procurar armadilhas enquanto viaja a um ritmo normal, ao invés de metade do ritmo.
+ritmo normal, ao invés de metade do ritmo.
+MOBILIZADOR
+MOBILIZADOR
+Pré-requisito: Força 13 ou maior
+Você desenvolveu a perícia necessária para se prender a
+alguém em um combate engajado. Você recebe os
+seguintes benefícios:
+seguintes benefícios:
+Você tem vantagem nas jogadas de ataque contra uma
+criatura agarrada.

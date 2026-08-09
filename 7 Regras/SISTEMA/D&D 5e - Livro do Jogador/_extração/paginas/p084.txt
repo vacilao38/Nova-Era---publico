@@ -1,0 +1,191 @@
+QUIPAMENTO
+QUIPAMENTO
+Você começa com o seguinte equipamento, além do
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+cota de malha ou (
+cota de malha ou (
+cota de malha ou (
+gibão de peles, arco longo e 20
+flechas
+flechas
+flechas
+flechas
+) uma arma marcial e um escudo ou (
+) uma arma marcial e um escudo ou (
+) uma arma marcial e um escudo ou (
+duas armas
+marciais
+marciais
+marciais
+marciais
+) uma besta leve e 20 virotes ou (
+) uma besta leve e 20 virotes ou (
+) uma besta leve e 20 virotes ou (
+dois machados de
+arremesso
+arremesso
+arremesso
+arremesso
+) um pacote de aventureiro ou (
+) um pacote de aventureiro ou (
+) um pacote de aventureiro ou (
+um pacote de
+explorador
+explorador
+STILO DE
+STILO DE
+UTA
+Você adota um estilo de combate particular que será sua
+especialidade. Escolha uma das opções a seguir. Você não pode escolher o mesmo Estilo de Combate mais de uma
+vez, mesmo se puder escolher de novo.
+vez, mesmo se puder escolher de novo.
+RQUEARIA
+RQUEARIA
+Você ganha +2 de bônus nas jogadas de ataque realizadas
+com uma arma de ataque à distância.
+com uma arma de ataque à distância.
+OMBATE COM
+OMBATE COM RMAS
+RMAS
+RANDES
+RANDES
+Quando você rolar um 1 ou um 2 num dado de dano de
+um ataque com arma corpo-a-corpo que você esteja
+empunhando com duas mãos, você pode rolar o empunhando com duas mãos, você pode rolar o
+empunhando com duas mãos, você pode rolar o
+empunhando com duas mãos, você pode rolar o
+novamente e usar a nova rolagem, mesmo que resulte em
+1 ou 2. A arma deve ter a propriedade duas mãos ou
+versátil para ganhar esse benefício.
+versátil para ganhar esse benefício.
+OMBATE COM
+OMBATE COM
+UAS
+UAS
+RMAS
+RMAS
+Quando você estiver engajado em uma luta com duas
+armas, você pode adicionar o seu modificador de habilidade de dano na jogada de dano de seu segundo
+ataque.
+ataque.
+EFESA
+EFESA
+Enquanto estiver usando armadura, você ganha +1 de
+bônus em sua CA.
+bônus em sua CA.
+UELISMO
+UELISMO
+Quando você empunhar uma arma de ataque corpo-a-corpo em uma mão e nenhuma outra arma, você ganha
+corpo em uma mão e nenhuma outra arma, você ganha
+de bônus nas jogadas de dano com essa arma.
+de bônus nas jogadas de dano com essa arma.
+ROTEÇÃO
+ROTEÇÃO
+Quando uma criatura que você possa ver atacar um alvo que esteja a até 1,5 metro de você, você pode usar sua reação para impor desvantagem na jogada de ataque da
+criatura. Você deve estar empunhando um escudo.
+criatura. Você deve estar empunhando um escudo.
+ETOMAR O
+ETOMAR O
+ÔLEGO
+Você possui uma reserva de estamina e pode usá-
+Você possui uma reserva de estamina e pode usá-para
+proteger a si mesmo contra danos. No seu turno, você
+pode usar uma ação bônus para recuperar pontos de vid
+pode usar uma ação bônus para recuperar pontos de vid
+igual a 1d10 + seu nível de guerreiro.
+Uma vez que você use essa característica, você precisa
+terminar um descanso curto ou longo para usá-
+terminar um descanso curto ou longo para usá-de novo.
+de novo.
+URTO D
+URTO D
+URTO D
+ÇÃO
+A partir do 2º nível, você pode forçar o seu limite para além do normal por um momento. Durante o seu turno,
+você pode realizar uma ação adicional juntamente com
+sua ação e possível ação bônus.
+Uma vez que você use essa característica, você precisa
+terminar um descanso curto ou longo para usá-
+terminar um descanso curto ou longo para usá-de novo.
+A partir do 17º nível, você pode usá-la duas vezes antes do descanso, porém somente uma vez por turno.
+descanso, porém somente uma vez por turno.
+RQUÉTIPO
+RQUÉTIPO
+ARCIAL
+No 3º nível, você escolhe um arquétipo o qual se esforçará para seguir
+para seguir
+técnicas e estilos de combate dele
+técnicas e estilos de combate dele
+Escolha
+Campeão, Cavaleiro Arcano ou Mestre de Batalha, todos
+detalhados no final da descrição da classe
+detalhados no final da descrição da classe
+O arquétipo
+confere a você características especiais no 3º nível e de
+novo no 7º, 10º, 15º e 18º nível.
+novo no 7º, 10º, 15º e 18º nível.
+NCREMENTO NO
+NCREMENTO NO
+ALOR DE
+ALOR DE
+ABILIDADE
+ABILIDADE
+Quando você atinge o 4° nível e novamente no 6°, 8°, 12°
+Quando você atinge o 4° nível e novamente no 6°, 8°, 12°
+14°, 16° e 19° nível, você pode aumentar um valor de habilidade, à sua escolha, em 2 ou você pode aumentar dois valores de habilidade, à sua escolha, em 1. Como padrão, você não pode elevar um valor de habilidade
+acima de 20 com essa característica.
+acima de 20 com essa característica.
+acima de 20 com essa característica.
+acima de 20 com essa característica.
+XTRA
+A partir do 5º nível, você pode atacar duas vezes, ao invés
+de uma, quando usar a ação de Ataque durante seu turno.
+O número de ataques aumenta para três quando você
+alcançar o 11º nível de guerreiro e para quatro quando alcançar o 20º nível de guerreiro.
+alcançar o 20º nível de guerreiro.
+NDOM
+NDOM
+A partir do 9º nível, você pode jogar de novo um teste de resistência que falhou. Se o fizer, você deve usar o novo valor e não pode usar essa característica de novo antes de terminar um descanso longo.
+Você pode usar esta característica duas vezes entre
+descansos longos quando chegar no 13º nível e três vezes
+entre descansos longos quando chegar no 17º nível.
+entre descansos longos quando chegar no 17º nível.
+RQUÉTIPOS
+M
+ARCIAIS
+Diferentes guerreiros escolhem diferentes caminhos para
+aperfeiçoar seu poder em combate. O arquétipo marcial
+que você escolhe seguir reflete essa escolha.
+que você escolhe seguir reflete essa escolha.
+AMPEÃO
+O arquétipo Campeão foca no desenvolvimento da pura
+força física acompanhada por uma perfeição mortal.
+Aqueles que trilham o caminho desse arquétipo
+combinam rigorosos treinamentos com excelência física para desferir golpes devastadores.
+para desferir golpes devastadores.
+RÍTICO
+RÍTICO
+PRIMORADO
+PRIMORADO
+A partir do 3º nível, seus ataques com armas adquirem
+uma margem de acerto crítico de 19 a 20 nas jogadas de
+ataque.
+ataque.
+TLETISMO
+TLETISMO
+XTRAORDINÁRIO
+XTRAORDINÁRIO
+A partir do 7º nível, você adiciona metade de seu bônus de proficiência (arredondado para cima) em qualquer teste
+proficiência (arredondado para cima) em qualquer teste
+Força, Destreza ou Constituição que você já não
+aplique seu bônus de proficiência.
+Além disso, quando você fizer um salto longo com
+corrida
+corrida
+alcance em metros que poderá saltar aumenta
+em 0,3 vezes o seu modificador de Força.

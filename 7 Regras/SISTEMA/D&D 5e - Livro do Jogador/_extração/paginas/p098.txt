@@ -1,0 +1,132 @@
+RANSPOSIÇÃO
+RANSPOSIÇÃO
+ENIGNA
+ENIGNA
+A partir do 6° nível, você pode usar sua ação para se
+teletransportar até 9 metros em um espaço desocupado que você possa ver. Alternativamente, você pode escolher
+um espaço ao alcance que seja ocupado por uma criatura
+Pequena ou Média. Se essa criatura for voluntária, vocês dois teletransportam-se, trocando de lugar.
+Uma vez que você usa essa característica, não pode
+usá-la novamente até terminar um descanso longo ou até conjurar uma magia de conjuração de 1° nível ou
+superior.
+superior.
+ONJURAÇÃO
+ONJURAÇÃO
+OCADA
+OCADA
+Começando no 10° nível, enquanto você estiver
+concentrado em uma magia de conjuração, sua concentração não pode ser interrompida como resultado
+de ter sofrido dano.
+de ter sofrido dano.
+NVOCAÇÕES
+NVOCAÇÕES ESISTENTES
+A partir do 14° nível, qualquer criatura que você invocar
+ou criar com uma magia de conjuração, terá 30 pontos de
+vida temporários.
+vida temporários.
+SCOLA DE
+SCOLA DE
+NCANTAMENTO
+Como um membro da Escola de Encantamento, você afiou
+sua habilidade de entrar magicamente e seduzir outras pessoas e monstros. Alguns encantadores são pacifistas
+que fascinam os violentos para que larguem suas armas e
+enfeitiçam os cruéis para mostrar misericórdia. Outros são tiranos que dominam magicamente os involuntários, obrigando-os a servi-lo. A maioria dos encantadores está em algum lugar entre esses extremos.
+em algum lugar entre esses extremos.
+NCANTAMENTO NCANTAMENTO
+NSTRUÍDO
+NSTRUÍDO
+Quando você escolhe essa escola no 2º nível, o ouro e o
+tempo que você precisa gastar para copiar uma magia da escola de encantamento em seu grimório é reduzido à metade.
+metade.
+LHAR
+LHAR
+IPNOTIZANTE
+IPNOTIZANTE
+A partir do 2° nível, quando você escolhe essa escola, suas
+palavras suaves e olhar encantador podem escravizar magicamente outra criatura. Com uma ação, escolha uma criatura que você possa ver a até 1,5 metro. Se o alvo puder ver ou ouvir você, ele deve ser bem sucedido num
+teste de resistência de Sabedoria contra uma CD igual
+teste de resistência de Sabedoria contra uma CD igual
+s suas magias de mago, ou ficará enfeitiçado por você
+até o final do seu próximo turno. O deslocamento da criatura enfeitiçada cai para 0 e a criatura está incapacitada e visivelmente aturdida.
+Nos turnos subsequentes, você pode usar sua ação
+para manter esse efeito, estendendo sua duração até o final do seu próximo turno. No entanto, o efeito termina se você se afastar mais de 1,5 metro da criatura, se a criatura não puder nem ver nem ouvir você ou se a criatura não puder nem ver nem ouvir você ou se a
+atura sofrer dano.
+Assim que o efeito terminar, ou se a criatura for bem
+sucedida no teste de resistência inicial contra esse efeito, você não poderá usar essa característica nessa criatura novamente até terminar um descanso longo.
+novamente até terminar um descanso longo.
+NCANTO
+NCANTO
+NSTINTIVO
+NSTINTIVO
+Começando no 6° nível, quando uma criatura que você
+puder ver a até 9 metros, realizar uma jogada de ataque
+contra você, você pode usar sua reação para desviar o
+ataque, contanto que exista outra criatura no alcance do
+ataque. O atacante deve realizar um teste de resistência de Sabedoria contra uma CD igual das suas magias de
+mago. Caso falhe, o atacante deve atacar a criatura mais próxima dele, excluindo você ou ele mesmo. Se existirem
+diversas criaturas próximas, o atacante escolhe qual
+deseja atacar. Em um sucesso, você não poderá usar essa
+característica contra o atacante novamente até terminar
+um descanso longo.
+Você deve escolher usar essa característica antes de
+saber se o ataque atingiu ou errou. Criaturas que não podem ser enfeitiçadas são imunes a esse efeito.
+podem ser enfeitiçadas são imunes a esse efeito.
+IVIDIR
+IVIDIR
+NCANTAMENTO
+NCANTAMENTO
+A partir do 10° nível, quando você conjurar uma magia de
+encantamento de 1° nível ou superior que tenha uma única criatura como alvo, você pode fazer com que ela
+afete uma segunda criatura.
+afete uma segunda criatura.
+LTERAR
+LTERAR
+EMÓRIAS
+EMÓRIAS
+No 14° nível, você ganha a habilidade de tornar uma
+criatura inconsciente da sua influência mágica sobre ela.
+Quando você conjura uma magia de encantamento para enfeitiçar uma ou mais criaturas, você pode alterar a
+compreensão de uma criatura para que ela continue sem
+saber que está sendo enfeitiçada.
+Além disso, assim que a magia expirar, você pode usar
+sua ação para tentar fazer com que a criatura escolhida esqueça parte do tempo que permaneceu enfeitiçada. A criatura deve ser bem sucedida num teste de resistência
+de Inteligência contra uma CD igual das suas magias de
+mago ou perderá uma quantidade de horas da sua memória igual a 1 + seu modificador de Carisma (mínimo
+1). Você pode fazer com que a criatura esqueça menos
+tempo e o total de tempo não pode exceder a duração d
+tempo e o total de tempo não pode exceder a duração d
+sua magia de encantamento.
+sua magia de encantamento.
+SCOLA DE
+SCOLA DE
+VOCAÇÃO
+Você foca seu estudo para criar poderosos efeitos
+elementais, como um frio cortante, uma chama intensa, elementais, como um frio cortante, uma chama intensa,
+trovão estrondoso, trovão estrondoso, relâmpago devastador e ácido
+ardente. Alguns evocadores encontram emprego nas forças militares, servindo como artilharia para explodir fileiras inimigas de longe. Outros usam seu poder espetacular para proteger os fracos, enquanto alguns buscam o ganho próprio como bandidos, aventureiros ou aspirantes de tiranos.
+aspirantes de tiranos.
+VOCAÇÃO
+VOCAÇÃO
+NSTRUÍDA
+NSTRUÍDA
+Quando você escolhe essa escola no 2º nível, o ouro e o
+tempo que você precisa gastar para copiar uma magia da escola de evocação em seu grimório é reduzido à metade.
+escola de evocação em seu grimório é reduzido à metade.
+SCULPIR
+SCULPIR
+AGIAS
+AGIAS
+A partir do 2º nível, você pode criar bolsões de segurança
+relativa contra os efeitos de suas magias de evocação.Quando você conjurar uma magia de evocação que afeta outras criaturas que você possa ver, você pode escolher um número delas igual a 1 + o nível da magia. As
+criaturas escolhidas passam automaticamente em seus
+testes de resistência contra a magia conjurada e elas não sofrem dano se normalmente sofreriam metade em um sucesso no teste de resistência.
+sucesso no teste de resistência.
+RUQUE
+RUQUE
+OTENTE
+OTENTE
+A partir do 6º nível, seus truques de dano afetam até
+mesmo as criaturas que evitariam a força daquele efeito
+mesmo as criaturas que evitariam a força daquele efeito
+Quando uma criatura passa em um teste de resistência de
+seus truques, ela sofre metade do dano (se existir), mas não sofre nenhum efeito adicional.

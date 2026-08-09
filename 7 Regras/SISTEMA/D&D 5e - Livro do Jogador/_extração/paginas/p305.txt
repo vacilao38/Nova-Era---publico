@@ -1,0 +1,344 @@
+IABRETE
+Corruptor
+Corruptor
+miúdo (diabo, metamorfo), leal e mau
+miúdo (diabo, metamorfo), leal e mau
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Pontos de Vida
+Pontos de Vida
+10 (3d4 + 3)
+10 (3d4 + 3)
+Deslocamento
+Deslocamento
+6 m,
+voo
+voo
+12 m (6 m em forma de rato; 6 m,
+voo
+voo
+voo
+m em forma de corvo; 6 m,
+escalada
+escalada
+6 m em forma de aranha)
+6 m em forma de aranha)
+FOR
+FOR
+FOR
+FOR
+FOR
+FOR
+FOR
+FOR
+DES
+DES
+DES
+DES
+DES
+DES
+DES
+DES
+DES
+DES
+DES
+DES
+DES
+DES
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+12 (+1)
+12 (+1)
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+Perícias
+Perícias
+Enganação +4, Furtividade +5, Intuição +3, Persuasão +4
+Enganação +4, Furtividade +5, Intuição +3, Persuasão +4
+Resistências a Dano
+frio; concussão, cortante e perfurante de
+ataques
+ataques
+não
+não
+mágic
+mágic
+s que não sejam de prata
+s que não sejam de prata
+Imunidades a Dano
+fogo, veneno
+fogo, veneno
+Sentidos
+Sentidos
+visão no escuro 18 m Percepção passiva 11
+visão no escuro 18 m Percepção passiva 11
+Idiomas
+Idiomas
+Infernal, Comum
+Infernal, Comum
+Nível de Desafio
+Nível de Desafio
+1 (200 XP)
+1 (200 XP)
+Metamorfo
+. O diabrete pode usar sua
+ação para se
+metamorfosear nas formas de besta de um rato, corvo ou aranha,
+ou em sua forma de diabo. Suas estatísticas são as mesmas em
+todas as formas, no entanto, seu ataque é diferente em algumas
+delas. Qualquer equipamento carregado não será transform
+ado.
+Se for morto, o diabrete volta a sua forma de diabo.
+Se for morto, o diabrete volta a sua forma de diabo.
+Resistência à Magia
+. O diabrete tem vantagem em testes de
+resistência contra magias e outros efeitos mágicos.
+resistência contra magias e outros efeitos mágicos.
+Visão de Diabo
+. Escuridão mágica não impede a visão no escuro
+do diabrete.
+do diabrete.
+do diabrete.
+ÇÕES
+ÇÕES
+Ferrão (Mordida em Forma de Besta)
+Ferrão (Mordida em Forma de Besta)
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Corpo com
+Arma
+: +5 para atingir, alcance 1,5 m, uma criatura.
+Acerto
+: 5 (1d4
++ 3) de dano perfurante e o alvo deve realizar um teste de
+resistência de Constituição CD 11,
+sofrendo 10 (3d6) de dano de
+veneno se falhar na resistência ou metade desse dano se obtiver
+sucesso.
+sucesso.
+Invisibilidade
+. O diabrete fica invisível até ele atacar ou sua
+concentração acabar. Qualquer coisa que o diabrete invisível
+estiver carregando ou vestind
+o fica invisível contanto que
+permaneça em contato com ele.
+permaneça em contato com ele.
+permaneça em contato com ele.
+SQUELETO
+Morto
+Morto
+vivo médio, leal e mau
+vivo médio, leal e mau
+Classe de Armadura
+Classe de Armadura
+13 (pedaços de armadura)
+13 (pedaços de armadura)
+Pontos de Vida
+Pontos de Vida
+13 (2d8 + 4)
+13 (2d8 + 4)
+Deslocamento
+Deslocamento
+Deslocamento
+Deslocamento
+FOR
+FOR
+FOR
+FOR
+FOR
+FOR
+FOR
+DES
+DES
+14 (+2)
+14 (+2)
+14 (+2)
+14 (+2)
+14 (+2)
+14 (+2)
+14 (+2)
+14 (+2)
+14 (+2)
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+Vulnerabilidade a Dano
+concussão
+concussão
+Imunidades a Dano
+veneno
+veneno
+Imunidades a Condições
+Imunidades a Condições
+envenenado
+envenenado
+Sentidos
+Sentidos
+visão no escuro 18 m, Percepção passiva 9
+visão no escuro 18 m, Percepção passiva 9
+Idiomas
+Idiomas
+compreende os idiomas que conhecia em vida, mas não
+pode falar
+pode falar
+Nível de Desafio
+Nível de Desafio
+1/4 (50 XP)
+1/4 (50 XP)
+1/4 (50 XP)
+ÇÕES
+ÇÕES
+Arco Curto
+Arco Curto
+Ataque
+à Distância
+à Distância
+com Arma
+: +4 para atingir,
+distância
+24 m/96 m, um alvo.
+Acerto
+: 5 (1d6 + 2) de dano perfurante.
+: 5 (1d6 + 2) de dano perfurante.
+Espada Curta
+Espada Curta
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Corpo com Arma
+: +4 para atingir,
+alcance 1,5 m, um alvo.
+Acerto
+: 5 (1d6 + 2) de dano
+perfurante.
+perfurante.
+perfurante.
+ALCÃO
+Besta miúd
+Besta miúd
+Besta miúd
+imparcial
+imparcial
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Pontos de Vida
+Pontos de Vida
+1 (1d4
+1 (1d4
+1 (1d4
+1 (1d4
+1 (1d4
+Deslocamento
+Deslocamento
+3 m,
+voo
+voo
+voo
+voo
+FOR
+FOR
+FOR
+FOR
+FOR
+FOR
+DES
+DES
+16 (+3)
+16 (+3)
+16 (+3)
+16 (+3)
+16 (+3)
+16 (+3)
+16 (+3)
+16 (+3)
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+14 (+2)
+14 (+2)
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+Perícias
+Perícias
+Percepção +4
+Percepção +4
+Sentidos
+Sentidos
+Percepção passiva 14
+Percepção passiva 14
+Idiomas
+Idiomas
+Idiomas
+Idiomas
+Nível de Desafio
+Nível de Desafio
+0 (10 XP)
+0 (10 XP)
+Visão Aguçada
+. O falcão tem vantagem em testes de Sabedoria
+(Percepção) relacionados à visão.
+(Percepção) relacionados à visão.
+(Percepção) relacionados à visão.
+ÇÕES
+ÇÕES
+Garras
+Garras
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Corpo com Arma
+: +5 para atingir, alcance
+1,5 m, um alvo.
+Acerto
+: 1 de dano cortante.
+: 1 de dano cortante.

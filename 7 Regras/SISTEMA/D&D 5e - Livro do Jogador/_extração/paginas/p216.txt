@@ -1,0 +1,191 @@
+manter o controle da criatura por mais 24 horas, você
+deve conjurar essa magia na criatura novamente, antes
+das 24 horas atuais terminarem. Esse uso da magia
+recupera seu controle sobre até quatro criaturas que você
+tenha animado com essa magia, ao invés de animar uma
+nova.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 4° nível ou superior, você pode animar ou recuperar o controle de
+duas criaturas mortas-vivas para cada nível do espaço acima do 3°. Cada uma dessas criaturas deve vir de um
+corpo ou pilha de ossos diferente.
+corpo ou pilha de ossos diferente.
+NIMAR
+NIMAR
+BJETOS
+5° nível de transmutação
+Tempo de Conjuração: 1 ação Alcance
+: 36 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Objetos ganham vida ao seu comando. Escolha até dez objetos não-mágicos dentro do alcance, que não estejam
+sendo vestidos ou carregados. Alvos Médios contam como
+dois objetos, alvos Grandes contam como quatro objetos e alvos Enormes contam como oito objetos. Você não pode
+animar um objeto maior que Enorme. Cada alvo se anima
+e torna-se uma criatura sob seu controle até o final da magia ou até ser reduzido a 0 pontos de vida.
+Com uma ação bônus, você pode comandar
+mentalmente qualquer criatura que você criar com ess
+mentalmente qualquer criatura que você criar com ess
+magia se a criatura estiver a até 150 metros de você (se
+você controla várias criaturas, você pode comandar
+qualquer ou todas elas ao mesmo tempo, emitindo o mesmo comando para cada uma). Você decide qual ação a
+criatura irá fazer e para onde ela irá se mover durante o
+próximo turno dela, ou você pode emitir um comando geral, como para guardar uma câmara ou corredor
+especifico. Se você não der nenhum comando, as criaturas
+apenas se defenderão contra criaturas hostis. Uma vez que receba uma ordem, a criatura continuará a segui-
+que receba uma ordem, a criatura continuará a segui-
+até a tarefa estar concluída.
+até a tarefa estar concluída.
+STATÍSTICAS DE
+STATÍSTICAS DE
+BJETO
+BJETO
+NIMADO
+NIMADO
+Tamanho
+Tamanho
+Tamanho
+Tamanho
+Tamanho
+Tamanho
+Ataque
+Ataque
+Ataque
+Ataque
+Des
+Des
+Miúdo
+Miúdo
+Miúdo
+Miúdo
+Miúdo
+Miúdo
++8 para atingir, 1d4 + 4 dano
++8 para atingir, 1d4 + 4 dano
++8 para atingir, 1d4 + 4 dano
++8 para atingir, 1d4 + 4 dano
++8 para atingir, 1d4 + 4 dano
++8 para atingir, 1d4 + 4 dano
+Pequeno
+Pequeno
+Pequeno
+Pequeno
+Pequeno
+Pequeno
++6 para atingir, 1d8 + 2 dano
++6 para atingir, 1d8 + 2 dano
++6 para atingir, 1d8 + 2 dano
++6 para atingir, 1d8 + 2 dano
++6 para atingir, 1d8 + 2 dano
++6 para atingir, 1d8 + 2 dano
+Médio
+Médio
+Médio
+Médio
+Médio
+Médio
++5 para atingir, 2d6 + 1
+dano
+dano
+dano
+dano
+dano
+dano
+Grande
+Grande
+Grande
+Grande
+Grande
+Grande
++6 para atingir, 2d10 + 2 dano
++6 para atingir, 2d10 + 2 dano
++6 para atingir, 2d10 + 2 dano
++6 para atingir, 2d10 + 2 dano
++6 para atingir, 2d10 + 2 dano
++6 para atingir, 2d10 + 2 dano
+Enorme
+Enorme
+Enorme
+Enorme
+Enorme
+Enorme
++8 para atingir, 2d12 + 4 dano
++8 para atingir, 2d12 + 4 dano
++8 para atingir, 2d12 + 4 dano
++8 para atingir, 2d12 + 4 dano
++8 para atingir, 2d12 + 4 dano
++8 para atingir, 2d12 + 4 dano
+Um objeto animado é um constructo com CA, pontos
+de vida, ataques, Força e Destreza determinados pelo seu
+tamanho. Sua Constituição é 10 e sua Inteligência e
+Sabedoria são 3 e seu Carisma é 1. Seu deslocamento é 9 metros; se o objeto não tiver pernas ou outros apêndices
+que ele possa usar para locomoção, ao invés, ele terá
+deslocamento de voo 9 metros e poderá planar. Se o objeto estiver firmemente preso a uma superfície ou objeto
+maior, como uma corrente presa a uma parede, seu
+deslocamento será 0. Ele tem percepção às cegas num raio de 9 metros e é cego além dessa distância. Quando o
+objeto animado cair a 0 pontos de vida, ele reverte a sua
+forma normal de objeto e qualquer dano restante é transferido para sua forma de objeto original.
+Se você ordenar a um objeto que ataque, ele pode
+realizar um único ataque corpo-a-corpo contra uma criatura a até 1,5 metro dele. Ele realiza um ataque de
+pancada com um bônus de ataque e dano de concussão
+determinado pelo seu tamanho. O Mestre pode definir que
+um objeto especifico inflige dano cortante ou perfurante, baseado na forma dele.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 6° nível ou superior, você
+pode animar dois objetos adicionais para cada nível do
+espaço acima do 5°.
+espaço acima do 5°.
+NTIPATIA
+NTIPATIA
+IMPATIA
+8° nível de encantamento
+Tempo de Conjuração: 1 hora Alcance
+: 18 metros
+Componentes
+: V, S, M (ou um pedaço de alume
+embebido em vinagre para o efeito de
+antipatia
+, ou uma
+gota de mel para o efeito de
+simpatia
+Duração
+: 10 dias
+Essa magia atrai ou repele as criaturas de sua escolha.Você escolhe um alvo dentro do alcance, tanto um objeto ou criatura Enorme ou menor ou uma área que não seja
+maior que 60 metros cúbicos. Então, especifica um tipo de
+criatura inteligente, como dragões vermelhos, goblins ou vampiros. Você envolve o alvo com uma aura que pode
+atrair ou repelir as criaturas especificas pela duração.
+Escolha antipatia ou simpatia como efeito da aura.
+Antipatia
+. O encantamento faz com que criaturas do
+tipo designado por você sintam-se fortemente impelidos em deixar a área e evitar o alvo. Quando uma dessas criaturas puder ver o alvo ou ficar a 18 metros dele, a
+criatura deve ser bem sucedida num teste de resistência
+de Sabedoria ou ficará amedrontada. A criatura continuará amedrontada enquanto puder ver o alvo ou
+permanecer a 18 metros dele. Enquanto estiver
+amedrontada pelo alvo, a criatura deve usar seu deslocamento para se mover para o local seguro mais
+próximo o qual ela não possa ver o alvo. Se a criatura se
+mover para mais de 18 metros do alvo e não puder vê-lo, a criatura não estará mais amedrontada, mas ela ficará
+amedrontada novamente se voltar a ver o alvo ou ficar a
+18 metros dele.
+Simpatia
+. O encantamento faz com que as criaturas
+especificadas sintam-se fortemente impelidos a se aproximar do alvo enquanto estiverem a 18 metros dele ou puderem vê-lo. Quando uma dessas criaturas puder
+ver o alvo ou ficar a 18 metros dele, a criatura deve ser
+bem sucedida num teste de resistência de Vontade ou usará seu deslocamento em cada um dos seus turnos para
+entrar na área ou se mover até o alcance do alvo. Quando
+a criatura tiver feito isso, ela não poderá se afastar do alvo voluntariamente.
+Se o alvo causar dano ou ferir a criatura afetada de
+alguma forma, a criatura afetada pode realizar um novo teste de resistência de Sabedoria para terminar o efeito,
+como descrito abaixo.
+Terminando o Efeito
+. Se uma criatura afetada
+terminar se turno enquanto não estiver a até 18 metros do alvo ou não for capaz de vê-lo, a criatura faz um teste
+de resistência de Sabedoria. Em um sucesso, a criatura não estará mais afetada pelo alvo e reconhecerá o
+sentimento de repugnância ou atração como mágico. Além
+disso, uma criatura afetada pela magia tem direito a outro teste de resistência de Sabedoria a cada 24 horas
+enquanto a magia durar.
+Uma criatura que obtenha sucesso na resistência
+contra esse efeito ficará imune a ele por 1 minuto, depois desse tempo, ela pode ser afetada novamente.

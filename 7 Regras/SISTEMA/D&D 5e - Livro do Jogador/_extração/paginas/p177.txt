@@ -1,0 +1,85 @@
+Forçar para abrir uma porta emperrada, trancada ou
+bloqueada
+bloqueada
+Libertar-se de amarras
+Libertar-se de amarras
+Forçar-se através de um túnel que é muito pequeno
+Forçar-se através de um túnel que é muito pequeno
+Segurar-se em um vagão enquanto é arrastado atrás
+dele
+dele
+Tombar uma estátua
+Tombar uma estátua
+Impedir uma grande pedra de rolar
+Impedir uma grande pedra de rolar
+OGADAS DE
+OGADAS DE TAQUE E TAQUE E
+TAQUE E
+Você adiciona seu modificador de Força em suas jogadas de ataque e dano quando estiver atacando com uma arma corpo-a-corpo, tal como uma maça, um machado de guerra
+ou uma azagaia. Você usa armas de ataque corpo-a-corpo
+para realizar ataques em um combate corpo-a-corpo e algumas dessas armas podem ser arremessadas para realizar um ataque à distância.
+realizar um ataque à distância.
+RGUENDO E
+RGUENDO E
+ARREGANDO
+Seu valor de Força determina a quantidade de peso que
+você pode suportar. Os termos a seguir definem o que
+você pode levantar ou carregar.
+Capacidade de Carga
+Capacidade de Carga
+Sua capacidade de carga
+máxima é igual a 7,5 vezes o seu valor de Força. Esse é máxima é igual a 7,5 vezes o seu valor de Força. Esse é
+peso em kg que você pode carregar, o que é alto o suficiente para que a maioria dos personagens geralmente não tenha que se preocupar com isso.
+Puxar, Arrastar e Levantar
+Puxar, Arrastar e Levantar
+Você pode arrastar,
+puxar ou erguer um peso em kg até duas vezes a sua capacidade de carga (ou 15 vezes o seu valor de Força). Ao empurrar ou arrastar um peso superior a sua capacidade de carga, o seu deslocamento é reduzido para 1,5 metro.
+Tamanho e Força
+Tamanho e Força
+Criaturas grandes podem
+suportar mais peso, enquanto que criaturas
+Miúdas
+podem carregar menos. Para cada categoria de tamanho acima de Médio, a capacidade de carga da criatura é dobrada, assim como o montante de peso que ela pode empurrar, puxar ou levantar. Para uma criatura
+Miúda
+Miúda
+esses pesos são reduzidos pela metade.
+esses pesos são reduzidos pela metade.
+ARIAÇÃO
+ARIAÇÃO
+ARIAÇÃO
+OBRECARGA
+As regras para erguer e carregar são intencionalmente simples. Se você está à procura de regras mais detalhadas para determinar como um personagem é prejudicado pelo peso do equipamento que ele carrega, eis aqui uma variação das regras. Quando você usar essa variação
+variação das regras. Quando você usar essa variação
+ignore a coluna Força da tabela Armaduras no capítulo 5.
+Se você carregar peso em kg superior a 2,5 vezes o seu
+valor de Força, você está com
+sobrecarga
+, o que significa
+que o seu deslocamento diminui 3 metros.
+Se você carregar um peso em kg que exceda em 5 vezes
+o seu valor de Força até a sua capacidade de carga
+máxima (7,5 vezes o valor de Força), você está com
+sobrecarga pesada
+, o que significa que seu
+deslocamento diminui 6 metros e você tem desvantagem em testes de habilidade, jogadas de ataque e testes de resistência que usem Força, Destreza ou Constituição.
+resistência que usem Força, Destreza ou Constituição.
+ESTREZA
+ESTREZA
+A Destreza mede a agilidade, os reflexos e o equilíbrio.
+A Destreza mede a agilidade, os reflexos e o equilíbrio.
+ESTES DE
+ESTES DE
+ESTREZA
+Um teste de Destreza representa a tentativa de se mover com agilidade, rapidez ou em silêncio, ou para evitar cair quando você andar por uma estrada traiçoeira. As perícias Acrobacia, Furtividade e Prestidigitação, refletem aptidão em certos tipos de testes de Destreza.
+Acrobacia
+Acrobacia
+Um teste de Destreza (Acrobacia) abrange
+uma tentativa de permanecer de pé em uma situação
+complicada, como tentar correr sobre uma camada de
+gelo, equilibrar-se na corda bamba ou ficar de pé no convés de um navio que balança. O Mestre também pode pedir um teste de Destreza (Acrobacia) para ver se você é capaz de realizar acrobacias, como cambalhotas e saltos mortais.
+Furtividade
+Furtividade
+Um teste de Destreza (Furtividade) é
+realizado para tentar esconder-se de inimigos, esgueirar-se por guardas, escapar sem ser notado, ou aproximar-
+se por guardas, escapar sem ser notado, ou aproximar-
+de alguém sem ser visto ou ouvido.

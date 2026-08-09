@@ -1,0 +1,159 @@
+ESISTÊNCIA E
+ESISTÊNCIA E
+ULNERABILIDADE A
+ULNERABILIDADE A
+ANO
+ANO
+Algumas criaturas e objetos são extremamente difíceis ou
+muito fáceis de machucar com certos tipos de dano.
+Se uma criatura ou objeto tem
+resistência
+a um tipo
+de dano, aquele tipo de dano será reduzido pela metade contra ela. Se uma criatura ou objeto tem
+vulnerabilidade
+a um tipo de dano, aquele tipo de dano
+será dobrado contra ela.
+Resistência e vulnerabilidade são aplicados depois de
+todos os modificadores de dano. Por exemplo, uma criatura tem resistência a dano de concussão e é acertada
+por um ataque que causa 25 de dano de concussão. A
+criatura também está dentro de uma aura mágica que reduz todo o dano em 5. Os 25 de dano primeiro são
+reduzidos em 5 e depois reduzidos pela metade, então a
+criatura sofre 10 de dano.
+Múltiplas resistências e vulnerabilidades que afetam o
+mesmo tipo de dano contam apenas como uma. Por exemplo, se uma criatura tem resistência a dano de fogo exemplo, se uma criatura tem resistência a dano de fogo também tem resistência a todo dano não-mágico, o dano
+de fogo não-mágico será reduzido pela metade e não por
+três quartos.
+três quartos.
+três quartos.
+três quartos.
+A não ser que resulte em morte, o dano não é
+permanente. Mesmo a morte é reversível através de magias poderosas. Descanso recupera pontos de vida de uma criatura (como explicado no capítulo 8), e métodos mágicos, como a magia
+curar ferimentos
+curar ferimentos curar ferimentos
+uma
+poção de
+cura
+, podem remover dano instantaneamente.
+Quando uma criatura recebe qualquer tipo de cura, Quando uma criatura recebe qualquer tipo de cura,
+pontos de vida recuperados são adicionados aos pontos de vida atuais. Os pontos de vida de uma criatura não podem exceder o valor máximo da criatura, então qualquer ponto
+de vida recuperado que exceda o limite é perdido. Por
+exemplo, um druida cura 8 pontos de vida de um patrulheiro. Se os pontos de vida atuais do patrulheiro
+forem 14 e seu máximo de pontos de vida for 20, ele
+recupera 6 pela cura do druida, não 8.
+Uma criatura que morreu não pode recuperar pontos
+de vida até que uma magia como
+reviver
+tenha
+restaurado sua vida.
+restaurado sua vida.
+AINDO A
+0 P
+ONTOS DE
+ONTOS DE
+ONTOS DE
+ONTOS DE
+ONTOS DE
+Quando você cai a 0 pontos de vida, ou você morre direto
+ou fica inconsciente, como é explicado nas seções
+seguintes.
+seguintes.
+ORTE
+ORTE
+NSTANTÂNEA
+Dano maciço pode matar instantaneamente. Quando um dano reduz seus pontos de vida a 0 e ainda há dano
+sobrando, você morre se o restante do dano que sobrou for
+igual ou maior do que seu máximo de pontos de vida.
+Por exemplo, uma clériga com um máximo de pontos
+de vida iguais a 12, está com 6 pontos de vida atuais. Se ela sofrer 18 de dano por um ataque, ela é reduzida a 0 pontos de vida, mas ainda sobraram 12 de dano. Como o
+dano que restou equivale ao seu máximo de pontos de
+vida, a clériga morre.
+vida, a clériga morre.
+AINDO
+AINDO
+NCONSCIENTE
+Se um dano reduzir seus pontos de vida a 0 e não mata-lo, você cai inconsciente (veja o apêndice A). Essa
+inconsciência acaba quando você recupera quaisquer
+pontos de vida.
+pontos de vida.
+ESCREVENDO OS
+ESCREVENDO OS
+FEITOS D
+FEITOS D
+FEITOS D
+FEITOS D
+ANO
+ANO
+Mestres descrevem a perda
+de pontos de vida de maneiras
+de pontos de vida de maneiras
+diferentes. Quando seus pontos de vida atuais estão entre a
+diferentes. Quando seus pontos de vida atuais estão entre a
+metade e o valor máximo, você tipicamente não mostra
+metade e o valor máximo, você tipicamente não mostra
+sinais
+sinais
+sinais
+ferimento. Quando seus pontos de vida caem abaixo da
+ferimento. Quando seus pontos de vida caem abaixo da
+metade,
+você mostra sinais de desgaste, como corte
+s e
+s e
+contusões. Um
+ataque que reduz você a 0 pontos de vida
+ataque que reduz você a 0 pontos de vida
+acerta
+acerta
+o diretamente,
+deixando um ferimento que sangra, um
+deixando um ferimento que sangra, um
+trauma ou simplesmente
+trauma ou simplesmente
+deixando
+deixando
+inconsciente.
+inconsciente.
+ESTES DE
+ESTES DE
+ESISTÊNCIA
+ESISTÊNCIA
+ONTRA A
+ONTRA A
+ORTE
+Sempre que você começar seu turno com 0 pontos de vida,
+você precisa realizar um teste de resistência especial,
+chamado de
+teste de resistência contra a morte
+, para
+determinar se você rasteja para a morte ou se apega à
+vida. Diferente de outros testes de resistência, esse teste
+não é vinculado a qualquer valor de habilidade. Você está
+nas mãos do destino, auxiliado apenas por magias e características que melhoram suas chances de ser bem
+sucedido em um teste de resistência.
+Você joga um d20. Se tirar 10 ou mais, você é bem
+sucedido. Caso contrário, você fracassa. Um sucesso ou um fracasso não tem efeito por si só. Em um terceiro
+sucesso, você estabiliza (veja abaixo). Em seu terceiro fracasso, você morre. Os sucessos e fracassos não
+precisam ser consecutivos, você deve manter ambos
+anotados até que você tenha três de um mesmo tipo. O número dos dois é zerado quando você recupera quaisquer
+pontos de vida ou quando se estabiliza.
+Rolando 1 ou 20
+Rolando 1 ou 20
+Quando você faz um teste de
+resistência contra a morte e obtém um 1 no d20, isso conta como dois fracassos. Se obter um 20 no d20, você
+recupera 1 ponto de vida.
+Sofrendo Dano com 0 Pontos de Vida
+Sofrendo Dano com 0 Pontos de Vida
+Se você
+sofrer qualquer dano enquanto estiver com 0 pontos de vida, você sofre um fracasso no teste de resistência contra a morte. Se o dano for um acerto crítico, você sofre dois
+fracassos. Se o dano for equivalente ou exceder seu
+máximo de pontos de vida, você morre instantaneamente.
+máximo de pontos de vida, você morre instantaneamente.
+STABILIZANDO UMA
+STABILIZANDO UMA
+RIATURA
+A melhor maneira de salvar uma criatura com 0 pontos
+de vida é curá-la. Se a cura estiver indisponível, a criatura pode pelo menos ser estabilizada para que não
+morra por fracassos nos testes de resistência contra a
+morte.
+Você pode usar sua ação para administrar primeiros
+socorros para uma criatura inconsciente e tentar estabilizá-la, o que exige um teste de Sabedoria(Medicina) CD 10.

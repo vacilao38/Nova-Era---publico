@@ -1,0 +1,988 @@
+QUIPAMENTO
+QUIPAMENTO
+Item
+Item
+Custo
+Custo
+Peso
+Peso
+Ábaco
+Ábaco
+Ábaco
+Ábaco
+Ábaco
+Ábaco
+Ábaco
+Ábaco
+Ábaco
+Ábaco
+Ácido (vidro)
+Ácido (vidro)
+Ácido (vidro)
+Ácido (vidro)
+Ácido (vidro)
+Ácido (vidro)
+Ácido (vidro)
+Ácido (vidro)
+Ácido (vidro)
+Ácido (vidro)
+Água benta (frasco)
+Água benta (frasco)
+Água benta (frasco)
+Água benta (frasco)
+Água benta (frasco)
+Água benta (frasco)
+Água benta (frasco)
+Água benta (frasco)
+Água benta (frasco)
+Água benta (frasco)
+Algemas
+Algemas
+Algemas
+Algemas
+Algemas
+Algemas
+Algemas
+Algemas
+Algemas
+Algemas
+Algibeira
+Algibeira
+Algibeira
+Algibeira
+Algibeira
+Algibeira
+Algibeira
+Algibeira
+Algibeira
+Algibeira
+Aljava
+Aljava
+Aljava
+Aljava
+Aljava
+Aljava
+Aljava
+Aljava
+Aljava
+Aljava
+Ampulheta
+Ampulheta
+Ampulheta
+Ampulheta
+Ampulheta
+Ampulheta
+Ampulheta
+Ampulheta
+Ampulheta
+Ampulheta
+Antídoto (vidro)
+Antídoto (vidro)
+Antídoto (vidro)
+Antídoto (vidro)
+Antídoto (vidro)
+Antídoto (vidro)
+Antídoto (vidro)
+Antídoto (vidro)
+Antídoto (vidro)
+Apito de advertência
+Apito de advertência
+Apito de advertência
+Apito de advertência
+Apito de advertência
+Apito de advertência
+Apito de advertência
+Apito de advertência
+Apito de advertência
+Apito de advertência
+Aríete
+Aríete
+portátil
+portátil
+portátil
+portátil
+portátil
+portátil
+portátil
+portátil
+portátil
+portátil
+Armadilha de caça
+Armadilha de caça
+Armadilha de caça
+Armadilha de caça
+Armadilha de caça
+Armadilha de caça
+Armadilha de caça
+Armadilha de caça
+Armadilha de caça
+Armadilha de caça
+Arpéu
+Arpéu
+Arpéu
+Arpéu
+Arpéu
+Arpéu
+Arpéu
+Arpéu
+Arpéu
+Arpéu
+Balança de mercador
+Balança de mercador
+Balança de mercador
+Balança de mercador
+Balança de mercador
+Balança de mercador
+Balança de mercador
+Balança de mercador
+Balança de mercador
+Balança de mercador
+Balde
+Balde
+Balde
+Balde
+Balde
+Balde
+Balde
+Balde
+Balde
+Balde
+Balde
+Barril
+Barril
+Barril
+Barril
+Barril
+Barril
+Barril
+Barril
+Barril
+Barril
+Baú
+Baú
+Baú
+Baú
+Baú
+Baú
+Baú
+Baú
+Baú
+Baú
+Bolsa de componentes
+Bolsa de componentes
+Bolsa de componentes
+Bolsa de componentes
+Bolsa de componentes
+Bolsa de componentes
+Bolsa de componentes
+Bolsa de componentes
+Bolsa de componentes
+Bolsa de componentes
+Caixa de Fogo
+Caixa de Fogo
+Caixa de Fogo
+Caixa de Fogo
+Caixa de Fogo
+Caixa de Fogo
+Caixa de Fogo
+Caixa de Fogo
+Caixa de Fogo
+Caixa de Fogo
+Caneca
+Caneca
+Caneca
+Caneca
+Caneca
+Caneca
+Caneca
+Caneca
+Caneca
+Caneca
+Caneta tinteiro
+Caneta tinteiro
+Caneta tinteiro
+Caneta tinteiro
+Caneta tinteiro
+Caneta tinteiro
+Caneta tinteiro
+Caneta tinteiro
+Cantil
+Cantil
+Cantil
+Cantil
+Cantil
+Cantil
+Cantil
+Cantil
+Cantil
+Cantil
+Cesto
+Cesto
+4pp
+4pp
+4pp
+4pp
+4pp
+4pp
+Cobertor de inverno
+Cobertor de inverno
+Cobertor de inverno
+Cobertor de inverno
+Cobertor de inverno
+Cobertor de inverno
+Cobertor de inverno
+Cobertor de inverno
+Cobertor de inverno
+Cobertor de inverno
+Corda de cânhamo (15 metros)
+Corda de cânhamo (15 metros)
+Corda de cânhamo (15 metros)
+Corda de cânhamo (15 metros)
+Corda de cânhamo (15 metros)
+Corda de cânhamo (15 metros)
+Corda de cânhamo (15 metros)
+Corda de cânhamo (15 metros)
+Corda de cânhamo (15 metros)
+Corda de cânhamo (15 metros)
+Cor
+da de seda (15 metros)
+da de seda (15 metros)
+da de seda (15 metros)
+da de seda (15 metros)
+da de seda (15 metros)
+da de seda (15 metros)
+da de seda (15 metros)
+da de seda (15 metros)
+da de seda (15 metros)
+da de seda (15 metros)
+Corrente (3 metros)
+Corrente (3 metros)
+Corrente (3 metros)
+Corrente (3 metros)
+Corrente (3 metros)
+Corrente (3 metros)
+Corrente (3 metros)
+Corrente (3 metros)
+Corrente (3 metros)
+Corrente (3 metros)
+Equipamento de pescaria
+Equipamento de pescaria
+Equipamento de pescaria
+Equipamento de pescaria
+Equipamento de pescaria
+Equipamento de pescaria
+Equipamento de pescaria
+Equipamento de pescaria
+Equipamento de pescaria
+Equipamento de pescaria
+Escada (3 metros)
+Escada (3 metros)
+Escada (3 metros)
+Escada (3 metros)
+Escada (3 metros)
+Escada (3 metros)
+Escada (3 metros)
+Escada (3 metros)
+Escada (3 metros)
+Escada (3 metros)
+Esferas (
+sacola
+sacola
+com 1
+com 1
+com 1
+com 1
+com 1
+com 1
+com 1
+com 1
+com 1
+com 1
+com 1
+com 1
+Espelho de aço
+Espelho de aço
+Espelho de aço
+Espelho de aço
+Espelho de aço
+Espelho de aço
+Espelho de aço
+Espelho de aço
+Espelho de aço
+Espelho de aço
+Estrepes (bolsa com 20)
+Estrepes (bolsa com 20)
+1po
+1po
+1po
+1po
+1po
+1po
+Fechadura
+Fechadura
+Fechadura
+Fechadura
+Fechadura
+Fechadura
+Fechadura
+Fechadura
+Fechadura
+Fechadura
+Foco arcano
+Foco arcano
+Bastão
+Bastão
+Bastão
+Bastão
+Bastão
+Bastão
+Bastão
+Bastão
+Bastão
+Bastão
+Cajado
+Cajado
+Cajado
+Cajado
+Cajado
+Cajado
+Cajado
+Cajado
+Cajado
+Cajado
+Cristal
+Cristal
+Cristal
+Cristal
+Cristal
+Cristal
+Cristal
+Cristal
+Cristal
+Cristal
+Orbe
+Orbe
+Orbe
+Orbe
+Orbe
+Orbe
+Orbe
+Orbe
+Orbe
+Orbe
+Varinha
+Varinha
+Varinha
+Varinha
+Varinha
+Varinha
+Varinha
+Varinha
+Varinha
+Varinha
+Foco druídico
+Foco druídico
+Cajado de madeira
+Cajado de madeira
+Cajado de madeira
+Cajado de madeira
+Cajado de madeira
+Cajado de madeira
+Cajado de madeira
+Cajado de madeira
+Cajado de madeira
+Cajado de madeira
+Ramo de visco
+Ramo de visco
+Ramo de visco
+Ramo de visco
+Ramo de visco
+Ramo de visco
+Ramo de visco
+Ramo de visco
+Ramo de visco
+Totem
+Totem
+Totem
+Totem
+Totem
+Totem
+Totem
+Totem
+Varinha
+Varinha
+de teixo
+de teixo
+de teixo
+de teixo
+de teixo
+de teixo
+de teixo
+de teixo
+de teixo
+de teixo
+Fogo alquímico (frasc
+Fogo alquímico (frasc
+Fogo alquímico (frasc
+Fogo alquímico (frasc
+Fogo alquímico (frasc
+Fogo alquímico (frasc
+Fogo alquímico (frasc
+Fogo alquímico (frasc
+Fogo alquímico (frasc
+Fogo alquímico (frasc
+Fogo alquímico (frasc
+Frasco
+Frasco
+Frasco
+Frasco
+Frasco
+Frasco
+Frasco
+Frasco
+Frasco
+Frasco
+Garrafa de vidro
+Garrafa de vidro
+1 po
+1 po
+1 po
+1 po
+Giz (1 peça)
+Giz (1 peça)
+Giz (1 peça)
+Giz (1 peça)
+Giz (1 peça)
+Giz (1 peça)
+Giz (1 peça)
+Giz (1 peça)
+Grimório
+Grimório
+Grimório
+Grimório
+Grimório
+Grimório
+Grimório
+Grimório
+Grimório
+Grimório
+Grimório
+Grimório
+Grimório
+Grimório
+Grimório
+Grimório
+Grimório
+Grimório
+Grimório
+Grimório
+Kit de escalada
+Kit de escalada
+Kit de escalada
+Kit de escalada
+Kit de escalada
+Kit de escalada
+Kit de escalada
+Kit de escalada
+Kit de escalada
+Kit de escalada
+Kit de primeiros
+Kit de primeiros
+socorros
+socorros
+socorros
+socorros
+socorros
+socorros
+socorros
+socorros
+socorros
+socorros
+Item
+Item
+Custo
+Custo
+Peso
+Peso
+Lâmpada
+Lâmpada
+Lâmpada
+Lâmpada
+Lâmpada
+Lâmpada
+Lâmpada
+Lâmpada
+Lâmpada
+Lâmpada
+Lanterna coberta
+Lanterna coberta
+Lanterna coberta
+Lanterna coberta
+Lanterna coberta
+Lanterna coberta
+Lanterna coberta
+Lanterna coberta
+Lanterna coberta
+Lanterna coberta
+Lanterna coberta
+Lanterna furta
+Lanterna furta
+fogo
+fogo
+fogo
+fogo
+fogo
+fogo
+fogo
+fogo
+fogo
+fogo
+Lente de aumento
+Lente de aumento
+Lente de aumento
+Lente de aumento
+Lente de aumento
+Lente de aumento
+Lente de aumento
+Lente de aumento
+Livro
+Livro
+Livro
+Livro
+Livro
+Livro
+Livro
+Livro
+Livro
+Livro
+Luneta
+Luneta
+Luneta
+Luneta
+Luneta
+Luneta
+Luneta
+Luneta
+Luneta
+Luneta
+Luneta
+Luneta
+Manto
+Manto
+Manto
+Manto
+Manto
+Manto
+Manto
+Manto
+Manto
+Manto
+Marreta
+Marreta
+Marreta
+Marreta
+Marreta
+Marreta
+Marreta
+Marreta
+Marreta
+Marreta
+Martelo
+Martelo
+Martelo
+Martelo
+Martelo
+Martelo
+Martelo
+Martelo
+Martelo
+Martelo
+Mochila
+Mochila
+Mochila
+Mochila
+Mochila
+Mochila
+Mochila
+Mochila
+Mochila
+Mochila
+Munição
+Munição
+Balas de Funda (20)
+Balas de Funda (20)
+Balas de Funda (20)
+Balas de Funda (20)
+Balas de Funda (20)
+Balas de Funda (20)
+Balas de Funda (20)
+Balas de Funda (20)
+Balas de Funda (20)
+Balas de Funda (20)
+Flechas (20)
+Flechas (20)
+Flechas (20)
+Flechas (20)
+Flechas (20)
+Flechas (20)
+Flechas (20)
+Flechas (20)
+Flechas (20)
+Flechas (20)
+Virotes (20)
+Virotes (20)
+Virotes (20)
+Virotes (20)
+Virotes (20)
+Virotes (20)
+Virotes (20)
+Virotes (20)
+Virotes (20)
+Virotes (20)
+Zarabatana (50)
+Zarabatana (50)
+Zarabatana (50)
+Zarabatana (50)
+Zarabatana (50)
+Zarabatana (50)
+Zarabatana (50)
+Zarabatana (50)
+Zarabatana (50)
+Zarabatana (50)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Óleo (frasco)
+Panela de ferro
+Panela de ferro
+Panela de ferro
+Panela de ferro
+Panela de ferro
+Panela de ferro
+Panela de ferro
+Panela de ferro
+Panela de ferro
+Panela de ferro
+Papel (uma folha)
+Papel (uma folha)
+Papel (uma folha)
+Papel (uma folha)
+Papel (uma folha)
+Papel (uma folha)
+Papel (uma folha)
+Papel (uma folha)
+Parafina
+Parafina
+Parafina
+Parafina
+Parafina
+Parafina
+Parafina
+Parafina
+Pé de cabra
+Pé de cabra
+Pé de cabra
+Pé de cabra
+Pé de cabra
+Pé de cabra
+Pé de cabra
+Pé de cabra
+Pé de cabra
+Pé de cabra
+Pedra de amolar
+Pedra de amolar
+1 pc
+1 pc
+1 pc
+1 pc
+Perfume (
+frasco
+frasco
+frasco
+frasco
+frasco
+frasco
+frasco
+frasco
+frasco
+Pergaminho (
+uma folha)
+uma folha)
+uma folha)
+uma folha)
+uma folha)
+uma folha)
+uma folha)
+uma folha)
+Picareta
+Picareta
+Picareta
+Picareta
+Picareta
+erador
+erador
+erador
+erador
+erador
+erador
+erador
+erador
+erador
+erador
+Píton
+Píton
+Píton
+Píton
+Píton
+Píton
+Píton
+Píton
+Poção de cura
+Poção de cura
+Poção de cura
+Poção de cura
+Poção de cura
+Poção de cura
+Poção de cura
+Poção de cura
+Poção de cura
+Poção de cura
+Porta mapas ou pergaminhos
+Porta mapas ou pergaminhos
+Porta mapas ou pergaminhos
+Porta mapas ou pergaminhos
+Porta mapas ou pergaminhos
+Porta mapas ou pergaminhos
+Porta mapas ou pergaminhos
+Porta mapas ou pergaminhos
+Porta mapas ou pergaminhos
+Porta mapas ou pergaminhos
+Porta virotes
+Porta virotes
+Porta virotes
+Porta virotes
+Porta virotes
+Porta virotes
+Porta virotes
+Porta virotes
+Porta virotes
+Porta virotes
+Pregos
+Pregos
+Pregos
+Pregos
+ferro (10)
+ferro (10)
+ferro (10)
+ferro (10)
+ferro (10)
+ferro (10)
+ferro (10)
+ferro (10)
+ferro (10)
+ferro (10)
+Rações de viagem (1 dia)
+Rações de viagem (1 dia)
+Rações de viagem (1 dia)
+Rações de viagem (1 dia)
+Rações de viagem (1 dia)
+Rações de viagem (1 dia)
+Rações de viagem (1 dia)
+Rações de viagem (1 dia)
+Rações de viagem (1 dia)
+Rações de viagem (1 dia)
+Robes
+Robes
+1 po
+1 po
+1 po
+1 po
+Roldana
+Roldana
+e polia
+e polia
+1 po
+1 po
+2,5 kg
+2,5 kg
+Roupas comuns
+Roupas comuns
+5 pp
+5 pp
+1,5 kg
+1,5 kg
+Roupas de viajante
+Roupas de viajante
+2 po
+2 po
+2 po
+2 po
+Roupas
+Roupas
+Roupas
+Roupas
+entretenimento
+entretenimento
+5 po
+5 po
+5 po
+5 po
+Roupas finas
+Roupas finas
+15 po
+15 po
+15 po
+15 po
+Sabão
+Sabão
+Sabão
+Sabão
+Sabão
+Sabão
+Sabão
+Sabão
+Saco
+Saco
+Saco
+Saco
+Saco
+Saco
+Saco
+Saco
+Saco
+Saco
+Saco de dormir
+Saco de dormir
+Saco de dormir
+Saco de dormir
+Saco de dormir
+Saco de dormir
+Saco de dormir
+Saco de dormir
+Saco de dormir
+Saco de dormir
+Símbolo
+Símbolo
+Símbolo
+agrado
+agrado
+Amuleto
+Amuleto
+Amuleto
+Amuleto
+Amuleto
+Amuleto
+Amuleto
+Amuleto
+Amuleto
+Amuleto
+Emblema
+Emblema
+Emblema
+Emblema
+Emblema
+Emblema
+Emblema
+Emblema
+Relicário
+Relicário
+Relicário
+Relicário
+Relicário
+Relicário
+Relicário
+Relicário
+Relicário
+Relicário
+Sinete
+Sinete
+Sinete
+Sinete
+Sinete
+Sinete
+Sinete
+Sinete
+Sino
+Sino
+Sino
+Sino
+Sino
+Sino
+Sino
+Sino
+Tenda para duas pessoas
+Tenda para duas pessoas
+Tenda para duas pessoas
+Tenda para duas pessoas
+Tenda para duas pessoas
+Tenda para duas pessoas
+Tenda para duas pessoas
+Tenda para duas pessoas
+Tenda para duas pessoas
+Tenda para duas pessoas
+Tocha
+Tocha
+Tocha
+Tocha
+Tocha
+Tocha
+Tocha
+Tocha
+Tocha
+Tocha
+Tinta (
+frasco
+frasco
+de 30ml)
+de 30ml)
+de 30ml)
+de 30ml)
+de 30ml)
+de 30ml)
+de 30ml)
+de 30ml)
+de 30ml)
+Vara (3 metros)
+Vara (3 metros)
+Vara (3 metros)
+Vara (3 metros)
+Vara (3 metros)
+Vara (3 metros)
+Vara (3 metros)
+Vara (3 metros)
+Vara (3 metros)
+Vara (3 metros)
+Vela
+Vela
+Vela
+Vela
+Vela
+Vela
+Vela
+Vela
+Veneno básico (
+frasco
+frasco
+frasco
+frasco
+frasco
+frasco
+frasco
+frasco
+frasco

@@ -1,0 +1,184 @@
+APÍTULO
+APÍTULO
+APÍTULO APÍTULO
+PÇÕES DE
+PÇÕES DE
+ERSONALIZAÇÃO
+COMBINAÇÃO DE VALORES DE HABILIDADE, RAÇA,
+classes e antecedentes definem as capacidades
+do seu personagem no jogo e, os detalhes pessoais que você criou, diferenciam seu personagem de todos os outros personagens.Mesmo dentro da sua classe e
+raça, você terá opções de afinar o que seu personagem é
+capaz de fazer. Mas, esse capítulo é para jogadores que
+capaz de fazer. Mas, esse capítulo é para jogadores que
+capaz de fazer. Mas, esse capítulo é para jogadores que
+com a permissão do Mestre
+com a permissão do Mestre
+querem dar um passo
+adiante.
+Esse capítulo define dois conjuntos opcionais de regras
+para personalizar seu personagem: multiclasse e talentos.
+Multiclasse permite que você combine duas classes juntas
+e os talentos são opções especiais que você pode escolher,
+ao invés de incrementar seus valores de habilidade, à medida que você ganha níveis. Seu Mestre decide quais dessas opções estão disponíveis na campanha.
+dessas opções estão disponíveis na campanha.
+ULTICLASSE
+Multiclasse permite que você ganhe níveis em múltiplas classes. Fazer isso, permite que você misture as habilidades dessas classes para conceber um conceito de personagem que poderia não ser refletido em uma das opções de classe padrão.
+Com essa regra, você tem a opção de ganhar um nível
+em uma nova classe sempre que você avançar de nível, ao invés de ganhar um nível da sua classe atual. Seus níveis em todas as classes são somados para determinar seu nível de personagem. Por exemplo, se você tiver três níveis de mago e dois de guerreiro, você será um
+personagem de 5° nível.
+À medida que você avança de nível, você pode
+permanecer, primariamente, um membro da sua classe
+original, com alguns níveis em outra classe, ou você pode
+mudar de curso completamente, nunca mais evoluindo a classe que você deixou pra trás. Você pode, até mesmo,
+começar a progredir em uma terceira ou quarta classe.
+Comparando com um personagem de única classe d
+Comparando com um personagem de única classe d
+mesmo nível, você sacrificou parte do seu foco em troca de versatilidade.
+Você só recebe o equipamento inicial da sua primeira
+classe.
+classe.
+XEMP
+XEMP
+O DE
+O DE
+ULTICLASSE
+ULTICLASSE
+Gary está jogando com um guerreiro de 4° nível. Quando seu
+personagem adquire pontos de experiência suficientes para
+alcançar o 5° nível, Gary decide que seu personagem se tornará
+multiclasse, ao invés de continuar a progredir como guerreiro. O
+guerreiro d
+e Gary tem gasto bastante tempo com o ladino de
+Dave e tem, até mesmo, feito alguns trabalhos ao seu lado para a
+guilda de ladrões local, como um brutamontes. Gary decide que
+seu personagem irá
+fazer multiclasse com a classe ladino e, então,
+seu personagem
+seu personagem
+se torna um guerreiro de 4° nível e ladino de 1°
+nível (escrito assim guerreiro 4/ladino 1).
+nível (escrito assim guerreiro 4/ladino 1).
+Quando o personagem de Gary adquirir experiência suficiente
+para alcançar o 6° nível, ele poderá decidir entre adicionar outro
+nível de guerreiro (se tornando um
+guerreiro 5/ladino 1), outro
+nível de ladino (se tornando um guerreiro 4/ladino 2), ou um nível
+em uma terceira classe, talvez intrometendo
+em uma terceira classe, talvez intrometendo
+se na área de
+feitiçaria através de um tomo de misterioso conhecimento que ele
+adquiriu (se tornando um guerreiro 4/
+ladino 1/mago 1).
+ladino 1/mago 1).
+ladino 1/mago 1).
+ladino 1/mago 1).
+ladino 1/mago 1).
+ladino 1/mago 1).
+EQUISITOS
+EQUISITOS
+Para se qualificar para uma nova classe, você deve atender aos pré-requisitos de valor de habilidade tanto para sua classe atual, quanto para a nova classe, como mostrado na tabela Pré-Requisitos de Multiclasse. Por exemplo, um bárbaro que decida fazer multiclasse com a
+classe druida, deve ter ambos os valores de Força e
+Sabedoria 13 ou maior. Sem o treinamento completo que um personagem inicial recebe, você deve ter um estudo rápido da sua nova classe, tendo uma aptidão natural que é refletida por um valor de habilidade maior que a média.
+é refletida por um valor de habilidade maior que a média.
+é refletida por um valor de habilidade maior que a média.
+é refletida por um valor de habilidade maior que a média.
+é refletida por um valor de habilidade maior que a média.
+EQUISITOS DE
+EQUISITOS DE
+ULTICLASSE
+ULTICLASSE
+Classe
+Classe
+Valor de Habilidade Mínimo
+Valor de Habilidade Mínimo
+Bárbaro
+Bárbaro
+Força 13
+Força 13
+Bardo
+Bardo
+Carisma 13
+Carisma 13
+Bruxo
+Bruxo
+Carisma 13
+Carisma 13
+Clérigo
+Clérigo
+Sabedoria 13
+Sabedoria 13
+Druida
+Druida
+Sabedoria 13
+Sabedoria 13
+Feiticeiro
+Feiticeiro
+Carisma 13
+Carisma 13
+Guerreiro
+Guerreiro
+Força 13 ou Destreza 13
+Força 13 ou Destreza 13
+Ladino
+Ladino
+Destreza 13
+Destreza 13
+Mago
+Mago
+Inteligência 13
+Inteligência 13
+Monge
+Monge
+Destreza 13 e Sabedoria 13
+Destreza 13 e Sabedoria 13
+Paladino
+Paladino
+Força 13 e Carisma 13
+Força 13 e Carisma 13
+Patrulheiro
+Patrulheiro
+Destreza 13 e Sabedoria 13
+Destreza 13 e Sabedoria 13
+Destreza 13 e Sabedoria 13
+ONTOS DE
+ONTOS DE
+XPERIÊNCIA
+XPERIÊNCIA
+Os pontos de experiência necessários para ganhar um
+nível sempre será baseado no seu nível de personagem
+total, como mostrado na tabela Avanço de Personagem, no capítulo 1, não no seu nível em uma classe em particular.Portanto, se você for um clérigo 6/guerreiro 1, você deve
+ganhar XP suficiente para alcançar o 8° nível, antes de
+poder adquirir seu segundo nível como guerreiro ou seu
+sétimo nível como clérigo.
+sétimo nível como clérigo.
+ONTOS DE
+ONTOS DE
+ONTOS DE
+ONTOS DE
+ADOS DE
+ADOS DE
+IDA
+IDA
+Você ganha os pontos de vida da sua nova classe como
+descrito para níveis após o 1°. Você ganha os pontos de vida de 1° nível de uma classe apenas quando você for um
+personagem de 1° nível.
+Você adiciona os Dados de Vida concedidos por todas
+as suas classes, juntos, para formar seu poço de Dados de Vida. Se os Dados de Vida forem de mesmo tipo, você
+pode, simplesmente, coloca-los juntos. Por exemplo, tanto o guerreiro quanto o paladino tem um d10, portanto, se
+você for um paladino 5/guerreiro 5, você terá dez d10
+Dados de Vida. Se suas classes tiverem Dados de Vida de
+tipos diferentes, monitore-
+tipos diferentes, monitore-
+separadamente. Se você
+fosse um paladino 5/clérigo 5, por exemplo, você teria
+cinco d10 Dados de Vida e cinco d8 Dados de Vida.
+cinco d10 Dados de Vida e cinco d8 Dados de Vida.
+ÔNUS DE ÔNUS DE
+ROFICIÊNCIA
+ROFICIÊNCIA
+Seu bônus de proficiência sempre será baseado no seu
+nível de personagem total, como mostrado na tabela
+Avanço de Personagem, no capítulo 1, não no seu nível d
+Avanço de Personagem, no capítulo 1, não no seu nível d
+uma classe em particular. Por exemplo, se você for um
+guerreiro 3/ladino 2, você terá bônus de proficiência de um personagem de 5° nível, o que seria +3.

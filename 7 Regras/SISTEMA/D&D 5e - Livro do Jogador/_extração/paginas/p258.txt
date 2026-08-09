@@ -1,0 +1,139 @@
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 2° nível ou
+superior, a magia cria um dardo adicional para cada nível
+do espaço acima do 1°.
+do espaço acima do 1°.
+ODIFICAR
+ODIFICAR
+EMÓRIA
+5° nível de encantamento Tempo de Conjuração: 1 ação
+Alcance
+: 9 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Você tenta modelar as memórias de outra criatura. Uma criatura que você possa ver, deve realizar um teste de
+resistência de Sabedoria. Se você estiver lutando com a criatura, ela terá vantagem no teste de resistência. Se
+falhar na resistência, o alvo fica enfeitiçado por você pela
+duração. O alvo enfeitiçado está incapacitado e não sabe o que está acontecendo seu redor, apesar de ainda poder
+ouvir você. Se ele sofrer qualquer dano ou for alvo de
+outra magia, essa magia acaba, e nenhuma das memórias do alvo é modificada.
+Enquanto esse feitiço durar, você pode afetar a
+memória sobre um evento que o alvo participou nas últimas 24 horas e que não tenha durado mais de 10
+minutos. Você pode, permanentemente, eliminar todas as
+memórias desse evento, permitir que o alvo relembre do evento com perfeita clareza e riqueza de detalhes, mudar
+sua memória sobre os detalhes do evento ou criar uma
+memória de outro evento qualquer.
+Você deve falar ao alvo para descrever como sua
+memória é afetada e ele deve ser capaz de compreender seu idioma para que as memórias modificadas se enraízem. A mente dele preenche qualquer lacuna nos
+enraízem. A mente dele preenche qualquer lacuna nos
+talhes da sua descrição. Se a magia terminar antes de
+você ter finalizado a descrição das memórias modificadas,
+a memória da criatura não será alterada. Do contrário, as
+memórias modificadas tomam lugar quando a magia
+acabar.
+Uma memória modificada não afeta, necessariamente,
+como uma criatura se comporta, particularmente se a memória contradiz as inclinações, tendência ou crenças naturais da criatura. Uma modificação ilógica na
+memória, como implantar uma memória de como a
+criatura gosta de se encharcar de ácido, é repudiada, talvez como um sonho ruim. O Mestre pode considerar
+uma modificação na memória muito absurda para afetar
+uma criatura de uma forma significativa.
+Uma magia
+remover maldição
+ou
+restauração maior
+restauração maior
+conjurada no alvo, restaura a verdadeira memória da criatura.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 6° nível ou superior, você pode alterar a memória do alvo de um evento que aconteceu a até 7 dias atrás (6° nível), 30 dias atrás (7°
+nível), 1 ano atrás (8° nível) ou em qualquer momento do
+passado da criatura (9° nível).
+passado da criatura (9° nível).
+OLDAR
+OLDAR
+OCHAS
+4° nível de transmutação Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, S, M (barro mole, que deve ser
+trabalhado aproximadamente com a forma desejada para o objeto de pedra)
+Duração
+: Instantânea
+Você toca um objeto de pedra de tamanho Médio ou
+menor, ou uma seção de rocha com não mais de 1,5 metro
+em qualquer dimensão e modela-a em qualquer forma que
+sirva aos seus propósitos. Então, por exemplo, você
+poderia modelar uma pedra grande em uma arma, ídolo
+ou caixão, ou fazer uma pequena passagem através de um
+muro, contanto que o muro não tenha mais de 1,5 metro
+de espessura. Você poderia, também, modelar uma porta
+de pedra ou sua moldura para selar a porta. O objeto que
+você cria pode ter até duas dobradiças e um trinco, mas detalhes mecânicos mais complexos não são possíveis.
+detalhes mecânicos mais complexos não são possíveis.
+ONTARIA
+ONTARIA
+ANTASMAGÓRICA
+3° nível de ilusão (ritual)
+Tempo de Conjuração: 1 minuto
+Alcance
+: 9 metros
+Componentes
+Componentes
+Componentes
+Duração
+: 1 hora
+Uma criatura Grande, quase-real, similar a um cavalo, aparece no solo em um espaço desocupado, à sua escolha, dentro do alcance. Você decide a aparência da criatura,
+mas ela é equipada com sela, estribo e arreio. Qualquer
+equipamento criado por essa magia vira fumaça caso se afaste a mais de 3 metros da montaria.
+Pela duração, você ou a criatura que você escolher,
+pode cavalgar a montaria. A criatura usa as estatísticas de um cavalo de montaria, exceto por seu deslocamento
+de um cavalo de montaria, exceto por seu deslocamento
+r de 30 metros e poder viajar 15 quilômetros em uma
+hora, ou 20 quilômetros em um ritmo rápido. Quando a
+magia acaba, a montaria desaparece gradualmente,
+dando ao cavaleiro 1 minuto para desmontar. A magia
+acaba se você usar uma ação para dissipa-la ou se a montaria sofrer qualquer dano.
+montaria sofrer qualquer dano.
+OVER
+OVER
+ERRA
+6° nível de transmutação
+Tempo de Conjuração: 1 ação
+Alcance
+: 36 metros
+Componentes
+: V, S, M (uma lâmina de ferro e uma
+pequena sacola contendo uma mistura de solos
+pequena sacola contendo uma mistura de solos
+pequena sacola contendo uma mistura de solos
+argila, barro e areia)
+Duração
+: Concentração, até 2 horas
+Escolha uma área de terreno não maior que 12 metros de
+lado, dentro do alcance. Você pode remodelar terra, areia
+ou barro na área da maneira que quiser, pera duração.Você pode erguer ou abaixar a elevação da área, criar ou
+preencher valas, levantar ou deitar um muro ou formar
+uma coluna. A extensão de tais mudanças não pode exceder metade da maior dimensão da área. Portanto, se
+você afetar um quadrado de 12 metros, você poderá criar
+um pilar de até 6 metros de altura, erguer ou abaixar a elevação do quadrado em até 6 metros ou cavar uma vala
+de até 6 metros de profundidade e assim por diante. Leva
+10 minutos para completar essas modificações.
+Ao final de cada 10 minutos que você gastar se
+concentrando nessa magia, você pode escolher uma nova área de terreno para afetar.
+Devido às transformações no terreno ocorrerem
+lentamente, as criaturas na área normalmente não podem
+ficar presas ou sofrer dano pela movimentação do solo.
+Essa magia pode manipular rocha natural ou
+construções de pedra. Pedra e estruturas deslocam-
+construções de pedra. Pedra e estruturas deslocam-
+para acomodar o novo terreno. Se a forma pela qual você
+modela o terreno poderia tornar uma estrutura instável,
+ela poderá desmoronar.
+Similarmente, essa magia não afeta diretamente o
+crescimento da vegetação. A terra movida carrega
+quaisquer plantas no caminho junto com ela.

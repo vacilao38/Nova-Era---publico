@@ -1,0 +1,27 @@
+# Metadados locais e arquivos ocultos do vault de origem
+.*
+!.gitignore
+!.gitattributes
+
+# Arquivos temporarios do Windows/Obsidian
+Thumbs.db
+Desktop.ini
+*.tmp
+*.swp
+~$*
+
+# Defesa adicional: material pessoal do Pedro/Elder nunca deve ser publicado
+1 Jogadores/Pedro/notas - Pedro/
+2 Personagens/Personagens de jogadores/Elder/01 - Canone/
+2 Personagens/Personagens de jogadores/Elder/03 - Criador e Planejamento/
+2 Personagens/Personagens de jogadores/Elder/04 - Sistema D&D/
+2 Personagens/Personagens de jogadores/Elder/90 - Arquivo/
+2 Personagens/Personagens de jogadores/Elder/00 - Central/00 - Índice da Elder.md
+2 Personagens/Personagens de jogadores/Elder/00 - Central/Elder - Briefing para o Mestre.md
+2 Personagens/Personagens de jogadores/Elder/00 - Central/Elder - Registro da reorganização.md
+
+# Fontes brutas, backups e exportacoes locais
+0 Area de trabalho/Backups/
+0 Area de trabalho/Exportações/
+8 INPUT/Fontes WhatsApp */
+

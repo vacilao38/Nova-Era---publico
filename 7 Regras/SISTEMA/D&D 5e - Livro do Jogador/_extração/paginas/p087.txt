@@ -1,0 +1,139 @@
+ONHEÇA SEU
+ONHEÇA SEU
+NIMIGO
+NIMIGO
+A partir do 7° nível, se você gastar, pelo menos, 1 minuto
+observando ou interagindo com outra criatura fora de combate, você pode aprender certas informações sobre as
+capacidades dela comparadas as suas. O Mestre conta a
+você se a criatura é igual, superior ou inferior a você a respeito de duas das seguintes características, à sua
+escolha:
+escolha:
+Valor de Força
+Valor de Força
+Valor de Destreza
+Valor de Destreza
+Valor de Constituição
+Valor de Constituição
+Classe de Armadura
+Classe de Armadura
+Pontos de Vida atuais
+Pontos de Vida atuais
+Nível total de classe (se possuir)
+Nível total de classe (se possuir)
+Níveis da classe guerreiro (se possuir)
+Níveis da classe guerreiro (se possuir)
+UPERIORIDADE EM
+UPERIORIDADE EM
+OMBATE
+OMBATE PRIMORADA
+PRIMORADA
+No 10° nível, seus dados de superioridade se tornam d10s.
+No 18° nível, eles se tornam d12s.
+No 18° nível, eles se tornam d12s.
+MPLACÁVEL
+No 15° nível, quando você rolar iniciativa e não tiver
+nenhum dado de superioridade restante, você recupera um dado de superioridade.
+um dado de superioridade.
+ANOBRAS
+As manobras são apresentadas em ordem alfabética.
+Aparar
+Aparar Quando outra criatura causar dano a você
+com um ataque corpo-a-corpo, você pode usar sua reação e gastar um dado de superioridade para reduzir o dano pelo
+número rolado no dado de superioridade + seu
+modificador de Destreza.
+Ataque Ameaçador
+Ataque Ameaçador Quando você atingir uma
+criatura com um ataque com arma, você pode gastar um dado de superioridade para tentar amedrontar o alvo.Você adiciona seu dado de superioridade a jogada de dano
+do ataque e o alvo deve realizar um teste de resistência de
+Sabedoria. Se falhar, ele ficará com medo de você até o
+final do seu próximo turno.
+Ataque de Encontrão
+Ataque de Encontrão Quando você atingir uma
+criatura com um ataque com arma, você pode gastar um
+criatura com um ataque com arma, você pode gastar um
+do de superioridade para tentar empurrar o alvo para
+trás. Você adiciona seu dado de superioridade a jogada de dano do ataque e, se o alvo for Grande ou menor, ele deve realizar um teste de resistência de Força. Se falhar, você empurra o alvo para até 4,5 metros de você.
+Ataque de Finta
+Ataque de Finta Você pode gastar um dado de
+superioridade e usar uma ação bônus, no seu turno, para
+fintar, escolhendo uma criatura a 1,5 metro de você como
+alvo. Você tem vantagem na sua próxima jogada de ataque contra essa criatura, nesse turno. Se o ataque atingir, você adiciona seu dado de superioridade ao dano do ataque.
+Ataque de Manobra
+Ataque de Manobra Quando você atingir uma
+criatura com um ataque com arma, você pode gastar um
+dado de superioridade para tentar manobrar um de seus
+companheiros para uma posição mais vantajosa. Você adiciona seu dado de superioridade a jogada de dano do ataque e escolhe uma criatura amigável que possa ver ou ouvir você. Aquela criatura pode usar sua reação para se
+mover até metade do seu deslocamento, sem provocar
+ataques de oportunidade do alvo do seu ataque.
+Ataque de Precisão
+Ataque de Precisão Quando você realizar uma
+jogada de ataque com arma contra uma criatura, você pode gastar um dado de superioridade para adicioná-
+pode gastar um dado de superioridade para adicioná-
+pode gastar um dado de superioridade para adicioná-
+pode gastar um dado de superioridade para adicioná-
+jogada. Você pode usar essa manobra antes ou depois de
+realizar a jogada de ataque, mas deve usá-
+realizar a jogada de ataque, mas deve usá-antes de
+qualquer efeito do ataque ser aplicado.
+Ataque Desarmante
+Ataque Desarmante Quando você atingir uma
+criatura com um ataque com arma, você pode gastar um
+dado de superioridade para tentar desarmar o alvo,
+forçando-o a derrubar um item, à sua escolha, que ele
+esteja empunhando. Você adiciona o dado de
+superioridade a jogada de dano do ataque e o alvo deve
+realizar um teste de resistência de Força. Se fracassar, ele derrubará o objeto escolhido. O objeto cai aos pés dele.
+Ataque Estendido
+Ataque Estendido Quando você atingir uma criatura
+com um ataque corpo-a-corpo com arma, você pode gastar um dado de superioridade para aumentar o alcance do
+seu ataque em 1,5 metro. Se você atingir, você adiciona o
+seu dado de superioridade ao dano causado pelo ataque.
+Ataque Provocante
+Ataque Provocante Quando você atingir uma
+criatura com um ataque com arma, você pode gastar um dado de superioridade para tentar incitar a alvo a atacar você. Você adiciona seu dado de superioridade a jogada de
+dano do ataque e o alvo deve realizar um teste de
+resistência de Sabedoria. Se falhar, o alvo terá desvantagem em todas as jogadas de ataque contra alvos
+diferentes de você, até o fim do seu próximo turno.
+Ataque Trespassante
+Ataque Trespassante Quando você atingir uma
+criatura com um ataque corpo-a-corpo com arma, você pode gastar um dado de superioridade para tentar causar
+dano a outra criatura com o mesmo ataque. Escolha uma criatura a 1,5 metro do alvo original e que esteja no seu
+alcance. Se a jogada de ataque original atingiria a
+segunda criatura, ela sofre dano igual ao número rolado no dado de superioridade. O dano é do mesmo tipo que o
+causado pelo ataque original.
+Contra-Atacar
+Contra-Atacar Quando uma criatura atacar você
+com um ataque corpo-a-corpo e errar, você pode usar sua reação e gastar um dado de superioridade para realizar
+um ataque corpo-a-corpo com arma contra essa criatura.Se você atingir, você adiciona seu dado de superioridade a
+jogada de dano do ataque.
+jogada de dano do ataque.
+jogada de dano do ataque.Quando você atingir uma criatura com um
+ataque com arma, você pode gastar um dado de superioridade para tentar derrubar o alvo no chão. Você
+adiciona seu dado de superioridade a jogada de dano do
+ataque e, se o alvo for Grande ou menor, ele deve realizar
+um teste de resistência de Força. Se falhar, o alvo ficará
+caído no chão.
+Golpe Distrativo
+Golpe Distrativo Quando você atingir uma criatura
+com um ataque com arma, você pode gastar um dado de superioridade para tentar distrair a criatura, abrindo uma brecha para um de seus aliados. Você adiciona seu
+dado de superioridade a jogada de dano do ataque. A
+próxima jogada de ataque realizada contra o alvo por uma criatura diferente de você, tem vantagem, se o ataque for
+realizado antes do começo do seu próximo turno.
+Golpe do Comandante
+Golpe do Comandante Quando você realiza a ação
+de Ataque, no seu turno, você pode desistir de um dos seus ataques e usar uma ação bônus para direcionar o
+ataque de um dos seus companheiros. Quando você faz isso, escolha uma criatura amigável que possa ver ou
+ouvir você e gaste um dado de superioridade. Essa
+criatura pode, imediatamente, usar sua reação para
+realizar um ataque com arma, adicionando seu dado de
+superioridade a jogada de dano do ataque.
+Inspirar
+Inspirar No seu turno, você pode usar uma ação
+bônus e gastar um dado de superioridade para reforçar a determinação dos seus companheiros. Quando o fizer,
+escolha uma criatura amigável que possa ver ou ouvir você. Essa criatura ganha uma quantidade de pontos de
+vida temporários igual a sua rolagem de dado de
+superioridade + seu modificador de Carisma.
+Passo Evasivo
+Passo Evasivo Quando você se mover, você pode
+gastar um dado de superioridade, role o dado e adicione o
+número rolado a sua CA até você terminar seu deslocamento.

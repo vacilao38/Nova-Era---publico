@@ -1,0 +1,342 @@
+ATO
+Besta
+miúd
+miúd
+miúd
+imparcial
+imparcial
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Pontos de Vida
+Pontos de Vida
+2 (1d4)
+2 (1d4)
+Deslocamento
+Deslocamento
+12 m,
+escalada
+escalada
+9 m
+9 m
+FOR
+FOR
+FOR
+FOR
+FOR
+FOR
+FOR
+FOR
+DES
+DES
+15 (+2)
+15 (+2)
+15 (+2)
+15 (+2)
+15 (+2)
+15 (+2)
+15 (+2)
+15 (+2)
+15 (+2)
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+Perícias
+Perícias
+Furtividade +4, Percepção +3
+Furtividade +4, Percepção +3
+Sentidos
+Sentidos
+Percepção passiva 13
+Percepção passiva 13
+Idiomas
+Idiomas
+Idiomas
+Idiomas
+Nível de
+Desafio
+Desafio
+0 (10 XP)
+0 (10 XP)
+Faro Aguçado
+. O gato tem vantagem em testes de Sabedoria
+(Percepção) relacionados ao olfato.
+(Percepção) relacionados ao olfato.
+(Percepção) relacionados ao olfato.
+ÇÕES
+ÇÕES
+Garras
+Garras
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Corpo com Arma
+: +0 para atingir, alcance
+1,5 m, um alvo.
+Acerto
+: 1 de dano cortante.
+: 1 de dano cortante.
+: 1 de dano cortante.
+AVALI
+Besta médi
+Besta médi
+Besta médi
+imparcial
+imparcial
+Classe de Armadura
+Classe de Armadura
+11 (armadura natural)
+11 (armadura natural)
+Pontos de Vida
+Pontos de Vida
+11 (2d8 + 2)
+11 (2d8 + 2)
+Deslocamento
+Deslocamento
+Deslocamento
+Deslocamento
+FOR
+FOR
+FOR
+FOR
+FOR
+FOR
+FOR
+DES
+DES
+11 (+0)
+11 (+0)
+11 (+0)
+11 (+0)
+11 (+0)
+11 (+0)
+11 (+0)
+11 (+0)
+11 (+0)
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+Sentidos
+Sentidos
+Percepção passiva 9
+Idiomas
+Idiomas
+Idiomas
+Idiomas
+Nível de Desafio
+Nível de Desafio
+1/4 (50 XP)
+1/4 (50 XP)
+Investida
+. Se o
+javali se mover, pelo menos, 6 metros em linha
+reta em direção de uma criatura logo antes de atingi
+reta em direção de uma criatura logo antes de atingi
+la com seu
+ataque de presa, o alvo sofre 3 (1d6) de dano cortante extra e
+deve ser bem sucedido num teste de resistência de Força CD 11
+para não cair no chã
+para não cair no chã
+para não cair no chã
+Implacável (Recarrega após o javali terminar um descanso curto
+ou longo).
+ou longo).
+Se o javali sofrer dano que o reduziria a 0 pontos de
+vida, a não ser que o dano seja 7 ou mais ou de um acerto crítico,
+ele cairá a 1 ponto de vida, no lugar.
+ele cairá a 1 ponto de vida, no lugar.
+ele cairá a 1 ponto de vida, no lugar.
+ÇÕES
+ÇÕES
+ÇÕES
+Presas
+Presas
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Corpo com Arma
+: +3 para atingir, alcance
+1,5 m, um alvo.
+Acerto
+: 4 (1d6 + 1) de dano cortante.
+: 4 (1d6 + 1) de dano cortante.
+: 4 (1d6 + 1) de dano cortante.
+EÃO
+Besta grande,
+imparcial
+imparcial
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Pontos de Vida
+Pontos de Vida
+26 (4d10 + 4)
+26 (4d10 + 4)
+Deslocamento
+Deslocamento
+Deslocamento
+Deslocamento
+FOR
+FOR
+17 (+3)
+17 (+3)
+DES
+DES
+15 (+2)
+15 (+2)
+15 (+2)
+15 (+2)
+13 (+1)
+13 (+1)
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+12 (+1)
+12 (+1)
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+Perícias
+Perícias
+Furtividade +6, Percepção +3
+Furtividade +6, Percepção +3
+Sentidos
+Sentidos
+Percepção passiva 13
+Percepção passiva 13
+Idiomas
+Idiomas
+Idiomas
+Idiomas
+Nível de Desafio
+Nível de Desafio
+1 (200 XP)
+1 (200 XP)
+Bote.
+Se o leão se mover, pelo menos, 6 metros em linha reta em
+direção de um alvo logo
+antes de atingi
+antes de atingi
+lo com seu ataque de
+garra, o alvo deve ser bem sucedido num teste de resistência de
+Força CD 13 para não cair no chão. Se o alvo cair no chão, o leão
+poderá realizar uma ação bônus para realizar um ataque de
+mordida contra ele.
+mordida contra ele.
+Faro Aguçad
+Faro Aguçad
+. O leão tem vantagem em testes de Sabedoria
+(Percepção) relacionados ao olfato.
+(Percepção) relacionados ao olfato.
+Salto em Corrida.
+Como parte do seu movimento e depois de uma
+corrida inicial de 3 metros, o leão pode realizar um salto em
+distância de até 7,5 metros.
+distância de até 7,5 metros.
+Táticas de Matilha
+Táticas de Matilha
+O leão tem vantagem nas jogadas de ataque
+contra uma criatura se, pelo menos, um dos aliados do leão
+estiver a 1,5 metro da criaturas e não estiver incapacitado.
+estiver a 1,5 metro da criaturas e não estiver incapacitado.
+estiver a 1,5 metro da criaturas e não estiver incapacitado.
+ÇÕES
+ÇÕES
+Mordida
+Mordida
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Corpo com Arma
+: +5 para atingir,
+alcance 1,5 m, um alvo.
+Acert
+Acert
+: 7 (1d8 + 3) de dano perfurante.
+: 7 (1d8 + 3) de dano perfurante.
+Garras
+Garras
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Corpo com Arma
+: +5 para atingir, alcance
+1,5 m, um alvo.
+Acerto
+: 6 (1d6 + 3) de dano cortante.
+: 6 (1d6 + 3) de dano cortante.
+: 6 (1d6 + 3) de dano cortante.
+OBO
+Besta médi
+Besta médi
+Besta médi
+imparcial
+imparcial
+Classe de Armadura
+Classe de Armadura
+13 (armadura natural)
+13 (armadura natural)
+Pontos de Vida
+Pontos de Vida
+11 (2d8 + 2)
+11 (2d8 + 2)
+Deslocamento
+Deslocamento
+Deslocamento
+Deslocamento

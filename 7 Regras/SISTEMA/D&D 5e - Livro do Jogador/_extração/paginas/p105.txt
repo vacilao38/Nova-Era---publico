@@ -1,0 +1,177 @@
+RANQUILIDADE
+RANQUILIDADE
+A partir do A partir do° nível, você pode entrar num estado
+especial de meditação que rodeia você com uma aura pacifica. No final de um descanso longo, você ganha o
+efeito da magia
+santuário
+que dura até o começo do seu
+próximo descanso longo (a magia pode terminar
+prematuramente, como normal). A CD do teste de resistência para a magia é 8 + seu modificador de Sabedoria + seu bônus de proficiência.
+Sabedoria + seu bônus de proficiência.
+ALMA
+ALMA
+IBRANTE
+IBRANTE
+No 17° nível, você ganha a habilidade de criar vibrações
+letais no corpo de alguém. Quando você atingir uma criatura com um golpe desarmado, você pode gastar 3
+pontos de chi para começar essas vibrações
+imperceptíveis, que duram por um número de dias igual ao seu nível de monge. As vibrações são inofensivas, a não
+ser que você use sua ação para terminá-las. Para tanto,
+você e o alvo devem estar no mesmo plano de existência.Quando você usa essa ação, a criatura deve realizar um
+teste de resistência de Constituição. Se ela falhar, ela
+será reduzida a 0 pontos de vida. Se ela passar, ela
+sofrerá 10d10 de dano necrótico.
+Você pode ter apenas uma criatura sob o efeito dessa
+característica por vez. Você pode escolher terminar as vibrações inofensivamente, sem usar uma ação.
+vibrações inofensivamente, sem usar uma ação.
+AMINHO DA
+AMINHO DA
+OMBRA
+Monges do Caminho da Sombra seguem uma tradição que
+valoriza furtividade e subterfugio. Esses monges devem
+ser chamados de ninjas ou dançarinos das sombras e eles servem como espiões e assassinos. Às vezes, os membros de um monastério ninja são membros da mesma família, formando um clã que jurou sigilo sobre suas artes e missões. Outros monastérios parecem mais com guildas de ladrões, oferecendo seus serviços a nobres, mercadores
+ricos ou qualquer um que possa pagar suas taxas.
+Independente dos seus métodos, os líderes desses
+monastérios esperam obediência inquestionável de seus
+estudantes.
+estudantes.
+RTES
+RTES
+OMBRI
+OMBRI
+OMBRI
+Começando quando você escolhe essa tradição, no 3°
+nível, você pode usar seu chi para simular o efeito de certas magias. Com uma ação, você pode gastar 2 pontos de chi para conjurar
+escuridão, visão no escuro, passos
+sem pegadas
+ou
+silêncio
+, sem precisar de componentes
+materiais. Além disso, você ganha o truque
+ilusão menor
+ilusão menor
+se você ainda não o conhecia.
+se você ainda não o conhecia.
+ASSO DAS
+ASSO DAS
+OMBR
+OMBR
+OMBR
+No 6° nível, você ganha a habilidade de entrar em uma
+sombra e sair em outra. Quando você estiver sob
+penumbra ou na escuridão, com uma ação bônus, você
+pode se teletransportar a até 18 metros para um espaço
+desocupado que você possa ver que também esteja sob
+penumbra ou escuridão. Você, então, terá vantagem no primeiro ataque corpo-a-corpo que você fizer antes do final do seu turno.
+final do seu turno.
+ANTO DE
+ANTO DE
+OMBRAS
+OMBRAS
+No
+No
+° nível, você aprendeu a se tornar uno com as
+sombras. Quando você estiver em uma área de penumbra
+ou escuridão, você pode usar sua ação para se tornar invisível. Você permanece invisível até realizar um
+ataque, conjurar uma magia ou se for para uma área de
+luz plena.
+luz plena.
+PORTUNISTA
+PORTUNISTA
+No 17° nível, você pode explorar um momento de distração de uma criatura quando ela é atingida por um ataque. Toda vez que uma criatura a até 1,5 metro de
+você for atingida por um ataque realizar por outra
+criatura diferente de você, você pode usar sua reação para realizar um ataque corpo-a-corpo contra essa criatura.
+realizar um ataque corpo-a-corpo contra essa criatura.
+AMINHO DOS
+AMINHO DOS
+UATRO
+UATRO
+LEMENTOS
+Você segue uma tradição monástica que ensina você a dominar os elementos. Quando você foca seu chi, você pode se alinhar com as forças da criação e moldar os elementos a sua vontade, usando-os como uma extensão do seu corpo. Alguns membros dessa tradição se dedicam
+a um único elemento, mas outros tecem os elementos
+juntos.
+Muitos monges dessa tradição tatuam seus corpos com
+Muitos monges dessa tradição tatuam seus corpos com
+presentações dos seus poderes de chi, normalmente
+representadas através de dragões enrolados, mas também
+como fênix, peixes, plantas, montanhas e ondas coroantes.
+como fênix, peixes, plantas, montanhas e ondas coroantes.
+ISCÍPULO DOS
+ISCÍPULO DOS
+LEMENTOS
+LEMENTOS
+Quando você escolhe essa tradição, no 3° nível, você
+aprende disciplinas mágicas que manipulam o poder dos quatro elementos. Uma disciplina requer que você gaste pontos de chi cada vez que você a usa.
+Você conhece a disciplina Sintonia Elemental e uma
+outra disciplina, à sua escolha, que são detalhadas na VHomR´'LVFLSOLQDV(OHPHQWDLVµDEDL[R9RFrDSUHQGHXPD disciplina adicional, à sua escolha, no 6°, 11° e 17° nível.
+Toda vez que você aprende uma nova disciplina
+elemental, você pode substituir uma disciplina elemental
+que você já conhecia por uma disciplina diferente.
+que você já conhecia por uma disciplina diferente.
+njurando Magias Elementais.
+Algumas
+disciplinas elementais permitem que você conjure magias.
+Veja o capítulo 10 para as regras gerais de conjuração.Para conjurar uma dessas magias, você usa o tempo de
+conjuração da mesma e suas outra regras, mas você não
+precisa fornecer os componentes materiais dela.
+Quando você alcança o 5° nível nessa classe, você pode
+gastar pontos de chi adicionais para aumentar o nível da
+magia de disciplina elemental que você conjurar, considerando que a magia tenha um efeito de aprimoramento para um nível superior, como
+mãos
+flamejantes
+, por exemplo. O nível da magia aumenta em 1
+para cada ponto de chi adicional que você gastar. Por exemplo, se você for um monge de 5° nível e usar Golpe de Varredura Cauterizante para conjurar
+mãos flamejantes mãos flamejantes
+você pode gastar 3 pontos de chi para conjurá-la como uma magia de 2° nível (o custo base da disciplina de 2
+pontos mais 1).
+O número máximo de pontos de chi que você pode
+gastar para conjurar uma magia dessa forma (incluindo
+seu custo de chi base e quaisquer pontos de chi adicionais
+que você gastar para elevar seu nível) é determinado pelo
+seu nível de monge, como mostrado na tabela Magias e
+Pontos de Chi.
+Pontos de Chi.
+AGIAS E
+AGIAS E
+ONTOS
+ONTOS
+DE
+DE
+DE
+DE
+Nível de
+Monge
+Monge
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia
+Pontos de Chi Máximos para uma Magia

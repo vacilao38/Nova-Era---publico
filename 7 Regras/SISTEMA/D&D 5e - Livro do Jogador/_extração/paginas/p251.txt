@@ -1,0 +1,147 @@
+possui as estatísticas dessas criaturas e determina suas
+ações e movimentação.
+Uma criatura permanece no tamanho gigante pela
+duração, ou até cair a 0 pontos de vida ou até você usar
+sua ação para dissipar o efeito nela.
+O Mestre pode permitir que você escolha alvos
+diferentes. Por exemplo, se você transformar uma abelha,
+sua versão gigante poderia ter as mesmas estatísticas da
+vespa gigante.
+vespa gigante.
+NVERTER A
+NVERTER A
+RAVIDADE
+7° nível de transmutação
+Tempo de Conjuração: 1 ação Alcance
+: 30 metros
+Componentes
+: V, S, M (um ímã e limalhas de ferro)
+Duração
+: Concentração, até 1 minuto
+Essa magia inverte a gravidade num cilindro de 15 metros de raio por 30 metros de altura, centrado num
+ponto dentro do alcance. Todas as criaturas e objetos que
+não esteja, de alguma forma, presos ao solo na área, caem para cima e alcançam o topo da área, quando você conjura
+essa magia. Uma criatura pode fazer um teste de
+resistência de Destreza para se agarrar em algum objeto fixo que ela possa alcançar, assim, evitando a queda.
+Se algum objeto sólido (como um teto) for encontrado
+durante essa queda, objetos e criaturas caindo atingem ele, exatamente como fariam durante uma queda normal.
+Se um objeto ou criatura alcançar o topo da área sem
+atingir nada, ele permanecerá lá, oscilando ligeiramente, pela duração
+No final da duração, objetos e criaturas afetadas caem
+de volta para baixo.
+de volta para baixo.
+NVISIBILIDADE
+2° nível de ilusão Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, S, M (uma pestana envolta em goma-
+arábica)
+Duração
+: Concentração, até 1 hora
+Uma criatura que você tocar, se torna invisível até a
+magia acabar. Qualquer coisa que o alvo esteja vestindo ou carregando fica invisível enquanto estiver de posse do
+alvo. A magia termina para o alvo caso ele ataque ou
+conjure uma magia.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 3° nível ou superior, você pode afetar um alvo adicional para cada nível do espaço acima do 2°.
+nível do espaço acima do 2°.
+NVISIBILIDADE
+NVISIBILIDADE
+AIOR
+4° nível de ilusão
+Tempo de Conjuração Tempo de Conjuração
+ação
+Alcance
+: Toque
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Você ou uma criatura que você possa tocar, se torna
+invisível até a magia acabar. Qualquer coisa que o alvo estiver vestindo ou carregando fica invisível enquanto
+estiver de posse do alvo.
+estiver de posse do alvo.
+NVOCAÇÃO
+NVOCAÇÃO
+NSTANTÂNEA DE
+NSTANTÂNEA DE
+RAWMIJ
+6° nível de conjuração (ritual)
+Tempo de Conjuração: 1 minuto
+Alcance
+: Toque
+Componentes
+: V, S, M (uma safira no valor de 1.000 po)
+Duração
+: Até ser dissipada
+Você toca um objeto pesando 5 quilos ou menos com maior dimensão de 1,8 metro ou menos. A magia deixa uma
+marca invisível na sua superfície e grava invisivelmente o
+nome do item na safira que você usou como componente
+material. A cada vez que você conjurar essa magia, você
+deve usar uma safira diferente.
+A qualquer momento, posteriormente, você pode usar
+sua ação para falar o nome do item e esmagar a safira. O item aparece instantaneamente em suas mãos,
+independentemente de distâncias físicas ou planares, e a magia termina.
+Se outra criatura estiver segurando ou carregando o
+item, esmagar a safira não irá transportar o item até você, ao invés disso, você descobre quem é a criatura
+possuindo o objeto e onde, vagamente, a criatura está
+localizada no momento.
+Dissipar magia
+ou um efeito similar aplicado com
+sucesso na safira, termina o efeito da magia.
+sucesso na safira, termina o efeito da magia.
+SOLAMENTO
+7° nível de transmutação Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, S, M (um composto de pós de
+diamante, esmeralda, rubi e safira valendo, no
+mínimo, 5.000 po, consumidos pela magia)
+Duração
+: Até ser dissipada
+Através dessa magia, uma criatura voluntária ou um objeto, pode ser escondido, seguro contra detecção pela duração. Quando você conjura essa magia e toca o alvo,
+ele fica invisível e não pode ser alvo de magias de
+adivinhação ou percebido através de sensores de vidência criados por magias de adivinhação.
+Se o alvo for uma criatura, ela entra num estado de
+animação suspensa. O tempo para de fluir para ela e ela não envelhece.
+Você pode determinar uma condição para que a magia
+termine prematuramente. A condição pode ser qualquer coisa, à sua escolha, mas deve ocorrer ou ser visível a até
+coisa, à sua escolha, mas deve ocorrer ou ser visível a até quilô
+PHWURGRDOYR([HPSORVLQFOXHP´GHSRLVGH
+DQRVµRX´TXDQGRRWDUUDVTXHGHVSHUWDUµ(VVD
+magia também acaba se o alvo sofrer qualquer dano.
+magia também acaba se o alvo sofrer qualquer dano.
+ABIRINTO
+8° nível de conjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 10 minutos
+Você bane uma criatura que você possa ver, dentro do alcance, para um semiplano labiríntico. O alvo permanece alcance, para um semiplano labiríntico. O alvo permanece pela duração ou até escapar do labirinto.
+O alvo pode usar sua ação para tentar escapar.
+Quando o fizer, ele realiza um teste de Inteligência com CD 20. Se for bem sucedido, ele escapa e a magia termina
+(um minotauro ou um demônio goristro, obtém sucesso
+automaticamente).
+Quando a magia termina, o alvo reaparece no espaço
+que ela estava ou, se o espaço estiver ocupado, no espaço
+desocupado mais próximo.
+desocupado mais próximo.
+ÂMINA
+ÂMINA
+LAMEJANTE
+2° nível de evocação Tempo de Conjuração: 1 ação bônus
+Alcance
+: Pessoal
+Componentes
+Componentes
+V, S, M (folha de sumagre)
+Duração
+: Concentração, até 10 minutos

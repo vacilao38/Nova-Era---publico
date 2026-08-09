@@ -1,0 +1,146 @@
+carniçal sob seu controle. (O Mestre tem as estatísticas de
+jogo das criaturas.)
+Com uma ação bônus, em cada um dos seus turnos,
+você pode comandar mentalmente qualquer criatura que
+você animou com essa magia, se a criatura estiver a até
+36 metros de você (se você controla diversas criaturas,
+você pode comandar qualquer uma ou todas elas ao mesmo tempo, emitindo o mesmo comando para cada
+uma). Você decide qual ação a criatura irá fazer e para
+onde ela irá se mover durante o próximo turno dela, ou você pode emitir um comando geral, como para guardar
+uma câmara ou corredor especifico. Se você não der
+nenhum comando, as criaturas apenas se defenderão contra criaturas hostis. Uma vez que receba uma ordem,
+a criatura continuará a segui-la até a tarefa estar
+concluída.
+A criatura fica sob seu controle por 24 horas, depois
+disso ela para de obedecer aos seus comandos. Para manter o controle da criatura por mais 24 horas, você deve conjurar essa magia na criatura novamente, antes
+das 24 horas atuais terminarem. Esse uso da magia
+recupera seu controle sobre até três criaturas que você
+tenha animado com essa magia, ao invés de animar
+novas.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 7° nível, você pode animar ou recuperar o controle de quatro carniçais.
+Quando você conjura essa magia usando um espaço de magia de 8° nível, você pode animar ou recuperar o
+controle de cinco carniçais ou dois lívidos ou aparições.
+Quando você conjurar essa magia usando um espaço de magia de 9° nível, você pode animar ou recuperar o
+controle de seis carniçais, três lívidos ou aparições ou
+duas múmias.
+duas múmias.
+RIAR OU
+RIAR OU
+ESTRUIR
+ESTRUIR
+GUA
+1° nível de transmutação Tempo de Conjuração: 1 ação Alcance
+: 9 metros
+Componentes
+: V, S, M (uma gota de água se estiver
+criando ou alguns grãos de areia se estiver destruindo)
+Duração
+: Instantânea
+Você pode tanto criar quanto destruir água.
+Criar Água
+. Você cria 30 litros de água limpa dentro
+do alcance, em um recipiente aberto. Alternativamente, a água pode cair como chuva em um cubo de 9 metros
+dentro do alcance, extinguindo chamas expostas na área.
+Destruir Água
+. Você destrói até 30 litros de água de
+um recipiente aberto dentro do alcance.Alternativamente, você pode destruir um nevoeiro em um
+cubo de 9 metros dentro do alcance.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 2° nível ou superior, você pode criar ou destruir 30 litros de água adicionais, ou o tamanho do cubo aumenta em 1,5 metro,
+para cada nível do espaço acima do 1°.
+para cada nível do espaço acima do 1°.
+RIAR
+RIAR
+ASSAGEM
+5° nível de transmutação
+Tempo de Conjuração: 1 ação Alcance
+: 9 metros
+Componentes
+: V, S, M (algumas sementes de gergelim)
+Duração
+: 1 hora
+Uma passagem aparece em um ponto, à sua escolha, que você possa ver em uma superfície de madeira, gesso ou
+rocha (como um muro, um teto ou um piso) dentro do
+alcance e permanece pela duração. Você escolhe as dimensões da passagem: até 1,5 metro de largura, 2,10 de
+altura e 6 metros de profundidade. A passagem não provoca instabilidade na estrutura ao seu redor.
+Quando a abertura desaparecer, qualquer criatura ou
+objeto que ainda estiver dentro da passagem criada pela
+magia é ejetada em segurança para o espaço desocupado
+mais próximo da superfície onde a magia foi conjurada.
+mais próximo da superfície onde a magia foi conjurada.
+ÚPULA
+ÚPULA
+NTIVIDA
+5° nível de abjuração
+Tempo de Conjuração: 1 ação Alcance
+: Pessoal (3 metros de raio)
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 hora
+Uma barreira cintilante se estende de você até 3 metros de raio, e se move com você, permanecendo centrada em
+você e restringindo criaturas diferentes de mortos-vivos e
+constructos. A barreira mantem-se pela duração.
+A barreira previna uma criatura afetada de atravessa-
+la ou alcançar através dela. Uma criatura afetada pode conjurar magias ou realizar ataques à distância ou ataques com armas de haste através da barreira.
+Se você se mover forçando uma criatura afetada a
+atravessar a barreira, a magia termina.
+atravessar a barreira, a magia termina.
+URA
+URA
+OMPLETA
+6° nível de evocação Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Escolha uma criatura que você possa ver, dentro do alcance. Um surto de energia positiva banha a criatura,
+fazendo-a recuperar 70 pontos de vida. Essa magia também acaba com efeitos de cegueira, surdez e qualquer
+doença que estejam afetando o alvo. Essa magia não tem
+efeito em constructos ou mortos-vivos.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 7° nível ou
+superior, a quantidade de cura aumenta em 10 para cada
+nível do espaço acima do 6°.
+nível do espaço acima do 6°.
+URA
+URA
+OMPLETA EM
+OMPLETA EM
+ASSA
+9° nível de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Uma inundação de energia curativa emerge de você para as criaturas feridas ao seu redor. Você restaura até 700 pontos de vida, divididos, à sua escolha, entre qualquer
+quantidade de criaturas que você possa ver, dentro do
+alcance. As criaturas curadas por essa magia também são curadas de todas as doenças e qualquer efeito que as
+deixou cegas ou surdas. Essa magia não afeta mortos-
+vivos ou constructos.
+vivos ou constructos.
+URAR
+URAR
+ERIMENTOS
+1° nível de evocação Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Uma criatura que você tocar recupera uma quantidade de pontos de vida igual a 1d8 + seu modificador de
+habilidade de conjuração. Essa magia não produz efeito em mortos-vivos ou constructos.

@@ -1,0 +1,159 @@
+você possuir sobre a coisa, mais precisa e detalhada será
+a informação que você receberá.
+A informação que você aprende é precisa, mas pode ser
+redigida em linguagem figurada. Por exemplo, se você
+possuir um misterioso machado mágico na mão, a magia
+SRGHSURSRUFLRQDUHVVDLQIRUPDomR´$LGRPDOIHLWRUFXMD
+mão toca o machado, até mesmo seu cabo corta a mão dos malignos. Só um verdadeiro Filho da Pedra, adorador e
+adorado de Moradin, pode despertar os verdadeiros
+poderes do machado e apenas com a palavra sagrada Rudnogg
+Rudnogg
+QRVOiELRVµ
+QRVOiELRVµ
+QRVOiELRVµ
+ONJURAR
+ONJURAR
+NIMAIS
+3° nível de conjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 hora
+Você invoca espíritos feéricos, que assumem formas de bestas, que aparecem em espaços desocupados, que você possa ver dentro do alcance. Escolha uma das opções a
+seguir para aparecer:
+seguir para aparecer:
+Uma besta de nível de desafio 2 ou inferior
+Uma besta de nível de desafio 2 ou inferior
+Duas bestas de nível de desafio 1 ou inferior
+Duas bestas de nível de desafio 1 ou inferior
+Quatro bestas de nível de desafio 1/2 ou inferior
+Quatro bestas de nível de desafio 1/2 ou inferior
+Oito bestas de nível de desafio 1/4 ou inferior
+Cada besta é também considerada uma fada e
+desaparece quando cair a 0 pontos de vida ou quando a
+magia acabar.
+As criaturas invocadas são amigáveis a você e a seus
+companheiros. Role a iniciativa para as criaturas invocadas como um grupo, que age no seu próprio turno.
+Eles obedecem a quaisquer comandos verbais que você
+emitir (não requer uma ação sua). Se você não emitir nenhum comando a elas, elas se defenderão de criaturas
+hostis, mas no mais, não realizarão nenhuma ação.
+O Mestre possui as estatísticas das criaturas.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando certos espaços de magia superiores, você escolhe
+uma das opções de invocação acima e mais criaturas aparecem: o dobro delas com um espaço de 5° nível, o
+triplo delas com um espaço de 7° nível e o quadruplo delas
+com um espaço de 9° nível.
+com um espaço de 9° nível.
+ONJURAR
+ONJURAR
+ELESTIAL
+7° nível de conjuração Tempo de Conjuração Tempo de Conjuração
+minuto
+Alcance
+: 27 metros
+Componentes
+Componentes
+Componentes
+Duração
+Duração
+Concentração, até 1 hora
+Você invoca um celestial de nível de desafio 4 ou inferior,
+que aparece num espaço desocupado, que você possa ver
+dentro do alcance. O celestial desaparece se cair a 0 pontos de vida ou quando a magia acabar.
+O celestial é amigável a você e a seus companheiros
+pela duração. Role a iniciativa para o celestial, que age no seu próprio turno. Ele obedece a quaisquer comandos
+verbais que você emitir (não requer uma ação sua),
+contanto que não violem sua tendência. Se você não emitir nenhum comando a ele, ele se defenderá de
+criaturas hostis, mas no mais, não realizará nenhuma
+ação.
+O Mestre possui as estatísticas do celestial.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 9° nível, você
+invoca um celestial de nível de desafio
+invoca um celestial de nível de desafio ou inferior.
+ou inferior.
+ONJURAR ONJURAR
+LEMENTAIS
+LEMENTAIS
+ENORES
+4° nível de conjuração
+Tempo de Conjuração: 1 minuto
+Alcance
+: 27 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 hora
+Você invoca elementais que aparecem em espaços desocupados, que você possa ver dentro do alcance. Você escolhe uma das opções a seguir para aparecer:
+escolhe uma das opções a seguir para aparecer:
+Um elemental de nível de desafio 2 ou inferior
+Um elemental de nível de desafio 2 ou inferior
+Dois elementais de nível de desafio 1 ou inferior
+Dois elementais de nível de desafio 1 ou inferior
+Quatro elementais de nível de desafio 1/2 ou inferior
+Quatro elementais de nível de desafio 1/2 ou inferior
+Oito elementais de nível de desafio 1/4 ou inferior
+Um elemental invocado através dessa magia
+desaparece quando cair a 0 pontos de vida ou quando a
+magia acabar.
+As criaturas invocadas são amigáveis a você e a seus
+companheiros. Role a iniciativa para as criaturas invocadas como um grupo, que age no seu próprio turno.Eles obedecem a quaisquer comandos verbais que você
+emitir (não requer uma ação sua). Se você não emitir
+nenhum comando a elas, elas se defenderão de criaturas hostis, mas no mais, não realizarão nenhuma ação.
+O Mestre possui as estatísticas das criaturas.Em Níveis Superiores
+. Se você conjurar essa magia
+usando certos espaços de magia superiores, você escolhe
+uma das opções de invocação acima e mais criaturas
+aparecem: o dobro delas com um espaço de 6° nível e o triplo delas com um espaço de 8° nível.
+triplo delas com um espaço de 8° nível.
+ONJURAR ONJURAR
+LEMENTAL
+5° nível de conjuração
+Tempo de Conjuração Tempo de Conjuração
+minuto
+Alcance
+: 27 metros
+Componentes
+: V, S, M (incenso aceso para ar, argila
+mole para terra, enxofre e fósforo para fogo ou água e
+areia para água)
+Duração
+: Concentração, até 1 hora
+Você invoca um servo elemental. Escolha uma área de ar,
+água, fogo ou terra que preencha 3 metros cúbicos, dentro
+do alcance. Um elemental de nível de desafio 5 ou inferior, adequado a área que você escolheu, aparece em
+um espaço desocupado a até 3 metros dela. Por exemplo,
+um elemental do fogo emergiria de uma fogueira e um elemental da terra erguer-
+elemental da terra erguer-
+-ia do solo. O elemental
+desaparece quando cair a 0 pontos de vida ou quando a magia acabar.
+O elemental é amigável a você e a seus companheiros
+pela duração. Role a iniciativa para o elemental, que age no seu próprio turno. Ele obedece a quaisquer comandos verbais que você emitir (não requer uma ação sua). Se
+você não emitir nenhum comando a ele, ele se defenderá
+de criaturas hostis, mas no mais, não realizará nenhuma ação.
+Se sua concentração for interrompida, o elemental
+não desaparece. Ao invés disso, você perde o control
+não desaparece. Ao invés disso, você perde o control
+sobre o elemental e ele se torna hostil a você e aos seus
+companheiros, e irá atacar. Um elemental fora de controle
+não pode ser dispensado e desaparece 1 hora depois de você ter o invocado.
+você ter o invocado.
+ONJURAR ONJURAR
+ADA
+6° nível de conjuração
+Tempo de Conjuração Tempo de Conjuração
+minuto
+Alcance
+: 27 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 hora

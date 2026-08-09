@@ -1,0 +1,1 @@
+Você pode ler todas as escritas

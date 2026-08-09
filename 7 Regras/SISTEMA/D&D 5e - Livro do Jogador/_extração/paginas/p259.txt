@@ -1,0 +1,130 @@
+OVIMENTAÇÃO
+OVIMENTAÇÃO
+IVRE
+4° nível de abjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, S, M (uma fita de couro, enrolada no
+braço ou apêndice similar)
+Duração
+: 1 hora
+Você toca uma criatura voluntária. Pela duração, os movimentos do alvo não são afetados por terreno difícil e
+magias e outros efeitos mágicos também não podem
+reduzir o deslocamento do alvo ou fazer com que o alvo fique paralisado ou impedido.
+O alvo também pode gastar 1,5 metro de deslocamento
+para escapar, automaticamente, de impedimentos não-mágicos, como algemas ou o agarrão de uma criatura.
+Finalmente, estar submerso não impõe penalidades no
+deslocamento ou ataques do alvo.
+deslocamento ou ataques do alvo.
+URALHA DE URALHA DE
+NERGIA
+5° nível de evocação Tempo de Conjuração: 1 ação
+Alcance
+: 36 metros
+Componentes
+: V, S, M (um pouco de pó feito de uma
+gema transparente esmagada)
+Duração
+: Concentração, até 10 minutos
+Uma muralha invisível de energia aparece do nada num
+ponto, à sua escolha, dentro do alcance. A muralha aparece em qualquer orientação que você escolher, como
+uma barreira horizontal ou vertical ou em uma
+angulação. Ela pode estar flutuando no ar ou apoiada em uma superfície sólida. Você pode molda-la em uma cúpula
+hemisférica ou uma esfera com um raio de até dez painéis
+de 3 metros por 3 metros. Cada painel deve ser contíguo com outro painel. Em qualquer formato, a muralha terá
+0,6 centímetros de espessura. Ela permanece pela
+duração. Se a muralha passar pelo espaço ocupado por uma criatura quando ela surgir, a criatura será
+empurrada para um dos lados da muralha (você escolhe
+qual lado).
+Nada pode passar fisicamente através da muralha.
+Ela é imune a todos os danos e não pode ser dissipada por
+dissipar magia. A magia
+desintegrar destrói a muralha
+instantaneamente, no entanto. A muralha também se
+estende ao Plano Etéreo, bloqueando a viagem etérea
+através dela.
+através dela.
+URALHA DE URALHA DE
+SPINHOS
+6° nível de conjuração Tempo de Conjuração: 1 ação
+Alcance
+: 36 metros
+Componentes
+: V, S, M (um punhado de espinhos)
+Duração
+: Concentração, até 10 minutos
+Você cria uma muralha de arbustos robustos, flexíveis, emaranhados e eriçados com espinhos pontudos. A
+muralha aparece, dentro do alcance, em uma superfície
+sólida e permanece pela duração. Você escolher fazer a
+muralha com até 18 metros de comprimento, 3 metros de
+altura e 1,5 metro de espessura ou um círculo com 6 metros de diâmetro e até 6 metros de altura com 1,5
+metro de espessura. A muralha bloqueia a visão.
+Quando a muralha aparece, cada criatura dentro da
+área deve realizar um teste de resistência de Destreza. Se falhar na resistência, uma criatura sofrerá 7d8 de dano
+perfurante ou metade desse dano se obtiver sucesso.
+Uma criatura pode se mover através da muralha,
+embora lentamente e dolorosamente. Para cada 1,5 metro
+que a criatura atravesse da muralha, ela deve gastar 6
+metros de movimento. Além disso, a primeira vez que a criatura entrar na muralha num turno ou termina o
+turno nela, ela deve fazer um teste de resistência de
+Destreza. Ela sofre 7d8 de dano cortante se falhar na
+resistência ou metade desse dano se obtiver sucesso.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 7° nível ou
+superior, ambos os tipos de dano aumentam em 1d8 para
+cada nível do espaço acima do 6°.
+cada nível do espaço acima do 6°.
+URALHA DE URALHA DE
+OGO
+4° nível de evocação
+Tempo de Conjuração: 1 ação Alcance
+: 36 metros
+Componentes
+: V, S, M (um pequeno pedaço de fósforo)
+Duração
+: Concentração, até 1 minuto
+Você cria uma muralha de fogo numa superfície sólida dentro do alcance. Você pode fazer uma muralha de até
+18 metros de comprimento, 6 metros de altura e 30
+centímetros de espessura ou uma muralha anelar de até 6 metros de diâmetro, 6 metros de altura e 30 centímetros
+de espessura. A muralha é opaca e permanece pela
+duração.
+Quando a muralha aparece, cada criatura dentro da
+área dela deve realizar um teste de resistência de Destreza. Se falhar na resistência, uma criatura sofrerá 5d8 de dano, ou metade desse dano se passar na
+resistência.
+Um lado da muralha, escolhido por você no momento
+da conjuração da magia, causa 5d8 de dano de fogo a cada criatura que terminar o turno dela a até 3 metros desse
+lado ou dentro da muralha. Uma criatura sofre o mesmo dano quando entra na muralha pela primeira vez num
+turno ou termina seu turno nela. O outro lado da muralha
+não causa dano algum.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 5° nível ou superior, o dano aumenta em 1d8 para cada nível do espaço acima do 4°.
+espaço acima do 4°.
+URALHA DE URALHA DE
+ELO
+6° nível 6° nível
+evocação
+Tempo de Conjuração: 1 ação Alcance
+: 36 metros
+Componentes
+: V, S, M (um pequeno pedaço de quartzo)
+Duração
+: Concentração, até 10 minutos
+Você cria uma muralha de gelo numa superfície sólida dentro do alcance. Você pode molda-la em uma cúpula hemisférica ou uma esfera com um raio de até dez painéis
+de 3 metros por 3 metros. Cada painel deve ser contíguo
+com outro painel. Em qualquer formato, a muralha terá 0,6 centímetros de espessura. Ela permanece pela
+duração.
+Se a muralha passar pelo espaço ocupado por uma
+criatura quando ela surgir, a criatura na área será empurrada para um dos lados da muralha (você escolhe
+qual lado) e deve realizar um teste de resistência de
+Destreza. Se falhar na resistência, a criatura sofrerá 10d6
+de dano de frio ou metade desse dano se passar na
+resistência.
+A muralha é um objeto que pode ser danificado e
+então, partido. Ela tem CA 12, 30 pontos de vida por seção de 3 metros e é vulnerável a dano de fogo. Reduzir os pontos de vida de uma seção de 3 metros da muralha a
+0 destruirá essa seção, deixando para trás uma camada
+de ar gelado no espaço ocupado pela muralha. Uma criatura que atravesse a camada de ar gelado pela
+primeira vez num turno, deve realizar um teste de

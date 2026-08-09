@@ -1,0 +1,136 @@
+especificamente que faz isso
+especificamente que faz isso
+sua alma e corpo estão
+separados, matando você instantaneamente.
+Sua forma astral pode viajar livremente dentro do
+Plano Astral e pode passar através de portais que levam a
+qualquer outro plano. Se você entrar em um novo portal
+ou retornar para o plano que você estava quando conjurou
+a magia, seu corpo e posses são transportados ao longo do cordão de prata, permitindo que você reentre no seu corpo
+ao entrar no novo plano. Sua forma astral é uma
+encarnação separada. Qualquer dano ou outros efeitos que se aplicarem a ela, não terão efeito no seu corpo
+físico, nem persistem quando você voltar.
+A magia termina para você e seus companheiros
+quando você usar sua ação para dissipa-la. Quando a magia termina, as criaturas afetadas voltam para seus
+corpos físicos e acordam.
+A magia também pode terminar prematuramente para
+você ou um dos seus companheiros. Uma magia
+dissipar
+magia
+, bem sucedida, usada contra um corpo astral ou
+físico termina a magia para a criatura. Se o corpo original
+de uma criatura ou sua forma astral caírem a 0 pontos de
+vida, a magia termina para essa criatura. Se a magia
+terminar e o cordão prateado estiver intacto, o cordão
+puxa a forma astral da criatura de volta para seu corpo,
+terminando seu estado de animação suspensa.
+Se você retornar para o seu corpo prematuramente,
+seus companheiros permanecem nas suas formas astrais e devem encontrar seus próprios meios de voltar para seus corpos, geralmente caindo a 0 pontos de vida.
+seus corpos, geralmente caindo a 0 pontos de vida.
+ROJETAR ROJETAR
+MAGEM
+7° nível de ilusão
+Tempo de Conjuração: 1 ação Alcance
+Alcance
+Alcance
+0 quilômetros
+Componentes
+: V, S, M (uma pequena réplica sua feita
+com materiais valendo, no mínimo, 5 po)
+Duração
+: Concentração, até 1 dia
+Você cria uma cópia ilusória de si mesmo, que permanece
+pela duração. A cópia pode aparecer em qualquer lugar,
+dentro do alcance, que você já tenha visto antes, independentemente da intervenção de obstáculos. A ilusão se parece e fala como você, mas é intangível. Se a ilusão sofrer qualquer dano, ela desaparece e a magia acaba.
+Você pode ver através dos olhos e ouvir através dos
+ouvidos da cópia como se você estivesse no lugar dela. Em cada um dos seus turnos, com uma ação bônus, você pode trocar o uso dos sentidos dela pelo seu ou voltar novamente. Enquanto você está usando os sentidos dela, você fica cego e surdo ao que está a sua volta.
+Interação física com a imagem revelará ela como sendo
+uma ilusão, já que as coisas podem atravessa-la. Uma criatura que usar sua ação para examinar a imagem,
+pode determinar que ela é uma ilusão sendo bem sucedida
+num teste de Inteligência (Investigação) contra a CD da magia para desacredita-la. Se a criatura discernir a
+ilusão como ela é, a criatura poderá ver através da
+imagem e qualquer barulho que ela fizer soará oco para a criatura.
+criatura.
+ROTEÇÃO CONTRA A ROTEÇÃO CONTRA A
+ORTE
+4° nível de abjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+Componentes
+Componentes
+Duração
+: 8 horas
+Você toca uma criatura e concede a ela uma certa proteção contra a morte.
+A primeira vez que o alvo cair a 0 pontos de vida, como
+resultado de ter sofrido dano, o alvo, ao invés disso, cai a
+1 ponto de vida e a magia termina.
+Se a magia ainda estiver funcionando quando o alvo
+for afetado por um efeito que poderia mata-lo
+instantaneamente sem causar dano, o efeito, ao invés disso, não funciona no alvo e a magia termina.
+disso, não funciona no alvo e a magia termina.
+ROTEÇÃO CONTRA
+ROTEÇÃO CONTRA
+NERGIA
+3° nível de abjuração Tempo de Conjuração: 1 ação Alcance
+: Toque
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 hora
+Pela duração, a criatura voluntária que você tocar terá resistência a um tipo de dano de sua escolha: ácido,
+elétrico, fogo, frio ou trovejante.
+elétrico, fogo, frio ou trovejante.
+ROTEÇÃO CONTRA
+ROTEÇÃO CONTRA
+ÂMINAS
+Truque de abjuração
+Tempo de Conjuração: 1 ação Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: 1 rodada
+Você estende suas mãos e desenha um símbolo de proteção no ar. Até o final do seu próximo turno, você terá
+resistência contra dano de concussão, cortante e
+perfurante causado por ataques com armas.
+perfurante causado por ataques com armas.
+ROTEÇÃO CONTRA O
+ROTEÇÃO CONTRA O
+ROTEÇÃO CONTRA O
+ROTEÇÃO CONTRA O
+ROTEÇÃO CONTRA O
+ROTEÇÃO CONTRA O
+ROTEÇÃO CONTRA O
+1° nível de abjuração Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, S, M (água benta ou pó de prata e
+ferro, consumidos pela magia)
+Duração
+: Concentração, até 10 minutos
+Até a magia acabar, uma criatura voluntária que você
+tocar estará protegida contra certos tipos de criaturas: aberrações, celestiais, corruptores, elementais, fadas e mortos-vivos.
+A proteção garante diversos benefícios. As criaturas
+desse tipo tem desvantagem nas jogadas de ataque contra o alvo. O alvo não pode ser enfeitiçado, amedrontado ou possuído por elas. Se o alvo já estiver enfeitiçado, amedrontado ou possuído por uma dessas criaturas, o alvo terá vantagem em qualquer novo teste de resistência
+contra o efeito relevante.
+contra o efeito relevante.
+ROTEÇÃO CONTRA
+ROTEÇÃO CONTRA
+ENENO
+2° nível de abjuração
+Tempo de Conjuração: 1 ação Alcance
+: Toque
+Componentes
+Componentes
+Componentes
+Duração
+: 1 hora
+Você toca uma criatura. Se ela estiver envenenada, você
+neutraliza o veneno. Se mais de um veneno estiver
+afligindo o alvo, você neutraliza um veneno, que você
+saiba estar presente, ou neutraliza um aleatório.

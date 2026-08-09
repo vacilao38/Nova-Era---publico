@@ -1,0 +1,103 @@
+à sua escolha. Cada uma dessas magias deve ser de um
+nível a que você tenha acesso, como mostrado na tabela.Por exemplo, quando você alcança o 5° nível da classe, você pode aprender uma nova magia de 1° ou 2° nível.
+Além disso, quando você adquire um nível nessa
+classe, você pode escolher uma magia de patrulheiro que você conheça e substituí-la por outra magia da lista de magias de patrulheiro, que também deve ser de um nível ao qual você tenha espaços de magia.
+ao qual você tenha espaços de magia.
+ABILIDADE DE
+ABILIDADE DE
+ONJURAÇÃO
+Sabedoria é a sua habilidade para conjurar suas magias de patrulheiro, já que sua magia vem da sua sintonia com a natureza. Você usa sua Sabedoria sempre que alguma magia se referir a sua habilidade de conjurar magias.Além disso, você usa o seu modificador de Sabedoria para
+definir a CD dos testes de resistência para as magias de
+patrulheiro que você conjura e quando você realiza uma
+jogada de ataque com uma magia.
+CD para suas magias
+= 8 + bônus de proficiência +
+seu modificador de Sabedoria
+Modificador de ataque de magia
+Modificador de ataque de magia
+Modificador de ataque de magia
+seu bônus de proficiência +
+seu bônus de proficiência +
+seu modificador de Sabedoria
+seu modificador de Sabedoria
+ONCLAVE DE ONCLAVE DE
+ATRULHEIRO
+ATRULHEIRO
+3° nível, você escolhe emular os ideais de treinamento
+de um conclave de patrulheiro: o Conclave da Besta, o
+Conclave do Caçador ou o Conclave do Rastreador Subterrâneo
+Subterrâneo
+todos detalhados no final da descrição da
+classe. Sua escolha lhe concede características no 3° nível e novamente no 5°, 7°, 11° e 15° nível.
+e novamente no 5°, 7°, 11° e 15° nível.
+ONSCIÊNCIA
+ONSCIÊNCIA
+RIMITIVA
+A partir do 3° nível, sua maestria do conhecimento de patrulheiro permite que você estabeleça um poderoso elo com bestas e com a terra ao seu redor.
+Você possui uma habilidade inata de se comunicar com
+bestas e elas consideram você como um espírito
+semelhante. Através de sons e gestos, você pode
+comunicar ideias simples a bestas como uma ação e pode
+compreender seu ânimo e intenção básicos. Você aprende
+compreender seu ânimo e intenção básicos. Você aprende
+estado emocional dela, suas necessidades imediatas
+(como comida e abrigo) e ações que você pode tomar (se
+aplicável) para persuadi-la a não atacar.
+Você não pode usar essa habilidade contra uma
+criatura que você tenha atacado nos últimos 10 minutos.
+Além disso, você pode sintonizar seus sentidos para
+determinar se algum dos seus inimigos favoritos está
+espreitando nas redondezas. Ao passar 1 minuto
+ininterrupto em concentração (como se estivesse se
+concentrando em uma magia), você pode sentir se algum dos seus inimigos favoritos está presente a até 8 quilometros de você. Essa característica revela qual dos seus inimigos favoritos está presente, a quantidade deles e a direção e distância aproximadas dessas criaturas (em
+quilometros) de você.
+Se houverem múltiplos grupos de seus inimigos
+favoritos no alcance, você descobre essas informações de
+cada grupo.
+cada grupo.
+NCREMENTO NO
+NCREMENTO NO
+ALOR DE
+ALOR DE
+ABILIDADE
+ABILIDADE
+Quando você atinge o 4° nível e novamente no 8°, 12°, 16°e 19° nível, você pode aumentar um valor de habilidade, à
+sua escolha, em 2 ou você pode aumentar dois valores de
+habilidade, à sua escolha, em 1. Como padrão, você não pode elevar um valor de habilidade acima de 20 com essa característica.
+característica.
+NIMIGO
+NIMIGO
+AVORITO
+AVORITO
+AVORITO
+AVORITO
+A partir do 6° nível, você está pronto para caçar mesmo a
+A partir do 6° nível, você está pronto para caçar mesmo a
+presas mais mortais. Escolha um tipo de inimigo favorito maior: aberrações, celestiais, constructos, corruptores,
+dragões, elementais ou gigantes. Você ganha todos os
+benefícios contra o inimigo escolhido que você
+normalmente ganha contra seu inimigo favorito, além do
+idioma adicional. Seu bônus nas jogadas de dano contra todos os seus inimigos favoritos aumenta para +4.
+Além disso, você tem vantagem em testes de
+resistência contra magias e habilidades usadas por um inimigo favorito maior.
+inimigo favorito maior.
+inimigo favorito maior.
+inimigo favorito maior.
+inimigo favorito maior.
+ÁPIDOS
+ÁPIDOS
+meçando no 8° nível, você pode usar a ação de
+Disparada como uma ação bônus no seu turno.
+Disparada como uma ação bônus no seu turno.
+IMETISMO
+A partir do 10° nível, você pode permanecer perfeitamente imóvel por longos períodos de tempo para preparar uma emboscada.
+Quando você tentar se esconder no seu turno, você
+pode optar por não se mover nesse turno. Se você evitar se mover, criaturas que tentarem detectar você sofrem se mover, criaturas que tentarem detectar você sofrem
+10 de penalidade em testes de Sabedoria (Percepção) até
+o começo do seu próximo turno
+o começo do seu próximo turno
+Você perde esse benefício
+caso se mova ou caia no chão, voluntariamente ou por um
+efeito externo. Você ainda será automaticamente
+detectado caso algum efeito ou ação faça com que você não
+esteja mais escondido.

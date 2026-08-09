@@ -1,0 +1,280 @@
+Uma vez que a magia é conjurada, os efeitos não são
+limitados pelo seu alcance, a menos que a descrição da
+magia diga o contrário.
+magia diga o contrário.
+OMPONENTES
+OMPONENTES
+Os componentes de uma magia são requisitos físicos que
+você deve possuir para conjurar a magia. Cada descrição de magia indica se seu componente é verbal (V), somático
+(S) ou material (M). Se você não dispor de um ou mais dos
+componentes da magia, você fica incapaz de conjurá-
+componentes da magia, você fica incapaz de conjurá-
+componentes da magia, você fica incapaz de conjurá-
+componentes da magia, você fica incapaz de conjurá-
+ERBAL(V)
+A maioria das magias exige a entoação de palavras místicas. As palavras em si não são a fonte do poder da
+magia, em vez disso, a combinação particular de sons,
+com o específico timbre e entonação, põe o filamento da magia em ação. Então, um personagem que está
+amordaçado ou em uma área de silêncio, como uma criada
+pela magia
+silêncio
+, não pode conjurar uma magia com o
+componente verbal.
+componente verbal.
+OMÁTICO
+(S)
+Gestos para conjurar magias podem incluir uma forte
+gesticulação ou um intricado conjunto de gestos. Se uma
+magia requer um componente somático, é necessário ter livre ao menos uma das mãos para executar esses gestos.
+livre ao menos uma das mãos para executar esses gestos.
+ATERIAL(M)
+Conjurar algumas magias requer objetos particulares,
+especificados em parênteses na área de componentes. Um
+personagem pode usar uma
+bolsa de componentes
+ou
+ou
+foco de conjuração
+(descritos no capítulo 5) no
+lugar dos componentes específicos para uma magia. Mas se um custo é indicado para um componente, um personagem deve ter esse componente específico antes de
+poder conjurar a magia.
+Se uma magia discrimina que um componente
+material é consumido por ela, o personagem deve estar provido desse componente cada vez que fizer uso da
+magia.
+Um conjurador precisa ter uma das mãos livres para
+ter acesso aos componentes, mas pode ser a mesma mão
+que se utiliza para executar os componentes gestuais.
+que se utiliza para executar os componentes gestuais.
+URAÇÃO
+URAÇÃO
+A duração da magia é a extensão de tempo que uma magia persiste. Uma duração pode ser expressa em
+rodadas, minutos, horas ou mesmo em anos. Algumas
+magias especificam que seus efeitos duram até a magia ser dissipada ou destruída.
+ser dissipada ou destruída.
+NSTANTÂNEA
+Muitas magias são instantâneas. A magia causa dano,
+cura, cria ou altera uma criatura ou um objeto de um modo que não pode ser dissipada, porque a magia existe
+somente por um instante.
+somente por um instante.
+ONCENTRAÇÃO
+Algumas magias requerem que você se mantenha
+concentrado com a finalidade de mantê-la ativa. Se você perder a concentração, a magia se encerra.
+Se uma magia precisa ser mantida com concentração,
+esse detalhe aparece na descrição da própria magia em
+´'XUDomRµ7DPEpPpGHVFULWRQD
+própria magia quanto
+tempo você pode manter sua concentração nela. Você pode
+encerrar a concentração em qualquer momento (nenhuma ação é exigida).
+ação é exigida).
+ação é exigida).
+ação é exigida).
+ação é exigida).
+SCOLAS DE
+SCOLAS DE
+AGIA
+AGIA
+Academias de grupos mágicos se dividem em oito categorias,
+Academias de grupos mágicos se dividem em oito categorias,
+chamadas de escolas de magia. Estudioso
+chamadas de escolas de magia. Estudioso
+, particularmente
+, particularmente
+magos, aplicam essas categorias para as magias, acreditando
+magos, aplicam essas categorias para as magias, acreditando
+que
+todas as mágicas funcionam essencialmente do mesmo
+todas as mágicas funcionam essencialmente do mesmo
+modo,
+sejam obtidas por rigoroso estudo ou outorgado por
+sejam obtidas por rigoroso estudo ou outorgado por
+uma
+divindade.
+divindade.
+As escolas de magia ajudam a descrever as magias. Elas não
+As escolas de magia ajudam a descrever as magias. Elas não
+têm regras próprias, embora algumas regras se refiram às
+têm regras próprias, embora algumas regras se refiram às
+escolas.
+escolas.
+Magias de
+Abjuração
+Abjuração
+são protetoras em sua natureza,
+embora
+embora
+alguma
+s tenham grande uso agressivo. Elas criam
+barreiras
+barreiras
+mágicas, negam efeitos nocivos, ferem invasores ou
+banem
+banem
+criaturas para outros planos de existência.
+criaturas para outros planos de existência.
+Magias de
+Adivinhação
+Adivinhação
+revelam informações, na forma
+revelam informações, na forma
+revelam informações, na forma
+segredos há muito esquecidos, vislumbres do futu
+ro, a
+ro, a
+localização
+de coisas escondidas, a verdade por trás das
+de coisas escondidas, a verdade por trás das
+ilusões ou a visão de
+distantes lugares ou pessoa.
+distantes lugares ou pessoa.
+Magias de
+Conjuração
+Conjuração
+envolvem a transposição de
+envolvem a transposição de
+objetos ou
+criaturas de um local para o outro. Algumas magias
+criaturas de um local para o outro. Algumas magias
+invocam
+criaturas ou objetos ao
+lado do conjurador, enquanto
+lado do conjurador, enquanto
+outras
+permitem ao conjurador se
+teletransportar
+teletransportar
+para outro lugar.
+para outro lugar.
+Algumas conjurações criam objetos ou efeitos a partir do
+Algumas conjurações criam objetos ou efeitos a partir do
+nada.
+nada.
+Magias de
+Encantamento
+Encantamento
+afetam a mente de outros,
+afetam a mente de outros,
+influenciando ou controlando seu comportamento.
+Tais
+Tais
+magias
+podem fazer o inimigo ver você como amigo, forçar
+podem fazer o inimigo ver você como amigo, forçar
+criaturas a
+tomar um rumo de ação ou mesmo controlar outra
+tomar um rumo de ação ou mesmo controlar outra
+pessoa como
+uma marionete.
+uma marionete.
+Magias de
+Evocação
+Evocação
+manipulam as energias mágicas
+manipulam as energias mágicas
+para
+produzir um efeito desejado. Algumas evocam explosões
+produzir um efeito desejado. Algumas evocam explosões
+de raio e
+fogo, outras canalizam energia positiva para curar
+fogo, outras canalizam energia positiva para curar
+ferimentos.
+ferimentos.
+Magias de
+Ilusão
+Ilusão
+enganam os sentidos ou a mente de
+enganam os sentidos ou a mente de
+outros.
+Elas fazem com que as pessoas vejam coisas que não
+Elas fazem com que as pessoas vejam coisas que não
+estão ali,
+como também não notar coisas que estão ali, escutar
+como também não notar coisas que estão ali, escutar
+sons
+fanta
+smagóricos ou lembrar de coisas que nunca
+smagóricos ou lembrar de coisas que nunca
+aconteceram.
+Algumas ilusões criam imagens
+Algumas ilusões criam imagens
+fantasmagóricas que qualquer
+criatura pode ver, mas as mais
+criatura pode ver, mas as mais
+traiçoeiras ilusões plantam uma
+imagem diretamente na
+imagem diretamente na
+mente da criatura.
+mente da criatura.
+Magias de
+Necromancia
+Necromancia
+podem manipular
+a energia
+a energia
+da vida e
+da morte. Tais magias podem garantir uma reserva
+da morte. Tais magias podem garantir uma reserva
+extra de força
+de vida, drenar a energia vital de outra criatura,
+de vida, drenar a energia vital de outra criatura,
+criar um morto
+criar um morto
+vivo ou mesmo trazer um morto de volta à
+vivo ou mesmo trazer um morto de volta à
+vida.
+vida.
+Criar mortos
+Criar mortos
+vivos através do uso de magias necromânticas
+vivos através do uso de magias necromânticas
+vivos através do uso de magias necromânticas
+omo
+animar
+animar
+mortos
+, não é um bom ato e apenas alguém
+, não é um bom ato e apenas alguém
+maligno faz uso de tais magias com frequência.
+maligno faz uso de tais magias com frequência.
+Magias de
+Transmutação
+Transmutação
+mudam a propriedade de
+mudam a propriedade de
+uma
+criatura, objeto ou ambiente. Elas podem tornar um
+criatura, objeto ou ambiente. Elas podem tornar um
+inimigo em
+uma criatura inofensiva, reforçar a força de
+uma criatura inofensiva, reforçar a força de
+uma criatura inofensiva, reforçar a força de
+aliado, fazer um
+objeto se mover ao comando do conjurador
+objeto se mover ao comando do conjurador
+ou melhorar a
+capacidade inata de cura de uma criatura, para
+capacidade inata de cura de uma criatura, para
+que ela se
+recupere rapidamente da injúria.
+recupere rapidamente da injúria.
+Atividades normais, como mover e atacar, não
+interferem na concentração. Os seguintes fatores podem
+quebrar a concentração:
+quebrar a concentração:
+Conjurar outra magia que exige concentração.
+Você perde a concentração se conjurar outra magia
+que exige concentração. Você não pode se concentrar
+em duas magias de uma só vez.
+em duas magias de uma só vez.
+Sofrer dano.
+Sempre que você sofrer dano enquanto
+estiver se concentrando em uma magia, você deve
+fazer um teste de resistência de Constituição para
+manter sua concentração. A CD é igual a 10 ou metade
+do dano recebido, o que for maior. Se você sofrer o dano de múltiplas origens, como uma flecha e um
+sopro de dragão, você deve fazer um teste de
+resistência para cada origem do dano.
+resistência para cada origem do dano.
+Ficar incapacitado ou morto.
+Você perde a
+concentração da magia se ficar incapacitado ou se
+morrer.

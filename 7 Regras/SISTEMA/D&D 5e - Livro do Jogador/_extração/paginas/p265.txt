@@ -1,0 +1,150 @@
+ALAVRA DE
+ALAVRA DE
+ODER
+ODER
+TORDOAR
+8° nível de encantamento
+Tempo de Conjuração: 1 ação Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você pronuncia uma palavra de poder que pode oprimir a mente de uma criatura que você possa ver, dentro do alcance, deixando-a estupefata. Se o alvo escolhido estiver com 150 pontos de vida ou menos, ele ficará atordoado. Do contrário, essa magia não produz efeito.
+O alvo atordoado deve realizar um teste de resistência
+de Constituição no final de cada um dos turnos dele. Se obtiver sucesso na resistência, o efeito de atordoamento termina.
+termina.
+ALAVRA DE
+ALAVRA DE
+ODER
+ODER
+URAR
+9° nível de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, S
+: V, S
+Duração
+: Instantânea
+Uma onda de energia curativa inunda a criatura tocada
+Uma onda de energia curativa inunda a criatura tocada
+O alvo recupera todos os seus pontos de vida. Se a criatura estiver enfeitiçada, amedrontada, paralisada ou atordoada, a condição termina. Se a criatura estiver
+caída, ela pode usar a reação dela para se levantar. Essa
+magia não afeta mortos-vivos ou constructos.
+magia não afeta mortos-vivos ou constructos.
+ALAVRA DE
+ALAVRA DE
+ODER
+ODER
+ATAR
+9° nível de encantamento Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você profere uma palavra de poder que pode compelir
+uma criatura que você possa ver, dentro do alcance, a
+morrer instantaneamente. Se o alvo escolhido estiver com 100 pontos de vida ou menos, ele morre. Do contrário, essa magia não produz efeito.
+essa magia não produz efeito.
+ALAVRA DE ALAVRA DE
+ECORDAÇÃO
+6° nível de conjuração Tempo de Conjuração: 1 ação Alcance
+: 1,5 metro
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você e até cinco criaturas voluntária a 1,5 metro de você,
+instantaneamente são teletransportadas para um
+santuário previamente designado. Você e qualquer criatura que se teletransportar com você, aparece no espaço desocupado mais próximo do ponto que você designou quando preparou seu santuário (veja abaixo). Se
+você conjurar essa magia sem ter preparado um santuário
+primeiro, a magia não funciona.
+Você deve designar um santuário na conjuração dessa
+magia dentro de um local, como um templo dedicado ou
+fortemente ligado a sua divindade. Se você tentar conjurar essa magia dessa forma em uma área que não seja dedicada à sua divindade, a magia não funciona.
+seja dedicada à sua divindade, a magia não funciona.
+ALAVRA
+ALAVRA
+IVINA
+7° nível de evocação Tempo de Conjuração: 1 ação bônus Alcance
+: 9 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você profere uma palavra divina, imbuída com o poder
+que moldou o mundo na aurora da criação. Escolha
+qualquer quantidade de criaturas que você possa ver dentro do alcance. Cada criatura que puder ouvir você
+deve realizar um teste de resistência de Carisma. Ao
+falhar na resistência, uma criatura sofre um efeito
+baseado nos seus pontos de vida atuais:
+baseado nos seus pontos de vida atuais:
+50 pontos de vida ou menos: surda por 1 minuto
+50 pontos de vida ou menos: surda por 1 minuto
+40 pontos de vida ou menos: surda e cega por 10
+minutos
+minutos
+30 pontos de vida ou menos: surda, cega e atordoada por 1 hora
+por 1 hora
+20 pontos de vida ou menos: morta instantaneamente
+Independentemente dos seus pontos de vida atuais,
+um celestial, corruptor, elemental ou fada que falhar na sua resistência é obrigado a voltar para o plano de origem dele (se já não for aqui) e não pode retornar para o plano atual por 24 horas através de nenhum meio inferior à
+magia
+desejo
+desejo
+desejo
+ARAR O
+ARAR O
+EMPO
+9° nível de transmutação
+Tempo de Conjuração: 1 ação Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você, por um breve momento, para o fluxo do tempo pra tudo, menos pra você. Nenhum tempo se passa para as outras criaturas, enquanto você realiza 1d4 + 1 turnos de uma vez, durante os quais você pode usar ações e se mover normalmente.
+Essa magia termina se uma das ações que você fizer
+durante esse período ou qualquer efeito que você criar, afetar uma criatura diferente de você ou um objeto que
+esteja sendo vestido ou carregado por outro que não você.
+Além disso, a magia termina se você se mover para um lugar a mais de 300 metros do local onde você conjurou essa magia.
+essa magia.
+ASSO
+ASSO
+EBULOSO
+2° nível de conjuração Tempo de Conjuração: 1 ação bônus Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Brevemente envolto por uma neblina prateada, você se
+teletransporta a até 9 metros para um espaço desocupado
+que você possa ver.
+que você possa ver.
+ASSOS ASSOS
+ONGOS
+1° nível de transmutação
+Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, S, M (um pouco de barro)
+Duração
+: 1 hora
+Você toca uma criatura. O deslocamento do alvo aumenta
+em 3 metros, até a magia acabar.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 2° nível ou superior, você pode afetar uma criatura adicional para
+cada nível do espaço acima do 1°.

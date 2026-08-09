@@ -1,0 +1,129 @@
+Cada vez que você conjura essa magia, você pode criar um
+novo semiplano ou fazer a porta umbral se conectar a um
+semiplano que você tenha criado em uma conjuração
+anterior dessa magia. Além disso, se você conhecer a
+natureza e conteúdo do semiplano criado através da
+conjuração dessa magia por outra criatura, você pode
+fazer com que a porta umbral se conecte a esse semiplano.
+fazer com que a porta umbral se conecte a esse semiplano.
+ENTIDO
+ENTIDO
+ESTIAL
+2° nível de adivinhação (ritual)Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 hora
+Você toca uma besta voluntária. Pela duração da magia, você pode usar sua ação para ver através dos olhos e ouvir
+através dos ouvidos da besta e continua a fazê-lo até você usar sua ação para retornar aos seus sentidos normais.
+Enquanto estiver utilizando os sentidos da besta, você
+ganha os benefícios de qualquer sentido especial possuído pela criatura, no entanto, você estará cego e surdo em
+relação aos seus próprios sentidos.
+relação aos seus próprios sentidos.
+ERVO
+ERVO
+NVISÍVEL
+1° nível de conjuração (ritual)
+Tempo de Conjuração: 1 ação Alcance
+: 18 metros
+Componentes
+: V, S, M (um pedaço de barbante e um
+pouco de madeira)
+Duração
+: 1 hora
+Essa magia cria uma força invisível, sem mente e sem
+forma que realiza tarefas simples, ao seu comando, até a
+magia acabar. O servo aparece do nada em um espaço desocupado no chão, dentro do alcance. Ele tem CA 10, 1
+ponto de vida, Força 2 e não pode atacar. Se ele cair a 0
+pontos de vida, a magia acaba.
+Uma vez em cada um dos seus turnos, com uma ação
+bônus, você pode comandar, mentalmente, o servo para se
+mover até 4,5 metros e interagir com um objeto. O servo
+pode realizar tarefas simples que um serviçal humano
+faria, como buscar coisas, limpar, consertar, dobrar
+roupas, acender chamas, servir comida ou derramar vinho. Uma vez que um comando seja dado, o servo
+realiza a tarefa da melhor forma possível, até completar a
+tarefa, então esperará o seu próximo comando.
+Se você comandar o servo a realizar uma tarefa que
+poderia afasta-lo a mais de 18 metros de você, a magia termina.
+termina.
+EXTO
+EXTO
+ENTIDO
+9° nível de adivinhação Tempo de Conjuração: 1 minuto
+Alcance
+: Toque
+Componentes
+: V, S, M (uma pena de colibri)
+Duração
+: 8 horas
+Você toca uma criatura voluntária e a abençoa com uma habilidade limitada de ver o futuro iminente. Pela
+duração, o alvo não pode ser surpreendido e tem vantagem nas jogadas de ataque, testes de habilidade e
+testes de resistência. Além disso, outras criaturas tem
+desvantagem nas jogadas de ataque contra o alvo, pela duração.
+Essa magia termina imediatamente, se você conjura-
+Essa magia termina imediatamente, se você conjura-
+novamente antes da duração acabar.
+novamente antes da duração acabar.
+ILÊNCIO
+2° nível de ilusão (ritual)
+Tempo de Conjuração: 1 ação
+Alcance
+: 36 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 10 minutos
+Pela duração, nenhum som pode ser criado dentro ou atravessar uma esfera de 6 metros de raio centrada num ponto, à sua escolha, dentro do alcance. Qualquer criatura
+ou objeto totalmente dentro da esfera é imune a dano
+trovejante e as criaturas estarão surdas enquanto estiverem completamente dentro dela. Conjurar magias
+que inclua a componente verbal é impossível ai.
+que inclua a componente verbal é impossível ai.
+ÍMBOLO
+7° nível de abjuração
+Tempo de Conjuração: 1 minuto Alcance
+: Toque
+Componentes
+: V, S, M (mercúrio, fósforo e pó de
+diamante e opala, com um valor total de, no mínimo, 1.000 po, consumidos pela magia)
+Duração
+: Até ser dissipada ou ativada
+Quando você conjura essa magia, você inscreve um glifo nocivo, tanto sobre uma superfície (como uma secção de piso, uma parede ou mesa) quanto dentro de um objeto
+que possa ser fechado (como um livro, um pergaminho ou
+um baú de tesouro). Se você escolher uma superfície, o glifo pode cobrir uma área da superfície não superior a 3
+metros de diâmetro. Se você escolher um objeto, o objeto
+deve permanecer no seu local; se ele for movido mais de 3 metros de onde você conjurou essa magia, o glifo será
+quebrado e a magia termina sem ser ativada.
+O glifo é quase invisível e requer um teste de
+Inteligência (Investigação) contra a CD da magia para ser encontrado.
+Você define o que ativa o glifo quando você conjura a
+magia. Para glifos inscritos em uma superfície, os gatilhos mais típicos incluem tocar ou ficar sobre o glifo, remover
+outro objeto cobrindo o glifo, aproximar-se a uma certa
+distância do glifo ou manipular um objeto onde o glifo
+esteja inscrito. Para glifos inscritos dentro de objetos, os
+gatilhos mais comuns incluem abrir o objeto, aproximar-se a uma certa distância do objeto ou ver ou ler o glifo.
+Você pode, posteriormente, aperfeiçoar o gatilho para
+que a magia se ative apenas sob certas circunstâncias ou de acordo com as características físicas (como altura ou
+peso), tipo de criatura (por exemplo, a proteção poderia
+ser definida para afetar aberrações ou drow) ou tendência. Você pode, também, definir condições para
+criaturas não ativarem o glifo, como aqueles que falarem
+determinada senha.
+Quando você inscreve o glifo, escolha uma das opções
+abaixo para seu efeito. Uma vez ativado, o glifo brilha, preenchendo uma esfera de 18 metros de raio com penumbra por 10 minutos, após esse tempo, a magia
+termina. Cada criatura na esfera, quando o glifo é
+ativado, é afetada por seu efeito, assim como uma
+criatura que entrar na esfera a primeira vez num turno
+ou termina seu turno nela.
+Atordoamento
+. Cada alvo deve realizar um teste de
+resistência de Sabedoria e ficará atordoada por 1 minuto se falhar na resistência.
+se falhar na resistência.
+. Cada alvo deve realizar um teste de
+resistência de Carisma. Com uma falha na resistência, o
+alvo será consumido pelo desespero por 1 minuto.
+Durante esse período, ele não poderá atacar ou afetar qualquer criatura com habilidades, magias ou outros
+efeitos mágicos nocivos.

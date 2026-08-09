@@ -1,0 +1,149 @@
+Testes de Resistência:
+Força, Destreza
+Perícias:
+Escolha três dentre Adestrar Animais,
+Atletismo, Furtividade, Intuição, Investigação,
+Natureza, Percepção e Sobrevivência
+Natureza, Percepção e Sobrevivência
+QUIPAMENTO
+QUIPAMENTO
+Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+brunea brunea
+brunea
+brunea
+brunea
+armadura de couro
+armadura de couro
+armadura de couro
+armadura de couro
+armadura de couro
+duas espadas curtas ou (
+duas espadas curtas ou (
+duas espadas curtas ou (
+duas armas simples
+corpo-a-corpo
+corpo-a-corpo
+corpo-a-corpo
+corpo-a-corpo
+) um pacote de explorador ou (
+) um pacote de explorador ou (
+) um pacote de
+aventureiro
+aventureiro
+Um arco longo e uma aljava com 20 flechas
+Um arco longo e uma aljava com 20 flechas
+NIMIGO
+NIMIGO
+AVORITO
+A partir do 1° nível, você tem experiência significativa
+estudando, rastreando, caçando e, até mesmo, falando com certos tipos de inimigos.
+Escolha um tipo de inimigo favorito: bestas, fadas,
+humanoide, monstruosidades humanoide, monstruosidades
+mortos-vivos. Você
+recebe um bônus de +2 nas jogadas de dano com ataques
+com arma contra criaturas do tipo escolhido. Além disso,
+você tem vantagem em testes de Sabedoria(Sobrevivência) para rastrear seus inimigos favoritos, assim como em testes de Inteligência para lembrar informações sobre eles.
+Quando você adquire essa característica, você também
+aprende um idioma, à sua escolha, que seja falado pelos seus inimigos favoritos, se eles falarem algum.
+seus inimigos favoritos, se eles falarem algum.
+XPLORADOR
+XPLORADOR
+ATURAL
+Você é um mestre na navegação pelo mundo natural e você reage de forma rápida e decisiva quando é atacado.
+Isso fornece a você os seguintes benefícios:
+Isso fornece a você os seguintes benefícios:
+Você ignora terreno difícil.
+Você ignora terreno difícil.
+Você tem vantagem em rolagens de iniciativa.
+Você tem vantagem em rolagens de iniciativa.
+No seu primeiro turno de combate, você tem vantagem
+nas jogadas de ataque contra criaturas que ainda não
+tenham agido.
+Além disso, você é perito em navegar pelo ambiente
+selvagem. Você ganha os seguintes benefícios quando
+estiver viajando por uma hora ou mais:
+estiver viajando por uma hora ou mais:
+Terreno difícil não atrasa a viagem do seu grupo.
+Terreno difícil não atrasa a viagem do seu grupo.
+Seu grupo não pode se perder, exceto por meios
+mágicos.
+mágicos.
+Mesmo quando você está engajado em outra atividade além de viajar (como forragear, navegar ou rastrear),
+você permanece alerta ao perigo.
+você permanece alerta ao perigo.
+Se você estiver viajando sozinho, você pode se mover
+furtividamente com um ritmo de viagem normal.
+furtividamente com um ritmo de viagem normal.
+Quando você forrageia, você encontra o dobro de comida que normalmente encontraria.
+comida que normalmente encontraria.
+Enquanto estiver rastreando outras criaturas, você também descobre o número exato delas, seus
+tamanhos e há quanto tempo elas passaram pela área.
+tamanhos e há quanto tempo elas passaram pela área.
+STILO DE
+STILO DE
+UTA
+No 2° nível, você adota um estilo de combate particular que será sua especialidade. Escolha uma das opções a
+seguir. Você não pode escolher o mesmo Estilo de Combate mais de uma vez, mesmo se puder escolher de novo.
+novo.
+RQUEARIA
+RQUEARIA
+Você ganha +2 de bônus nas jogadas de ataque realizadas com uma arma de ataque à distância.
+com uma arma de ataque à distância.
+OMBATE COM
+OMBATE COM
+UAS
+UAS
+RMAS
+RMAS
+Quando você estiver engajado em uma luta com duas
+armas, você pode adicionar o seu modificador de
+habilidade na jogada de dano do seu segundo ataque.
+habilidade na jogada de dano do seu segundo ataque.
+EFESA
+EFESA
+Enquanto estiver usando armadura, você ganha +1 de
+bônus em sua CA.
+bônus em sua CA.
+UELIS
+UELIS
+UELIS
+Quando você empunhar uma arma de ataque corpo-a-
+corpo em uma mão e nenhuma outra arma, você ganha
+corpo em uma mão e nenhuma outra arma, você ganha
+de bônus nas jogadas de dano com essa arma.
+de bônus nas jogadas de dano com essa arma.
+ONJURAÇÃO
+ONJURAÇÃO
+Quando você alcança o 2° nível, você aprende a usar a
+essência mágica da natureza para conjurar magias, como
+um druida faz. Veja o capítulo 10 para as regras gerais de conjuração e o capítulo 11 para a lista de magias de patrulheiro.
+patrulheiro.
+SPAÇOS DE
+SPAÇOS DE
+AGIA
+A tabela O Patrulheiro mostra quantos espaços de magia você tem para conjurar suas magias de 1° nível e superiores. Para conjurar uma dessas magias, você deve gastar uma espaço de magia do nível da magia ou superior. Você recobra todos os espaços de magia gastos
+quando você completa um descanso longo.
+Por exemplo, se você quiser conjurar a magia de 1°
+Por exemplo, se você quiser conjurar a magia de 1°
+vel
+amizade animal
+e você tiver um espaço de magia de
+1° nível e um de 2° nível disponíveis, você poderá conjurar
+amizade animal
+usando qualquer dos dois espaços.
+usando qualquer dos dois espaços.
+AGIAS
+AGIAS
+ONHECIDAS DE
+1° N
+ÍVEL E
+ÍVEL E
+UPERIORES
+Você conhece duas magias de 1° nível, à sua escol
+Você conhece duas magias de 1° nível, à sua escol
+, da
+lista de magias de patrulheiro.A coluna Magias Conhecidas na tabela O Patrulheiro mostra quando você aprende mais magias de patrulheiro,

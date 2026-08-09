@@ -1,0 +1,132 @@
+Se o alvo estiver dormindo, o mensageiro aparece no
+sonho do alvo e pode conversar com o alvo enquanto ele
+estiver dormindo, até o limite da duração da magia. O
+mensageiro também pode modificar o meio ambiente do
+sonho, criando paisagens, objetos e outras imagens. O
+mensageiro pode sair do transe a qualquer momento,
+terminando o efeito da magia prematuramente. O alvo se lembra do sonho perfeitamente quando acorda. Se o alvo
+estiver acordado quando a magia for conjurada, o
+mensageiro saberá disso e pode, tanto terminar o transe(e a magia) quando esperar o alvo cair no sono, no
+momento em que o mensageiro aparecerá nos sonhos do
+alvo.
+Você pode fazer o mensageiro parecer monstruoso e
+aterrorizante para o alvo. Se o fizer, o mensageiro pode aterrorizante para o alvo. Se o fizer, o mensageiro pode
+viar uma mensagem de não mais que dez palavras,
+então o alvo deve realizar um teste de resistência de
+Sabedoria. Se falhar na resistência, ecos da
+monstruosidade fantasmagórica criarão um pesadelo que permanecerá pela duração do sono do alvo e impede o alv
+permanecerá pela duração do sono do alvo e impede o alv
+de ganhar qualquer benefício do descanso. Além disso, quando o alvo acordar, ele sofrerá 3d6 de dano psíquico.
+Se você tiver uma parte do corpo, mecha de cabelo,
+recorte de unha ou porção similar do corpo do alvo, o alvo realiza seu teste de resistência com desvantagem.
+realiza seu teste de resistência com desvantagem.
+realiza seu teste de resistência com desvantagem.
+1° nível de encantamento Tempo de Conjuração: 1 ação
+Alcance
+: 36 metros
+Componentes
+: V, S, M (um punhado de areia fina,
+pétalas de rosas ou um grilo)
+Duração
+: 1 minuto
+Essa magia põem as criaturas num entorpecimento
+mágico. Jogue 5d8; o total é a quantidade de pontos de vida de criaturas afetados pela magia. As criaturas numa
+área de 6 metros de raio, centrada no ponto escolhido,
+dentro do alcance, são afetadas em ordem ascendente dos pontos de vida atuais delas (ignorando criaturas
+inconscientes).
+Começando com as criaturas com menos pontos de
+vida atuais, cada criatura afetada por essa magia cai
+inconsciente até a magia acabar, sofrer dano ou alguém
+usar sua ação para sacudi-la ou esbofeteá-la até acordar.Subtraia os pontos de vida de cada criatura do total antes
+de seguir para a próxima criatura com menos pontos de
+vida atuais. Os pontos de vida atuais da criatura devem ser iguais ou menor
+ser iguais ou menor
+que o valor restante para que a
+criatura possa ser afetada.
+Mortos-vivos e criaturas imunes a serem enfeitiçadas
+não são afetadas por não são afetadas por
+sa magia.
+Em Níveis Superiores
+Em Níveis Superiores
+Quando você conjurar Quando você conjurar Quando você conjurar
+Quando você conjurar
+magia usando um espaço de magia de 2º nível ou superior, jogue 2d8 adicionais para cada nível do espaço
+acima do 1°
+UGESTÃO
+2° nível de encantamento
+Tempo de Conjuração: 1 ação Alcance
+: 9 metros
+Componentes
+: V, M (uma língua de cobra e, ou um
+pedaço de favo de mel ou uma gota de azeite doce)
+Duração
+: Concentração, até 8 horas
+Você sugere um curso de atividade (limitado a uma ou
+duas sentenças) e, magicamente, influencia um criatura
+que você possa ver, dentro do alcance, e que possa ouvir e compreender você. Criaturas que não podem ser
+enfeitiçadas são imunes a esse efeito. A sugestão deve ser
+formulada de modo que o curso de ação soe razoável.
+Dizer para a criatura se esfaquear, se arremessar em
+uma lança, tocar fogo em si mesma ou fazer algum outro
+ato obviamente nocivo anulará o efeito da magia.
+O alvo deve realizar um teste de resistência de
+Sabedoria. Se falhar na resistência, ele seguirá o curso de ação que você descreveu, da melhor forma possível. O curso de ação sugerido pode continuar por toda a duração.
+Se a atividade sugerida puder ser completada em um
+tempo menor, a magia termina quando o alvo completar o que lhe foi dito para que fizesse.
+Você pode, também, especificar condições que irão
+ativar uma atividade especial pela duração. Por exemplo, você poderia sugerir a um cavaleiro que entregasse seu
+cavalo de guerra ao primeiro mendigo que ele encontrar.
+Se a condição não for satisfeita antes da magia expirar, a atividade não será concluída.
+Se você ou um dos seus companheiros causar dano a uma
+criatura afetada por essa magia, a magia termina.
+criatura afetada por essa magia, a magia termina.
+criatura afetada por essa magia, a magia termina.
+UGESTÃO EM
+UGESTÃO EM
+ASSA
+6° nível de encantamento
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+: V, M (uma língua de cobra e, ou um
+pedaço de favo de mel ou uma gota de azeite doce)
+Duração
+: 24 horas
+Você sugere um curso de atividade (limitado a uma ou
+duas sentenças) e, magicamente, influencia até dozes criaturas, à sua escolha, que você possa ver dentro do
+alcance e que possam ouvir e compreender você.
+Criaturas que não podem ser enfeitiçadas são imunes a esse efeito. A sugestão deve ser formulada de modo que o
+curso de ação soe razoável. Dizer para a criatura se
+esfaquear, se arremessar em uma lança, tocar fogo em si mesma ou fazer algum outro ato obviamente nocivo
+anulará o efeito da magia.
+Cada alvo deve realizar um teste de resistência de
+Sabedoria. Se falhar na resistência, ele seguirá o curso de
+ação que você descreveu, da melhor forma possível. O
+curso de ação sugerido pode continuar por toda a duração.Por exemplo, você poderia sugeria a um grupo de soldados
+que deem todo o seu dinheiro para o primeiro mendigo
+que encontrarem. Se a condição não for atingida antes da magia acabar, a atividade não é realizada.
+Se você ou um dos seus companheiros causar dano a
+uma criatura afetada por essa magia, a magia termina para aquela criatura.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 7° nível, a duração será de 10 dias. Quando você usar um espaço de magia de
+8° nível, a duração será de 30 dias. Quando você usar um
+espaço de magia de 9° nível, a duração será de 1 ano e 1 dia.
+dia.
+USSURROS
+USSURROS
+ISSONANTES
+1° nível de encantamento
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você sussurra uma melodia dissonante que apenas uma criatura, à sua escolha, dentro do alcance pode ouvir, causando-lhe uma terrível dor. O alvo deve realizar um
+teste de resistência de Sabedoria. Se falhar na
+resistência, ele sofrerá 3d6 de dano psíquico e deve, imediatamente, usar sua reação, se disponível, para se
+mover para o mais longe possível de você. A criatura não

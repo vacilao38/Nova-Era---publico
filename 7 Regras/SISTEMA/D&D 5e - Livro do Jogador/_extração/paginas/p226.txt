@@ -1,0 +1,136 @@
+Você cria um sensor invisível, dentro do alcance, em um
+local familiar a você (um local que você tenha visitado ou
+visto antes) ou em um local obvio que não seja familiar a
+você (como atrás de uma porta, ao redor de um canto ou
+em um bosque de árvores). O sensor se mantem no local
+pela duração e não pode ser atacado ou manipulado de
+outra forma.
+outra forma.
+ando você conjurar essa magia, escolhe visão ou
+audição. Você pode escolher sentir através do sensor como se você estivesse no espaço dele. Com sua ação, você pode trocar entre visão e audição.
+Uma criatura que puder ver o sensor (como uma
+criatura beneficiada por
+ver o invisível ou visão
+verdadeira) vê um globo luminoso e intangível do
+tamanho do seu olho.
+tamanho do seu olho.
+LONE
+8° nível de necromancia
+Tempo de Conjuração: 1 hora Alcance
+: Toque
+Componentes
+: V, S, M (um diamante valendo, no
+mínimo, 1.000 po e, no mínimo 3 centímetros cúbicos
+de carne da criatura que será clonada, consumida pela
+magia, e um receptáculo valendo, no mínimo, 2.000 po
+que tenha uma tampa selada e seja grande o suficiente para comportar uma criatura Média, como uma urna
+enorme, um caixão, um cisto cheio de lama no solo ou
+um recipiente de cristal cheio de água salgada)
+Duração
+: Instantânea
+Essa magia produz uma duplicata inerte de uma criatura
+viva como uma garantia contra a morte. Esse clone é
+formado dentro de um receptáculo selado e cresce ao seu tamanho total, atingindo a maturidade após 120 dias;
+Você também pode escolher que o clone seja uma versão
+mais jovem da mesma criatura. Ele permanece inerte e dura indefinidamente, enquanto seu receptáculo
+permanecer intocado.
+A qualquer momento, após o clone amadurecer, se a
+criatura original morrer, sua alma é transferida para o
+clone, considerando que a alma está livre e deseje
+retornar. O clone é fisicamente idêntico ao original e tem a mesma personalidade, memórias e habilidades, mas não
+possui qualquer equipamento do original. O físico da
+criatura original permanece, se ainda existir, se tornando inerte e não podendo, consequentemente, ser trazido de
+volta à vida, já que a alma da criatura está em outro
+lugar.
+lugar.
+OLUNA DE
+OLUNA DE
+HAMAS
+5° nível de evocação Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+: V, S, M (uma pitada de enxofre)
+Duração
+: Instantânea
+Uma coluna vertical de fogo divino emerge de baixo para os céus, no local que você especificar. Cada criatura num
+cilindro de 3 metros de raio por 12 metros de altura,
+centrado num ponto dentro do alcance, deve realizar um
+teste de resistência de Destreza. Uma criatura sofre 4d6
+de dano de fogo e 4d6 de dano radiante se falhar na resistência, ou metade desse dano se obtiver sucesso.
+Em Níveis Superiores. Quando você conjurar essa
+magia usando um espaço de magia de 6° nível ou superior, o dano de fogo ou o dano radiante (à sua
+escolha) aumenta em 1d6 por nível do espaço acima do 5°.
+escolha) aumenta em 1d6 por nível do espaço acima do 5°.
+OMANDO
+1° nível de encantamento
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: 1 rodada
+Você pronuncia uma palavra de comando para uma criatura que você possa ver dentro do alcance. O alvo deve ser bem sucedido num teste de resistência de Sabedoria
+ou seguirá seu comando no próximo turno dele. A magia
+não tem efeito se o alvo for um morto-vivo, se ele não entender seu idioma ou se o comando for diretamente
+nocivo a ele.
+Alguns comandos típicos e seus efeitos a seguir. Você
+pode proferir um comando diferente dos descritos aqui. Se o fizer, o Mestre descreve como o alvo reage. Se o alvo não
+puder cumprir o comando, a magia termina.
+Aproxime-
+Aproxime-. O alvo se move para próximo de você o
+máximo que puder na rota mais direta, terminando seu turno, se ele se mover a até 1,5 metro de você.
+Largue
+. O alvo larga o que quer que ele esteja
+segurando, e termina seu turno.
+Fuja
+. O alvo gasta seu turno se movendo para longe
+de você da forma mais rápida que puder.
+Deite-
+Deite-. O alvo deita-se no chão e então, termina seu
+turno.
+Parado
+. O alvo não se move e não realiza nenhuma
+ação. Uma criatura voadora continua no alto, considerando que ela seja capaz de fazê-lo. Se ela tiver que se mover para continuar no alto, ela voa a mínima
+distância necessária para permanecer no ar.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 2° nível ou superior, você pode afetar uma criatura adicional para cada nível do
+espaço acima do 1°. As criaturas devem estar a 9 metros entre si para serem afetadas.
+entre si para serem afetadas.
+OMPREENDER
+OMPREENDER
+DIOMAS
+1° nível de adivinhação (ritual)
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal
+Componentes
+: V, S, M (um pitada de fuligem e sal)
+Duração
+: 1 hora
+Pela duração, você compreende o significado literal de qualquer idioma falado que você ouvir. Você também compreende qualquer idioma escrito que vir, mas você
+deve tocar a superfície onde as palavras estão escritas.
+Leva, aproximadamente, 1 minuto para ler uma página de texto.
+Essa magia não decifra mensagens secretas em textos
+ou glifos, como um selo arcano, que não seja parte de um idioma escrito.
+idioma escrito.
+OMPULSÃO
+4° nível de encantamento
+Tempo de Conjuração: 1 ação
+Alcance
+: 9 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Criaturas, à sua escolha, que você puder ver dentro do
+alcance e que puderem ouvir você, devem realizar um teste de resistência de Sabedoria. Um alvo passa
+automaticamente nesse teste de resistência se ele não
+puder ser enfeitiçado. Se falhar no teste, um alvo é
+afetado por essa magia. Até a magia acabar, você pode
+usar uma ação bônus em cada um dos seus turnos, para
+designar uma direção horizontal a você. Cada criatura

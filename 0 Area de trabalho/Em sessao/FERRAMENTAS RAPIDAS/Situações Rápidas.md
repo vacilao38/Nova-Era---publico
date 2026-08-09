@@ -1,0 +1,7 @@
+- [[Combate Inesperado]]  
+- [[Jogadores Perdidos ou Sem direção]]  
+- [[Interação Social Importante]]  
+- [[Descoberta ou Revelação]]  
+- [[Jogadores Quebram o Plano]]  
+- [[Investigação Travada]]  
+- [[Foco em Player]]

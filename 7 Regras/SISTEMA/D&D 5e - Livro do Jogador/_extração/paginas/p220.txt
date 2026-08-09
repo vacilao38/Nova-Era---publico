@@ -1,0 +1,148 @@
+Energia purificante irradia de você em uma aura com 9
+metros de raio. Até a magia acabar, a aura se move
+mantendo-se centrada em você. Todas as criaturas não-
+hostis na aura (incluindo você) não podem ficar doentes,
+tem resistência a dano de veneno e tem vantagem em
+testes de resistência contra efeitos que deixem ela com
+qualquer das condições a seguir: amedrontado, atordoado, cego, enfeitiçado, envenenado, paralisado e surdo.
+cego, enfeitiçado, envenenado, paralisado e surdo.
+URA DE
+URA DE
+IDA
+4° nível de abjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal (9 metros de raio)
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 10 minutos
+Energia de prevenção vital irradia de você em uma aura com 9 metros de raio. Até a magia acabar, a aura se move mantendo-se centrada em você. Todas as criaturas não-
+hostis na aura (incluindo você) tem resistência a dano
+necrótico e seu máximo de pontos de vida não pode ser reduzido. Além disso, uma criatura viva não-hostil,
+recupera 1 ponto de vida quando começa seu turno na
+aura com 0 pontos de vida.
+aura com 0 pontos de vida.
+URA DE
+URA DE
+ITALIDADE
+3° nível de evocação Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal (9 metros de raio)
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Energia curativa irradia de você em uma aura com 9 metros de raio. Até a magia acabar, a aura se move
+mantendo-se centrada em você. Você pode usar uma ação bônus para fazer com que uma criatura na aura
+(incluindo você) recupere 2d6 pontos de vida.
+(incluindo você) recupere 2d6 pontos de vida.
+URA URA
+ÁGICA DE
+ÁGICA DE
+YSTUL
+2° nível de ilusão
+Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, S, M (um pequeno quadrado de seda)
+Duração
+: 24 horas
+Você coloca uma ilusão em uma criatura ou objeto que você tocar, então magias de adivinhação revelarão
+informações falsas sobre ele. O alvo pode ser uma criatura
+voluntária ou um objeto que não esteja sendo carregado ou vestido por outra criatura.
+Quando você conjura essa magia, escolha um ou
+ambos os efeitos seguintes. O efeito permanece pela duração. Se você conjurar essa magia na mesma criatura
+ou objeto a cada dia por 30 dias, colocando o mesmo efeito
+nele todas as vezes, a ilusão durará até ser dissipada.
+Aura Falsa
+. Você modifica a forma como o alvo
+aparece para magias e efeitos mágicos, como
+detectar
+magia
+, que detectam auras mágicas. Você pode fazer um
+objeto não-mágico parecer mágico ou mudar a aura
+mágica de um objeto para que ela pareça pertencer a
+outra escola de magia a sua escolha. Quando você usar esse efeito num objeto, você pode fazer a aura falsa
+aparente a qualquer criatura que manusear o item.
+Máscara
+. Você modifica a forma como o alvo aparece
+para magias e efeitos que detectam tipos de criaturas, como o Sentido Divino do paladino ou o gatilho de um
+magia
+símbolo
+. Você escolhe o tipo de criatura e outras
+magias e efeitos mágicos consideram o alvo como se ele
+fosse uma criatura desse tipo ou tendência.
+fosse uma criatura desse tipo ou tendência.
+URA
+URA
+AGRADA
+8° nível de abjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal
+Componentes
+: V, S, M (um minúsculo relicário valendo,
+no mínimo, 1.000 po, contendo uma relíquia sagrada, como um pedaço de tecido do robe de um santo ou um
+pedaço de pergaminho de um texto religioso)
+Duração
+: Concentração, até 1 minuto
+Luz divina emana de você e adere em uma aureola suave
+num raio de 9 metros, em volta de você. As criaturas de
+sua escolha, no raio, quando você conjurar essa magia, emitem penumbra num raio de 1,5 metro e tem vantagem
+em todos os testes de resistência e as outras criaturas tem
+desvantagem nas jogadas de ataque contra elas, até a magia acabar. Além disso, quando um corruptor ou
+morto-vivo atingir uma criatura afetada com um ataque
+corpo-a-corpo, a aura lampeja com luz plena. O atacante deve ser bem sucedido num teste de resistência de
+Constituição ou ficara cego até a magia acabar.
+Constituição ou ficara cego até a magia acabar.
+UXÍLIO
+UXÍLIO
+IVINO
+1° nível de evocação
+Tempo de Conjuração: 1 ação bônus Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Sua oração fortalece você com radiação divina. Até o fim da magia, seus ataques com arma causam 1d4 de dano
+radiante extra ao atingirem.
+radiante extra ao atingirem.
+ANIMENTO
+4° nível de abjuração
+Tempo de Conjuração: 1 ação Alcance
+: 9 metros
+Componentes
+: V, S, M (um item desagradável ao alvo)
+Duração
+: Concentração, até 1 minuto
+Você tenta enviar uma criatura que você pode ver dentro do alcance, para outro plano de existência. O alvo deve
+ser bem sucedido num teste de resistência de Carisma ou
+será banido.
+Se o alvo for nativo do plano de existência que você
+está, você bane o alvo para um semiplano inofensivo.Enquanto estiver lá, a criatura estará incapacitada. Ela permanece lá até a magia acabar, a partir desse ponto, o
+alvo reaparece no espaço em que ela deixou ou no espaço
+desocupado mais próximo, se o espaço dela estiver ocupado.
+Se o alvo for nativo de um plano de existência
+diferente do que você está, o alvo é banido em um lampejo sutil, retornando para o seu plano natal. Se a magia
+acabar antes de 1 minuto se passar, o alvo reaparece no
+lugar em que estava ou no espaço desocupado mai
+lugar em que estava ou no espaço desocupado mai
+próximo, se o espaço dela estiver ocupado. Do contrário, o
+alvo não retorna.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 5° nível ou superior, você pode afetar uma criatura adicional para
+cada nível do espaço acima do 4°.
+cada nível do espaço acima do 4°.
+ANQUETE DE
+ANQUETE DE
+ERÓIS
+6° nível de conjuração Tempo de Conjuração: 10 minutos
+Alcance
+: 9 metros

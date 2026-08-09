@@ -1,0 +1,264 @@
+ONSTRUINDO
+ONSTRUINDO
+ONSTRUINDO
+RUENOR
+RUENOR
+RUENOR
+ASSO
+ASSO
+ASSO
+ASSO
+Bob anota o equipamento inicial da classe guerreiro e do
+antecedente Herói do Povo. Seu equipamento inicial
+inclui uma cota de malha e um escudo, que combinados
+concedem a Bruenor uma Classe de Armadura de 17.
+Para as armas de Bruenor, Bob escolhe um machado
+de batalha e duas machadinhas. Seu machado de batalha
+é uma arma corpo-a-corpo, assim Bruenor usa seu
+modificador de Força para as jogadas de ataque e de
+dano. Seu bônus de ataque é o seu modificador de Força
+(+3) além de seu bônus de proficiência (+2), resultando
+em +5. O machado de batalha causa 1d8 pontos de dano
+cortante e Bruenor adiciona seu modificador de Força ao
+dano quando ataca, resultando em 1d8 + 3 de dano
+cortante. Quando arremessar uma machadinha, Bruenor
+tem o mesmo bônus de ataque (machadinhas, como armas
+com a propriedade arremesso, usam a Força para ataques
+e danos à distância), e a arma causa 1d6 + 3 de dano
+cortante quando acerta.
+cortante quando acerta.
+cortante quando acerta.
+cortante quando acerta.
+NA UM
+NA UM
+RUPO
+A maioria dos personagens de D&D não trabalha sozinho.
+Cada personagem desempenha um papel dentro de um
+grupo, um grupo de aventureiros trabalha em conjunto
+com um objetivo comum. Trabalho em equipe e
+cooperação melhoram muito as chances de um grupo
+sobreviver a muitos perigos nos mundos de D
+UNGEONS
+UNGEONS UNGEONS
+UNGEONS
+RAGONS
+. Você deve interagir com os outros jogadores e
+com o Mestre para decidir o que seus personagens sabem
+uns dos outros, como eles se conheceram e que tipos de
+missões o grupo pode realizar juntos.
+missões o grupo pode realizar juntos.
+LÉM DO
+LÉM DO
+LÉM DO
+LÉM DO
+ÍVEL
+ÍVEL
+À medida que um personagem se aventura pelo mundo e supera desafios, ele adquire experiência, representada
+por pontos de experiência. Um personagem que atinja um
+determinado número de pontos de experiência aprimora suas capacidades. Esse avanço é chamado de
+subir de
+nível
+Quando um personagem sobe um nível, sua classe
+muitas vezes o concede características adicionais,
+conforme detalhado na descrição da classe. Algumas
+dessas características permitem que você aprimore seus valores de habilidade, seja aumentando dois valores de
+habilidade em 1 ponto ou aumentando um único valor d
+habilidade em 1 ponto ou aumentando um único valor d
+habilidade em 2. Você não pode aumentar um valor de
+habilidade acima de 20. Além disso, o bônus de
+proficiência do personagem aumenta em determinados
+níveis.
+Cada vez que você ganha um nível, você ganha 1 Dado
+de Vida adicional. Você deve jogar esse Dado de Vida e adicionar seu modificador de Constituição ao resultado, adicionando-o ao seu valor máximo de pontos de vida. Em
+vez disso, você pode usar o valor fixo indicado na sua
+classe, que é o resultado médio da rolagem de dado(arredondado para cima).
+Quando o modificador de Constituição do personagem
+aumentar para um valor par, o máximo de pontos de vida do personagem aumentam em 1 ponto para cada nível
+que você tem. Por exemplo, quando Bruenor atingir o 8º
+nível de guerreiro, ele aumenta seu valor de Constituição de 17 para 18, o que aumenta seu modificador de
+Constituição de +3 para +4. Em seguida, seu máximo de
+pontos de vida aumenta em 8 pontos.
+A tabela Avanço de Personagem mostra a quantidade
+de XP que você precisa para subir de nível, do 1° ao 20°, e o bônus de proficiência para personagens desses níveis.Consulte as informações da descrição da classe do seu
+personagem para ver quais as outras melhorias que você
+adquire a cada nível.
+adquire a cada nível.
+STÁGIOS DE
+STÁGIOS DE
+OGO
+OGO
+A área sombreada na tabela Avanço de Personagem
+mostra os quatro estágios de jogo. Os estágios não
+possuem quaisquer regras associados a eles, são apenas
+uma descrição geral de como a experiência de jogo muda a medida que os personagens sobem de nível.
+No primeiro estágio (níveis 1
+No primeiro estágio (níveis 1
+4), os personagens sã
+4), os personagens sã
+efetivamente aventureiros aprendizes. Eles estão estudando sobre as peculiaridades que os definem como
+membros de uma classe em particular, incluindo as
+principais escolhas que identificam suas características de classe à medida em que elas avançam (como de classe à medida em que elas avançam (como Tradição Arcana do mago ou o Arquétipo Marcial do guerreiro). As ameaças que eles enfrentam são relativamente menores, geralmente representando perigo
+para chácaras locais ou aldeias.
+No segundo estágio (níveis 5
+No segundo estágio (níveis 5
+10), os personagens já
+estão por conta própria. Os conjuradores ganham acesso
+ao 3º nível de magia no início desse estágio, alcançando
+um novo limiar de poder mágico com magias como
+bola de
+fogo
+fogo
+fogo
+relâmpago
+. Nesse estágio, muitas classes que
+utilizam armas adquirem a habilidade de realizar mais
+de um ataque por rodada. Esses personagens tornaram-
+de um ataque por rodada. Esses personagens tornaram-
+importantes, enfrentando perigos que ameaçam cidades e reinos.
+No terceiro estágio (níveis 11
+No terceiro estágio (níveis 11
+16), os personagens
+atingem um nível de poder que os coloca muito acima da população em geral e os torna especiais até mesmo entre os aventureiros. No 11º nível, muitos conjuradores passam a ter acesso a magias de 6º nível, algumas das quais criam efeitos antes impossíveis de alcançar para quais criam efeitos antes impossíveis de alcançar para
+quais criam efeitos antes impossíveis de alcançar para
+personagens dos jogadores. Outros personagens ganham
+benefícios que os permite realizar mais ataques ou fazer
+manobras impressionantes com tais ataques. Esses aventureiros poderosos muitas vezes confrontam ameaças em regiões e continentes inteiros.
+No quarto estágio (níveis 17
+No quarto estágio (níveis 17
+20), os personagens estão
+no auge de seus benefícios de classe, tornando-
+no auge de seus benefícios de classe, tornando-
+arquétipos heroicos (ou vis) por seus próprios méritos. O destino do mundo ou até mesmo a ordem fundamental do multiverso pode estar em jogo durante suas aventuras.
+multiverso pode estar em jogo durante suas aventuras.
+VANÇO DE
+VANÇO DE
+ERSONAGEM
+ERSONAGEM
+Pontos de Experiência
+Pontos de Experiência
+Nível
+Nível
+Bônus de P
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência
+roficiência

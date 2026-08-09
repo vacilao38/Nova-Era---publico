@@ -1,0 +1,302 @@
+ÁRBARO
+ÁRBARO
+Nível
+Nível
+Bônus de
+Proficiência
+Proficiência
+Características
+Características
+Fúrias
+Fúrias
+Dano
+de Fúria
+de Fúria
+de Fúria
+de Fúria
+de Fúria
+de Fúria
+Fúria, Defesa sem
+Armadura
+Armadura
+Armadura
+Armadura
+Armadura
+Armadura
+Armadura
+Armadura
+Armadura
+Armadura
+Ataque Desc
+uidado,
+uidado,
+Sentido de Perigo
+Sentido de Perigo
+Sentido de Perigo
+Sentido de Perigo
+Sentido de Perigo
+Sentido de Perigo
+Sentido de Perigo
+Sentido de Perigo
+Sentido de Perigo
+Sentido de Perigo
+Caminho Primitivo
+Caminho Primitivo
+Caminho Primitivo
+Caminho Primitivo
+Caminho Primitivo
+Caminho Primitivo
+Caminho Primitivo
+Caminho Primitivo
+Caminho Primitivo
+Caminho Primitivo
+Incremento no Valor de
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Ataque Extra,
+Ataque Extra,
+Movimento Rápido
+Movimento Rápido
+Movimento Rápido
+Movimento Rápido
+Movimento Rápido
+Movimento Rápido
+Movimento Rápido
+Movimento Rápido
+Movimento Rápido
+Movimento Rápido
+Característica de Caminho
+Característica de Caminho
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Instinto Selvagem
+Instinto Selvagem
+Instinto Selvagem
+Instinto Selvagem
+Instinto Selvagem
+Instinto Selvagem
+Instinto Selvagem
+Instinto Selvagem
+Instinto Selvagem
+Instinto Selvagem
+Incremento no Valor
+Incremento no Valor
+Incremento no Valor
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Crítico Brutal (+1 dado)
+Crítico Brutal (+1 dado)
+Crítico Brutal (+1 dado)
+Crítico Brutal (+1 dado)
+Crítico Brutal (+1 dado)
+Crítico Brutal (+1 dado)
+Crítico Brutal (+1 dado)
+Crítico Brutal (+1 dado)
+Crítico Brutal (+1 dado)
+Crítico Brutal (+1 dado)
+Característica de Caminho
+Característica de Caminho
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Fúria Implacável
+Fúria Implacável
+Fúria Implacável
+Fúria Implacável
+Fúria Implacável
+Fúria Implacável
+Fúria Implacável
+Fúria Implacável
+Fúria Implacável
+Fúria Implacável
+Incremento no Valor de
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Crítico Brutal (+2 dados)
+Crítico Brutal (+2 dados)
+Crítico Brutal (+2 dados)
+Crítico Brutal (+2 dados)
+Crítico Brutal (+2 dados)
+Crítico Brutal (+2 dados)
+Crítico Brutal (+2 dados)
+Crítico Brutal (+2 dados)
+Crítico Brutal (+2 dados)
+Crítico Brutal (+2 dados)
+Característica de Caminho
+Característica de Caminho
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Primitivo
+Fúria Persistente
+Fúria Persistente
+Fúria Persistente
+Fúria Persistente
+Fúria Persistente
+Fúria Persistente
+Fúria Persistente
+Fúria Persistente
+Fúria Persistente
+Fúria Persistente
+Incremento no Valor de
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Crítico Brutal (+3 dados)
+Crítico Brutal (+3 dados)
+Crítico Brutal (+3 dados)
+Crítico Brutal (+3 dados)
+Crítico Brutal (+3 dados)
+Crítico Brutal (+3 dados)
+Crítico Brutal (+3 dados)
+Crítico Brutal (+3 dados)
+Crítico Brutal (+3 dados)
+Crítico Brutal (+3 dados)
+Força Indomável
+Força Indomável
+Força Indomável
+Força Indomável
+Força Indomável
+Força Indomável
+Força Indomável
+Força Indomável
+Força Indomável
+Força Indomável
+Incremento no Valor de
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Campeão Primitivo
+Campeão Primitivo
+Ilimitado
+Ilimitado
+Ilimitado
+Ilimitado
+guerra. A vida na natureza selvagem do mundo é cheia de
+perigos: tribos rivais, clima mortal e monstros terríveis.Bárbaros investem em direção ao perigo de cabeça para que o seu povo não precise fazê-
+que o seu povo não precise fazê-
+que o seu povo não precise fazê-
+Sua coragem em frente ao perigo torna os bárbaros
+perfeitos para se aventurarem. Peregrinar é, muitas vezes, um meio de vida para tribos nativas e a vida desenraizada de um aventureiro é um empecilho pequeno para um bárbaro. Alguns bárbaros sentem falta das estruturas familiares bem forjadas de suas tribos, mas,
+eventualmente, encontram uma forma de substituí-
+eventualmente, encontram uma forma de substituí-eventualmente, encontram uma forma de substituí-
+por laços formados entre os membros dos seus grupos de
+aventura.
+aventura.
+RIANDO UM
+RIANDO UM
+ÁRBARO
+ÁRBARO
+Quando for criar um personagem bárbaro, pense em de onde o seu personagem veio e sobre o seu lugar no mundo.Fale com o Mestre sobre uma origem apropriada para o seu bárbaro. Você ter vindo de uma terra distante fará de você um forasteiro na área da campanha? Ou a campanha
+é centrada numa fronteira áspera de onde os bárbaros são
+comuns?
+O que fez você seguir a vida de aventureiro? Você foi
+atraído às terras civilizadas pelas promessas de riqueza?
+Você uniu forças com os soldados dessas terras para
+enfrentar uma ameaça em comum? Monstros ou uma horda invasora fizeram você abandonar sua terra natal, tornando você um refugiado sem origem? Talvez você seja
+um prisioneiro de guerra, trazido acorrentado para as
+WHUUDV´FLYLOL]DGDVµHVyDJRUDIRLFDSD]GHJDQKDUVXD liberdade. Ou você teve que abandonar seu povo por causa de um crime que cometeu, um tabu que você violou ou um golpe que depôs você de uma posição de
+autoridade.
+autoridade.
+ONSTRUÇÃO
+ONSTRUÇÃO
+ONSTRUÇÃO ÁPIDA
+ÁPIDA
+Você pode construir um bárbaro rapidamente seguindo
+essas sugestões. Primeiro, coloque seu valor de habilidade
+mais alto em Força, seguido de Constituição. Segundo,
+escolha o antecedente forasteiro.
+escolha o antecedente forasteiro.ARACTERÍSTICAS
+ARACTERÍSTICAS
+C
+LASSE
+Como um bárbaro, você adquire as seguintes
+características de classe.
+características de classe.
+ONTOS DE
+ONTOS DE
+ONTOS DE
+IDA
+IDA
+Dado de Vida:
+1d12 por nível de bárbaro
+Pontos de Vida no 1° Nível:
+12 + seu modificador de
+Constituição
+Pontos de Vida nos Níveis Seguintes:
+1d12 (ou 7) +
+seu modificador de Constituição por nível de bárbaro após o 1°
+após o 1°
+ROFICIÊNCIAS
+ROFICIÊNCIAS
+Armaduras:
+Armaduras leves, armaduras médias e
+escudos
+Armas:
+Armas simples, armas marciais
+Ferramentas:
+Nenhuma
+Testes de Resistência:
+Força, Constituição
+Perícias:
+Escolha duas dentre Adestrar Animais,
+Atletismo, Intimidação, Natureza, Percepção e Sobrevivência

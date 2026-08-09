@@ -1,0 +1,133 @@
+magias. Além disso, você usa o seu modificador de
+Carisma para definir a CD dos testes de resistência para
+as magias de paladino que você conjura e quando você
+realiza uma jogada de ataque com uma magia.
+CD para suas magias
+= 8 + bônus de proficiência +
+seu modificador de Carisma
+Modificador de ataque de magia
+Modificador de ataque de magia
+Modificador de ataque de magia
+seu bônus de proficiência +
+seu bônus de proficiência +
+seu modificador de Carisma
+seu modificador de Carisma
+OCO DE
+OCO DE
+ONJURAÇÃO
+Você pode usar um símbolo sagrado (encontrado no capítulo 5) como foco de conjuração das suas magias de
+paladino.
+paladino.
+ESTRUIÇÃO
+ESTRUIÇÃO
+IVINA
+A partir do 2° nível, quando você atingir uma criatura
+com um ataque corpo-a-corpo com arma, você pode gastar
+um espaço de magia de qualquer classe para causar dano radiante no alvo, além do dano normal da arma. O dano
+extra é de 2d8 para um espaço de magia de 1° nível, mais
+1d8 para cada espaço de magia acima do 1°, até o máximo de 5d8. O dano aumenta em 1d8 se o alvo for um
+corruptor ou um morto-vivo.
+corruptor ou um morto-vivo.
+corruptor ou um morto-vivo.corruptor ou um morto-vivo.
+corruptor ou um morto-vivo.
+corruptor ou um morto-vivo.
+IVINA
+No 3° nível, a magia divina flui através de você tornando você imune a doenças.
+você imune a doenças.
+URAMENTO
+URAMENTO
+AGRADO
+Quando você alcança o 3° nível, você faz um juramento
+que torna-o um paladino para sempre. Até então, você
+estava em um estágio preparatório, guiado pelo caminho,
+mas ainda não jurado a ele. Agora você escolhe o Juramento de Devoção, o Juramento dos Anciões ou o
+Juramento de Vingança, todos detalhados no final da
+descrição da classe.
+Sua escolha lhe confere características no 3° nível e
+novamente no 7°, 15° e 20° nível. Tais características incluem as magias de juramento e a característica Canalizar Divindade.
+Canalizar Divindade.
+AGIAS DE
+AGIAS DE
+URAMENTO
+URAMENTO
+Cada juramento possui uma lista de magias associada a ele. Você ganha acesso a essas magias nos níveis especificados na descrição do juramento. Uma vez que você tenha ganhado acesso a uma magia de juramento, você sempre a terá preparada. Magias de juramento não contam no número de magias que você pode preparar a
+cada dia.
+Se você ganhar uma magia de juramento que não
+apareça na lista de magias de paladino, a magia será, no
+entanto, uma magia de paladino para você.
+entanto, uma magia de paladino para você.
+ANALIZAR
+ANALIZAR
+IVINDADE
+IVINDADE
+Seu juramento permite que você canalize energia divina
+para abastecer efeitos mágicos. Cada opção de Canalizar Divindade concedida por um juramento explica como usá-Divindade concedida por um juramento explica como usá-Divindade concedida por um juramento explica como usá-
+Quando você usa o seu Canalizar Divindade, você
+escolhe qual opção usar. Você deve terminar um descanso
+curto ou longo para pode usar seu Canalizar Divindade
+novamente.
+Alguns efeitos de Canalizar Divindade requerem um
+teste de resistência. Quando você usar tais efeitos dessa classe, a CD será igual a CD das suas magias de paladino.
+classe, a CD será igual a CD das suas magias de paladino.
+NCREMENTO NO
+NCREMENTO NO
+ALOR DE
+ALOR DE
+ABILIDADE
+ABILIDADE
+Quando você atinge o 4° nível e novamente no 8°, 12°, 16°e 19° nível, você pode aumentar um valor de habilidade, à sua escolha, em 2 ou você pode aumentar dois valores de habilidade, à sua escolha, em 1. Como padrão, você não
+pode elevar um valor de habilidade acima de 20 com essa
+característica.
+característica.
+característica.
+característica.
+XTRA
+XTRA
+A partir do 5° nível, você pode atacar duas vezes, ao inv
+A partir do 5° nível, você pode atacar duas vezes, ao inv
+de uma, sempre que você realizar a ação de Ataque no seu turno.
+turno.
+URA DE URA DE
+ROTEÇÃO
+A partir do A partir do
+nível, sempre que você ou uma criatura
+amigável a até 3 metros de você tiver que fazer um teste de resistência, aquela criatura ganha um bônus no seu teste de proteção igual a seu modificador de Carisma (com um bônus mínimo de +1). Você deve estar consciente para garantir esse bônus.
+No 18° nível, o alcance dessa aura aumenta para 9
+metros.
+metros.
+URA DE
+URA DE
+ORAGEM
+Começando no 10° nível, você e as criaturas amigáveis
+dentro de um raio de 3 metros de você não podem ser
+amedrontadas enquanto você estiver consciente.
+No 18° nível, o alcance dessa aura aumenta para 9
+metros.
+metros.
+ESTRUIÇÃO
+ESTRUIÇÃO
+IVINA
+IVINA
+PRIMORADA
+No 11° nível, você fica tão infundido com No 11° nível, você fica tão infundido com
+poder da
+justiça que todos os seus ataques corpo-a-corpo com arma carregam poder divino neles. Sempre que você atingir uma criatura com um ataque corpo-a-corpo, a criatura sofre 1d8 de dano radiante extra. Se você também usar
+sua Destruição Divina em um ataque, você adiciona esse
+dano ao dano extra da sua Destruição Divina.
+dano ao dano extra da sua Destruição Divina.
+OQUE
+OQUE
+URIFICADOR
+A partir do 14° nível, você pode usar sua ação para
+terminar uma magia em si mesmo ou em uma criatura
+voluntária que você tocar.
+Você pode usar essa característica um número de
+vezes igual a seu modificador de Carisma (mínimo uma vez). Você recupera os usos gastos quando termina um descanso longo.
+descanso longo.
+URAMENTOS
+S AGRADOS
+Se tornar um paladino envolve fazer votos que vinculam o paladino a causa da justiça, um caminho ativo na luta contra o mal. O juramento final, feito quando ele alcança
+o 3° nível, é a culminação de todo o treinamento do
+paladino. Alguns personagens com essa classe não se
+consideram paladinos de fato até chegarem ao 3° nível e
+fazerem esse juramento. Para outros, a tomada de posse do juramento é uma formalidade, o carimbo oficial do que sempre foi real no coração do paladino.

@@ -1,0 +1,101 @@
+qualquer dado e atribua 1 ou 2 ao resultado par ou ímpar.
+(Outra maneira é, se o número tirado é mais da metade do número de lados do dado, tem-se um 2).
+O D20
+A espadada de um aventureiro machuca o dragão ou apenas resvala em suas escamas duras como ferro? O ogro acredita no blefe ultrajante? Um personagem consegue atravessar a nado um rio em fúria? Um personagem consegue evitar a explosão de uma bola de fogo, ou ele sofre todo o dano das chamas? Em casos como
+esses, quando os resultados são incertos, o jogo
+esses, quando os resultados são incertos, o jogo
+UNGEONS
+& D
+RAGONS
+conta com a jogada de um dado de
+20 lados, um d20, para determinar sucesso ou falha.
+Cada personagem e monstro no jogo têm suas
+capacidades definidas por seis
+habilidades
+habilidades
+habilidades habilidades
+habilidades são Força, Destreza, Constituição, Inteligência, Sabedoria e Carisma, e elas estão tipicamente entre 3 e 18 para a maioria dos aventureiros
+(monstros podem ter valores tão baixos quanto 1 ou tão
+altos quanto 30). Essa
+altos quanto 30). Essa
+habilidades e os modificadores
+derivados delas são a base para quase todas as jogadas
+com um d20 que um jogador faz para um personagem o
+com um d20 que um jogador faz para um personagem o
+monstro. Testes de habilidades, jogadas de ataque, testes
+de resistência são os principais tipos de jogadas feitas com o d20, formando a base das regras do jogo. Todos os três seguem os seguintes passos.
+1. Jogue o dado e adicione os modificadores.
+Tipicamente, é um modificador derivado de uma das seis habilidades, e algumas vezes soma-se o bônus de proficiência para refletir uma perícia particular do personagem (veja o capítulo 1 para maiores detalhes de cada habilidade e como determinar os modificadores da
+cada habilidade e como determinar os modificadores da
+habilidades
+habilidades
+habilidades
+2. Aplique bônus ou penalidades circunstanciais.
+Uma característica de classe, uma magia, uma situação
+particular ou algum outro efeito pode fornecer um bônus
+ou penalidade para um teste.
+3. Compare o total com o número alvo.
+Se o tota
+Se o tota
+for igual ou exceder o número alvo, o teste de habilidade,
+jogada de ataque ou teste de resistência é um sucesso.
+Caso contrário, é um fracasso. O Mestre é quem geralmente determina os números alvos e diz aos jogadores se suas jogadas foram bem ou mal sucedidas
+jogadores se suas jogadas foram bem ou mal sucedidas
+jogadores se suas jogadas foram bem ou mal sucedidas
+O valor alvo para um teste de habilidade ou teste de
+resistência é chamado de
+Classe de Dificuldade
+(CD). O
+valor alvo para uma jogada de ataque é chamado de Classe de Armadura
+(CA).
+Essa simples regra governa a resolução da maioria das
+atividades em um jogo de D&D. O capítulo 7 fornece regras mais detalhadas para usar o d20 em jogo.
+regras mais detalhadas para usar o d20 em jogo.
+ANTAGEM
+ANTAGEM
+ANTAGEM D
+ESVANTAGEM
+ESVANTAGEM
+Algumas vezes, um teste de habilidade, jogada de ataque ou teste de resistência é modificado por uma situação especial chamada vantagem ou desvantagem. Uma vantagem reflete uma circunstância positiva que envolve uma jogada de d20, enquanto que uma desvantagem
+reflete o oposto. Quando você tem uma vantagem ou
+desvantagem, jogue um segundo d20 quando fizer a jogada. Use o maior resultado das duas jogadas se você tem vantagem, e use o menor deles se tem desvantagem.Por exemplo, se você tem desvantagem e tira 17 e 5, você
+usa o 5. Se em vez disso for vantagem e você tira os
+mesmos números, você usa o 17.
+Regras mais detalhadas para vantagem e
+desvantagem são apresentadas no capítulo 7.
+O E
+SPECÍFICO
+SPECÍFICO
+VENCE O
+G
+ERAL
+ERAL
+Esse livro contém regras, especialmente nas partes 2 e 3,
+que governam como se joga. Dito isso, muitos traços raciais, características de classe, magias, itens mágicos, habilidades de monstros e outros elementos do jogo quebram as regras gerais de alguma forma, criando uma
+exceção de como o resto do jogo funciona. Lembre-se disso:
+se uma regra específica contradiz uma regra geral, a específica vence.
+Exceções às regras são geralmente mínimas. Por
+exemplo, muitos aventureiros não têm proficiência com
+arcos longos, mas todos os elfos da floresta têm por causa
+de um traço racial. Essa peculiaridade cria uma pequena
+exceção no jogo. Outros exemplos de exceções às regras podem ser mais notáveis. Por exemplo, um aventureiro não pode normalmente atravessar paredes, mas algumas magias fazem isso ser possível. Magias contam como a maioria das exceções às regras.
+maioria das exceções às regras.
+RREDONDE
+RREDONDE
+PARA
+B
+B
+B
+Há mais uma regra geral que você precisa saber de início.Sempre que você dividir um número no jogo, arredonde o
+resultado para baixo se ele terminar em fração, mesmo
+que a parte da fração seja maior que a metade.
+que a parte da fração seja maior que a metade.
+VENTURAS
+O jogo de D
+UNGEONS
+& D
+RAGONS
+consiste em um grupo
+de personagens embarcando em uma aventura que o Mestre apresenta a eles. Cada personagem traz capacidades particulares para a aventura, na forma de um valor de habilidade e perícia, característica de classe, traços raciais, equipamentos e itens mágicos. Cada personagem é diferente, com várias forças e fraquezas,
+então, o melhor grupo de aventureiros é aquele que os
+personagens são completamente diferentes de seus companheiros. Os aventureiros devem cooperar para completar a aventura com sucesso.

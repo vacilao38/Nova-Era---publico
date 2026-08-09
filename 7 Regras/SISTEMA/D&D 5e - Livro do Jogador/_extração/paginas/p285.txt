@@ -1,0 +1,134 @@
+EMPESTADE DE
+EMPESTADE DE
+OGO
+7° nível de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: 45 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Uma tempestade feita de camadas de chamas crepitantes aparece num local, à sua escolha, dentro do alcance. A área da tempestade consiste de até dez cubos de 3 metros,
+que você pode organizar como desejar. Cada cubo deve
+ter, pelo menos, uma face adjacente a face de outro cubo.Cada criatura na área deve realizar um teste de
+resistência de Destreza. Ela sofre 7d10 de dano de fogo se
+falhar na resistência, ou metade desse dano se obtiver sucesso.
+O fogo causa dano aos objetos na área e incendeia
+objetos inflamáveis que não estejam sendo vestidos ou carregados. Se desejar, a vida vegetal na área pode não
+ser afetada por essa magia.
+ser afetada por essa magia.
+EMPESTADE DE
+EMPESTADE DE
+ELO
+4° nível de evocação
+Tempo de Conjuração: 1 ação Alcance
+: 90 metros
+Componentes
+: V, S, M (um pouco de poeira e algumas
+gotas de água)
+Duração
+: Instantânea
+Uma rajada de pedras de gelo batem no chão em um
+cilindro de 6 metros de raio por 12 metros de altura,
+centrado num ponto dentro do alcance. Cada criatura no cilindro deve realizar um teste de resistência de Destreza.
+Uma criatura sofre 2d8 de dano de concussão e 4d6 de
+dano de frio se falhar na resistência ou metade desse dano se obtiver sucesso.
+O granizo torna a área da tempestade em terreno
+difícil até o final do seu próximo turno.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 5° nível ou
+superior, o dano de concussão aumenta em 1d8 para cada
+nível do espaço acima do 4°.
+nível do espaço acima do 4°.
+ENTÁCULOS
+ENTÁCULOS
+EGROS DE
+EGROS DE
+VARD
+4° nível de conjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: 27 metros
+Componentes
+: V, S, M (um pedaço de tentáculo de um
+polvo gigante ou lula gigante)
+Duração
+: Concentração, até 1 minuto
+Tentáculos negros retorcidos preenchem um quadrado de 6 metros no chão, que você possa ver dentro do alcance.
+Pela duração, esses tentáculos transformam o solo na
+área em terreno difícil.
+Quando uma criatura adentrar a área afetada pela
+primeira vez em um turno ou começar o turno dela lá, a criatura deve ser bem sucedida num teste de resistência
+de Destreza ou sofrerá 3d6 de dano de concussão e estará
+impedida pelos tentáculos até o fim da magia. Uma
+criatura que começar seu turno na área e já estiver impedida pelos tentáculos sofre 3d6 de dano de concussão.
+Uma criatura impedida pelos tentáculos pode usar sua
+ação para realizar um teste de Força ou Destreza (à escolha dela) contra a CD da sua magia. Se ela obtiver
+sucesso, ela se libertará.
+sucesso, ela se libertará.
+ERREMOTO
+8° nível de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: 150 metros
+Componentes
+: V, S, M (um pouco de poeira, uma pedra
+e um pedaço de barro)
+Duração
+: Concentração, até 1 minuto
+Você cria um distúrbio sísmico num ponto no solo, que você possa ver dentro do alcance. Pela duração, um
+tremor intenso rompe o solo em um círculo com 30 metros
+de raio centrado no ponto e sacode criaturas e estruturas em contato com o chão na área.
+O solo na área torna-se terreno difícil. Cada criatura
+no solo que estiver se concentrando, deve realizar um teste de resistência de Constituição. Se falha na
+resistência, a concentração da criatura é interrompida.
+Quando você conjura essa magia, e ao final de cada
+turno que você gastar se concentrando nela, cada criatura no solo na área deve realizar um teste de resistência de
+Destreza. Se falhar na resistência, a criatura será derrubada no chão.
+Essa magia pode ter efeitos adicionais a depender do
+terreno na área, como determinado pelo Mestre.
+Fissuras
+. Fissuras se abrem por toda área da magia,
+no começo do seu próximo turno, após você conjurar a magia. Um total de 1d6 dessas fissuras se abrem em locais escolhidos pelo Mestre. Cada um tem 1d10 x 3
+metros de profundidade, 3 metros de largura e se estende
+de uma extremidade até o lado oposto da área da magia.Uma criatura que estiver em um ponto onde uma fissura
+se abriu deve ser bem sucedido num teste de resistência
+de Destreza ou cairá dentro dela. Uma criatura que obtenha sucesso na resistência se move com a margem da
+fissura, à medida que ela se abre.
+Uma fissura que se abra abaixo de uma estrutura faz
+com que ela, automaticamente, desmorone (veja abaixo).
+Estruturas
+. O tremor causa 50 de dano de concussão
+a qualquer estrutura em contato com o solo na área,
+quando você conjurar a magia e, no início de cada turno
+até a magia terminar. Se a estrutura cair a 0 pontos de
+vida, ela desmorona e, potencialmente, fere criaturas próximas. Uma criatura a uma distância inferior a
+metade da altura da estrutura deve realizar um teste de
+resistência de Destreza. Se falhar na resistência, a criatura sofrerá 5d6 de dano de concussão, cairá no chão e
+estará soterrada nos escombros, precisando de um teste
+de Força (Atletismo) com CD 20, usando uma ação, para escapar. O Mestre pode ajustar a CD para cima ou para
+baixo, dependendo da natureza dos escombros. Se obtiver
+sucesso na resistência, a criatura sofre metade do dano e não estará caída ou soterrada.
+não estará caída ou soterrada.
+ERRENO
+ERRENO
+LUCINÓGENO
+4° nível de ilusão
+Tempo de Conjuração: 10 minutos
+Alcance
+: 90 metros
+Componentes
+: V, S, M (uma pedra, um galho e um
+pouco de planta verde)
+Duração
+: 24 horas
+Você faz com que um terreno natural num cubo de 45 metros dentro do alcance, pareça, soe e cheire com outro
+tipo de terreno natural. Portanto, campos abertos ou uma
+estrada podem ser modificados para se assemelharem a um pântano, colina, fenda ou algum outro tipo de terreno
+difícil ou intransponível. Uma lagoa pode ser modificada
+para se parecer com um prado, um precipício com um declive suave ou um barranco pedregoso com uma estrada
+larga e lisa. Estruturas manufaturadas, equipamentos e
+criaturas dentro da área não tem suas aparências modificadas.

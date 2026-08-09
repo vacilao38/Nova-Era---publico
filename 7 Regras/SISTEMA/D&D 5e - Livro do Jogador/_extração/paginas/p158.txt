@@ -1,0 +1,398 @@
+Embarcações a Remo
+Embarcações a Remo
+Barcos de quilha e barcos Barcos de quilha e barcos
+remo são usados em lagos e rios. Se eles estiverem a favor
+da corrente, o deslocamento da corrente (tipicamente 5 km/h) é adicionado ao deslocamento do barco. Esses
+veículos não podem ser remados contra qualquer
+correnteza mais forte, mas podem ser puxados por animais de tração nas margens. Um barco a remo pesa 45 kg, no caso dos aventureiros desejarem carregá-
+kg, no caso dos aventureiros desejarem carregá-
+sobre a
+terra.
+terra.
+ONTARIAS E
+ONTARIAS E
+UTROS
+UTROS
+NIMAIS
+NIMAIS
+Item
+Item
+Custo
+Custo
+Deslocamento
+Deslocamento
+Capacidade
+de Carga
+de Carga
+Burro ou mula
+Burro ou mula
+8 po
+8 po
+8 po
+8 po
+8 po
+8 po
+Camelo
+Camelo
+50 po
+50 po
+50 po
+50 po
+50 po
+50 po
+Cavalo de guerra
+Cavalo de guerra
+400 po
+400 po
+400 po
+400 po
+400 po
+400 po
+Cavalo de
+montaria
+montaria
+75 po
+75 po
+75 po
+75 po
+75 po
+75 po
+Cavalo pesado
+Cavalo pesado
+50 po
+50 po
+50 po
+50 po
+50 po
+50 po
+Elefante
+Elefante
+200 po
+200 po
+200 po
+200 po
+200 po
+200 po
+Mastim
+Mastim
+25 po
+25 po
+25 po
+25 po
+25 po
+25 po
+25 po
+25 po
+Pônei
+Pônei
+30 po
+30 po
+30 po
+30 po
+30 po
+30 po
+30 po
+30 po
+30 po
+30 po
+RREIOS,
+RREIOS,
+ELAS E
+ELAS E
+EÍCULOS DE
+EÍCULOS DE
+RAÇÃO
+RAÇÃO
+Item
+Item
+Custo
+Custo
+Peso
+Peso
+Alforje
+Alforje
+4 po
+4 po
+4 po
+4 po
+Armadura de montaria
+Armadura de montaria
+Armadura de montaria
+Armadura de montaria
+Armadura de montaria
+Armadura de montaria
+Biga
+Biga
+250 po
+250 po
+250 po
+250 po
+Carroça
+Carroça
+15 po
+15 po
+15 po
+15 po
+Carruagem
+Carruagem
+100 po
+100 po
+100 po
+100 po
+Estábulo
+Estábulo
+5 pp
+5 pp
+5 pp
+5 pp
+Freio e rédea
+Freio e rédea
+2 po
+2 po
+0,5 kg
+0,5 kg
+Ração (1 dia)
+Ração (1 dia)
+5 pc
+5 pc
+5 pc
+5 pc
+Sela
+Sela
+Compacta
+Compacta
+5 po
+5 po
+7,5 kg
+7,5 kg
+Exótica
+Exótica
+60 po
+60 po
+60 po
+60 po
+Militar
+Militar
+20 po
+20 po
+20 po
+20 po
+Viagem
+Viagem
+10 po
+10 po
+10 po
+10 po
+Trenó
+Trenó
+20 po
+20 po
+20 po
+20 po
+20 po
+EÍCULOS
+EÍCULOS
+EÍCULOS
+QUÁTICOS
+QUÁTICOS
+Item
+Item
+Custo
+Custo
+Velocidade
+Velocidade
+Barco de quilha
+Barco de quilha
+3.000 po
+3.000 po
+3.000 po
+3.000 po
+3.000 po
+3.000 po
+3.000 po
+Barco a remo
+Barco a remo
+50 po
+50 po
+50 po
+50 po
+50 po
+50 po
+Dracar
+Dracar
+10.000 po
+10.000 po
+10.000 po
+10.000 po
+10.000 po
+10.000 po
+Galera
+Galera
+30.000 po
+30.000 po
+30.000 po
+30.000 po
+30.000 po
+30.000 po
+Navio de guerra
+Navio de guerra
+25.000 po
+25.000 po
+25.000 po
+25.000 po
+Veleiro
+Veleiro
+10.000 po
+10.000 po
+10.000 po
+10.000 po
+10.000 po
+10.000 po
+10.000 po OMÉRCIO DE
+OMÉRCIO DE OMÉRCIO DE ENS
+A maioria das riquezas não é medida em moedas
+A maioria das riquezas não é medida em moedas
+A maioria das riquezas não é medida em moedas
+são medidas em gado, grãos, terra, direitos de cobrar impostos ou direitos sobre os recursos (como uma mina ou uma floresta).
+Guildas, nobres e a realeza regulam o comércio.
+Companhias privilegiadas possuem os direitos para conduzir trocas comerciais ao longo de certas rotas, enviar navios mercantes de vários portos ou têm a concessão de comprar e vender bens específicos. As guildas definem preços para os bens ou serviços que controlam e determinam quem pode ou não pode oferecer esses
+produtos e serviços. Mercadores geralmente trocam bens
+comerciais sem o uso de moeda. A tabela Escambo mostra
+o valor dos bens comumente trocados.
+o valor dos bens comumente trocados.
+SCAMBO
+SCAMBO
+Custo
+Custo
+Custo
+Custo
+1 pc
+1 pc
+0,5 kg de trigo
+0,5 kg de trigo
+2 pc
+2 pc
+0,5 kg de farinha ou uma galinha
+0,5 kg de farinha ou uma galinha
+5 pc
+5 pc
+0,5 kg de sal
+0,5 kg de sal
+1 pp
+1 pp
+0,5 kg de ferro
+ou 1 m
+ou 1 m
+ou 1 m
+de lona
+5 pp
+5 pp
+0,5 kg de cobre ou 1 m
+0,5 kg de cobre ou 1 m
+0,5 kg de cobre ou 1 m
+de tecido de algodão
+1 po
+1 po
+0,5 kg de gengibre ou uma cabra
+0,5 kg de gengibre ou uma cabra
+2 po
+2 po
+O,5 kg de canela ou pimenta, ou uma ovelha
+O,5 kg de canela ou pimenta, ou uma ovelha
+3 po
+3 po
+0,5 kg de cravos ou um porco
+0,5 kg de cravos ou um porco
+5 po
+5 po
+0,5 kg de prata ou 1 m
+0,5 kg de prata ou 1 m
+0,5 kg de prata ou 1 m
+de linho
+10 po
+10 po
+10 po
+10 po
+10 po
+de seda ou uma v
+aca
+15 po
+15 po
+0,5 kg de açafrão ou um boi
+0,5 kg de açafrão ou um boi
+50 po
+50 po
+0,5 kg de ouro
+0,5 kg de ouro
+500 po
+500 po
+0,5 kg de platina
+0,5 kg de platina
+0,5 kg de platina
+ESPESAS
+ESPESAS
+Quando não está descendo para as profundezas da terra, explorando ruínas repletas de tesouros perdidos ou entrando em guerra contra a escuridão invasora, os
+aventureiros enfrentam realidades mais mundanas.
+Mesmo em um mundo fantástico, as pessoas precisam
+satisfazer necessidades básicas, como abrigo, alimento e
+roupas. Essas coisas custam dinheiro, embora alguns estilos de vida custem mais do que outros.
+estilos de vida custem mais do que outros.
+ESPESAS DE
+ESPESAS DE
+STILO DE
+STILO DE
+STILO DE
+STILO DE
+As despesas de estilo de vida fornecem uma maneira simples de explicar o custo de vida em um mundo de fantasia. O estilo de vida cobre as acomodações, comida, bebida e todas as outras necessidades dos personagens.Além disso, as despesas cobrem o custo de manutenção do equipamento para que o personagem possa estar pronto
+quando as próximas aventuras começarem.
+No início de cada semana ou mês (à sua escolha),
+determine um estilo de vida a partir da tabela Despesas
+de Estilo de Vida e pague o preço para sustentar esse
+estilo de vida. Os preços indicados são por dia, então se
+você deseja calcular o custo de seu estilo de vida escolhido
+por um período de trinta dias, multiplique o preço listado por 30. O estilo de vida pode mudar de um período para o outro, com base nos recursos que você tem à sua disposição, ou mantenha o mesmo estilo de vida ao longo da carreira do seu personagem.
+A escolha do estilo de vida do personagem pode ter
+consequências. Manter um estilo de vida rico pode ajudá-consequências. Manter um estilo de vida rico pode ajudá-
+a fazer contatos com os ricos e poderosos, mas o
+personagem corre o risco de atrair ladrões. Da mesma forma, viver de forma desleixada pode ajudar a evitar os criminosos, mas é improvável que você faça conexões
+poderosas.
+poderosas.
+ESPESAS DE
+ESPESAS DE
+STILO DE
+STILO DE
+IDA
+IDA
+Estil
+o de Vida
+o de Vida
+Preço/dia
+Preço/dia
+Miserável
+Miserável
+Miserável
+Miserável
+Esquálido
+Esquálido
+1 pp
+1 pp
+Pobre
+Pobre
+2 pp
+2 pp
+Modesto
+Modesto
+1 po
+1 po
+Confortável
+Confortável
+2 po
+2 po
+Rico
+Rico
+4 po
+4 po
+Aristocrático
+Aristocrático
+10 po no mínimo
+10 po no mínimo

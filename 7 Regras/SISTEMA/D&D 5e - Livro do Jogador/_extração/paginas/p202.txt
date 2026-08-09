@@ -1,0 +1,83 @@
+ritual. A versão em ritual da magia demanda 10 minutos
+a mais do que o normal para ser conjurada. O ritual não
+gasta o espaço de uma magia, logo ele não pode ser
+conjurado como uma magia de nível superior.
+Para conjurar a magia como um ritual é preciso ter
+uma característica que forneça habilidade para tal. O
+clérigo e o druida, por exemplo, possuem tal
+característica. O conjurador também deve ter a magia
+preparada ou tê-la na sua lista de magias conhecidas, a
+menos que a característica para o uso do ritual do
+personagem especifique o contrário, tal como acontece
+com o mago.
+com o mago.ONJURANDO UMA
+ONJURANDO UMA
+AGIA
+Quando um personagem conjura qualquer magia, as
+mesmas regras básicas são seguidas, independentemente
+da classe do personagem ou dos efeitos da magia.
+Cada descrição no capítulo 11 começa com um bloco de
+informação, incluindo o nome da magia, nível, escola de magia, alcance, componentes e duração. O restante do conteúdo descreve os efeitos da magia.
+conteúdo descreve os efeitos da magia.
+EMPO DE
+EMPO DE
+ONJURAÇÃO
+ONJURAÇÃO
+Muitas magias requerem uma simples ação para serem conjuradas, mas algumas magias requerem ações bônus,
+uma reação, ou muito mais tempo para ser conjurada.
+uma reação, ou muito mais tempo para ser conjurada.
+ÇÃO
+ÇÃO
+ÔNUS
+Uma magia conjurada com uma ação bônus é
+especialmente veloz. Você deve usar uma ação bônus no seu turno para conjurar a magia, presumindo que já não
+tenha feito uso da ação bônus nesse turno. Você não pode
+conjurar outra magia durante o mesmo turno, exceto se for um truque que tenha tempo de conjuração de 1 ação.
+for um truque que tenha tempo de conjuração de 1 ação.EAÇÕES Algumas magias podem ser conjuradas como uma reação.
+Essas magias levam uma fração de segundo para virem à
+tona e são conjuradas em resposta a algum evento. Se
+uma magia pode ser conjurada como uma reação, a
+descrição da magia diz exatamente quando você pode
+fazer isto.
+fazer isto.
+EMPOS DE
+EMPOS DE
+ONJURAÇÃO
+ONJURAÇÃO
+AIORES
+Certas magias (incluindo magias conjuradas como rituais)requerem mais tempo para ser conjuradas: minutos ou
+mesmo horas. Quando você conjura uma magia com um
+tempo para conjurar magia maior que uma ação simples ou uma reação, você deve gastar sua ação a cada turno
+que estiver conjurando a magia e precisa manter a
+concentração enquanto o faz (veja´&RQFHQWUDomRµDEDL[R Se a sua concentração for quebrada, a magia falha, mas
+você não gasta o espaço da magia. Se você tentar conjura
+você não gasta o espaço da magia. Se você tentar conjura
+a magia de novo, deve fazer do início.
+a magia de novo, deve fazer do início.
+LCANCE
+LCANCE
+O alvo de uma magia deve estar dentro do alcance
+O alvo de uma magia deve estar dentro do alcance
+O alvo de uma magia deve estar dentro do alcance
+magia. Para uma magia como
+mísseis mágicos
+, o alvo, o alvo
+uma criatura. Para uma magia como
+bola de fogo
+bola de fogo
+alvo é
+um ponto no espaço onde a bola de fogo explode.
+A maioria das magias tem seu alcance descrito em
+metros. Algumas magias podem ser miradas em apenas
+metros. Algumas magias podem ser miradas em apenas
+criatura (incluindo você) que você toque. Outras
+magias, como
+escudo arcano
+, afetam você apenas. Essas
+magias têm na descrição de alcance "pessoal
+magias têm na descrição de alcance "pessoal
+Magias que criam cones ou linhas de efeito originárias
+a partir de você têm como alcance "pessoal
+a partir de você têm como alcance "pessoal
+indicando
+que o ponto de origem deve ser você mesmo (veja "Áreas de Efeito" logo a mais nesse capítulo).

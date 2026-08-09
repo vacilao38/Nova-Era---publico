@@ -1,0 +1,54 @@
+---
+title: "ISFARÇAR-"
+capitulo: "Capítulo 11"
+pagina_inicial: 215
+pagina_final: 289
+fonte: "Livro do Jogador"
+tipo: regra
+tags:
+  - dnd/regras/magias
+  - dnd/regras/magia
+---
+# ISFARÇAR-
+
+## Relacionados
+- [[00 Sumário]]
+- [[Magia]]
+- [[Conjurando uma Magia]]
+- [[Lista de Magias]]
+- [[Classes]]
+
+ISFARÇAR-
+1° nível de ilusão Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: 1 hora
+Você faz com que você mesmo
+Você faz com que você mesmo
+incluindo suas roupas,
+armadura, armas e outros pertences no seu personagem
+armadura, armas e outros pertences no seu personagem
+armadura, armas e outros pertences no seu personagem
+pareça diferente até a magia acabar ou até você usar sua
+ação para dispensa-la. Você pode se parecer 30
+centímetros mais baixo ou mais alto, e pode parecer
+magro, gordo ou entre ambos. Você não pode mudar o tipo do seu corpo, portanto, você deve adotar uma forma que
+tenha a mesma disposição básica de membros. No mais, a
+extensão da sua ilusão cabe a você.
+As mudanças criadas por essa magia não conseguem
+se sustentar perante uma inspeção física. Por exemplo, se você usar essa magia para adicionar um chapéu ao seu visual, objetos que passarem pelo chapéu e qualquer um
+que tocá-lo não sentirá nada ou sentirá sua cabeça e
+cabelo. Se você usar essa magia para aparentar ser mais magro do que é, a mão de alguém que a erguer para tocar
+em você, irá esbarrar em você enquanto ainda está,
+aparentemente, está no ar.
+Para perceber que você está disfarçado, uma criatura
+pode usar a ação dela para inspecionar sua aparência e
+deve ser bem sucedida em um teste de Inteligência
+(Investigação) contra a CD da sua magia.
+(Investigação) contra a CD da sua magia.
+ISSIPAR
+ISSIPAR

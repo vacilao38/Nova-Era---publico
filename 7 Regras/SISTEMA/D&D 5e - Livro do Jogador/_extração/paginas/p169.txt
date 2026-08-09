@@ -1,0 +1,148 @@
+Você pode usar sua ação para tentar imobilizar uma
+criatura agarrada por você. Para tanto, realize outro teste de agarrar. Se você for bem sucedido, você e a criatura estarão ambos impedidos até o agarre
+terminar.
+terminar.
+NICIADO EM
+NICIADO EM
+AGIA
+AGIA
+Escolha uma classe: bardo, bruxo, clérigo, druida,
+feiticeiro ou mago. Você aprende dois truques da lista de
+magias da classe escolhida.
+Além disso, escolha uma magia de 1° nível da mesma
+lista. Você aprende essa magia e pode conjura-la com o
+menor nível possível. Uma vez que a conjure, você precisa terminar um descanso longo para poder conjura-
+terminar um descanso longo para poder conjura-
+novamente. Essa restrição aplica-se apenas à magia
+adquirida através desse talento.
+Sua habilidade de conjuração depende da classe que
+você escolher: Carisma para bardo, bruxo ou feiticeiro;
+Sabedoria para clérigo ou druida; ou Inteligência para mago.
+mago.
+NVESTIDA
+NVESTIDA
+ODEROSA
+ODEROSA
+Quando você usa a ação de Disparada, você pode usar sua ação bônus para realizar um ataque corpo-a-corpo com arma ou para empurrar uma criatura.
+Se você se mover, pelo menos, 3 metros em linha reta,
+imediatamente antes de realizar essa ação bônus, você pode tanto ganhar +5 de bônus na jogada de dano do ataque (se você escolher realizar um ataque corpo-a-corpo e atingir) ou empurrar o alvo até 3 metros de você (se você escolher empurrar e for bem sucedido).
+escolher empurrar e for bem sucedido).
+ÍDER
+ÍDER
+NSPIRADOR
+NSPIRADOR
+Pré-requisito: Carisma 13 ou maior
+Você pode gastar 10 minutos inspirando seus
+companheiros, suportando a vontade deles de lutar.
+Quando fizer isso, escolha até seis criaturas amigáveis(que pode incluir você) a até 9 metros de você que possam ver ou ouvir você e possam te compreender. Cada criatura ganha pontos de vida temporários igual ao seu nível + seu
+modificador de Carisma. Uma criatura não pode ganhar
+pontos de vida temporários desse talento novamente até terminar um descanso curto ou longo.
+terminar um descanso curto ou longo.
+AESTRIA EM
+AESTRIA EM
+RMA DE
+RMA DE
+ASTE
+ASTE
+Você consegue manter seus inimigos afastados utilizando
+armas de haste. Você ganha os seguintes benefícios:
+armas de haste. Você ganha os seguintes benefícios:
+Quando você realiza a ação de Ataque e ataca com
+uma glaive, alabarda ou bordão, você pode usar uma
+ação bônus para realizar um ataque corpo-a-corpo com
+a outra extremidade da arma. Esse ataque usa o
+mesmo modificador de habilidade do ataque primário.O dado de dano da arma para esse ataque é um d4 e o ataque causa dano de concussão.
+ataque causa dano de concussão.
+Enquanto você estiver empunhando uma glaive,
+alabarda, lança longa ou bastão, as outras criaturas
+provocam um ataque de oportunidade a você quando
+entrarem no seu alcance.
+entrarem no seu alcance.
+AESTRIA
+AESTRIA
+AESTRIA
+AESTRIA
+RMADURA
+RMADURA
+ÉDIA
+ÉDIA
+Pré-requisito: Proficiência em armadura média
+Você praticou seus movimentos usando armaduras
+pesadas para ganhar os seguintes benefícios:
+pesadas para ganhar os seguintes benefícios:
+Vestir uma armadura média não lhe impõe
+desvantagem em testes de Destreza (Furtividade).
+desvantagem em testes de Destreza (Furtividade).
+Quando você estiver vestindo uma armadura média, você pode adicionar 3, ao invés de 2, à sua CA, se você
+tiver Destreza 16 ou maior.
+tiver Destreza 16 ou maior.
+AESTRIA
+AESTRIA
+AESTRIA
+AESTRIA
+RMADURA
+RMADURA
+ESADA
+ESADA
+Pré-requisito: Proficiência em armadura pesada
+Você pode usar sua armadura para defletir ataques
+potencialmente fatais a outros. Você ganha os seguintes
+benefícios:
+benefícios:
+Aumente seu valor de Força em 1, até o máximo de 20.
+Aumente seu valor de Força em 1, até o máximo de 20.
+Quando você estiver vestindo uma armadura pesada,
+dano de concussão, cortante e perfurante que você
+receba de ataques não-mágico
+receba de ataques não-mágico
+será reduzido
+será reduzido
+será reduzido será reduzido
+será reduzido
+ATADOR DE
+ATADOR DE
+ONJURADORES
+ONJURADORES
+Você praticou técnicas úteis em combate corpo-a-corpo
+contra conjuradores, ganhando os seguintes benefícios:
+contra conjuradores, ganhando os seguintes benefícios:
+Quando uma criatura a até 1,5 metro de você conjurar
+uma magia, você pode usar sua reação para realizar
+um ataque corpo-a-corpo contra ela.
+um ataque corpo-a-corpo contra ela.
+Quando você causa dano em uma criatura que está se concentrando em uma magia, a criatura terá
+desvantagem no teste de resistência que ela fizer para manter a concentração.
+manter a concentração.
+Você tem vantagem em testes de resistência contra
+magias conjuradas por criaturas a até 1,5 metro de
+você.
+você.
+você.
+você.
+FIADA
+FIADA
+Você tem uma mente que pode cronometrar o tempo e memorizar direção e detalhes com precisão absurda. Você
+ganha os seguintes benefícios:
+ganha os seguintes benefícios:
+Aumente seu valor de Inteligência em 1, até o máximo
+de 20.
+de 20.
+Você sempre sabe qual a direção do norte.
+Você sempre sabe qual a direção do norte.
+Você sempre sabe o número de horas restantes para o
+próximo nascer ou pôr do sol.
+próximo nascer ou pôr do sol.
+Você pode relembrar, com precisão, qualquer coisa que você tenha visto ou ouvido no último mês.
+você tenha visto ou ouvido no último mês.
+ESTRE DE
+ESTRE DE
+RMAS
+RMAS
+Você tem praticado extensamente com uma variedade de
+armas, ganhando os seguintes benefícios:
+armas, ganhando os seguintes benefícios:
+Aumente o valor de Força ou Destreza em 1, até o
+máximo de 20.
+máximo de 20.
+Você ganha proficiência com quatro armas simples ou
+marciais, à sua escolha.

@@ -1,0 +1,162 @@
+magia neles para proteger uma área. Até a magia acabar,
+sempre que uma criatura diferente de você se aproximar
+a 9 metros das munições pela primeira vez em um turno
+ou terminar seu turno na área, uma das munições voa
+para atingi-la. A criatura deve ser bem sucedida num
+teste de resistência de Destreza ou sofrerá 1d6 de dano
+perfurante. A munição, então, é destruída. A magia termina quando não restar nenhuma munição.
+Quando você conjurar essa magia, você pode designar
+quaisquer criaturas, à sua escolha, e a magia ignora-as.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 3° nível ou superior, a quantidade de munições que você pode afetar aumenta em dois para cada nível do espaço acima do 2°.
+aumenta em dois para cada nível do espaço acima do 2°.
+ORRENTE DE
+ORRENTE DE ELÂMPAGOS
+6° nível de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: 45 metros
+Componentes
+: V, S, M (um pouco de pelo; um pedaço de
+âmbar, vidro ou um bastão de cristal; e três pinos de prata)
+Duração
+: Instantânea
+Você cria um raio elétrico que atinge um alvo, à sua
+escolha, que você possa ver dentro do alcance. Três raios
+saltam do alvo para até três outros alvos, cada um a não mais de 9 metros do alvo primário. Um alvo pode ser uma
+criatura ou um objeto e só pode ser alvo de um único
+desses rai
+desses rai
+desses rai
+Um alvo deve realizar um teste de resistência de
+Destreza. O alvo sofre 10d8 de dano elétrico se falhar no teste ou metade desse dano se for bem sucedido.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 7° nível ou superior, um raio adicional salta do alvo primário para outro alvo para cada nível do espaço acima do 6°.
+cada nível do espaço acima do 6°.
+RESCER
+RESCER
+SPINHOS
+2° nível de transmutação
+Tempo de Conjuração: 1 ação
+Alcance
+: 45 metros
+Componentes
+: V, S, M (sete espinhos afiados ou sete
+gravetos, todos com uma ponta afiada)
+Duração
+: Concentração, até 10 minutos
+O solo num raio de 6 metros, centrado num ponto dentro do alcance, se retorce e brotam cavilhas rígidas e
+espinhos. A área se torna terreno difícil pela duração.
+Quando uma criatura entrar ou se mover dentro da área, ela sofrerá 2d4 de dano perfurante para cada 1,5 metro
+que ela atravessar.
+A transformação do terreno é camuflada para parecer
+natural. Qualquer criatura que não puder ver a área no momento que a magia for conjurada, deve realizar um
+teste de Sabedoria (Percepção) contra a CD da magia para reconhecer o terreno como perigoso, antes de adentra-lo.
+reconhecer o terreno como perigoso, antes de adentra-lo.
+RIAÇÃO
+5° nível de ilusão
+Tempo de Conjuração: 1 minuto
+Alcance
+: 9 metros
+Componentes
+: V, S, M (um pequeno pedaço de material
+do mesmo tipo do item que você planeja criar)
+Duração
+: Especial
+Você puxa mechas de matéria sombria da Umbra para criar objetos inanimados de matéria vegetal dentro do
+alcance: bens finos, cordas, madeira ou algo similar. Você
+também pode usar a magia para criar objetos minerais
+como pedra, cristal ou metal. O objeto criado não pode ser maior que um cubo de 1,5 metro e o objeto deve ser de um
+formado e material que você já tenha visto antes.
+A duração depende do material do objeto. Se o objeto
+for composto por diversos materiais, use o de menor duração.
+Material
+Material
+Duração
+Duração
+Matéria vegetal
+Matéria vegetal
+1 dia
+1 dia
+Pedra ou cristal
+Pedra ou cristal
+12 horas
+12 horas
+Metais preciosos
+Metais preciosos
+1 hora
+1 hora
+Gemas
+Gemas
+10 minutos
+10 minutos
+Adamante ou mitral
+Adamante ou mitral
+1 minuto
+1 minuto
+Usar qualquer material criado por essa magia como
+componente material de outra magia faz com que a magia
+falhe.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 6° nível ou superior, o tamanho do cubo aumenta em 1,5 metro para
+cada nível do espaço de magia acima do 5°.
+cada nível do espaço de magia acima do 5°.
+RIAR
+RIAR
+LIMENTOS
+3° nível de conjuração
+Tempo de Conjuração: 1 ação Alcance
+: 9 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você cria 25 quilos de comida e 100 litros de água no solo ou em um recipiente dentro do alcance, suficiente para
+sustentar até quinze humanoide ou cinco montarias por
+24 horas. A comida é insossa, porém, nutritiva e estraga se não for consumida após 24 horas. A água é limpa e não
+fica ruim.
+fica ruim.
+RIAR
+RIAR
+HAMAS
+Truque de conjuração
+Tempo de Conjuração: 1 ação Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: 10 minutos
+Uma chama tremulante aparece na sua mão. A chama permanece ai pela duração e não machuca nem você nem
+seu equipamento. A chama emite luz plena num raio de 3
+metros e penumbra por 3 metros adicionais. A magia acaba se você dissipa-la usando uma ação ou se conjura-
+acaba se você dissipa-la usando uma ação ou se conjura-
+novamente.
+Você pode, também, atacar com a chama, no entanto,
+fazer isso acaba com a magia. Quando você conjura essa
+magia ou com uma ação em um turno posterior, você pode
+arremessar a chama numa criatura a até 9 metros de você. Faça um ataque à distância com magia. Se atingir, o
+alvo sofre 1d8 de dano de fogo.
+O dano dessa magia aumenta em 1d8 quando você
+alcança o 5° nível (2d8), 11° nível (3d8) e 17° nível (4d8).
+alcança o 5° nível (2d8), 11° nível (3d8) e 17° nível (4d8).
+RIAR
+RIAR
+ORTOS-
+ORTOS-
+IVOS
+6° nível de necromancia Tempo de Conjuração: 1 minuto
+Alcance
+: 3 metros
+Componentes
+: V, S, M (um pote de barro cheio de terra
+de sepultura, um pote de barro cheio de água salobra, e uma ônix negra no valor de 150 po, para cada corpo)
+Duração
+: Instantânea
+Você só pode conjurar essa magia durante a noite.
+Escolha até três corpos de humanoides Médios ou
+Pequenos dentro do alcance. Cada corpo se torna um

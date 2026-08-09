@@ -1,0 +1,192 @@
+Personagens em carroças, carruagens ou outros
+veículos terrestres usam um ritmo normal. Personagens
+em veículos aquáticos estão limitados à velocidade do
+veículo (veja o capítulo 5), e eles não sofrem penalidades
+de um ritmo rápido ou obtêm benefícios de um ritmo
+lento. Dependendo do tamanho do veículo aquático e de
+sua tripulação, é possível viajar até 24 horas por dia.
+Algumas montarias especiais, como um pégaso ou
+grifo, ou veículos especiais, como um
+tapete voador
+tapete voador
+permitem viajar mais rapidamente. O
+Guia do Mestre
+Guia do Mestre
+contém mais informações sobre os métodos especiais de
+viagem.
+viagem.
+ITMO DE
+ITMO DE
+IAGEM
+IAGEM
+Distância Percorrida por...
+Distância Percorrida por...
+Ritmo
+Ritmo
+Minuto
+Minuto
+Hora
+Hora
+Dia
+Dia
+Efeito
+Efeito
+Rápido
+Rápido
+120 metros
+120 metros
+120 metros
+120 metros
+120 metros
+120 metros
+Penalidade de
+Penalidade de
+5 no
+valor de Sabedoria
+(Percepção) passivo
+(Percepção) passivo
+Normal
+Normal
+90 metros
+90 metros
+4,5 km
+4,5 km
+4,5 km
+4,5 km
+4,5 km
+4,5 km
+Lento
+Lento
+60 metros
+60 metros
+60 metros
+60 metros
+60 metros
+60 metros
+Pode usar furtividade
+Pode usar furtividade
+Pode usar furtividade
+ERRENO
+ERRENO
+IFÍCIL
+As velocidades de deslocamento dadas na tabela Ritmo de
+Viagem são medidas sobre um terreno simples: estradas, planícies abertas ou corredores de masmorras limpos
+planícies abertas ou corredores de masmorras limpos
+Mas muitas vezes os aventureiros enfrentam florestas
+densas, pântanos profundos, ruínas cheias de entulho,
+montanhas íngremes e com o solo coberto de gelo
+montanhas íngremes e com o solo coberto de gelo
+tudo
+isso é considerado terreno difícil.
+Um personagem se move metade do seu deslocamento
+em terrenos difícei
+em terrenos difícei
+em terrenos difícei
+para cada 1,5 metro percorrido em
+terreno difícil, são gastos 3 metros do deslocamento do
+personagem
+personagem
+fazendo com que seja possível cobrir apenas
+metade da distância normal em um minuto, uma hora ou
+um dia.
+um dia.
+IPOS
+IPOS
+SPECIAIS DE
+SPECIAIS DE
+OVIMENTO
+OVIMENTO
+Mover-se em masmorras perigosas ou áreas selvagens, muitas vezes envolve mais do que simplesmente andar.Os aventureiros pode ter que escalar, rastejar, nadar ou saltar para chegar onde desejam.
+saltar para chegar onde desejam.
+SCALADA,
+SCALADA,
+ATAÇÃO E
+ATAÇÃO E
+ASTEJAMENTO
+Enquanto estiver escalando ou nadando, cada 1,5 metro de deslocamento custa 1,5 metro adicional (3 metros adicionais em terrenos difíceis), a menos que uma criatura tenha um deslocamento de escalada ou de natação. À critério do Mestre, subir uma superfície
+vertical escorregadia ou um com poucos lugares para
+segurar-se exigirá sucesso em um teste de Força(Atletismo). Da mesma forma, nadar qualquer distância em águas agitadas pode exigir sucesso em um teste de Força (Atletismo).
+Força (Atletismo).
+ALTANDO
+A Força determina a distância que um personagem pode
+saltar.
+Salto em Distância
+Salto em Distância
+Quando você realiza um salto
+em distância, você cobre uma distância igual ao seu valor de Força multiplicado por 0,3 metros, se você percorrer, no mínimo, 3 metros antes do salto. Quando realiza um
+salto em distância sem percorrer 3 metros salto em distância sem percorrer 3 metros
+tes de saltar,
+você pode saltar apenas metade dessa distância. De
+qualquer forma, cada metro saltado custa um metro de
+deslocamento.
+Essa regra assume que a altura do salto não importa,
+como saltar através de um córrego ou abismo. Por opção do Mestre, você precisa passar em teste de Força
+(Atletismo) CD 10 para superar um obstáculo baixo (não
+mais alto do que 1/4 da distância percorrida no salto),
+como uma cerca ou muro baixo. Caso contrário, você vai
+colidir contra o obstáculo.
+Quando você aterrissar em um terreno difícil, você
+precisa passar em um teste de Destreza (Acrobacia) CD 10 para aterrissar de pé. Caso contrário, você cairá no chão.
+Salto em Altura
+Salto em Altura
+Quando você realizar um salto em
+altura, você salta no ar uma quantidade
+altura, você salta no ar uma quantidade
+metros igual a
+0,3 x (3 + seu modificador de Força) se percorrer uma
+distância de, no mínimo, 3 metros antes do salto. Quando
+você realiza um salto em altura sem tomar distância, você pode saltar apenas metade dessa altura. De qualquer
+forma, cada metro do salto custa um metro forma, cada metro do salto custa um metro
+forma, cada metro do salto custa um metro
+deslocamento. Em algumas circunstâncias, o Mestre pode
+pedir um teste de Força (Atletismo) para verificar se você
+pode saltar mais alto do que o normal.
+Você pode estender os braços metade da sua altura
+durante o salto. Assim, você pode alcançar uma distância igual à altura do salto, mais 1½ vezes a sua altura.
+igual à altura do salto, mais 1½ vezes a sua altura.
+TIVIDADES
+TIVIDADES
+URANTE
+URANTE
+IAGEM
+IAGEM
+Enquanto estiverem viajando em uma masmorra ou uma área selvagem, os aventureiros precisam manter-
+área selvagem, os aventureiros precisam manter-
+alerta
+para o perigo, e alguns deles podem executar outras
+tarefas para ajudar na viagem do grupo.
+tarefas para ajudar na viagem do grupo.
+RDEM DE
+RDEM DE
+ARCHA
+Os aventureiros devem estabelecer uma ordem de marcha. Uma ordem de marcha é um método fácil de
+determinar quais personagens são afetados por
+armadilhas, quais podem observar inimigos escondidos armadilhas, quais podem observar inimigos escondidos quais estão mais próximos desses inimigos quando o
+combate se iniciar.
+Um personagem pode ocupar a linha de frente, uma ou
+mais linhas intermediárias, ou a linha da retaguarda.Personagens nas fileiras dianteiras e na retaguarda
+precisam de espaço suficiente para viajar lado a lado com outros de sua posição. Quando o espaço é muito apertado,
+a ordem de marcha deve mudar, geralmente movendo os
+personagens para uma posição intermediária.
+Menos de Três Linhas
+Menos de Três Linhas
+Se um grupo de aventureiros
+organiza sua ordem de marcha com apenas duas fileiras, terão uma linha de frente e uma retaguarda. Se há apenas uma linha, ela é considerada linha de frente.
+apenas uma linha, ela é considerada linha de frente.
+URTIVIDADE
+Ao viajar em um ritmo lento, os personagens podem se
+mover furtivamente. Enquanto eles não estiverem em mover furtivamente. Enquanto eles não estiverem em local aberto, eles podem tentar surpreender ou esgueirar-
+se de outras criaturas que encontrem. Veja as regras para
+se esconder no capítulo 7.
+se esconder no capítulo 7.
+ERCEBENDO
+ERCEBENDO MEAÇAS
+Use o valor de Sabedoria (Percepção) Passiva dos
+personagens para determinar se alguém no grupo
+percebeu uma ameaça oculta. O Mestre pode decidir que uma ameaça pode ser notada apenas por personagens de
+uma determinada linha de marcha. Por exemplo, se os
+personagens estão explorando um labirinto de túneis, o
+Mestre pode decidir que apenas os personagens da linha
+de retaguarda têm chance de ouvir ou detectar uma
+criatura furtiva seguindo o grupo, enquanto os personagens da linha de frente e intermediárias não
+podem.

@@ -1,0 +1,134 @@
+entanto, a cada vez que ele sofrer dano, você sofrerá a
+mesma quantidade de dano.
+A magia acaba se você cair a 0 pontos de vida ou se
+você e o alvo ficarem separados a mais de 18 metros. Ela
+também termina se a magia for conjurada novamente em
+quaisquer das criaturas conectadas. Você também pode
+dissipar a magia com uma ação.
+dissipar a magia com uma ação.
+INHA
+INHA
+SMAGADORA
+4° nível de conjuração Tempo de Conjuração: 1 ação bônus
+Alcance
+: 9 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Você conjura uma vinha que brota do chão em um espaço desocupado, à sua escolha, que você possa ver dentro do
+alcance. Quando você conjura essa magia, você pode direcionar a vinha para que ela enlace uma criatura a até
+9 metros dela que você possa ver. Essa criatura deve ser
+bem sucedida num teste de resistência de Destreza ou será arrastada 6 metros na direção da vinha.
+Até o fim da magia, você pode direcionar a vinha para
+enlaçar a mesma criatura ou uma diferente, com uma ação bônus, em cada um dos seus turnos.
+ação bônus, em cada um dos seus turnos.
+ISÃO DA
+ISÃO DA
+ERDADE
+6° nível de adivinhação
+Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, S, M (unguento para os olhos no valor
+de 25 po; ele é feito de pó de cogumelo, açafrão e gordura; e é consumido pela magia)
+Duração
+: 1 hora
+Essa magia concede a uma criatura voluntária tocada a
+habilidade de ver as coisas como elas realmente são. Pela
+duração, a criatura terá visão verdadeira, percebendo portas secretas escondidas por magia e podendo ver no
+Plano Etéreo, tudo num alcance de até 36 metros.
+Plano Etéreo, tudo num alcance de até 36 metros.
+ISÃO NO
+ISÃO NO
+SCURO
+2° nível de transmutação
+Tempo de Conjuração: 1 ação Alcance
+: Toque
+Componentes
+: V, S, M (ou um pedaço de cenoura seca
+ou uma ágata)
+Duração
+: 8 horas
+Você toca uma criatura voluntária para conceder a ela a
+habilidade de ver nas trevas. Pela duração, a criatura
+terá visão no escuro com alcance de 18 metros.
+terá visão no escuro com alcance de 18 metros.
+ITALIDADE
+ITALIDADE
+ALSA
+1° nível de necromancia Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal
+Componentes
+: V, S, M (uma pequena quantidade de
+álcool ou bebidas destiladas)
+Duração
+: 1 hora
+Reforçando-se com uma vitalidade necromântica ilusória,
+você ganha 1d4 + 4 pontos de vida temporários pela duração.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 2° nível ou
+superior, você ganha 5 pontos de vida temporários
+adicionais para cada nível do espaço de magia acima do
+1°.
+1°.
+1°.
+3° nível de transmutação
+Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, S, M (uma pena da asa de qualquer
+pássaro)
+Duração
+: Concentração, até 10 minutos
+Você toca uma criatura voluntária. O alvo ganha deslocamento de voo de 18 metros, pela duração. Quando
+a magia acabar, o alvo cai se ainda estiver no ar, a não
+ser que ele possa impedir a queda.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 4° nível ou superior, você pode afetar uma criatura adicional para cada nível do espaço acima do 3°.
+cada nível do espaço acima do 3°.
+OMBARIA
+OMBARIA
+ICIOSA
+Truque de encantamento
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+: 18 metros
+mponentes
+mponentes
+mponentes
+Duração
+: Instantânea
+Você libera uma série de insultos atados com encantamentos sutis numa criatura que você possa ver, dentro do alcance. Se o alvo puder ouvir você (apesar de
+não precisar compreende-lo), ele deve ser bem sucedido
+num teste de resistência de Sabedoria ou sofrerá 1d4 de dano psíquico e terá desvantagem na próxima jogada de
+ataque que ele fizer antes do final do próximo turno dele.
+O dano dessa magia aumenta em 1d4 quando você
+alcança o 5° nível (2d4), 11° nível (3d4) e 17° nível (4d4).
+alcança o 5° nível (2d4), 11° nível (3d4) e 17° nível (4d4).
+ONA DA ONA DA
+ERDADE
+2° nível de encantamento Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: 10 minutos
+Você cria uma zona mágica protegida contra enganação, numa esfera com 4,5 metros de raio, centrada num ponto, à sua escolha, dentro do alcance. Até a magia acabar,
+uma criatura que entrar na área da magia pela primeira
+vez num turno ou começar seu turno nela, deve realizar um teste de resistência de Carisma. Se falhar na
+resistência, a criatura não poderá mentir
+deliberadamente enquanto estiver no raio. Você saberá cada criatura que passou ou falhou nesse teste de
+resistência.
+Uma criatura afetada está ciente da magia e pode,
+portanto, evitar responder perguntas as quais ela normalmente responderia com uma mentira. Tais
+criaturas podem ser evasivas em suas respostas, contanto que permaneçam dentro dos limites da verdade.

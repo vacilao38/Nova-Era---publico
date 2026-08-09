@@ -1,0 +1,123 @@
+NFEITIÇADO
+NFEITIÇADO
+Uma criatura enfeitiçada não pode atacar quem a
+enfeitiçou ou tê-lo como alvo de habilidades ou efeitos
+mágicos nocivos.
+mágicos nocivos.
+Quem a enfeitiçou possui vantagem em testes de
+habilidade feitos para interagir socialmente com a
+criatura.
+criatura.
+NVENENADO
+NVENENADO
+Uma criatura envenenada sofre desvantagem em jogadas de ataque e testes de habilidade.
+jogadas de ataque e testes de habilidade.
+MPEDIDO
+MPEDIDO
+O deslocamento de uma criatura impedida se torna 0,
+e ela não pode se beneficiar de qualquer bônus em seu
+deslocamento.
+deslocamento.
+Jogadas de ataque contra a criatura possuem
+vantagem, e os ataques da criatura sofrem
+desvantagem.
+desvantagem.
+A criatura sofre desvantagem em testes de resistência
+de Destreza.
+de Destreza.
+NCAPACITADO
+NCAPACITADO
+Uma criatura incapacitada não pode realizar ações ou
+reações.
+reações.
+NCONSCIENTE
+NCONSCIENTE
+Uma criatura inconsciente está incapacitada (veja a condição). Ela não pode se mover ou falar e não tem
+ciência de seus arredores.
+ciência de seus arredores.
+A criatura larga tudo que estiver segurando e fica
+caída.
+caída.
+A criatura falha automaticamente em testes de resistência de Força ou Destreza.
+resistência de Força ou Destreza.
+Jogadas de ataque contra a criatura possuem
+vantagem.
+vantagem.
+Qualquer ataque que atinja a criatura é um acerto
+crítico, se o atacante estiver a 1,5 metro dela.
+crítico, se o atacante estiver a 1,5 metro dela.
+crítico, se o atacante estiver a 1,5 metro dela.
+XAUSTÃO
+XAUSTÃO
+Algumas habilidades especiais e perigos ambientais, como fome e
+exposição prolongada a
+temperaturas congelantes ou escaldantes,
+podem impor uma condição especial chamada exaustão. A
+exaustão é medida em seis níveis. Um efeito pode fazer com que
+uma criatura sofra um ou mais níveis de exaustão, como
+especificado na descrição do efeito.
+especificado na descrição do efeito.
+Nível
+Nível
+Efeito
+Efeito
+Efeito
+Efeito
+Desvantagem em testes de habilidade
+Desvantagem em testes de habilidade
+Desvantagem em testes de habilidade
+Desvantagem em testes de habilidade
+Deslocamento reduzido à metade
+Deslocamento reduzido à metade
+Deslocamento reduzido à metade
+Deslocamento reduzido à metade
+Desvantagem nas jogadas de ataque e testes de
+resistência
+resistência
+resistência
+resistência
+Máximo de pontos de vida reduzido à metade
+Máximo de pontos de vida reduzido à metade
+Máximo de pontos de vida reduzido à metade
+Máximo de pontos de vida reduzido à metade
+Deslocamento reduzido à 0
+Deslocamento reduzido à 0
+Deslocamento reduzido à 0
+Deslocamento reduzido à 0
+Morte
+Morte
+Se uma criatura que já
+possui um nível de exaustão sofrer
+outro efeito que também causa exaustão, o nível atual de
+exaustão da criatura aumenta em uma quantidade especificada
+pela descrição do efeito que a causou.
+pela descrição do efeito que a causou.
+Conforme o nível de exaustão de uma criatura aumenta, os
+efeitos pioram. A criatura não sofre apenas o efeito do seu nível
+atual de
+exaustão, mas de todos os níveis anteriores, sendo assim
+uma criatura sofrendo o nível 2 de exaustão tem seu
+deslocamento re
+duzido pela metade além de sofrer desvantagem
+em testes de
+habilidade
+habilidade
+habilidade
+Um efeito que remova exaustão reduz seu nível, com todos os
+efeitos de exaustão desaparecendo se esse nível for reduzido
+abaixo de 1.
+abaixo de 1.
+Terminar um descanso longo reduz a exaustão de uma
+criatura em 1 nível, contanto
+que
+ela
+ela
+também
+também
+tenha ingerido
+um
+pouco de
+água
+água
+e comida.
+e comida.

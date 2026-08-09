@@ -1,0 +1,159 @@
+for nativo de um plano de existência diferente do que você
+está, o alvo desaparece, retornando ao seu plano natal. Se
+o alvo for nativo do plano que você está, a criatura é
+enviada para um semiplano inofensivo. Enquanto estiver
+lá, a criatura estará incapacitada. Ela permanece lá até a
+magia acabar, a partir desse ponto, o alvo reaparece no
+espaço em que ela deixou ou no espaço desocupado mais próximo, se o espaço dela estiver ocupado.
+próximo, se o espaço dela estiver ocupado.
+ESTRUIÇÃO
+ESTRUIÇÃO
+EGANTE
+3° nível de evocação
+Tempo de Conjuração: 1 ação bônus
+Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Da próxima vez que você atingir uma criatura com um ataque com arma, antes do fim da magia, sua arma emite uma luz intensa, e o ataque causa 3d8 de dano radiante
+extra ao alvo. Além disso, o alvo deve ser bem sucedido
+num teste de resistência de Constituição ou ficará cego até a magia acabar.
+Uma criatura cega por essa magia realiza outro teste
+de resistência de Constituição no final de cada um dos turnos dela. Se obtiver sucesso, não estará mais cega.
+turnos dela. Se obtiver sucesso, não estará mais cega.
+ESTRUIÇÃO
+ESTRUIÇÃO
+OLÉRICA
+1° nível de evocação
+Tempo de Conjuração: 1 ação bônus
+Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Da próxima vez que você atingir com um ataque corpo-a-corpo com arma enquanto essa magia durar, seu ataque causará 1d6 de dano psíquico extra. Além disso, se o alvo
+for uma criatura, ele deve realizar um teste de resistência
+de Sabedoria ou ficará amedrontado por você até a magia acabar. Com uma ação, a criatura pode realizar um teste
+de resistência de Sabedoria contra a CD da magia para se
+manter resoluto e terminar a magia.
+manter resoluto e terminar a magia.
+ESTRUIÇÃO
+ESTRUIÇÃO
+STONTEANTE
+4° nível de evocação
+Tempo de Conjuração: 1 ação bônus
+Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+Duração
+Concentração, até 1 minuto
+Da próxima vez que você atingir uma criatura com um ataque corpo-a-corpo com arma, antes do fim da magia,
+sua arma penetra tanto no corpo quanto na mente e o ataque causa 4d6 de dano psíquico adicional ao alvo. O
+alvo deve realizar um teste de resistência de Sabedoria.
+Se falhar na resistência, ele terá desvantagem nas jogadas de ataque e testes de habilidade e não poderá
+efetuar reações até o final do próximo turno dele.
+efetuar reações até o final do próximo turno dele.
+ESTRUIÇÃO
+ESTRUIÇÃO
+ANCINANTE
+1° nível de evocação
+Tempo de Conjuração
+: 1 ação bônus
+Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Da próxima vez que você atingir uma criatura com um
+ataque corpo-a-corpo com arma enquanto essa magia
+durar, sua arma flameja com intensas chamas brancas e o
+ataque causa 1d6 de dano de fogo extra ao alvo, fazendo-
+ataque causa 1d6 de dano de fogo extra ao alvo, fazendo-
+incendiar pelas chamas. No início de cada turno dele, até
+a arma acabar, o alvo deve realizar um teste de
+resistência de Constituição. Se falhar na resistência, ele
+sofre 1d6 de dano de fogo. Se passar na resistência, a
+magia acaba. Se o alvo ou uma criatura a 1,5 metro dele
+usar uma ação para apagar as chamas ou se algum outro
+efeito extinguir as chamas (como submergir o alvo em
+água), a magia acaba.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 2° nível ou superior, o dano extra inicial causado por esse ataque
+aumenta em 1d6 para cada nível do espaço acima do 1°.
+aumenta em 1d6 para cada nível do espaço acima do 1°.
+ESTRUIÇÃO
+ESTRUIÇÃO
+ROVEJANTE
+1° nível de evocação Tempo de Conjuração: 1 ação bônus
+Alcance
+: Pessoal
+Componentes
+Componentes
+V
+Duração
+: Concentração, até 1 minuto
+Da primeira vez que você atingir um ataque corpo-a-corpo com arma enquanto essa magia durar, sua arma é
+rodeada por trovões que são audíveis a até 90 metros de você e o ataque causa 2d6 de dano trovejante extra no
+alvo. Além disso, se o alvo for uma criatura, ele deve ser
+bem sucedido num teste de resistência de Força ou será empurrado 3 metros para longe de você e cairá no chão.
+empurrado 3 metros para longe de você e cairá no chão.
+ETECTAR O
+ETECTAR O
+EM E EM E
+EM E
+1° nível de adivinhação
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 10 minutos
+Pela duração, você sabe se existe uma aberração, celestial, corruptor, elemental, fada ou morto-vivo, a até 9 metros de você, assim como onde a criatura está
+localizada. Similarmente, você sabe se existe um local ou
+objeto, a até 9 metros de você, que tenha sido consagrado ou profanado magicamente.
+A magia pode penetrar a maioria das barreiras, mas é
+bloqueada por 30 centímetros de rocha, 2,5 centímetros de metal comum, uma fina camada de chumbo, ou metal comum, uma fina camada de chumbo, ou
+centímetros de madeira ou terra.
+centímetros de madeira ou terra.
+ETECTAR ETECTAR
+AGIA
+1° nível de adivinhação (ritual)
+Tempo de Conjuração: 1 ação Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 10 minutos
+Pela duração, você sente a presença de magia a até 9 metros de você. Se você sentir magia dessa forma, você
+pode usar sua ação para ver uma aura suave em volta de
+qualquer criatura ou objeto visível, na área que carrega magia, e você descobre a escolha de magia, se houver
+uma.
+A magia pode penetrar a maioria das barreiras, mas é
+bloqueada por 30 centímetros de rocha, 2,5 centímetros de metal comum, uma fina camada de chumbo, ou 90
+centímetros de madeira ou terra.
+centímetros de madeira ou terra.
+ETECTAR
+ETECTAR
+ENSAMENTOS
+2° nível de adivinhação Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal
+Componentes
+: V, S, M (um pedaço de cobre)
+Duração
+: Concentração, até 1 minuto
+Pela duração, você pode ler os pensamentos de certas criaturas. Quando você conjura essa magia e, com sua

@@ -1,0 +1,180 @@
+Pontos de Vida nos Níveis Seguintes:
+1d8 (ou 5) + seu
+modificador de Constituição por nível de bruxo após o
+modificador de Constituição por nível de bruxo após o
+modificador de Constituição por nível de bruxo após o
+modificador de Constituição por nível de bruxo após o
+ROFICIÊNCIAS
+ROFICIÊNCIAS
+Armaduras:
+Armaduras leves
+Armas:
+Armas simples
+Ferramentas:
+Nenhuma
+Testes de Resistência:
+Sabedoria, Carisma
+Perícias:
+Escolha duas dentre Arcanismo, Enganação,
+História, Intimidação, Investigação, Natureza e Religião
+Religião
+QUIPAMENTO
+QUIPAMENTO
+Você começa com o seguinte equipamento, além do
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+) uma besta leve e 20 virotes ou (
+) uma besta leve e 20 virotes ou (
+) uma besta leve e 20 virotes ou (
+qualquer arma
+simples
+simples
+simples
+simples
+simples
+uma bolsa de componentes ou (
+uma bolsa de componentes ou (
+) um foco arcano
+) um foco arcano
+) um foco arcano
+) um foco arcano
+) um foco arcano
+) um foco arcano
+pacote de estudioso ou (
+pacote de estudioso ou (
+) um pacote) um pacote
+explorador
+explorador
+Armadura de couro, qualquer arma simples e duas
+adagas
+adagas
+ATRONO
+ATRONO
+RANSCENDENTAL
+RANSCENDENTAL
+No 1° nível, você conclui uma barganha com um ser
+transcendental, à sua escolha: a Arquifada, o Corruptor
+ou o Grande Antigo, cada um deles é detalhado no final
+da descrição da classe. Sua escolha lhe confere traços no 1° nível e novamente no6°, 10° e 14° nível.
+1° nível e novamente no6°, 10° e 14° nível.
+AGIA DE
+AGIA DE
+ACTO
+Sua pesquisa arcana e a magia outorgada a você por seu
+patrono, lhe concedem uma gama de magias. Veja o capítulo 10 para as regras gerais de conjuração e o
+capítulo 11 para a lista de magias de bruxo.
+capítulo 11 para a lista de magias de bruxo.
+RUQUES
+Você conhece dois truques, à sua escolha, da lista de
+magias de bruxo. Você aprende truques de bruxo adicionais, à sua escolha, em níveis mais altos, como mostrado na coluna Truques Conhecidos da tabela O Bruxo.
+Bruxo.
+SPAÇOS DE
+SPAÇOS DE
+AGIA
+A tabela O Bruxo mostra quantos espaços de magia você possui. A tabela também mostra qual o nível desses espaços; todos os seus espaços de magia são do mesmo nível. Para conjurar uma magia de bruxo de 1° nível ou
+superior, você deve gastar uma espaço de magia. Você
+recobra todos os espaços de magia gastos quando você completa um descanso curto ou longo.
+Por exemplo, quando você atingir o 5° nível, você terá
+dois espaços de magia de 3° nível. Para conjurar a magia de 1° nível
+onda trovejante
+, você deve gastar um desses
+espaços e você a conjura como uma magia de 3° nível.
+espaços e você a conjura como uma magia de 3° nível.
+AGIAS
+AGIAS
+ONHECIDAS DE
+1° N
+ÍVEL E
+ÍVEL E
+UPERIORES
+No 1° nível, você conhece
+No 1° nível, você conhece
+s magias de 1° nível, à sua
+escolha da lista de magias de bruxo.
+A coluna Magias Conhecidas na tabela O Bruxo
+mostra quando você aprende mais magias de bruxo, à sua escolha, de 1° nível ou superior. Cada uma dessas magias deve ser de um nível a que você tenha acesso, como mostrado na tabela na coluna de Nível de Magia para o
+seu nível
+seu nível
+Quando você alcança o 6° nível, por exemplo,
+você aprende uma nova magia de bruxo, que pode ser de 1°, 2° ou 3° nível.
+Além disso, quando você adquire um nível nessa
+classe, você pode escolher uma magia de bruxo que você conheça e substituí-
+conheça e substituí-por outra magia da lista de magias
+de bruxo, que também deve ser de um nível ao qual você tenha espaços de magia.
+tenha espaços de magia.
+ABILIDADE DE
+ABILIDADE DE
+ONJURAÇÃO
+Sua habilidade de conjuração é Carisma para suas magias de bruxo, portanto, você usa seu Carisma sempre que alguma magia se referir à sua habilidade de conjurar magias. Além disso, você usa o seu modificador de Carisma para definir a CD dos testes de resistência para as magias de bruxo que você conjura e quando você
+realiza uma jogada de ataque com uma magia.
+CD para suas magias
+= 8 + bônus de proficiência +
+seu modificador de Carisma
+Modificador de ataque de magia
+Modificador de ataque de magia
+Modificador de ataque de magia
+seu bônus de proficiência
+seu bônus de proficiência
+seu modificador de Carisma
+seu modificador de Carisma
+seu modificador de Carisma
+OCO DE
+OCO DE
+ONJURAÇÃO
+ONJURAÇÃO
+cê pode usar um foco arcano (encontrado no capítulo 5)
+como foco de conjuração das suas magias de bruxo.
+como foco de conjuração das suas magias de bruxo.
+NVOCAÇÕES
+NVOCAÇÕES
+ÍSTICAS
+Durante seus estudos sobre conhecimento oculto, você
+descobriu as invocações místicas, fragmentos de
+conhecimento proibido que infundiram você com habilidade mágica permanente.
+No 2° nível, você ganha duas invocações místicas, à
+sua escolha
+sua escolha
+Suas opções de invocação estão detalhadas
+no final da descrição dessa classe. Quando você atinge
+certos nível de bruxo, você adquire novas invocações à sua
+escolha, como mostrado na coluna Invocações Conhecidas
+na tabela O Bruxo.
+Além disso, quando você adquire um novo nível nessa
+classe, você pode escolher uma invocação que você
+conheça e substituí-
+conheça e substituí-por outra invocação que você possa
+aprender nesse nível.
+aprender nesse nível.
+ÁDIVA DO
+ÁDIVA DO
+ACTO
+No 3° nível, seu patrono transcendental lhe confere um dom por seus leais serviços. Você adquire uma das
+características a seguir, à sua escolha.
+características a seguir, à sua escolha.
+ACTO DA
+ACTO DA
+ORRENTE
+ORRENTE
+Você aprende a magia
+convocar familiar
+e pode conjurá-
+e pode conjurá-e pode conjurá-
+como um ritual. Essa magia não conta no número de
+magias que você conhece.
+Quando você conjura essa magia, você pode escolher
+uma das formas convencionais para o seu familiar ou uma
+das seguintes formas especiais: diabrete, pseudodragão, quasit ou sprite.
+Além disso, quando você realiza a ação de Ataque, você
+pode renunciar
+pode renunciar
+um dos seus ataques para permitir que
+seu familiar realize um ataque, com a reação dele.
+seu familiar realize um ataque, com a reação dele.
+ACTO DA ACTO DA
+ÂMINA
+ÂMINA
+Você pode usar sua ação para criar uma arma de pacto
+em sua mão vazia. Você escolhe a forma que essa arma
+corpo-a-corpo tem a cada vez que você a cria (veja as opções de arma no capítulo 5). Você é proficiente com ela

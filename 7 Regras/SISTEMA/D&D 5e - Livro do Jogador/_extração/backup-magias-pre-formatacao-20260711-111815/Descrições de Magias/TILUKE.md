@@ -1,0 +1,793 @@
+---
+title: "TILUKE"
+capitulo: "Capítulo 11"
+pagina_inicial: 215
+pagina_final: 289
+fonte: "Livro do Jogador"
+tipo: regra
+tags:
+  - dnd/regras/magias
+  - dnd/regras/magia
+---
+# TILUKE
+
+## Relacionados
+- [[00 Sumário]]
+- [[Magia]]
+- [[Conjurando uma Magia]]
+- [[Lista de Magias]]
+- [[Classes]]
+
+TILUKE
+4° nível de evocação Tempo de Conjuração: 1 ação
+Alcance
+: 9 metros
+Componentes
+: V, S, M (uma peça hemisférica de cristal
+transparente e uma peça hemisférica que combine de goma arábica)
+Duração
+: Concentração, até 1 minuto
+Uma esfera de energia brilhante engloba uma criatura ou
+objeto de tamanho Grande ou menor, dentro do alcance.
+Uma criatura involuntária deve realizar um teste de
+resistência de Destreza. Se falhar na resistência, a criatura estará enclausurada pela duração.
+Nada
+Nada
+nem objetos físicos, energia ou outros efeitos
+mágicos
+mágicos
+pode passar através da barreira, para dentro
+ou para fora, apesar da criatura na esfera poder respirar
+lá dentro. A esfera é imune a todos os danos e a criatura
+ou objeto dentro não pode sofrer dano de ataques ou efeitos originados de fora, nem a criatura dentro da
+esfera, pode causar dano a nada fora dela.
+
+> Fonte: Livro do Jogador, p. 243
+
+A esf
+era
+não
+tem
+tem
+eso
+e é gr
+e é gr
+de o s
+uf
+ici
+ici
+ici
+ici
+ici nas
+para
+co
+co
+ter
+ter
+criat
+criat
+ra
+ou o ou o
+eto den
+tro.
+tro.
+a cr
+iat
+iat
+ra
+ra
+claus
+claus
+ra
+da pode
+usar s
+ua
+açã
+açã
+para
+empur
+rar
+rar
+par
+ede
+da esf
+era
+era era
+as
+sim, rolar a esf
+era
+a met
+a met
+e do
+e do
+esl
+esl came
+came
+came
+da
+criat
+criat
+ra.
+Similarme
+Similarme
+te, o
+globo pode s
+er
+ergu
+ido
+e mov
+ido
+ido
+or o
+or o
+tras criat
+tras criat
+ras.
+ras.
+ras.ras.
+ia
+ia in
+tegrar
+lanç ada
+no
+globo o d
+estr
+estr
+irá
+irá
+irá
+ca
+usa
+r
+r
+erime
+ntos a
+na
+da
+da
+da
+tro
+dele.
+dele.
+SPAD
+A DE
+A DE
+ORDENKA
+ORDENKA
+ORDENKA
+7° ní
+vel de evoc
+ação
+ação
+mpo
+mpo
+Co
+nju
+nju
+açã
+açã
+açã
+açã
+ação
+Alc
+Alc
+Alc
+Alc
+Alc
+18 metros
+Co
+mp
+one
+nte
+nte: V,
+: V,
+M (
+M (
+pad
+a de p
+lat
+ina em m
+iniatura
+com
+cab
+o e pomo de
+co
+co
+e e
+zinco
+val
+val nd
+nd
+no
+mín
+imo,
+imo, 0 po)
+Duração: Con
+ce
+ce
+tração,
+tração,
+tração,
+tração,
+minu
+minu
+minu
+ocê cria
+um
+um
+lano
+de energ
+ia
+em for
+em for em for
+de es
+pad
+a que
+a que
+lutua
+den
+tro
+do
+alcanc e.
+Ela per
+Ela per
+ece
+ece
+ela
+ela
+ra
+ção.
+ção.
+ua
+ndo a es
+pad
+pad
+apar
+ece, você
+re
+re
+iza
+um
+at
+at
+at
+com
+com com
+com
+a c
+a c
+a c
+ra u
+ra u
+alv
+o,
+à sua e scolha,
+scolha,
+1,5
+1,5
+etro
+da
+da
+pada
+pada
+pada
+pada
+tin
+tin
+ir, o
+alv
+o sof
+re
+3d1 0 de dano de energ
+ia.
+ia.é a
+é a
+ia acabar,
+ia acabar,
+ocê
+pode
+usar
+um
+um
+açã
+o bô nu s,
+s,
+ca
+da
+um
+dos
+dos
+us turn
+os,
+para
+mov
+er
+a es
+pad
+a a
+a a
+a a
+metros
+para um
+lo cal
+cal
+cal
+você
+você
+ossa
+ossa
+er e
+rep
+etir
+etir
+sse
+at
+at
+at
+co
+nt
+ra o
+mesmo
+alv
+o ou
+um
+diferente.
+diferente.
+SPÍRITOS
+SPÍRITOS
+UARD
+UARD
+ES
+3° ní
+vel de co
+vel de co
+ju
+ração
+ração
+mpo
+mpo
+Co
+nju
+nju
+açã
+açã
+açã
+açã
+ação
+Alc
+Alc
+Alc
+Alc
+: Pesso
+: Pesso
+l (4,5 metros de
+rai
+rai
+Co
+mp
+one
+nte
+nte nte
+nte
+, S,
+M (um
+M (um
+M (um olo
+olo
+olo
+ra
+do)
+Duração: Con
+ce
+ce
+tração,
+tração,
+tração,
+minu
+tos
+tos
+ocê
+ocê
+oca
+esp
+íri
+tos
+para
+para
+rote
+ge-lo ge-lo
+Ele
+Ele
+flutuam
+a s
+a s
+re
+re
+or,
+a uma
+a uma
+a uma
+ânc ia
+de
+4,5
+metros, p
+ela
+ela
+ração.
+ração.
+ração.
+ocê
+ocê
+or
+bom
+bom
+ne
+ne
+tro,
+as for
+as for s esp
+ectrais
+del
+es
+apar
+apar
+ta
+ta
+er
+er
+er
+elical
+ou f
+eérica (à s
+ua e scolha
+scolha
+scolha
+scolha
+você
+você
+or
+or
+, eles
+par
+par ceram
+demon
+íac
+íac íac
+íac
+ua
+ndo v
+ocê co
+nju
+ra
+ra ra
+ra ra
+ia,
+ia,
+ocê
+pode d
+esi
+esi
+esi
+r
+qualqu
+er
+quan
+tid
+tid
+e de
+cr
+iatu
+ras
+ras
+e v
+ocê
+ocê
+ossa
+ossa
+er
+para
+nã
+nã
+nã
+erem
+erem
+erem
+erem
+erem s p
+or ela.
+or ela.
+or ela.
+esl
+esl came
+came
+came
+de uma
+criat
+criat
+ra
+ra
+ra
+ra
+a é
+re
+re
+zido à met
+zido à met
+zido à met
+na
+na
+ea e ea e
+quand
+o a
+criat
+criat
+ra
+ra
+trar
+na
+na
+ea pela
+ea pela
+imeira
+imeira
+ez n
+um
+um
+rno ou
+co
+co
+eçar s
+eu turno
+nela,
+ela
+deve
+re
+re
+izar
+um
+teste
+de
+resi
+stên
+cia
+de S
+de S de S
+oria.
+Se
+falha
+r na re r na re
+r na re
+r na re
+r na re
+cia,
+cia,
+criat
+criat
+ra so
+ra so
+rerá
+rerá
+8 de da
+8 de da
+ra
+ra
+iante
+iante
+iante
+iante
+ocê
+ocê
+or
+bom
+bom
+neutro) ou
+neutro) ou
+8 de dano
+necrótico
+necrótico
+necrótico
+você f
+or
+mau)
+mau)
+Com
+um
+sucesso
+na
+resi
+stên
+cia,
+cia,
+criat
+criat
+ra so
+ra so
+re
+met
+met
+e d
+esse
+dan
+dan
+dan
+Ní
+Ní
+Ní
+Ní Ní
+Ní
+Ní
+Ní Ní
+. Q uan
+do v
+ocê co
+nju
+rar essa
+rar essa rar essa
+ia
+us
+ando
+um
+um
+paç
+o de
+o de o de
+ia
+de 4°
+de 4°
+de 4°
+el
+el
+el
+up
+eri
+eri eri
+dan
+dan
+aum
+aum
+ta
+em 1d8 p
+ara ca
+da nív
+el
+el
+el
+paç
+paç
+acim
+a do 3°.
+a do 3°.
+SPI
+SPI SPI
+SPI
+CI
+CI
+CI
+CI
+CI
+e d
+e co
+e co
+ju
+ração
+ração
+mpo
+mpo
+Co
+nju
+nju
+açã
+açã
+açã
+açã
+ação
+Alc
+Alc
+Alc
+Alc
+Alc
+18 metros
+Co
+mp
+one
+nte
+nte nte
+nte
+nte
+Duração Duração
+Duração
+Duração
+antân
+antân
+antân
+ocê
+arr arr
+essa
+uma bo lha
+de
+ácid
+o.
+o.
+scolha
+uma
+criat
+criat
+ra
+den
+tro
+do
+alcanc alcanc
+alcanc
+alcanc scolha
+dua
+dua
+criat
+criat
+ras
+den
+tro
+do
+alcanc alcanc
+alcanc
+e e ste
+jam a
+1,5
+1,5
+etro
+uma da outr
+a.
+Um
+alv
+o deve
+ser
+bem
+suc suc
+ido
+num
+te ste
+de re
+de re
+stên
+cia
+de Destreza ou
+de Destreza ou
+de Destreza ou
+rerá
+rerá
+6 de
+dan
+dan
+ácid
+ácid
+ácid
+ácid
+ácid
+ácid
+d
+essa
+essa essa
+ia
+ia
+um
+enta
+em 1d6
+qua
+ndo você
+alcança
+o 5° nív
+el (2
+d6)
+d6)
+d6)d6)
+d6)
+d6)
+el (3
+d6
+) e
+) e° nív
+el (4
+d6).
+
+> Fonte: Livro do Jogador, p. 244
+
+SQUENTAR SQUENTAR

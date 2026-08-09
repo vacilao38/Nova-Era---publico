@@ -1,0 +1,131 @@
+incluir criaturas maiores ou mais de nove criaturas.
+Criaturas e objetos dentro do domo quando você conjurou
+essa magia, podem se mover através dele livremente.
+Todas as outras criaturas e objetos são bloqueados ao
+tentarem atravessa-lo. Magias e outros efeitos mágicos
+não podem se estender através do domo ou serem
+conjurados através dele. A atmosfera dentro do espaço é confortável e seca, independente do clima do lado de fora.
+Até a magia acabar, você pode comandar o interior
+para que fique mal iluminado ou escuro. O domo é opaco do lado de fora, de qualquer cor que você desejar, mas é
+transparente do lado de dentro.
+transparente do lado de dentro.
+ERDIÇÃO
+1° nível de encantamento
+Tempo de Conjuração: 1 ação Alcance
+: 9 metros
+Componentes
+: V, S, M (uma gota de sangue)
+Duração
+: Concentração, até 1 minuto
+Até três criaturas, à sua escolha, que você possa ver dentro do alcance, devem realizar um teste de resistência
+de Carisma. Sempre que um alvo que falhou nessa
+resistência realizar uma jogada de ataque ou um teste de resistência antes da magia acabar, o alvo deve rolar um
+d4 e subtrair o valor rolado da jogada de ataque ou teste
+de resistência.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 2° nível ou superior, você pode afetar uma criatura adicional par
+superior, você pode afetar uma criatura adicional par
+cada nível do espaço acima do 1°.
+cada nível do espaço acima do 1°.
+ISCAR
+3° nível de transmutação
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: 1 minuto
+Role um d20 no final de cada um dos seus turnos pela
+duração da magia. Com um resultado de 11 ou maior,
+você desaparece do seu plano de existência atual e
+reaparece no Plano Etéreo (a magia falha e a conjuração é
+perdida se você já estiver nesse plano). No início do seu próximo turno e quando a magia terminar, se você estiver
+no Plano Etéreo, você retorna a um espaço desocupado de
+sua escolha que você possa ver a até 3 metros do espaço em que você desapareceu. Se não houver um espaço
+disponível dentro do alcance, você reaparece no espaço
+desocupado mais próximo (escolhido aleatoriamente, se existir mais de um espaço a mesma distância). Você pode
+dissipar a magia com uma ação.
+Quando estiver no Plano Etéreo, você pode ver e ouvir
+o plano de onde você veio, que aparece em tons de cinza, e você não pode ver nada além de 18 metros. Você só pode
+afetar ou ser afetado por outras criaturas no Plano Etéreo. As criaturas que não estiverem lá não podem
+notar você nem interagir com você, a não ser que elas
+tenham uma habilidade que as permita.
+tenham uma habilidade que as permita.
+ORTA
+ORTA
+IMENSIONAL
+4° nível de conjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: 150 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você se teletransporte da sua posição atual para qualquer local dentro do alcance. Você aparece exatamente no local
+desejado. Pode ser um lugar que você possa ver, um que
+você possa visualizar ou um que você possa descrever LQGLFDQGRDGLVWkQFLDHGLUHomRFRPR´PHWURV
+GLUHWDPHQWHSUDEDL[RµRX´PHWURVVXELQGRSDUD
+noroeste num ângulo de 45 gr
+DXVµ
+DXVµ
+Você pode levar objetos com você, contanto que o peso
+deles não exceda o que você pode carregar. Você também pode levar uma criatura voluntária do seu tamanho ou menor, que esteja carregando equipamento até o limite da
+capacidade de carga dela. A criatura deve estar a 1,5
+metro de você quando você conjurar a magia.
+Se você aparecer em um lugar que já esteja ocupado
+por um objeto ou uma criatura, você e qualquer criatura viajando com você, sofrem 4d6 de dano de energia cada um e a magia falha em teletransportar vocês.
+um e a magia falha em teletransportar vocês.
+ORTAL
+9° nível de conjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+: V, S, M (um diamante valendo, no
+mínimo, 5.000 po)
+Duração
+: Concentração, até 1 minuto
+Você conjura um portal conectando um espaço desocupado que você possa ver, dentro do alcance, a uma localização
+precisa em um plano de existência diferente. O portal é
+uma abertura circular, que você pode fazer ter de 1,5 a 6 metros de diâmetro. Você pode orientar o portal em
+qualquer direção, à sua escolha. O portal permanece pela
+duração.
+O portal terá uma frente e um fundo em cada plano
+que ele aparecer. Viajar pelo portal só é possível ao atravessa-lo pela frente. Qualquer coisa que o fizer, é instantaneamente transportado para o outro plano,
+aparecendo no espaço desocupado mais próximo do portal.
+Divindades e outros soberanos planares podem
+impedir que portais criados através dessa magia se abram na presença deles ou em qualquer parte dos seus
+domínios.
+Quando você conjurar essa magia, você pode falar o
+nome de uma criatura especifica (um pseudônimo, título ou apelido não funcionará). Se essa criatura estiver em um plano diferente do que você está, o portal se abre na
+vizinhança imediata da criatura nomeada e suga a
+criatura para dentro do portal, fazendo-a aparecer no espaço desocupado mais próximo do seu lado do portal.
+Você não adquire qualquer poder especial sobre a criatura
+e ela está livre para agir como o Mestre julgar apropriado.Ela pode ir embora, atacar você ou ajudar você.
+Ela pode ir embora, atacar você ou ajudar você.
+ORTAL ORTAL
+RCANO
+6° nível de conjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: 150 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 10 minutos
+Você cria portais de teletransporte conectados que
+permanecem abertos pela duração. Escolha dois pontos no
+solo que você possa ver, um ponto a até 3 metros de você e
+outro a até 150 metros de você. Um portal circular, com 3
+metros de diâmetro, se abre em cada ponto. Se o portal se abriria num local ocupado por uma criatura, a magia
+falha e a conjuração é perdida.
+Os portais são dois anéis dimensionais brilhantes
+cheios de névoa, flutuando a centímetros do chão,
+perpendicular a ele no ponto escolhido. Um anel é visível
+apenas de um lado (à sua escolha), que é o lado que funciona como portal.

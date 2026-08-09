@@ -1,0 +1,276 @@
+qualidades são medidas com cada habilidade, quais raças
+aumentam certa
+aumentam certa
+habilidades e quais classes consideram
+certa habilidade particularmente importante.
+Você gera os seis
+valores de habilidade
+do
+personagem aleatoriamente. Você então joga quatro
+dados de 6 faces, ou 4d6, e anota a soma dos três
+resultados mais altos. Você deve repetir este processo mais cinco vezes, de modo que tenha seis números no
+final das jogadas. Se preferir economizar tempo ou não
+gosta da ideia do acaso determinar seus valores de habilidade, você pode usar os seguintes valores: 15, 14,
+habilidade, você pode usar os seguintes valores: 15, 14,
+habilidade, você pode usar os seguintes valores: 15, 14,
+Agora, você deve atribuir cada um dos seis números
+jogados para cada uma das seis habilidades de seu personagem: Força, Destreza, Constituição, Inteligência,
+Sabedoria e Carisma. Depois, você deve fazer as alterações de seus valores de habilidade a partir
+alterações de seus valores de habilidade a partir
+sua
+escolha de raça (raça e sub-raça, quando houver).
+Depois de atribuir os valores de habilidade, você deve
+determinar seus
+modificadores de habilidade
+usando
+a tabela Valores e Modificadores de Habilidade
+a tabela Valores e Modificadores de Habilidade
+Para
+determinar um modificador de habilidade sem consultar a tabela, você deve subtrair 10 do valor de habilidade tabela, você deve subtrair 10 do valor de habilidade
+então dividir o resultado por 2 (arredondado para baixo).
+Anote os modificadores ao lado de cada um dos valores.
+Anote os modificadores ao lado de cada um dos valores.
+ONSTRUINDO
+ONSTRUINDO
+ONSTRUINDO
+RUENOR
+RUENOR
+RUENOR
+ASSO
+ASSO
+ASSO
+ASSO
+Bob decide usar o conjunto padrão de pontos (15, 14,
+13, 12, 10, 8) para 13, 12, 10, 8) para
+13, 12, 10, 8) para
+habilidades de Bruenor. Por ser um
+guerreiro, ele coloca o maior número, 15, em Força. Su
+guerreiro, ele coloca o maior número, 15, em Força. Su
+próxima habilidade mais alta, 14, vai para Constituição.Bruenor pode ser um guerreiro ousado, mas Bob decide
+que quer o anão mais velho, mais sábio e um bom líder, então ele coloca pontuações decentes em Sabedoria e
+Carisma. Depois de aplicar seus benefícios raciais
+(aumentando a Força e a Constituição de Bruenor em 2), os valores e modificadores de habilidades de Bruenor
+ficam assim: Força 17 (+3), Destreza 10 (+0), Constituição
+16 (+3), Inteligência 8 (
+16 (+3), Inteligência 8 (
+1), Sabedoria 13 (+1) e Carisma
+12 (+1).
+Bob preenche os pontos de vida finais de Bruenor: 10 +
+modificador de Constituição (+3 para Constituição 16),
+chegando a um total de 13 pontos de vida.
+chegando a um total de 13 pontos de vida.
+ARIAÇÃO:
+ARIAÇÃO:
+ARIAÇÃO:
+ERSONALIZANDO OS ERSONALIZANDO OS
+ALORES DE
+ALORES DE
+ALORES DE
+ABILIDADE
+ABILIDADE
+A critério do Mestre, você pode usar esta variação para determinar seus valores de habilidade. O método descrito aqui permite que você crie um personagem com um
+conjunto de valores de habilidade escolhido
+individualmente.
+Você tem 27 pontos para gastar em seus valores de
+habilidade. O custo de cada valor de habilidade habilidade. O custo de cada valor de habilidade mostrado na tabela Custo de Pontos
+mostrado na tabela Custo de Pontos
+Habilidades. Por
+exemplo, um valor 14 custa 7 pontos. Usando este
+método, 15 será o valor de habilidade mais alto que você
+pode conseguir inicialmente, antes de aplicar as melhorias raciais. Você não pode ter uma habilidade
+menor que 8.
+menor que 8.
+USTO DE
+USTO DE
+ONTOS DE
+ONTOS DE
+ABILIDADE
+ABILIDADE
+Valor
+Valor
+Custo
+Custo
+Valor
+Valor
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+Custo
+ALORES
+ALORES
+ALORES
+ODIFICADORES
+ODIFICADORES
+DE
+DE
+ABILIDADES
+ABILIDADES
+Valor
+Valor
+Modificador
+Modificador
+Valor
+Valor
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
+Modificador
++10
++10
+Esse método de determinar os valores de habilidade
+permite a criação de um conjunto de três números
+elevados e três baixos (15, 15, 15, 8, 8, 8), um conjunto de
+números acima da média e quase iguais (13, 13, 13, 12,
+12, 12), ou qualquer conjunto de números entre esses
+extremos.
+extremos.
+extremos.
+ESCREVA O SEU
+ESCREVA O SEU
+ERSONAGEM
+Depois de conhecer os aspectos básicos de jogo do seu
+personagem, é hora de você transformá-lo em uma pessoa.
+Um personagem precisa de um nome. Gaste alguns
+minutos pensando sobre como o personagem se parece e
+como ele se comporta, em termos gerais.
+Usando as informações do capítulo 4, você pode
+detalhar a aparência física e os traços de personalidade
+de seu personagem. Você deve escolher uma
+tendência
+(a bússola moral que orienta suas decisões) de seu personagem e seus
+ideais
+. O capítulo 4 também ajuda a
+identificar as coisas mais queridas para o personagem, chamadas de
+vínculos
+, e o
+, e o
+defeitos
+que um dia poderão
+miná-lo.
+Os
+antecedentes
+do personagem descrevem de onde
+ele vem, a sua ocupação original e o lugar dele no mundo de D&D. O Mestre pode oferecer antecedentes adicionais
+além dos incluídos no capítulo 4 e pode estar disposto a
+trabalhar com você para criar um antecedente que mais
+se ajuste ao seu conceito de personagem.

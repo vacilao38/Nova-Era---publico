@@ -1,0 +1,129 @@
+3° nível de ilusão
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal (cone de 9 metros)
+Componentes
+: V, S, M (uma pena branca ou o coração
+de uma galinha)
+Duração
+: Concentração, até 1 minuto
+Você projeta uma imagem fantasmagórica dos piores medos de uma criatura. Cada criatura num cone de 9
+metros, deve ser bem sucedida num teste de resistência
+de Sabedoria ou largara o que quer que esteja segurando e ficará amedrontada pela duração.
+Enquanto estiver amedrontada por essa magia, uma
+criatura deve usar a ação de Disparada e fugir de você pela rota mais curta disponível em cada um dos turnos
+dela, a não ser que não haja lugar para onde se mover. Se
+a criatura terminar o turno dela em um local onde ela não tenha linha de visão sua, a criatura pode realizar um
+teste de resistência de Sabedoria. Se obtiver sucesso, a
+magia termina naquela criatura.
+magia termina naquela criatura.
+ENSAGEIRO
+ENSAGEIRO
+NIMAL
+2° nível de encantamento (ritual)Tempo de Conjuração: 1 ação
+Alcance
+: 9 metros
+Componentes
+: V, S, M (um punhado de comida)
+Duração
+: 24 horas
+Através dessa magia, você usa um animal para entregar
+uma mensagem. Escolha uma besta
+Miúd
+a que você possa
+ver dentro do alcance, como um esquilo, um gaio-azul ou um morcego. Você especifica um local, que você já deve ter visitado, e um remetente com uma descrição geral, como
+´XPKRPHPRXPXOKHUYHVWLGRHPXPXQLIRUPHGD
+JXDUGDGDFLGDGHµRX´XPDQmRUXLYRYHVWLQGRXPFKDSpX SRQWXGRµ9RFrWDPEpPIDODXPDPHQVDJHPFRPDWp
+vinte e cindo palavras. A besta alvo viaja pela duração da
+magia para o local especifico, cobrindo 75 quilômetros em 24 horas para um mensageiro voador ou
+24 horas para um mensageiro voador ou quilômetros
+para outros animais.
+Quando o mensageiro chegar, ele entrega sua
+mensagem para a criatura que você descreveu, repetindo
+o som da sua voz. O mensageiro fala apenas para um
+o som da sua voz. O mensageiro fala apenas para um
+criatura que tenha uma descrição compatível com a que
+ele recebeu. Se o mensageiro não alcançar o destino antes
+do fim da magia, a mensagem é perdida e a besta faz seu
+caminho de volta para onde você conjurou a magia.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 3° nível ou superior, a duração da magia aumenta em 48 horas para cada nível do espaço acima do 2°.
+do espaço acima do 2°.
+ENSAGEM
+Truque de transmutação
+Tempo de Conjuração: 1 ação
+Alcance
+: 36 metros
+Componentes
+: V, S, M (um pedaço curto de fio de cobre)
+Duração
+: 1 rodada
+Você aponta seu dedo para uma criatura dentro do alcance e sussurra uma mensagem. O alvo (e apenas ele)ouvi a mensagem e pode responder com um sussurro que
+apenas você pode ouvir.
+Você pode conjurar essa magia através de objetos
+sólidos se você tiver familiaridade com o alvo. Silêncio
+mágico, 30 centímetros de rocha, 2,5 centímetros de metal
+comum, uma fina camada de chumbo, ou 90 centímetros de madeira ou terra bloqueiam a magia. A magia não
+precisa seguir uma linha reta e pode viajar livremente,
+dobrando esquinas ou através de aberturas.
+dobrando esquinas ou através de aberturas.
+ESCLAR-SE ÀS
+ESCLAR-SE ÀS OCHAS
+3° nível de transmutação (ritual)
+Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+Componentes
+Componentes
+Duração
+: 8 horas
+Você entra em um objeto ou superfície rochoso, grande o suficiente para comportar seu corpo inteiro, mesclando-se, junto com todo o equipamento que você esteja carregando,
+com a rocha pela duração. Usando seu movimento, você
+entra na rocha num ponto que você possa tocar. Nada da sua presença ficará visível ou, de outra forma, detectável
+por sentidos não-mágicos.
+Enquanto estiver imerso na rocha, você não pode ver o
+que está ocorrendo do lado de fora e, qualquer teste de Sabedoria (Percepção) que você fizer para ouvir os sons do
+lado de fora são feitos com desvantagem. Você continua consciente do tempo transcorrido e pode conjurar magias
+em você enquanto estiver imerso na rocha. Você pode usar
+seu movimento para sair da rocha onde você entrou, o que termina a magia. Do contrário, você não pode se mover.
+Pequenos danos físicos a rocha não ferem você, mas
+destruição parcial ou uma mudança no formato (fazendo que você já não caiba mais dentro dela) expelirá você
+causando-lhe 6d6 de dano de concussão. A destruição
+completa da rocha (ou transmutação em uma substância diferente) expelirá você causando-lhe 50 de dano de
+concussão. Se você for expelido, você ficará caído no chão
+em um espaço desocupado perto de onde você entrou da primeira vez.
+primeira vez.
+ETAMORFOSE
+4° nível de transmutação
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+: V, S, M (um casulo de lagarta)
+Duração
+: Concentração, até 1 hora
+Essa magia transforma uma criatura que você possa ver,
+dentro do alcance, em uma nova forma. Uma criatura
+involuntária deve realizar um teste de resistência de
+Sabedoria para evitar o efeito. Um metamorfo obtém
+sucesso automaticamente nesse teste de resistência.
+A transformação permanece pela duração, ou até o
+alvo cair a 0 pontos de vida ou morrer. A nova forma pode ser qualquer besta a qual o nível de desafio seja igual ou menor que o do alvo (ou o nível do alvo, se ele não possuir
+um nível de desafio). As estatísticas de jogo do alvo,
+incluindo seus valores de habilidades mentais, são substituídas pelas estatísticas da besta escolhida. Ele
+mantem sua tendência e personalidade.
+O alvo assume os pontos de vida da sua nova forma.
+Quando ele reverter a sua forma normal, a criatura retorna à quantidade de pontos de vida que ela tinha
+antes da transformação. Se ela reverter como resultado de ter caído a 0 pontos de vida, qualquer dano excedente é
+recebido pela sua forma normal. Contanto que o dano
+excedente não reduza os pontos de vida da forma normal
+da criatura a 0, ela não cairá inconsciente. Essa magia
+não pode afetar um alvo com 0 pontos de vida.
+não pode afetar um alvo com 0 pontos de vida.
+criatura é limitada em suas ações pela natureza da
+sua nova forma e ela não pode falar, conjurar magias ou realizar qualquer outra ação que precise de mãos ou de
+vocalização.
+O equipamento do alvo mescla-se a sua nova forma. O
+alvo não pode ativar, empunhar ou, de outra forma, se beneficiar de qualquer de seus equipamentos.

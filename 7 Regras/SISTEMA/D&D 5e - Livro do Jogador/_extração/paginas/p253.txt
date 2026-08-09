@@ -1,0 +1,158 @@
+descobre a direção e distância da criatura ou planta mais
+próxima desse tipo dentro de
+próxima desse tipo dentro de quilômetros, se houver
+alguma presente.
+alguma presente.
+OCALIZAR
+OCALIZAR
+RIATURA
+4° nível de adivinhação Tempo de Conjuração: 1 ação Alcance
+: Pessoal
+Componentes
+: V, S, M (um pouco de pelo de um cão de
+caça)
+Duração
+: Concentração, até 1 hora
+Descreva ou nomeie uma criatura que seja familiar a
+você. Você sente a direção da localização da criatura,
+contanto que a criatura esteja a até 300 metros de você.Se a criatura se mover, você saberá a direção do
+movimento dela.
+A magia pode localizar uma criatura especifica que
+você conheça ou a criatura mais próxima de um tipo especifico (como um humano ou um unicórnio), desde que
+você já tenha visto tal criatura de perto
+você já tenha visto tal criatura de perto
+a até 9 metros
+a até 9 metros
+a até 9 metros
+pelo menos uma vez. Se a criatura que você descreveu ou
+nomeou estiver em uma forma diferente, como se estiver
+sob efeito da magia
+metamorfose
+, essa magia não
+localizará a criatura.
+Essa magia não pode localizar uma criatura se água
+corrente de, pelo menos 3 metros de largura, bloquear o caminho direito entre você e a criatura.
+caminho direito entre você e a criatura.
+OCALIZAR
+OCALIZAR
+BJETO
+2° nível de adivinhação
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal
+Componentes
+: V, S, M (um galho bifurcado)
+Duração
+: Concentração, até 10 minutos
+Descreva ou nomeie um objeto que seja familiar a você.Você sente a direção da localização do objeto, contanto que o objeto esteja a até 300 metros de você. Se o objeto
+estiver em movimento, você saberá a direção do
+movimento dele.
+A magia pode localizar um objeto especifico que você,
+desde que você já tenha o visto de perto
+desde que você já tenha o visto de perto
+a até 9 metros
+a até 9 metros
+a até 9 metros
+pelo menos uma vez. Alternativamente, a magia pode
+localizar o objeto de um tipo em particular mais próximo,
+como certo tipo de vestuário, joia, móvel, ferramenta ou
+arma.
+Essa magia não pode localizar um objeto se qualquer
+espessura de chumbo, até mesmo uma folha fina, bloquear o caminho direto entre você e o objeto.
+bloquear o caminho direto entre você e o objeto.
+OQUACIDADE
+OQUACIDADE
+nível de transmutação
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: 1 hora
+Até o fim da magia, quando você realizar um teste de Carisma, você pode substituir o número rolado por você
+por um 15. Além disso, não importa o que você diga, magias que determinam se você está dizendo a verdade
+indicarão que você está sendo sincero.
+indicarão que você está sendo sincero.
+UFADA DE
+UFADA DE
+ENTO
+2° nível de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal (linha de 18 metros)
+Componentes
+: V, S, M (uma semente de legume)
+Duração
+Duração
+Concentração, até 1 minuto
+Uma linha de vento forte, com 18 metros de comprimento e 3 metros de largura, é soprada de você em uma direção,
+à sua escolha, pela duração da magia. Cada criatura que
+começar seu turno na linha, deve ser bem sucedida num
+teste de resistência de Força ou será empurrada 4,5
+metros para trás, na direção seguida pela linha. Qualquer
+criatura na linha deve gastar 3 metros de movimentação para cada 1,5 metro que ela se mover enquanto se
+aproxima de você.
+As lufadas dispersam gases ou vapores e apagam
+velas, tochas e chamas similares desprotegidas na área.Elas fazem com que chamas protegidas, como as de
+lanternas, vibrem descontroladamente e tenham 50 por cento de chance de serem extintas.
+Com uma ação bônus, em cada um dos seus turnos,
+antes da magia acabar, você pode mudar a direção à qual a linha é soprada de você.
+a linha é soprada de você.
+a linha é soprada de você.
+Truque de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, M (um vaga-lume ou musgo
+fosforescente)
+Duração
+Duração
+hora
+Você toca um objeto que não tenha mais 3 metros em qualquer dimensão. Até a magia acabar, o objeto emite
+luz plena num raio de 6 metros e penumbra por 6 metros
+adicionais. Cobrir o objeto completamente com alguma coisa opaca bloqueará a luz. A magia termina se você
+conjura-la novamente ou dissipa-la com uma ação.
+Se você tentar afetar um objeto segurado ou vestido
+por uma criatura hostil, a criatura deve ser bem sucedida num teste de Destreza para evitar a magia.
+num teste de Destreza para evitar a magia.
+UZ DO
+UZ DO
+UZ DO
+3° nível de evocação
+Tempo de Conjuração: 1 ação Alcance
+Alcance
+metros
+Componentes
+Componentes
+Componentes
+Duração
+: 1 hora
+Uma esfera de luz, com 18 metros de raio, se espalha a partir de um ponto, à sua escolha, dentro do alcance. A
+esfera produz luz plena num raio de 18 metros e
+penumbra por 18 metros adicionais.
+Se você escolher um ponto em um objeto que você
+esteja segurando, ou um que não esteja sendo vestido ou carregado, a luz brilha a partir do objeto e se move com ele. Cobrir completamente o objeto afetado com um objeto
+opaco, como uma vasilha ou um elmo, bloqueará a luz.
+Se qualquer área dessa magia sobrepor uma área de
+escuridão criada por uma magia de 3° ou inferior, a magia que criou a escuridão será dissipada.
+que criou a escuridão será dissipada.
+ALOGRO
+4° nível de necromancia
+Tempo de Conjuração: 1 ação
+Alcance
+: 9 metros
+Componentes
+Componentes
+Componentes
+Duração
+Duração
+Instantânea
+Energia necromântica inunda uma criatura, à sua escolha, que você possa ver dentro do alcance, drenando
+sua umidade e vitalidade. O alvo deve realizar um teste
+de resistência de Concentração. O alvo sofre 8d8 de dano
+necrótico se falhar no teste, ou metade desse dano se
+obtiver sucesso. Essa magia não surte efeito em mortos-
+vivos ou constructos.

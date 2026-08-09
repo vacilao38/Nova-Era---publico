@@ -1,0 +1,75 @@
+Um raio crepitante de energia azul é arremessado em
+uma criatura dentro do alcance, formando um arco
+elétrico contínuo entre você e o alvo. Faça um ataque à
+distância com magia contra a criatura. Se atingir, o alvo
+sofrerá 1d12 de dano elétrico e, em cada um dos seus
+turnos, pela duração, você pode usar sua ação para causar
+1d12 de dano elétrico ao alvo, automaticamente. A magia acaba se você usar sua ação para fazer qualquer outra
+coisa. A magia também acaba se o alvo estiver fora do
+alcance da magia ou se você tiver cobertura total para ele.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 2° nível ou superior, o dano inicial aumenta em 1d12 para cada nível do espaço acima do 1°.
+do espaço acima do 1°.AIO DE
+AIO DE
+OGO
+Truque de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: 36 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você arremessa um cisco de fogo em uma criatura ou
+objeto dentro do alcance. Faça um ataque à distância com
+magia contra o alvo. Se atingir, o alvo sofre 1d10 de dano de fogo. Um objeto inflamável atingido por essa magia,
+incendeia se não estiver sendo vestido ou carregado.
+O dano dessa magia aumenta em 1d10 quando você
+alcança o 5° nível (2d10), 11° nível (3d10) e 17° nível(4d10).
+(4d10).AIO DE
+AIO DE
+ELO
+Truque de evocação
+Tempo de Conjuração: 1 ação Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Um raio frigido de luz azul clara parte em direção de uma criatura, dentro do alcance. Realize um ataque à distância com magia contra o alvo. Se atingir, ele sofre
+1d8 de dano de frio e seu deslocamento é reduzido em 3
+metros até o começo do seu próximo turno.
+O dano da magia aumenta em 1d8 quando você
+O dano da magia aumenta em 1d8 quando você
+ança o 5° nível (2d8), 11° nível (3d8) e 17° nível (4d8).
+ança o 5° nível (2d8), 11° nível (3d8) e 17° nível (4d8).AIO DO
+AIO DO
+NFRAQUECIMENTO
+2° nível de necromancia Tempo de Conjuração: 1 ação Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Um raio negro de energia enervante parte do seu dedo em direção de uma criatura, dentro do alcance. Faça um ataque à distância com magia contra o alvo. Se atingir, o
+alvo causará metade do dano com ataques com armas que
+usem Força, até a magia acabar.
+No final de cada um dos turnos do alvo, ele pode
+realizar um teste de resistência de Constituição contra a magia. Se obtiver sucesso, a magia acaba.
+magia. Se obtiver sucesso, a magia acaba.AIO AIO
+UIADOR
+1° nível de evocação Tempo de Conjuração: 1 ação
+Alcance
+: 36 metros
+Componentes
+Componentes
+Componentes
+Duração
+: 1 rodada
+Um lampejo de luz se lança em direção de uma criatura, à
+sua escolha, dentro do alcance. Realize um ataque à
+distância com magia contra o alvo. Se atingir, o alvo sofre

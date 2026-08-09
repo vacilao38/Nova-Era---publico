@@ -1,0 +1,31 @@
+# Catacumba de Gullveig
+
+Masmorra ancestral e viva encontrada em [[Vanaheim]] durante a busca pelo [[Escudo de Wyrrer]]. É formada por árvores e galhos distorcidos, pode desaparecer e reaparecer em outros lugares e parece ser anterior até mesmo a [[Odin]].
+
+## Natureza
+
+- A estrutura não é apenas um prédio: comporta-se como entidade ou organismo, capaz de se mover como montanha ou ilha.
+- [[Rog]] a associa à natureza e as fontes sugerem ligação com [[Jord]], mas a identificação não foi confirmada diretamente.
+- Dentro dela existem água viva, fluxos de mana, memórias, raízes, caminhos que alteram idade e marcas físicas.
+- A derrota ou libertação de [[Gullveig]] afetou o equilíbrio externo: o céu ficou limpo demais, o calor aumentou e as estações pareceram sair de ordem.
+
+## Eventos centrais
+
+- O [[Povo do Sol]] concedeu ao grupo permissão para entrar.
+- O grupo encontrou ecos de uma guerra antiga, uma mulher alada, água viva e uma espada ligada a proteção e amor.
+- [[Blanck]] e [[Navi]] salvaram [[Leif]] de uma sombra ligada a aposta, ouro e Gullveig.
+- [[Navi]] usou uma runa de sangue para proteger [[Elder]] da guardiã de fogo.
+- O grupo recuperou o objeto de madeira depois chamado de [[Embrulho]].
+- No núcleo, [[Blanck]] e Elder encontraram [[Wyrrer]] adormecido dentro do fluxo de mana que sustenta Vanaheim.
+
+## Marcas deixadas
+
+- Blanck saiu com uma mecha grisalha.
+- Elder teve roupa e mão queimadas; sua mão permaneceu negra, embora a cicatriz ligada a Gullveig tenha desaparecido depois.
+- Um corante ou pó vermelho encontrado no local foi usado por Elder para tingir o cabelo; sua natureza continua incerta.
+
+## Questões abertas
+
+- Qual é a relação exata entre a catacumba, [[Gullveig]], [[Freya]], [[Jord]] e o Coração Esmeralda?
+- O que aconteceria se [[Wyrrer]] despertasse?
+- O [[Embrulho]] é o Escudo de Wyrrer ou apenas parte do mecanismo?

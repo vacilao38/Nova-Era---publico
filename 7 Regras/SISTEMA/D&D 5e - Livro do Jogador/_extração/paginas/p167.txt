@@ -1,0 +1,58 @@
+Quando você conjura uma magia que requer que você
+realize uma jogada de ataque, o alcance da magia é
+dobrada.
+dobrada.
+Seus ataques à distância com magia ignoram meia-
+cobertura ou três-quartos de cobertura.
+cobertura ou três-quartos de cobertura.
+Você aprende um truque que requer uma jogada de ataque. Escolha o truque da lista de magias do bardo,
+bruxo, clérigo, druida, feiticeiro ou mago. Sua habilidade de conjuração para esse truque depende da lista de magia a qual você escolheu o truque: Carisma para bardo, bruxo ou feiticeiro; Sabedoria para clérigo
+ou druida; ou Inteligência para mago.
+ou druida; ou Inteligência para mago.
+ou druida; ou Inteligência para mago.
+ou druida; ou Inteligência para mago.
+Você passou por extenso treinamento físico para ganhar
+os seguintes benefícios:
+os seguintes benefícios:
+Aumente seu valor de Força ou Destreza em 1, até o
+máximo de 20.
+máximo de 20.
+Quando você estiver caído, se levantar requer apenas 1,5 metro do seu deslocamento.
+1,5 metro do seu deslocamento.
+Escalar não custa movimento adicional a você.
+Escalar não custa movimento adicional a você.
+Você pode realizar um salto em distância correndo ou um salto em altura correndo se movendo apenas um
+passo de ajuste de 1,5 metro, ao invés de 3 metros.
+passo de ajuste de 1,5 metro, ao invés de 3 metros.
+passo de ajuste de 1,5 metro, ao invés de 3 metros.
+passo de ajuste de 1,5 metro, ao invés de 3 metros.
+Perito em mimica e dramaturgia, você recebe os seguintes
+benefícios:
+benefícios:
+Aumente seu valor de Carisma em 1, até o máximo de
+Aumente seu valor de Carisma em 1, até o máximo de
+Aumente seu valor de Carisma em 1, até o máximo de
+Você tem vantagem em testes de Carisma (Atuação) e
+Carisma (Enganação) quando você estiver tentando se
+passar por uma pessoa diferente.
+passar por uma pessoa diferente.
+Você pode imitar a articulação de outra pessoa ou os
+sons feitos por outras criaturas. Você deve ter ouvido a
+pessoa falando ou ouvido a criatura fazendo o som por, pelo menos, 1 minuto. Um sucesso num teste de
+Sabedoria (Intuição) resistido pelo seu teste de
+Carisma (Enganação) permite que um ouvinte determine que o efeito é falso.
+determine que o efeito é falso.
+OMBATENTE
+OMBATENTE
+ONTADO
+ONTADO
+Você é um oponente perigoso de se enfrentar quando está
+montado. Enquanto estiver montado e não estiver
+incapacitado, você ganha os seguintes benefícios:
+incapacitado, você ganha os seguintes benefícios:
+Você tem vantagem nas jogadas de ataque corpo-a-
+corpo contra qualquer criatura desmontada que seja
+menor que a sua montaria.
+menor que a sua montaria.
+Você pode forçar que um ataque direcionado a sua
+montaria seja direcionado a você, em seu lugar.

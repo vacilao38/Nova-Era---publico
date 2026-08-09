@@ -1,0 +1,195 @@
+Água Benta
+Água Benta
+Usando uma ação, você pode espalhar Usando uma ação, você pode espalhar
+conteúdo desse frasco em uma criatura a até 1,5 metro de
+você ou arremessar a até 6 metros, quebrando o frasco com o impacto. Em ambos os casos, você deve realizar um
+ataque à distância contra uma criatura alvo, tratando a
+água benta como uma arma improvisada. Se o alvo for um corruptor ou morto-vivo, ele sofre 2d6 de dano radiante.
+Um clérigo ou paladino pode criar água benta
+realizando um ritual especial. O ritual leva 1 hora para ser realizado, consome 25 po de prata em pó e exige que
+se gaste um espaço de magia de 1º nível.
+Algemas
+Algemas
+Essas algemas de metal podem prender
+uma criatura Pequena ou Média. Escapar das algemas
+exige sucesso em um teste de Destreza CD 20. Quebrá-las exige um teste de Força CD 20 bem sucedido. Cada conjunto de algemas vem com uma chave. Sem a chave,
+uma criatura proficiente com ferramentas de ladrão pode
+abrir a fechadura das algemas com um sucesso em um teste de Destreza CD 15. As algemas têm 15 pontos de vida.
+Algibeira
+Algibeira
+Uma bolsa de pano ou couro que pode
+armazenar até 20 munições de funda ou 50 munições de
+zarabatana, entre outras coisas. Para armazenar
+componentes de magia, veja bolsa de componentes, também descrita nessa seção.
+Aljava
+Aljava
+Uma aljava pode guardar até 20 flechas.
+Antídoto
+Antídoto
+Uma criatura que beber o líquido desse
+vidro tem vantagem em testes de resistência contra
+venenos por 1 hora. O antídoto não confere nenhum
+benefício para mortos-vivos ou constructos.
+Aríete Portátil
+Aríete Portátil
+Você pode usar um aríete portátil
+para quebrar portas. Ao fazer isso, você ganha um bônus de +4 no teste de Força. Outra criatura pode ajudá-lo a usar o aríete, o que concede vantagem no teste.
+Armadilha de Caça
+Armadilha de Caça
+Quando você usa sua ação para
+armá-la, essa armadilha forma um anel de aço com dentes serrilhados. Eles se fecham quando uma criatura pisa sobre uma placa de pressão no seu centro. A armadilha é fixada por uma pesada corrente em um
+objeto fixo e imóvel, como uma árvore ou um cravo
+enterrado no chão. Uma criatura que pisar na placa de
+pressão deve ser bem sucedida em um teste de resistência de Destreza CD 13 ou sofrerá 1d4 de dano perfurante e para de se mover. Daí em diante, até que a criatura se liberte da armadilha, seu movimento é limitado ao comprimento da corrente (tipicamente 1 metro de
+comprimento). A criatura presa pode usar sua ação para
+fazer um teste de Força CD 13 e se libertar, ou outra criatura no alcance pode fazer o teste para libertá-
+criatura no alcance pode fazer o teste para libertá-
+Cada fracasso no teste causa 1 de dano perfurante à criatura presa.
+Balança de Mercador
+Balança de Mercador
+Trata-se de uma pequena
+balança, pratos e um sortimento adequado de pesos de até 1 kg. Com ela, você pode medir o peso exato de pequenos objetos, como metais preciosos brutos ou bens comerciais, para ajudar a determinar seu valor.
+Caixa de Fogo
+Caixa de Fogo
+Esse pequeno recipiente detém uma
+pederneira, isqueiro e um pavio (um pano geralmente
+seco embebido em óleo) usado para acender uma fogueira.
+Usá-lo para acender uma tocha
+Usá-lo para acender uma tocha
+ou qualquer outra coisa
+exposta a um combustível abundante
+exposta a um combustível abundante
+leva uma ação.
+Acender qualquer outro fogo leva 1 minuto
+Bolsa de Componentes
+Bolsa de Componentes
+Trata-se de uma pequena
+bolsa de couro à prova d'água que pode ser fixada em um
+cinto. Ela possui compartimentos para armazenar todos
+os componentes materiais e outros itens especiais que você precisa para lançar suas magias, exceto os componentes que possuem um custo específico (conforme indicado na descrição da magia).
+Corda
+Corda
+A corda é feita de cânhamo ou de seda, tem 2
+pontos de vida e pode ser arrebentada com um teste de Força CD 17 bem sucedido.
+Corrente
+Corrente
+Uma corrente possui 10 pontos de vida e
+pode ser arrebentada com um teste de Força CD 20 bem sucedido.
+Equipamento de Pescaria
+Equipamento de Pescaria
+Este kit inclui uma vara
+de pesca de madeira, linha de seda, boias de cortiça, anzóis de aço, chumbadas, iscas e redes de pesca.
+Esferas de Metal
+Esferas de Metal
+Usando uma ação, você pode
+despejar essas minúsculas esferas de metal para cobrir a área de um quadrado de 3 metros de lado. A criatura que se mover dentro da área deve ser bem sucedida em um teste de resistência de Destreza CD 10 para não cair no chão. Uma criatura que mover pela área usando metade do seu deslocamento não precisa fazer o teste de
+resistência.
+Estrepes
+Estrepes
+Usando uma ação, você pode espalhar um
+único saco de estrepes para cobrir a área de um quadrado
+de 1,5 metro de lado. Qualquer criatura que entrar na área deve ser bem sucedida em um teste de resistência de Destreza CD 15. Se falhar, para de se mover e sofre 1 de
+dano perfurante. Até que a criatura recupere pelo menos
+1 ponto de vida, seu deslocamento de caminhada 1 ponto de vida, seu deslocamento de caminhada reduzido em 3 metros. Uma criatura que se mover pela área usando metade do seu deslocamento não precisa fazer o teste de resistência.
+Fechadura
+Fechadura
+A fechadura vem com chave. Sem a
+chave, uma criatura proficiente com ferramentas de
+ladrão pode abrir a fechadura com um sucesso em um teste de Destreza CD 15. O Mestre pode decidir que fechaduras melhores estão disponíveis por preços mais elevados.
+elevados.
+ACOTES
+ACOTES
+DE
+DE
+QUIPAMENTO
+QUIPAMENTO
+O equipamento inicial que você recebe da sua classe inclui uma
+coleção de equipamentos úteis para aventurar
+coleção de equipamentos úteis para aventurar
+se, todos juntos
+em um
+pacot
+pacot
+. O conteúdo desses
+. O conteúdo desses
+pacotes
+pacotes
+é listado aqui. Se você
+for comprar seu equipamento inicial, você pode adquirir um
+pacote
+pacote
+pelo preço apresentado, o que pode ser mais barato do
+que comprar os itens individualmente.
+que comprar os itens individualmente.
+Pacote
+Pacote
+de
+Artista
+Artista
+(40 po).
+(40 po).
+Inclui uma mochila
+, um saco de
+dormir, duas fantasias, 5 velas, 5 dias de rações, um cantil e um kit
+de disfarce.
+de disfarce.
+Pacote
+Pacote
+de Assaltante (16 po).
+de Assaltante (16 po).
+Inclui uma mochila, um saco
+com 1.000 esferas de metal, 3 metros de linha, um sino, 5 velas,
+um pé de cabra, um martelo, 10 pítons
+, uma lanterna coberta, 2
+frascos de óleo, 5 dias de rações, uma caixa de fogo e um cantil. O
+kit também possui 15 metros de corda de cânhamo amarrada ao
+lado dele.
+lado dele.
+Pacote
+Pacote
+de Aventureiro (12 po).
+de Aventureiro (12 po).
+Inclui uma mochila, um pé de
+cabra, um martelo, 10 pítons, 1
+0 tochas, uma caixa de fogo, 10
+dias de rações e um cantil. O kit também tem 15 metros de corda
+de cânhamo amarrada ao lado dele.
+de cânhamo amarrada ao lado dele.
+Pacote
+Pacote
+de Diplomata (39 po).
+de Diplomata (39 po).
+Inclui um baú, 2 caixas para
+mapas ou pergaminhos, um conjunto de roupas finas, um vidro de
+tinta
+, uma caneta tinteiro, uma lâmpada, 2 frascos de óleo, 5
+folhas de papel, um vidro de perfume, parafina e sabão.
+folhas de papel, um vidro de perfume, parafina e sabão.
+Pacote
+Pacote
+de Estudioso (40 po).
+de Estudioso (40 po).
+Inclui uma mochila, um livro de
+estudo, um vidro de tinta, uma caneta tinteiro, 10 folhas de
+pergaminho, um saquin
+ho de areia e uma pequena faca.
+ho de areia e uma pequena faca.
+Pacote
+Pacote
+de Explorador (10 po).
+de Explorador (10 po).
+Inclui uma mochila, um saco de
+dormir, um kit de refeição, uma caixa de fogo, 10 tochas, 10 dias
+de rações e um cantil. O kit também tem 15 metros de corda de
+cânhamo amarrada ao lado dele.
+cânhamo amarrada ao lado dele.
+Paco
+Paco
+Paco
+de Sacerdote (19 po).
+de Sacerdote (19 po).
+Inclui uma mochila, um
+cobertor, 10 velas, uma caixa de fogo, uma caixa de esmolas, 2
+blocos de incenso, um incensário, vestes, 2 dias de rações e um
+cantil.
+cantil.

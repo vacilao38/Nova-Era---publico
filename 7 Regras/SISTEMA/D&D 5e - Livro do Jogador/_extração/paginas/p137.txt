@@ -1,0 +1,347 @@
+d10
+d10
+Evento Definidor
+Evento Definidor
+Evento Definidor
+Evento Definidor
+Eu me
+opus
+opus
+contra agentes de um tirano.
+contra agentes de um tirano.
+contra agentes de um tirano.
+contra agentes de um tirano.
+Eu salvei pessoas durante um desastre natural
+Eu salvei pessoas durante um desastre natural
+Eu salvei pessoas durante um desastre natural
+Eu salvei pessoas durante um desastre natural
+Eu salvei pessoas durante um desastre natural
+Eu enfrentei sozinho um terrível monstro.
+Eu enfrentei sozinho um terrível monstro.
+Eu enfrentei sozinho um terrível monstro.
+Eu enfrentei sozinho um terrível monstro.
+Eu roubei de um mercador corrupto para ajudar os
+Eu roubei de um mercador corrupto para ajudar os
+pobres.
+pobres.
+pobres.
+pobres.
+Eu liderei uma milícia na batalha contra um exército.
+Eu liderei uma milícia na batalha contra um exército.
+Eu liderei uma milícia na batalha contra um exército.
+Eu liderei uma milícia na batalha contra um exército.
+Eu invadi o castelo de um tirano e roubei armas para
+Eu invadi o castelo de um tirano e roubei armas para
+entregar ao povo.
+entregar ao povo.
+entregar ao povo.
+entregar ao povo.
+Eu treinei os c
+amponeses no uso de ferramentas do
+amponeses no uso de ferramentas do
+campo como armas para enfrentar soldados de um
+campo como armas para enfrentar soldados de um
+tirano.
+tirano.
+tirano.
+tirano.
+Um lorde rescindiu um decreto que desfavorecia o
+Um lorde rescindiu um decreto que desfavorecia o
+povo
+após eu protestar contra ele.
+após eu protestar contra ele.
+após eu protestar contra ele.
+após eu protestar contra ele.
+Um ser celestial, feérico, ou similar, deu
+Um ser celestial, feérico, ou similar, deu
+me uma
+me uma
+me uma
+me uma
+nção
+ou revelou minha or
+igem secreta.
+igem secreta.
+igem secreta.
+igem secreta.
+Recrutado para o exército de um lorde, eu prevaleci
+Recrutado para o exército de um lorde, eu prevaleci
+na
+liderança e fui
+condecorado
+condecorado
+por heroísmo.
+por heroísmo.
+por heroísmo.
+ARACTERÍSTICA:
+ARACTERÍSTICA:
+OSPITALIDADE
+OSPITALIDADE
+ÚSTICA
+Já que você ascendeu da categoria de pessoas comuns até
+onde você está agora, é fácil se misturar a eles. Você pode
+encontrar lugar entre os camponeses para se esconder,
+descansar ou se recuperar, a menos que isso ofereça um risco direto a eles. Eles o esconderão da lei e de qualquer um que venha perguntando por você, desde que não tenham que arriscar suas vidas.
+tenham que arriscar suas vidas.
+ARACTERÍSTICAS
+ARACTERÍSTICAS
+UGERIDAS
+Um herói do povo é uma pessoa comum, para melhor ou para pior. Muitos olham para suas origens humildes como uma virtude, não um defeito, e seus lares e comunidades permanecem muito importantes para eles.
+permanecem muito importantes para eles.
+permanecem muito importantes para eles.
+Traço de Per
+sonalidade
+sonalidade
+sonalidade
+sonalidade
+Eu julgo as pessoas por suas ações, não por suas
+Eu julgo as pessoas por suas ações, não por suas
+palavras.
+palavras.
+palavras.
+palavras.
+Se alguém está em apuros, eu estou sempre
+Se alguém está em apuros, eu estou sempre
+pronto para
+ajudar.
+ajudar.
+ajudar.
+ajudar.
+Quando eu fixo minha mente em algo, eu sigo
+Quando eu fixo minha mente em algo, eu sigo
+esse
+caminho, não importa o que fique no
+caminho, não importa o que fique no
+caminho.
+caminho.
+caminho.
+caminho.
+Eu possuo um forte
+Eu possuo um forte
+senso de justiça e sempre
+senso de justiça e sempre
+tento
+encontrar a solução mais equilibrada para
+encontrar a solução mais equilibrada para
+as discussões.
+as discussões.
+as discussões.
+as discussões.
+Eu confio em minhas habilidades e farei o que for
+Eu confio em minhas habilidades e farei o que for
+necessário para que os outros confiem também.
+necessário para que os outros confiem também.
+necessário para que os outros confiem também.
+necessário para que os outros confiem também.
+necessário para que os outros confiem também.
+Pensar é para os outros, eu prefiro agir.
+Pensar é para os outros, eu prefiro agir.
+Pensar é para os outros, eu prefiro agir.
+Pensar é para os outros, eu prefiro agir.
+Eu abuso de palavr
+as longas na tentativa de soar
+as longas na tentativa de soar
+inteligente.
+inteligente.
+inteligente.
+inteligente.
+Eu me entedio fácil. Para onde devo ir para me
+Eu me entedio fácil. Para onde devo ir para me
+encontrar
+com meu destino?
+com meu destino?
+com meu destino?
+com meu destino?
+Ideal
+Ideal
+Ideal
+Ideal
+Respeito. As pessoas merecem ser tratadas com
+Respeito. As pessoas merecem ser tratadas com
+dignidade e respeito. (Bom)
+dignidade e respeito. (Bom)
+dignidade e respeito. (Bom)
+dignidade e respeito. (Bom)
+Justiça. Ninguém merece tratamento
+Justiça. Ninguém merece tratamento
+diferenci
+ado
+perante a lei, muito menos estar
+perante a lei, muito menos estar
+acima dela. (Leal)
+acima dela. (Leal)
+acima dela. (Leal)
+acima dela. (Leal)
+Liberdade. Não pode haver permissão para
+Liberdade. Não pode haver permissão para
+tiranos
+oprimirem o povo. (Caótico)
+oprimirem o povo. (Caótico)
+oprimirem o povo. (Caótico)
+oprimirem o povo. (Caótico)
+Força. Se eu ficar forte, eu posso pegar tudo o
+Força. Se eu ficar forte, eu posso pegar tudo o
+que eu
+quiser
+quiser
+quiser
+o que eu desejar. (Mal)
+o que eu desejar. (Mal)
+o que eu desejar. (Mal)
+o que eu desejar. (Mal)
+Sinceridade. Não há nada d
+e bom em fingir ser
+e bom em fingir ser
+algo que
+não sou. (Neutro)
+não sou. (Neutro)
+não sou. (Neutro)
+não sou. (Neutro)
+Destino. Nada, nem ninguém, pode me manter
+Destino. Nada, nem ninguém, pode me manter
+longe do
+meu chamado. (Qualquer)
+meu chamado. (Qualquer)
+meu chamado. (Qualquer)
+meu chamado. (Qualquer)
+Vínculo
+Vínculo
+Vínculo
+Vínculo
+Eu tenho família, embora não faça a mínima ideia
+Eu tenho família, embora não faça a mínima ideia
+Eu tenho família, embora não faça a mínima ideia
+onde eles estão, espero encontrá
+onde eles estão, espero encontrá
+los um dia.
+los um dia.
+los um dia.
+los um dia.
+Eu trabalho
+a terra, eu amo a terra e eu vou
+a terra, eu amo a terra e eu vou
+defender a
+terra.
+terra.
+terra.
+terra.
+Um nobre orgulhoso me deu uma bela surra, e
+Um nobre orgulhoso me deu uma bela surra, e
+eu vou ter
+minha vingança em qualquer valentão
+minha vingança em qualquer valentão
+que encontrar.
+que encontrar.
+que encontrar.
+que encontrar.
+Minhas ferramentas são símbolo de minha vida
+Minhas ferramentas são símbolo de minha vida
+passada,
+eu as carregarei para nunca me
+eu as carregarei para nunca me
+esquecer
+esquecer
+de minhas
+origens.
+origens.
+origens.
+origens.
+Eu devo proteger aqueles que não podem se
+Eu devo proteger aqueles que não podem se
+defender.
+defender.
+defender.
+defender.
+Gostaria que meu amor viesse comigo para
+Gostaria que meu amor viesse comigo para
+seguir meu
+destino.
+destino.
+destino.
+destino.
+Defeito
+Defeito
+Defeito
+Defeito
+O tirano que comanda minha terra não vai parar
+O tirano que comanda minha terra não vai parar
+até ver
+meu cadáver.
+meu cadáver.
+meu cadáver.
+meu cadáver.
+Eu estou convencido sobre o si
+gnificado do meu
+gnificado do meu
+destino,
+e cego aos riscos e falhas.
+e cego aos riscos e falhas.
+e cego aos riscos e falhas.
+e cego aos riscos e falhas.
+As pessoas que me conhecem desde criança
+As pessoas que me conhecem desde criança
+sabem de
+um vergonhoso segredo meu, eu não
+um vergonhoso segredo meu, eu não
+poderei voltar para
+casa nunca.
+casa nunca.
+casa nunca.
+casa nunca.
+Eu tenho uma fraqueza pelos vícios da cidade,
+Eu tenho uma fraqueza pelos vícios da cidade,
+especialmente a bebedeira.
+especialmente a bebedeira.
+especialmente a bebedeira.
+especialmente a bebedeira.
+Secr
+etamente, eu acredito que as coisas estariam
+etamente, eu acredito que as coisas estariam
+melhores se algum tirano comandasse a região.
+melhores se algum tirano comandasse a região.
+melhores se algum tirano comandasse a região.
+melhores se algum tirano comandasse a região.
+Eu tenho dificuldades em confiar em meus
+Eu tenho dificuldades em confiar em meus
+aliados.
+aliados.
+aliados.
+ARINHEIRO
+ARINHEIRO
+Você navegou em um navio pelo mar por anos. Nesse período, você enfrentou poderosas tormentas, monstros das profundezas e aqueles que queriam afundar o seu ganha-pão para as profundezas insondáveis. Seu primeiro amor é a distante linha do horizonte, mas chegou a hora
+de você por suas mãos em algo novo.
+Converse sobre a natureza do navio que você navegou
+anteriormente com seu Mestre. Era um navio mercante,
+uma embarcação naval, um navio de exploração ou um navio pirata? O quão famoso (ou infame) ele é? Ele era muito viajado? Ele continua navegando, ou está
+desaparecido e, provavelmente, perdido com seus
+tripulantes?
+Quais eram seus deveres a bordo
+Quais eram seus deveres a bordo
+contramestre,
+capitão, navegador, cozinheiro ou outra posição? Quem eram o capitão e primeiro marinheiro? Você deixou o
+navio de bem com seus companheiros ou fugiu?
+Proficiência em Perícias
+Proficiência em Perícias
+Atletismo, Percepção
+Proficiência em Ferramentas
+Proficiência em Ferramentas
+Ferramentas de
+navegador, veículo (aquático)
+Equipamento:
+Uma malagueta (clava), 15 metros de
+corda de seda, uma amuleto da sorte como um pé de
+coelho ou uma peque
+coelho ou uma peque
+pedra com um furo no centro
+(ou você pode rolar uma bugiganga da tabela
+Bugigangas no capítulo 5), um conjunto de trajes
+comuns e uma algibeira contendo 10 po
+comuns e uma algibeira contendo 10 po
+ARACTERÍSTICA:
+ARACTERÍSTICA:
+ASSAGEM DE
+ASSAGEM DE
+AVIO
+Quando você precisar, você pode conseguir passagem de graça em um navio para você e seus companheiros de
+aventura. Você precisa viajar no navio em que você
+trabalhou ou em outro navio com o qual você teve boas

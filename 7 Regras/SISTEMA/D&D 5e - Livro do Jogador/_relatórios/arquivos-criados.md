@@ -1,0 +1,370 @@
+# Arquivos criados
+
+- _relatórios\arquivos-criados.md
+- _relatórios\links-quebrados.md
+- _relatórios\relatorio-extracao.md
+- _relatórios\validacao.md
+- 00 Sumário.md
+- 01 Criação de Personagem\Além do 1° Nível.md
+- 01 Criação de Personagem\Criação de Personagem.md
+- 01 Criação de Personagem\Determinando Valores de Habilidade.md
+- 01 Criação de Personagem\Escolha uma Classe.md
+- 01 Criação de Personagem\Escolha uma Raça.md
+- 02 Raças\Anão.md
+- 02 Raças\Draconato.md
+- 02 Raças\Elfo.md
+- 02 Raças\Escolhendo uma Raça.md
+- 02 Raças\Gnomo.md
+- 02 Raças\Halfling.md
+- 02 Raças\Humano.md
+- 02 Raças\Meio-Elfo.md
+- 02 Raças\Meio-Orc.md
+- 02 Raças\Raças.md
+- 02 Raças\Tiefling.md
+- 03 Classes\Bárbaro.md
+- 03 Classes\Bardo.md
+- 03 Classes\Bruxo.md
+- 03 Classes\Características de Classe.md
+- 03 Classes\Classes.md
+- 03 Classes\Clérigo.md
+- 03 Classes\Druida.md
+- 03 Classes\Feiticeiro.md
+- 03 Classes\Guerreiro.md
+- 03 Classes\Ladino.md
+- 03 Classes\Mago.md
+- 03 Classes\Monge.md
+- 03 Classes\Paladino.md
+- 03 Classes\Patrulheiro.md
+- 04 Personalidade e Antecedentes\Antecedentes.md
+- 04 Personalidade e Antecedentes\Detalhes do Personagem.md
+- 04 Personalidade e Antecedentes\Inspiração.md
+- 04 Personalidade e Antecedentes\Personalidade e Antecedentes.md
+- 05 Equipamento\Armaduras e Escudos.md
+- 05 Equipamento\Armas.md
+- 05 Equipamento\Bugigangas.md
+- 05 Equipamento\Comércio de Bens.md
+- 05 Equipamento\Despesas.md
+- 05 Equipamento\Equipamento de Aventura.md
+- 05 Equipamento\Equipamento Inicial.md
+- 05 Equipamento\Equipamento.md
+- 05 Equipamento\Ferramentas.md
+- 05 Equipamento\Montarias e Veículos.md
+- 05 Equipamento\Riqueza.md
+- 06 Opções de Customização\Multiclasse.md
+- 06 Opções de Customização\Opções de Customização.md
+- 06 Opções de Customização\Talentos.md
+- 07 Atributos\Atributos.md
+- 07 Atributos\Bônus de Proficiência.md
+- 07 Atributos\Testes de Habilidade.md
+- 07 Atributos\Testes de Resistência.md
+- 07 Atributos\Usando Cada Habilidade.md
+- 07 Atributos\Valores de Habilidades e Modificadores.md
+- 07 Atributos\Vantagem e Desvantagem.md
+- 08 Aventurando-se\Aventurando-se.md
+- 08 Aventurando-se\Descanso.md
+- 08 Aventurando-se\Entre Aventuras.md
+- 08 Aventurando-se\Interação Social.md
+- 08 Aventurando-se\Movimento.md
+- 08 Aventurando-se\O Ambiente.md
+- 08 Aventurando-se\Tempo.md
+- 09 Combate\A Ordem do Combate.md
+- 09 Combate\Ações em Combate.md
+- 09 Combate\Cobertura.md
+- 09 Combate\Combate Montado.md
+- 09 Combate\Combate Submerso.md
+- 09 Combate\Combate.md
+- 09 Combate\Dano e Cura.md
+- 09 Combate\Movimento e Posição.md
+- 09 Combate\Realizando um Ataque.md
+- 10 Magia\Conjurando uma Magia.md
+- 10 Magia\Magia.md
+- 10 Magia\O que é uma Magia.md
+- 11 Magias\Descrição de Magias.md
+- 11 Magias\Descrições de Magias\- Até 1 hora.md
+- 11 Magias\Descrições de Magias\. Quando você conjurar essa.md
+- 11 Magias\Descrições de Magias\. Você pode armazenar uma magia.md
+- 11 Magias\Descrições de Magias\1° nível de conjuraç.md
+- 11 Magias\Descrições de Magias\ABILIDADE.md
+- 11 Magias\Descrições de Magias\ABIRINTO.md
+- 11 Magias\Descrições de Magias\ABRICAR.md
+- 11 Magias\Descrições de Magias\AÇADOR.md
+- 11 Magias\Descrições de Magias\ADA.md
+- 11 Magias\Descrições de Magias\ADAR.md
+- 11 Magias\Descrições de Magias\ADAS.md
+- 11 Magias\Descrições de Magias\AGIA.md
+- 11 Magias\Descrições de Magias\ÁGICA.md
+- 11 Magias\Descrições de Magias\ÁGICAS.md
+- 11 Magias\Descrições de Magias\ÁGICO.md
+- 11 Magias\Descrições de Magias\ÁGICOS.md
+- 11 Magias\Descrições de Magias\AGRADA.md
+- 11 Magias\Descrições de Magias\AIOR.md
+- 11 Magias\Descrições de Magias\ALDIÇÃO.md
+- 11 Magias\Descrições de Magias\ALOGRO.md
+- 11 Magias\Descrições de Magias\ALSA.md
+- 11 Magias\Descrições de Magias\ALTO.md
+- 11 Magias\Descrições de Magias\AMILIAR.md
+- 11 Magias\Descrições de Magias\ÂMINAS.md
+- 11 Magias\Descrições de Magias\AMINHO.md
+- 11 Magias\Descrições de Magias\AMPÍRICO.md
+- 11 Magias\Descrições de Magias\ANCINANTE.md
+- 11 Magias\Descrições de Magias\ANIDORA.md
+- 11 Magias\Descrições de Magias\ANIMENTO.md
+- 11 Magias\Descrições de Magias\ANTASMAGÓRICA.md
+- 11 Magias\Descrições de Magias\ANTASMAGÓRICO.md
+- 11 Magias\Descrições de Magias\ANTUÁRIO.md
+- 11 Magias\Descrições de Magias\ARAIVADA.md
+- 11 Magias\Descrições de Magias\ASHA.md
+- 11 Magias\Descrições de Magias\ASOSA.md
+- 11 Magias\Descrições de Magias\ASSA.md
+- 11 Magias\Descrições de Magias\ASSAGEM.md
+- 11 Magias\Descrições de Magias\ATAR.md
+- 11 Magias\Descrições de Magias\ATIVAR.md
+- 11 Magias\Descrições de Magias\ATUREZA.md
+- 11 Magias\Descrições de Magias\AUMATURGIA.md
+- 11 Magias\Descrições de Magias\BJETO.md
+- 11 Magias\Descrições de Magias\BJETOS.md
+- 11 Magias\Descrições de Magias\BSCURECENTE.md
+- 11 Magias\Descrições de Magias\CELERADO.md
+- 11 Magias\Descrições de Magias\conjuração de uma magia. Se a criatura estiver.md
+- 11 Magias\Descrições de Magias\DAGAS.md
+- 11 Magias\Descrições de Magias\DENTIFICAÇÃO.md
+- 11 Magias\Descrições de Magias\DIOMAS.md
+- 11 Magias\Descrições de Magias\Disparada.EENCARNAÇÃO.md
+- 11 Magias\Descrições de Magias\DOECENTE.md
+- 11 Magias\Descrições de Magias\EBULOSO.md
+- 11 Magias\Descrições de Magias\ECORDAÇÃO.md
+- 11 Magias\Descrições de Magias\EDRA.md
+- 11 Magias\Descrições de Magias\EDUZIR.md
+- 11 Magias\Descrições de Magias\EGADAS.md
+- 11 Magias\Descrições de Magias\EGANTE.md
+- 11 Magias\Descrições de Magias\EIA.md
+- 11 Magias\Descrições de Magias\ELECINÉSIA.md
+- 11 Magias\Descrições de Magias\ELEPATIA.md
+- 11 Magias\Descrições de Magias\ELEPÁTICA DE ARY.md
+- 11 Magias\Descrições de Magias\ELESTIAL.md
+- 11 Magias\Descrições de Magias\ELETRANSPORTE.md
+- 11 Magias\Descrições de Magias\ELF.md
+- 11 Magias\Descrições de Magias\ELO.md
+- 11 Magias\Descrições de Magias\ELOCIDADE.md
+- 11 Magias\Descrições de Magias\EM E.md
+- 11 Magias\Descrições de Magias\EMIPLANO.md
+- 11 Magias\Descrições de Magias\EMÓRIA.md
+- 11 Magias\Descrições de Magias\EMPO.md
+- 11 Magias\Descrições de Magias\ÊNÇÃO.md
+- 11 Magias\Descrições de Magias\ENDÁRIO.md
+- 11 Magias\Descrições de Magias\ENENO.md
+- 11 Magias\Descrições de Magias\ENOR.md
+- 11 Magias\Descrições de Magias\ENORES.md
+- 11 Magias\Descrições de Magias\ENSAGEM.md
+- 11 Magias\Descrições de Magias\ENSAMENTOS.md
+- 11 Magias\Descrições de Magias\ENSER.md
+- 11 Magias\Descrições de Magias\ENTE.md
+- 11 Magias\Descrições de Magias\ENTIDÃO.md
+- 11 Magias\Descrições de Magias\ENTIDO.md
+- 11 Magias\Descrições de Magias\ENTO.md
+- 11 Magias\Descrições de Magias\EOMUND.md
+- 11 Magias\Descrições de Magias\ERDADE.md
+- 11 Magias\Descrições de Magias\ERDADEIRA.md
+- 11 Magias\Descrições de Magias\ERDIÇÃO.md
+- 11 Magias\Descrições de Magias\ERIMENTOS.md
+- 11 Magias\Descrições de Magias\ERÓIS.md
+- 11 Magias\Descrições de Magias\EROÍSMO.md
+- 11 Magias\Descrições de Magias\ERRA.md
+- 11 Magias\Descrições de Magias\ERREMOTO.md
+- 11 Magias\Descrições de Magias\ERTEIRO.md
+- 11 Magias\Descrições de Magias\ESCLAR-SE ÀS OCHAS.md
+- 11 Magias\Descrições de Magias\ESEJO.md
+- 11 Magias\Descrições de Magias\ESINTEGRAR.md
+- 11 Magias\Descrições de Magias\ESPEDAÇAR.md
+- 11 Magias\Descrições de Magias\ESPERTAR.md
+- 11 Magias\Descrições de Magias\ESPISTAR.md
+- 11 Magias\Descrições de Magias\ESSOA.md
+- 11 Magias\Descrições de Magias\ESTA.md
+- 11 Magias\Descrições de Magias\ESTIAL.md
+- 11 Magias\Descrições de Magias\ESTRUTIVA.md
+- 11 Magias\Descrições de Magias\ETAL.md
+- 11 Magias\Descrições de Magias\ETAMORFOSE.md
+- 11 Magias\Descrições de Magias\ETECÇÃO.md
+- 11 Magias\Descrições de Magias\ETEOROS.md
+- 11 Magias\Descrições de Magias\ÉTIDA.md
+- 11 Magias\Descrições de Magias\EVASCA.md
+- 11 Magias\Descrições de Magias\EVITAÇÃO.md
+- 11 Magias\Descrições de Magias\GATHYS.md
+- 11 Magias\Descrições de Magias\GUA.md
+- 11 Magias\Descrições de Magias\HAMAS.md
+- 11 Magias\Descrições de Magias\HOCANTE.md
+- 11 Magias\Descrições de Magias\ICIOSA.md
+- 11 Magias\Descrições de Magias\IDA.md
+- 11 Magias\Descrições de Magias\IDÊNCIA.md
+- 11 Magias\Descrições de Magias\IGANTE.md
+- 11 Magias\Descrições de Magias\IGBY.md
+- 11 Magias\Descrições de Magias\IGILÂNCIA.md
+- 11 Magias\Descrições de Magias\ILÊNCIO.md
+- 11 Magias\Descrições de Magias\ILENCIOSA.md
+- 11 Magias\Descrições de Magias\ÍMBOLO.md
+- 11 Magias\Descrições de Magias\IMENSIONAL.md
+- 11 Magias\Descrições de Magias\IMILARIDADE.md
+- 11 Magias\Descrições de Magias\IMPATIA.md
+- 11 Magias\Descrições de Magias\IMULACRO.md
+- 11 Magias\Descrições de Magias\INGANÇA.md
+- 11 Magias\Descrições de Magias\IPNÓTICO.md
+- 11 Magias\Descrições de Magias\IRAGEM.md
+- 11 Magias\Descrições de Magias\ISCAR.md
+- 11 Magias\Descrições de Magias\ISFARÇAR-.md
+- 11 Magias\Descrições de Magias\ISSÃO.md
+- 11 Magias\Descrições de Magias\ISSONANTES.md
+- 11 Magias\Descrições de Magias\ÍSTICA.md
+- 11 Magias\Descrições de Magias\ÍSTICO.md
+- 11 Magias\Descrições de Magias\ISUAL.md
+- 11 Magias\Descrições de Magias\ITALIDADE.md
+- 11 Magias\Descrições de Magias\IVINA.md
+- 11 Magias\Descrições de Magias\IVINO.md
+- 11 Magias\Descrições de Magias\IVOS.md
+- 11 Magias\Descrições de Magias\IVRE.md
+- 11 Magias\Descrições de Magias\LAMEJANTE.md
+- 11 Magias\Descrições de Magias\LAMEJANTES.md
+- 11 Magias\Descrições de Magias\LANAR.md
+- 11 Magias\Descrições de Magias\LANTAS.md
+- 11 Magias\Descrições de Magias\LARIVIDÊNCIA.md
+- 11 Magias\Descrições de Magias\LECHA ELAMPEJANTE.md
+- 11 Magias\Descrições de Magias\LECHAS.md
+- 11 Magias\Descrições de Magias\LEMENTAL.md
+- 11 Magias\Descrições de Magias\LENA.md
+- 11 Magias\Descrições de Magias\LIMA.md
+- 11 Magias\Descrições de Magias\LIMENTOS.md
+- 11 Magias\Descrições de Magias\LOBOS DE.md
+- 11 Magias\Descrições de Magias\LONE.md
+- 11 Magias\Descrições de Magias\LORESTA.md
+- 11 Magias\Descrições de Magias\LUCINÓGENO.md
+- 11 Magias\Descrições de Magias\LUSÓRIA.md
+- 11 Magias\Descrições de Magias\MAGEM.md
+- 11 Magias\Descrições de Magias\NCANTADA.md
+- 11 Magias\Descrições de Magias\NCENDIÁRIA.md
+- 11 Magias\Descrições de Magias\NERGIA.md
+- 11 Magias\Descrições de Magias\NFERNAL.md
+- 11 Magias\Descrições de Magias\NFRAQUECIMENTO.md
+- 11 Magias\Descrições de Magias\NIMAIS.md
+- 11 Magias\Descrições de Magias\NIMAL.md
+- 11 Magias\Descrições de Magias\NQUILO.md
+- 11 Magias\Descrições de Magias\NSETOS.md
+- 11 Magias\Descrições de Magias\NTELECTO.md
+- 11 Magias\Descrições de Magias\NTIMAGIA.md
+- 11 Magias\Descrições de Magias\NTIVIDA.md
+- 11 Magias\Descrições de Magias\NVISIBILIDADE.md
+- 11 Magias\Descrições de Magias\NVISÍVEL.md
+- 11 Magias\Descrições de Magias\NVULNERABILIDADE.md
+- 11 Magias\Descrições de Magias\OCHAS.md
+- 11 Magias\Descrições de Magias\ODER.md
+- 11 Magias\Descrições de Magias\OGO.md
+- 11 Magias\Descrições de Magias\OLAR.md
+- 11 Magias\Descrições de Magias\OLÉRICA.md
+- 11 Magias\Descrições de Magias\OMANDO.md
+- 11 Magias\Descrições de Magias\OMPELIDO.md
+- 11 Magias\Descrições de Magias\OMPLETA.md
+- 11 Magias\Descrições de Magias\OMPULSÃO.md
+- 11 Magias\Descrições de Magias\OMUNHÃO.md
+- 11 Magias\Descrições de Magias\ONFUSÃO.md
+- 11 Magias\Descrições de Magias\ONGOS.md
+- 11 Magias\Descrições de Magias\ONHO.md
+- 11 Magias\Descrições de Magias\ONJURAR AJADA.md
+- 11 Magias\Descrições de Magias\ONSAGRAR.md
+- 11 Magias\Descrições de Magias\ONSERTAR.md
+- 11 Magias\Descrições de Magias\ONSTRIÇÃO.md
+- 11 Magias\Descrições de Magias\ONSTRITOR.md
+- 11 Magias\Descrições de Magias\ONSTRO.md
+- 11 Magias\Descrições de Magias\ONTARIA.md
+- 11 Magias\Descrições de Magias\ONTINGÊNCIA.md
+- 11 Magias\Descrições de Magias\ONTÍNUA.md
+- 11 Magias\Descrições de Magias\ONTRAMÁGICA.md
+- 11 Magias\Descrições de Magias\ONTROLAR A.md
+- 11 Magias\Descrições de Magias\ONTROLÁVEL.md
+- 11 Magias\Descrições de Magias\ONVOCAR ELÂMPAGOS.md
+- 11 Magias\Descrições de Magias\ORDA.md
+- 11 Magias\Descrições de Magias\ORDENKAINEN.md
+- 11 Magias\Descrições de Magias\ORRENTE DE ELÂMPAGOS.md
+- 11 Magias\Descrições de Magias\ORTAL.md
+- 11 Magias\Descrições de Magias\ORTALEZA.md
+- 11 Magias\Descrições de Magias\ORTE.md
+- 11 Magias\Descrições de Magias\ORTOS.md
+- 11 Magias\Descrições de Magias\OUCURA.md
+- 11 Magias\Descrições de Magias\preparada de 3° nível ou inferior no glifo ao conjura-.md
+- 11 Magias\Descrições de Magias\PRISIONAMENTO.md
+- 11 Magias\Descrições de Magias\RAGA.md
+- 11 Magias\Descrições de Magias\RANHA.md
+- 11 Magias\Descrições de Magias\RAVIDADE.md
+- 11 Magias\Descrições de Magias\RAWMIJ.md
+- 11 Magias\Descrições de Magias\RCANA.md
+- 11 Magias\Descrições de Magias\RCANO.md
+- 11 Magias\Descrições de Magias\RDENTE.md
+- 11 Magias\Descrições de Magias\RESTIDIGITAÇÃO.md
+- 11 Magias\Descrições de Magias\RIAÇÃO.md
+- 11 Magias\Descrições de Magias\RIATURA.md
+- 11 Magias\Descrições de Magias\RIENTAÇÃO.md
+- 11 Magias\Descrições de Magias\RIO.md
+- 11 Magias\Descrições de Magias\RISMÁTICA.md
+- 11 Magias\Descrições de Magias\RMADILHAS.md
+- 11 Magias\Descrições de Magias\ROGRAMADA.md
+- 11 Magias\Descrições de Magias\ROIBIÇÃO.md
+- 11 Magias\Descrições de Magias\ROMÁTICA.md
+- 11 Magias\Descrições de Magias\ROMÁTICO.md
+- 11 Magias\Descrições de Magias\ROTEÇÃO CONTRA O.md
+- 11 Magias\Descrições de Magias\ROTETOR.md
+- 11 Magias\Descrições de Magias\ROVEJANTE.md
+- 11 Magias\Descrições de Magias\RREPIANTE.md
+- 11 Magias\Descrições de Magias\RRESISTÍVEL DE.md
+- 11 Magias\Descrições de Magias\RROMBAR.md
+- 11 Magias\Descrições de Magias\RUIDISMO.md
+- 11 Magias\Descrições de Magias\RUTO.md
+- 11 Magias\Descrições de Magias\RUXA.md
+- 11 Magias\Descrições de Magias\RUXARIA.md
+- 11 Magias\Descrições de Magias\RUZADO.md
+- 11 Magias\Descrições de Magias\RVORE.md
+- 11 Magias\Descrições de Magias\RVORES.md
+- 11 Magias\Descrições de Magias\SCORREGADIA.md
+- 11 Magias\Descrições de Magias\SCUDO DA.md
+- 11 Magias\Descrições de Magias\SCURIDÃO.md
+- 11 Magias\Descrições de Magias\SCURO.md
+- 11 Magias\Descrições de Magias\SMAGADORA.md
+- 11 Magias\Descrições de Magias\SOLAMENTO.md
+- 11 Magias\Descrições de Magias\SPERANÇA.md
+- 11 Magias\Descrições de Magias\SPINHOS.md
+- 11 Magias\Descrições de Magias\SPIRITUAL.md
+- 11 Magias\Descrições de Magias\STABILIZAR.md
+- 11 Magias\Descrições de Magias\STONTEANTE.md
+- 11 Magias\Descrições de Magias\STRAL.md
+- 11 Magias\Descrições de Magias\SUNAMI.md
+- 11 Magias\Descrições de Magias\TÉREA.md
+- 11 Magias\Descrições de Magias\TILUKE.md
+- 11 Magias\Descrições de Magias\TORDOAR.md
+- 11 Magias\Descrições de Magias\UARDIÃO DA.md
+- 11 Magias\Descrições de Magias\UAVE.md
+- 11 Magias\Descrições de Magias\UBLAR.md
+- 11 Magias\Descrições de Magias\UGESTÃO.md
+- 11 Magias\Descrições de Magias\UGÚRIO.md
+- 11 Magias\Descrições de Magias\UIADOR.md
+- 11 Magias\Descrições de Magias\UNAR.md
+- 11 Magias\Descrições de Magias\UNIÇÃO.md
+- 11 Magias\Descrições de Magias\URAR.md
+- 11 Magias\Descrições de Magias\URATIVA.md
+- 11 Magias\Descrições de Magias\URDEZ.md
+- 11 Magias\Descrições de Magias\UREZA.md
+- 11 Magias\Descrições de Magias\UZ DO.md
+- 11 Magias\Descrições de Magias\VARD.md
+- 11 Magias\Descrições de Magias\XTRAPLANAR.md
+- 11 Magias\Descrições de Magias\YSTUL.md
+- 11 Magias\Lista de Magias.md
+- 11 Magias\Magias.md
+- Apêndices\Além do Material.md
+- Apêndices\Condições.md
+- Apêndices\Deuses do Multiverso.md
+- Apêndices\Estatísticas de Criaturas.md
+- Apêndices\Leitura Inspiradora.md
+- Apêndices\O Plano Material.md
+- Apêndices\Os Planos de Existência.md
+- Índices\Aventuras.md
+- Índices\Como Jogar.md
+- Índices\Ficha de Personagem.md
+- Índices\Introdução.md
+- Índices\Mundos de Aventura.md
+- Índices\Prefacio.md
+- Índices\Usando Este Livro.md

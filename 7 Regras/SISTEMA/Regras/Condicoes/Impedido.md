@@ -1,0 +1,3 @@
+- O deslocamento de uma criatura impedida se torna 0, e ela não pode se beneficiar de qualquer bônus em seu deslocamento.
+- Jogadas de ataque contra a criatura possuem vantagem, e os ataques da criatura sofrem desvantagem.
+- A criatura sofre desvantagem em testes de resistência de Destreza

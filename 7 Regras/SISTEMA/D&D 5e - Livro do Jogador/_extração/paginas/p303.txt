@@ -1,0 +1,409 @@
+PÊNDICE
+D:
+D: D:
+STATÍSTICAS DE
+STATÍSTICAS DE
+RIATURAS
+AGIAS E CARACTERÍSTICAS DE CLASSE
+permitem que os personagens se
+transformem em animais, invoquem criaturas para servir como familiares e criam mortos-vivos. As estatísticas para essas criaturas estão agrupadas nesse
+apêndice para sua conveniência, se estiver em dúvida, a
+versão do bloco de estatísticas de uma criatura do
+Manual
+dos Monstros
+será imperativa. Para informações de como
+ler um bloco de estatísticas, veja o
+Manual dos Monstros
+Manual dos Monstros
+Manual dos Monstros
+GUIA
+GUIA
+IGANTE
+Besta grande, neutr
+Besta grande, neutr
+Besta grande, neutr
+Besta grande, neutr
+Besta grande, neutr
+Besta grande, neutr
+Besta grande, neutr
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Pontos de Vida
+Pontos de Vida
+26 (4d10 + 4)
+26 (4d10 + 4)
+Deslocamento
+Deslocamento
+3 m,
+voo
+voo
+voo
+voo
+FOR
+FOR
+16 (+3)
+16 (+3)
+DES
+DES
+17 (+3)
+17 (+3)
+17 (+3)
+17 (+3)
+13 (+1)
+13 (+1)
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+14 (+2)
+14 (+2)
+CAR
+CAR
+10 (+0)
+10 (+0)
+Perícias
+Perícias
+Percepção +4
+Percepção +4
+Sentidos
+Sentidos
+Percepção passiva 14
+Percepção passiva 14
+Idiomas
+Idiomas
+Águia gigante, compreende comum mas não fala
+Águia gigante, compreende comum mas não fala
+Nível de Desafio
+Nível de Desafio
+1 (200 XP)
+1 (200 XP)
+Visão Aguçada
+. A águia tem vantagem em testes de Sabedoria
+(Percepção) relacionados à visão.
+(Percepção) relacionados à visão.
+(Percepção) relacionados à visão.
+ÇÕES
+ÇÕES
+Ataques Múltiplos
+. A águia realiza dois ataques:
+. A águia realiza dois ataques:
+um com
+sua
+bicada
+bicada
+e um com suas garras.
+e um com suas garras.
+e um com suas garras.
+Bicada
+Bicada
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Corpo com Arma
+: +5 para atingir, alcance
+1,5 m, um alvo.
+Acerto
+: 6 (1d6 + 3) de dano perfurante.
+: 6 (1d6 + 3) de dano perfurante.
+Garras
+Garras
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Corpo com Arma
+: +5 para atingir, alcance
+1,5 m, um alvo.
+Acerto
+: 10 (2d6 + 3) de dano cortante.
+: 10 (2d6 + 3) de dano cortante.
+: 10 (2d6 + 3) de dano cortante.
+RANHA
+RANHA
+IGANTE
+Besta grande,
+imparcial
+imparcial
+Classe de
+Armadura
+Armadura
+14 (armadura natural)
+14 (armadura natural)
+Pontos de Vida
+Pontos de Vida
+26 (4d10 + 4)
+26 (4d10 + 4)
+Deslocamento
+Deslocamento
+9 m,
+escalada
+escalada
+escalada
+escalada
+FOR
+FOR
+14 (+2)
+14 (+2)
+DES
+DES
+16 (+3)
+16 (+3)
+16 (+3)
+16 (+3)
+12 (+1)
+12 (+1)
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+11 (+0)
+11 (+0)
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+Perícias
+Perícias
+Furtividade +7
+Furtividade +7
+Sentidos
+Sentidos
+percepção às cegas
+percepção às cegas
+3 m, visão no escuro 18 m,
+Percepção passiva 10
+Percepção passiva 10
+Idiomas
+Idiomas
+Idiomas
+Idiomas
+Nível de Desafio
+Nível de Desafio
+1 (200 XP)
+1 (200 XP)
+Escalada Aracnídea
+. A aranha pode escalar superfícies difíceis,
+incluindo tetos de cabeça para baixo, sem precisar realizar um
+teste de habilidade.
+teste de habilidade.
+Sentido na Teia
+. Qua
+ndo em contato com uma teia, a aranha sabe
+a localização exata de qualquer outra criatura em contato com a
+mesma teia.
+mesma teia.
+Andar na Teia
+. A aranha ignora restrições de movimento causadas
+por estar numa teia.
+por estar numa teia.
+por estar numa teia.
+ÇÕES
+ÇÕES
+ÇÕES
+Mordida
+Mordida
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Corpo com Arma
+: +5
+: +5
+para atingir,
+alcance 1,5 m, um
+a criatura
+a criatura
+Acerto
+: 7 (1d8 + 3) de dano
+perfurante e o alvo deve realizar um teste de resistência de
+Constituição CD 11, sofrendo 9 (2d8) de dano de veneno se falhar
+na resistência ou metade desse dano se obtiver sucesso. Se
+na resistência ou metade desse dano se obtiver sucesso. Se
+na resistência ou metade desse dano se obtiver sucesso. Se
+dano de veneno reduzir o alvo a 0 pontos de vida, o alvo estará
+estável, porém, envenenado, por 1 hora e paralisado enquanto
+estiver envenenado dessa forma.
+estiver envenenado dessa forma.
+Teia (Recarrega 5
+Teia (Recarrega 5
+Teia (Recarrega 5
+Teia (Recarrega 5
+Ataque
+à Distância
+à Distância
+com Arma
+: +5 para
+atingir, alcance 9 m/ 18 m, um
+atingir, alcance 9 m/ 18 m, um
+criatura
+criatura
+Acerto
+: O alvo ficará
+impedido pela teia. Com uma ação, o alvo impedido pode realizar
+um teste de Força CD 12, rompendo a teia com sucesso. A teia
+também pode ser atacada e destruída (CA 10; 5 pv;
+vulnerabilidade a fogo; imune a dano de concussão
+, veneno e
+psíquico).
+psíquico).
+psíquico).
+AVALO DE
+AVALO DE
+UERRA
+Besta grande,
+imparcial
+imparcial
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Pontos de Vida
+Pontos de Vida
+19 (3d10 + 3)
+19 (3d10 + 3)
+Deslocamento
+Deslocamento
+Deslocamento
+Deslocamento
+FOR
+FOR
+18 (+4)
+18 (+4)
+DES
+DES
+12 (+1)
+12 (+1)
+12 (+1)
+12 (+1)
+13 (+1)
+13 (+1)
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+12 (+1)
+12 (+1)
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+Sentidos
+Sentidos
+Percepção passiva 11
+Percepção passiva 11
+Idiomas
+Idiomas
+Idiomas
+Idiomas
+Nível de
+Nível de
+Desafio
+Desafio
+1/2 (100 XP)
+1/2 (100 XP)
+Atropelar.
+Se o cavalo se mover, pelo menos, 6 metros em linha
+reta em direção de um alvo logo antes de atingi
+reta em direção de um alvo logo antes de atingi
+lo com seu ataque
+de cascos, o alvo deve ser bem sucedido num teste de resistência
+de Força CD 14 para não cair no chão. Se o alvo cair no chão, o
+cavalo
+cavalo
+cavalo
+derá realizar uma ação bônus para realizar outro ataque
+de cascos contra ele.
+de cascos contra ele.
+de cascos contra ele.
+ÇÕES
+ÇÕES
+Cascos
+Cascos
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Corpo com Arma
+Corpo com Arma
+Corpo com Arma
+Corpo com Arma
+para atingir, alcance
+1,5 m, um alvo.
+Acerto
+: 11 (2d6 + 4) de dano de concussão.
+: 11 (2d6 + 4) de dano de concussão.
+: 11 (2d6 + 4) de dano de concussão.
+ARIAÇÃO:
+ARIAÇÃO:
+RMADURA PARA
+RMADURA PARA
+AVALO DE
+AVALO DE
+UERRA
+UERRA
+UERRA
+cavalo de guerra de armadura terá uma Classe de Armadura
+baseada no tipo de armadura vestida (veja o capítulo 5 para mais
+informações sobre arm
+aduras). A C
+lasse de Armadura dele inclui o
+modificador de Destreza do cavalo, quando aplicável.
+modificador de Destreza do cavalo, quando aplicável.
+modificador de Destreza do cavalo, quando aplicável.
+modificador de Destreza do cavalo, quando aplicável.
+Armadura
+Armadura
+Armadura
+Armadura
+Armadura
+Armadura
+Armadura
+Armadura
+Armadura de c
+ouro
+ouro
+ouro
+ouro
+Cota de malha
+Cota de malha
+Cota de malha
+Cota de malha
+Cota de malha
+Gibão de p
+eles
+eles
+eles
+eles
+Cota de talas
+Cota de talas
+Cota de talas
+Cota de talas
+Cota de anéis
+Cota de anéis
+Cota de anéis
+Cota de anéis
+Placas
+Placas
+Placas
+Placas
+Brunea
+Brunea

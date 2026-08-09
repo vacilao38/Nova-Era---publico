@@ -1,0 +1,123 @@
+EFESA SEM
+EFESA SEM
+RMADURA
+RMADURA
+A partir do 1° nível, quando você não estiver vestindo
+nenhuma armadura nem empunhando um escudo, sua
+Classe de Armadura será 10 + seu modificador de
+Destreza + seu modificador de Sabedoria.
+Destreza + seu modificador de Sabedoria.
+RTES
+RTES
+ARCIAIS
+No 1° nível, sua prática nas artes marciais concede a você
+maestria nos estilos de combate que utilizam golpes
+desarmados e armas de monge, que são as espadas curtas e quaisquer armas simples corpo-a-corpo que não tenham a propriedade duas mãos ou pesada.
+Você ganha os seguintes benefícios enquanto estiver
+desarmado ou empunhando uma arma de monge e não
+estiver vestindo nenhuma armadura ou empunhando um
+escudo:
+escudo:
+Você pode usar Destreza ao invés de Força para as
+jogadas de ataque e dano dos seus golpes desarmados e de suas armas de monge.
+e de suas armas de monge.
+Você pode rolar um d4 no lugar do dano normal dos seus golpes desarmados e armas de monge. Esse dado muda à medida que você adquire níveis de monge,
+como mostrado na coluna Artes Marciais na tabela O
+Monge.
+Monge.
+Quando você usa a ação de Ataque com um golpe desarmado ou uma arma de monge no seu turno, você pode realizar um golpe desarmado com uma ação bônus. Por exemplo, se você realizar a ação de Ataque
+com um bordão, você também poderá realizar um
+golpe desarmado com uma ação bônus, assumindo que você ainda não realizou uma ação bônus nesse turno.
+Determinados monastérios usam formas
+especializadas de armas de monge. Por exemplo, você
+pode usar uma clava feita por dois pedaços de madeira
+conectados por uma pequena corrente (chamado de nunchaku) ou uma foice com uma estranha lâmina fina
+(chamada de kama). Qualquer que seja o nome que você
+use para uma arma de monge, você pode usar as estatísticas de jogo mostradas para as armas no capítulo
+estatísticas de jogo mostradas para as armas no capítulo
+estatísticas de jogo mostradas para as armas no capítulo
+estatísticas de jogo mostradas para as armas no capítulo
+estatísticas de jogo mostradas para as armas no capítulo
+A partir do 2° nível, seu treinamento permitiu que você
+controlasse a energia mística do chi. Seu acesso a essa energia é representado por um número de pontos de chi.
+Seu nível de monge determina o número de pontos que
+você tem, como mostrado na coluna Pontos de Chi da tabela O Monge.
+Você pode gastar esses pontos para abastecer várias
+características de chi. Você começa conhecendo três dessas características: Rajada de Golpes, Defesa Paciente
+e Passo do Vento. Você aprende mais características de
+chi à medida que adquire níveis nessa classe.
+Quando você gasta um ponto de chi, ele se torna
+indisponível até você terminar um descanso curto ou longo, no fim deste, todos os pontos de chi gastos volta para você. Você deve gastar, pelo menos, 30 minutos do
+descanso meditando para recuperar seus pontos de chi.
+Algumas das características de chi requerem que seu
+alvo realize um teste de resistência para resistir ao efeito
+da característica. A CD do teste de resistência é calculada
+a segui:
+CD de resistência de Chi
+= 8 + bônus de proficiência +
+seu modificador de Sabedoria
+seu modificador de Sabedoria
+seu modificador de Sabedoria AJADA DE
+AJADA DE
+OLPES
+OLPES
+Imediatamente após você realizar a ação de Ataque no
+seu turno, você pode gastar 1 ponto de chi para realizar dois golpes desarmados com uma ação bônus.
+dois golpes desarmados com uma ação bônus.
+EFESA
+EFESA
+ACIENTE
+ACIENTE
+Você pode gastar 1 ponto de chi para realizar a ação de Esquivar, com uma ação bônus, no seu turno.
+Esquivar, com uma ação bônus, no seu turno.
+ASSO DO
+ASSO DO
+ENTO
+ENTO
+Você pode gastar 1 ponto de chi para realizar a Ação de Desengajar ou Disparada, com uma ação bônus, no seu turno, e sua distância de salto é dobrada nesse turno.
+turno, e sua distância de salto é dobrada nesse turno.
+OVIMENTO SEM
+OVIMENTO SEM
+RMADURA
+A partir do 2° nível, seu deslocamento aumenta em 3 metros enquanto você não estiver usando armadura nem empunhando um escudo. Esse bônus aumenta quando você alcança determinados níveis, como mostrado na
+tabela O Monge.
+No 9° nível, você ganha a habilidade de se mover
+através de superfícies verticais e sobre líquidos, no seu
+turno, sem cair durante o movimento.
+turno, sem cair durante o movimento.
+RADIÇÃO
+RADIÇÃO
+ONÁSTICA
+Quando você alcança o 3° nível, você ingressa numa tradição monástica: o Caminho da Mão Aberta, o Caminho Sombrio e o Caminho dos Quatro Elementos, todas detalhadas no final da descrição dessa classe. Sua tradição concede a você características no 3° nível e
+novamente no 6°, 11° e 17° nível.
+novamente no 6°, 11° e 17° nível.
+EFLETIR
+EFLETIR
+ROJÉTEIS
+A partir do 3° nível, você pode usar sua reação para
+defletir ou apanhar o projétil quando você é atingido por
+um ataque de arma à distância. Quando o fizer, o dano
+que você sofrer do ataque é reduzido em 1d10 + seu modificador de Destreza + seu nível de monge.
+Se o dano for reduzido a 0, você pode apanhar o
+projétil se ele for pequeno o suficiente para ser segurando em uma mão e você tenha, pelo menos, uma mão livre. Se
+você apanhar um projétil dessa forma, você pode gastar 1
+ponto de chi para realizar uma ataque à distância com a arma ou munição que você acabou de pegar, como parte da mesma reação. Você realiza esse ataque com proficiência, independentemente das armas em que você é proficiente, e o projétil conta como uma arma de monge
+para o ataque. A distância do ataque do monge é de 6/18
+metros.
+metros.
+NCREMENTO NO
+NCREMENTO NO
+ALOR DE
+ALOR DE
+ABILIDADE
+ABILIDADE
+Quando você atinge o 4° nível e novamente no 8°, 12°, 16°
+e 19° nível, você pode aumentar um valor de habilidade, à
+sua escolha, sua escolha,
+2 ou você pode aumentar dois valores de
+habilidade, à sua escolha, em 1. Como padrão, você não pode elevar um valor de habilidade acima de 20 com essa característica.
+característica.
+UEDA
+UEDA
+ENTA
+Começando no 4° nível, você pode usar sua reação, quando você cai, para reduzir o dano de queda sofrido por um valor igual a cinco vezes seu nível de monge.

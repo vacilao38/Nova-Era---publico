@@ -1,0 +1,134 @@
+resistência de Constituição. Essa criatura sofrerá 5d6 de
+dano de frio se fracassar na resistência, ou metade desse
+dano se obtiver sucesso.
+Em Níveis Superiores
+Em Níveis Superiores
+Quando você conjurar essa
+magia usando um espaço de magia de 7° nível ou superior, o dano causado quando ela aparece aumenta em
+2d6 e o dano por atravessar através da camada de ar gelado aumenta em 1d6 para cada nível do espaço acima
+do 6°.
+do 6°.
+URALHA DE URALHA DE
+EDRA
+5° nível de conjuração
+Tempo de Conjuração: 1 ação Alcance
+: 36 metros
+Componentes
+: V, S, M (um pequeno bloco de granito)
+Duração
+: Concentração, até 10 minutos
+Uma muralha não-mágica de rocha sólida surge do nada num ponto, à sua escolha, dentro do alcance. A muralha
+tem 15 centímetros de espessura e é composta por dez
+painéis de 3 metros por 3 metros. Cada painel deve ser contíguo com, pelo menos, outro painel.
+Alternativamente, você pode criar painéis de 3 metros por
+6 metros com apenas 7,5 centímetros de espessura.
+Se a muralha passar pelo espaço ocupado por uma
+criatura quando ela surgir, a criatura será empurrada para um dos lados da muralha (você escolhe qual lado). Se a criatura fosse ser rodeada por todos os lados da
+muralha (ou pela muralha e outra superfície sólida), a
+criatura pode realizar um teste de resistência de Destreza. Se obtiver sucesso, ela pode usar sua reação
+para se mover até seu deslocamento, assim não ficando
+mais cercada pela muralha.
+A muralha pode ter qualquer formato que você
+desejar, no entanto, ela não pode ocupar o mesmo espaço de uma criatura ou objeto. A muralha não precisa ser vertical ou se apoiar em qualquer fundação estável. Ela
+deve, no entanto, se fundir e estar solidamente suportada
+por rocha existente. Então, você pode usar essa magia para criar uma ponte sobre um abismo ou criar uma
+rampa.
+Se você criar um vão com mais de 6 metros de
+comprimento, você deve reduzir o tamanho de cada painel
+à metade para criar suportes. Você pode moldar
+grosseiramente a parede para criar merlões, ameias e assim por diante.
+A muralha é um objeto feito de pedra que pode ser
+danificado e então, partido. Cada painel tem CA 15 e 30 pontos de vida para cada 2,5 centímetros de espessura.
+Reduzir os pontos de vida de um painel a 0, o destruirá e
+pode fazer painéis conectados desmoronarem, à critério do Mestre.
+Se você mantiver sua concentração nessa magia por
+toda a duração, a muralha se tornará permanente e não poderá ser dissipada. Do contrário, a muralha desaparece
+quando a magia acaba
+quando a magia acaba
+quando a magia acaba
+quando a magia acaba
+URALHA DE URALHA DE
+ENTO
+3° nível de evocação
+Tempo de Conjuração: 1 ação Alcance
+: 36 metros
+Componentes
+: V, S, M (um leque minúsculo e uma pena
+de origem exótica)
+Duração
+: Concentração, até 1 minuto
+Uma muralha de ventos fortes ergue-se do chão num
+ponto, à sua escolha, dentro do alcance. Você pode fazer a
+muralha ter até 15 metros de comprimento, 4,5 metros de altura e 30 centímetros de espessura. Você pode moldar a
+muralha em qualquer forma que desejar, contanto que ela
+faça um caminho contínuo pelo solo. A muralha
+permanece pela duração.
+Quando a muralha aparece, cada criatura dentro da
+área dela deve realizar um teste de resistência de Força.
+Uma criatura sofre 3d8 de dano de concussão se falhar na
+resistência, ou metade desse dano se obtiver sucesso.
+Os ventos fortes mantem névoa, fumaça e outros gases
+afastados. Criaturas ou objetos voadores Pequenos ou menores, não podem atravessar a muralha. Materiais
+leves e soltos trazidos para a muralha são arremessados para cima. Flechas, virotes e outros projéteis ordinários
+disparados contra alvos além da muralha são defletidos
+para cima e erram automaticamente. (Pedras arremessadas por gigantes ou armas de cerco e projéteis
+similares, não são afetados.) As criaturas em forma
+gasosa não podem atravessa-
+gasosa não podem atravessa-
+gasosa não podem atravessa-
+gasosa não podem atravessa-
+URALH
+URALH
+URALH
+RISMÁTICA
+9° nível de abjuração Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: 10 minutos
+Uma plano cintilante multicolorido de luzes forma uma parece vertical opaca
+parece vertical opaca
+de até 27 metros de comprimento,
+9 metros de altura e 2,5 centímetros de espessura
+9 metros de altura e 2,5 centímetros de espessura
+9 metros de altura e 2,5 centímetros de espessura
+centrada num ponto que você possa ver, dentro do alcance. Alternativamente, você pode moldar a muralha
+numa esfera de 9 metros de diâmetro centrada num ponto, à sua escolha, dentro do alcance. A muralha
+permanece no lugar pela duração. Se você posicionar a
+muralha de forma que ela passaria através do espaço ocupado por uma criatura, a magia falha e sua ação e o
+espaço de magia são desperdiçados.
+A muralha emite luz plena num raio de 30 metros e
+penumbra por 30 metros adicionais. Você e as criaturas designadas, no momento que você conjurou a magia,
+podem passar através e permanecer perto da muralha sem se ferirem. Se outra criatura que puder ver a
+muralha se aproximar mais de 6 metros dela ou começar
+seu turno lá, a criatura deve realizar um teste de resistência de Constituição ou ficará cega por 1 minuto.
+A muralha consiste em sete camadas, cada uma de
+uma cor diferente. Quando uma criatura tenta tocar ou passar através da muralha, ela atravessa uma camada de
+cada vez, até atravessar todas as camadas da muralha. À
+medida que ela passa ou toca cada camada, a criatura realiza um teste de resistência de Destreza ou será
+afetada pelas propriedades daquela camada, como
+descrito abaixo.
+A muralha pode ser destruída, também, uma camada
+por vez, em ordem de vermelho à violeta, pelos meios especificados em cada camada. Quando uma camada é destruída, ela permanece assim pela duração da magia.
+Um
+bastão do cancelamento
+destrói uma
+muralha
+prismática
+, mas um campo antimagia
+não produz efeito
+nela.
+1. Vermelho
+. O alvo sofre 10d6 de dano de fogo se
+falhar na resistência ou metade desse dano se obtiver
+sucesso. Enquanto essa camada estiver no lugar, ataques
+à distância não-mágicos não podem atravessar a muralha.
+A camada pode ser destruída causando, pelo menos, 25 de dano de frio a ela.
+2. Laranja
+. O alvo sofre 10d6 de dano de ácido se
+falhar na resistência ou metade desse dano se obtiver sucesso. Enquanto essa camada estiver no lugar, ataques
+à distância mágicos não podem atravessar a muralha. A
+camada pode ser destruída por um vento forte.

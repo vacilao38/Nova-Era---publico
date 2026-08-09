@@ -1,0 +1,676 @@
+RMAS
+RMAS
+Nome
+Nome
+Preço
+Preço
+Dano
+Dano
+Peso
+Peso
+Propriedades
+Propriedades
+Armas Simples Corpo
+Armas Simples Corpo
+Armas Simples Corpo
+Armas Simples Corpo
+Corpo
+Corpo
+Adaga
+Adaga
+Adaga
+Adaga
+Adaga
+Adaga
+1d4
+1d4
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+Acuidade
+, leve, arremesso (
+distância
+distância
+distância
+distância
+Azagaia
+Azagaia
+Azagaia
+Azagaia
+Azagaia
+Azagaia
+1d6
+1d6
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+Arremesso (
+distância
+distância
+distância
+distância
+Bordão
+Bordão
+Bordão
+Bordão
+Bordão
+Bordão
+1d6
+1d6
+concussão
+concussão
+concussão
+concussão
+concussão
+concussão
+concussão
+rsátil (1d8)
+rsátil (1d8)
+Clava Grande
+Clava Grande
+Clava Grande
+Clava Grande
+Clava Grande
+Clava Grande
+Clava Grande
+Clava Grande
+Clava Grande
+concussão
+concussão
+concussão
+concussão
+concussão
+concussão
+Pesada, d
+uas
+uas
+ãos
+ãos
+Foice Curta
+Foice Curta
+Foice Curta
+Foice Curta
+Foice Curta
+Foice Curta
+1d4
+1d4
+cortante
+cortante
+cortante
+cortante
+cortante
+cortante
+Leve
+Leve
+Lança
+Lança
+Lança
+Lança
+Lança
+Lança
+1d6
+1d6
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+rremesso (
+distância
+distância
+distância
+, v
+ersátil (1d8)
+ersátil (1d8)
+ersátil (1d8)
+ersátil (1d8)
+ersátil (1d8)
+ersátil (1d8)
+ersátil (1d8)
+1d6
+1d6
+concussão
+concussão
+concussão
+concussão
+concussão
+concussão
+concussão
+concussão
+Machadinha
+Machadinha
+Machadinha
+Machadinha
+Machadinha
+Machadinha
+1d6
+1d6
+cortante
+cortante
+cortante
+cortante
+cortante
+cortante
+cortante
+eve, arremesso (
+distância
+distância
+distância
+distância
+Martelo Leve
+Martelo Leve
+Martelo Leve
+Martelo Leve
+Martelo Leve
+Martelo Leve
+1d4
+1d4
+concussão
+concussão
+concussão
+concussão
+concussão
+concussão
+Leve, arremesso (
+distância
+distância
+distância
+distância
+Porrete
+Porrete
+Porrete
+Porrete
+Porrete
+Porrete
+1d4
+1d4
+concussão
+concussão
+concussão
+concussão
+concussão
+concussão
+Leve
+Leve
+Armas Simples à Distância
+Armas Simples à Distância
+Arco Curto
+Arco Curto
+Arco Curto
+Arco Curto
+Arco Curto
+Arco Curto
+1d6
+1d6
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+Munição (
+distância
+distância
+24/96), duas mãos
+24/96), duas mãos
+Beste Leve
+Beste Leve
+Beste Leve
+Beste Leve
+Beste Leve
+Beste Leve
+1d8
+1d8
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+Munição (
+distância
+distância
+24/96), recarga, duas mãos
+24/96), recarga, duas mãos
+Dardo
+Dardo
+Dardo
+Dardo
+Dardo
+Dardo
+1d4
+1d4
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+Acuidade
+, arremesso (
+distância
+distância
+distância
+distância
+Funda
+Funda
+Funda
+Funda
+Funda
+Funda
+1d4
+1d4
+concussão
+concussão
+concussão
+concussão
+Munição (
+distância
+distância
+distância
+Armas Marciais Corpo
+Armas Marciais Corpo
+Armas Marciais Corpo
+Armas Marciais Corpo
+Corpo
+Corpo
+Alabarda
+Alabarda
+Alabarda
+Alabarda
+Alabarda
+Alabarda
+1d10
+1d10
+corta
+nte
+nte
+nte
+nte
+nte
+nte
+Pesada, alcance, duas mãos
+Pesada, alcance, duas mãos
+Cimitarra
+Cimitarra
+Cimitarra
+Cimitarra
+Cimitarra
+Cimitarra
+1d6
+1d6
+cortante
+cortante
+cortante
+cortante
+cortante
+cortante
+Acuidade
+, leve
+, leve
+Chicote
+Chicote
+Chicote
+Chicote
+Chicote
+Chicote
+1d4
+1d4
+cortante
+cortante
+cortante
+cortante
+cortante
+cortante
+Acuidade
+, alcance
+, alcance
+Espada Curta
+Espada Curta
+Espada Curta
+Espada Curta
+Espada Curta
+Espada Curta
+1d6
+1d6
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+Acuidade
+, leve
+, leve
+Espada
+Grande
+Grande
+Grande
+Grande
+Grande
+Grande
+2d6
+2d6
+cortante
+cortante
+cortante
+cortante
+cortante
+cortante
+Pesada, duas mãos
+Pesada, duas mãos
+Esp
+ada Longa
+ada Longa
+ada Longa
+ada Longa
+ada Longa
+ada Longa
+1d8
+1d8
+cortante
+cortante
+cortante
+cortante
+cortante
+cortante
+Versátil (1d10)
+Versátil (1d10)
+Glaive
+Glaive
+Glaive
+Glaive
+Glaive
+Glaive
+1d10
+1d10
+cortante
+cortante
+cortante
+cortante
+cortante
+cortante
+Pesada, alcance, duas mãos
+Pesada, alcance, duas mãos
+Lança de Montaria
+Lança de Montaria
+Lança de Montaria
+Lança de Montaria
+Lança de Montaria
+Lança de Montaria
+1d12
+1d12
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+Alcance, especial
+Alcance, especial
+Lança Longa
+Lança Longa
+Lança Longa
+Lança Longa
+Lança Longa
+Lança Longa
+1d10
+1d10
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+Pesada, alcance, duas mãos
+Pesada, alcance, duas mãos
+Maça Estrela
+Maça Estrela
+Maça Estrela
+Maça Estrela
+Maça Estrela
+Maça Estrela
+1d8
+1d8
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+Machado Grande
+Machado Grande
+Machado Grande
+Machado Grande
+Machado Grande
+Machado Grande
+1d12
+1d12
+cortante
+cortante
+cortante
+cortante
+cortante
+cortante
+Pesada, duas mãos
+Pesada, duas mãos
+Machado
+Machado
+de Batalha
+de Batalha
+de Batalha
+de Batalha
+de Batalha
+de Batalha
+1d8
+1d8
+cortante
+cortante
+cortante
+cortante
+cortante
+cortante
+Versátil (1d10)
+Versátil (1d10)
+Malho
+Malho
+Malho
+Malho
+Malho
+Malho
+2d6
+2d6
+concussão
+concussão
+concussão
+concussão
+concussão
+concussão
+Pesada, duas mãos
+Pesada, duas mãos
+Mangual
+Mangual
+Mangual
+Mangual
+Mangual
+Mangual
+1d8
+1d8
+concussão
+concussão
+concussão
+concussão
+concussão
+concussão
+concussão
+concussão
+Martelo de Guerra
+Martelo de Guerra
+Martelo de Guerra
+Martelo de Guerra
+Martelo de Guerra
+Martelo de Guerra
+1d8
+1d8
+concussão
+concussão
+concussão
+concussão
+concussão
+concussão
+Versátil (1d10)
+Versátil (1d10)
+Picareta de Guerra
+Picareta de Guerra
+Picareta de Guerra
+Picareta de Guerra
+Picareta de Guerra
+Picareta de Guerra
+1d8
+1d8
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+Rapieira
+Rapieira
+Rapieira
+Rapieira
+Rapieira
+Rapieira
+1d8
+1d8
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+Acuidade
+Acuidade
+Tridente
+Tridente
+Tridente
+Tridente
+Tridente
+Tridente
+1d6
+1d6
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+Arremesso (6/18), versátil (1d8)
+Arremesso (6/18), versátil (1d8)
+Armas Marciais à Distância
+Armas Marciais à Distância
+Arco Longo
+Arco Longo
+Arco Longo
+Arco Longo
+Arco Longo
+Arco Longo
+1d8
+1d8
+perfur
+ante
+ante
+ante
+ante
+ante
+ante
+Munição (
+distância
+distância
+45/180), pesada, duas mãos
+45/180), pesada, duas mãos
+Besta de Mão
+Besta de Mão
+Besta de Mão
+Besta de Mão
+Besta de Mão
+Besta de Mão
+1d6
+1d6
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+Munição (
+distância
+distância
+9/36), leve, recarga
+9/36), leve, recarga
+Besta Pesada
+Besta Pesada
+Besta Pesada
+Besta Pesada
+Besta Pesada
+Besta Pesada
+1d10
+1d10
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+Munição (
+distância
+distância
+30/120), pesada, recarga, duas mãos
+30/120), pesada, recarga, duas mãos
+Rede
+Rede
+Rede
+Rede
+Rede
+Rede
+Rede
+Rede
+Rede
+Rede
+Rede
+Rede
+Especial, arremesso (
+distância
+distância
+1,5/4,5)
+1,5/4,5)
+Zarabatana
+Zarabatana
+Zarabatana
+Zarabatana
+Zarabatana
+Zarabatana
+Zarabatana
+Zarabatana
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+perfurante
+Munição (
+distância
+distância
+7,5/30), recarga
+7,5/30), recarga

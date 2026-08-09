@@ -1,0 +1,144 @@
+cê pode usar essa característica um número de
+vezes igual ao seu modificador de Carisma (no mínimo
+uma vez). Você recupera todos os usos quando termina um descanso longo.
+Seu dado de Inspiração de Bardo muda quando você
+atinge certos níveis na classe. O dado se torna um d8 no 5° nível, um d10 no 10° nível e um d12 no 15° nível.
+5° nível, um d10 no 10° nível e um d12 no 15° nível.
+ERSATILIDADE
+A partir do 2° nível, você pode adicionar metade do seu
+bônus de proficiência, arredondado para baixo, em
+qualquer teste de habilidade que você fizer que ainda não possua seu bônus de proficiência.
+possua seu bônus de proficiência.
+ANÇÃO DE
+ANÇÃO DE
+ESCANSO
+A partir do 2° nível, você pode usar música ou oração
+calmantes para ajudar a revitalizar seus aliados feridos
+durante um descanso curto. Se você ou qualquer criatura
+amigável que puder ouvir sua atuação recuperar pontos
+de vida no fim do descanso curto ao gastar um ou mais
+Dados de Vida, cada uma dessas criaturas recupera 1d6
+pontos de vida adicionais.
+Os pontos de vida adicionais aumentam quando você
+alcança determinados níveis na classe: para 1d8 no 9°
+nível, para 1d10 no 13° nível e para 1d12 no 17° nível.
+nível, para 1d10 no 13° nível e para 1d12 no 17° nível.
+OLÉGIO DE
+OLÉGIO DE
+ARDO
+No 3° nível, você investiga as técnicas avançadas de um
+colégio de bardo, à sua escolha: o Colégio do
+Conhecimento ou o Colégio da Bravura, ambos detalhados
+no final da descrição da classe. Sua escolha lhe concede
+características no 3° nível e novamente no 6° e 14° nível.
+características no 3° nível e novamente no 6° e 14° nível.
+características no 3° nível e novamente no 6° e 14° nível.
+No 3° nível, escolha duas das perícias em que você é
+proficiente. Seu bônus de proficiência é dobrado em
+qualquer teste de habilidade que você fizer que utilize
+qualquer das perícias escolhidas.
+No 10° nível, você escolhe mais duas perícias em que é
+proficiente para ganhar esse benefício.
+proficiente para ganhar esse benefício.
+NCREMENTO NO
+NCREMENTO NO
+ALOR DE
+ALOR DE
+ABILIDADE
+ABILIDADE
+Quando você atinge o 4° nível e novamente no 8°, 12°, 16°
+e 19° nível, você pode aumentar um valor de habilidade, à
+sua escolha, em 2 ou você pode aumentar dois valores de
+habilidade, à sua escolha, em 1. Como padrão, você não
+pode elevar um valor de habilidade acima de 20 com essa
+característica.
+característica.
+ONTE DE
+ONTE DE
+NSPIRAÇÃO
+Começando no momento em que você atinge o 5° nível,
+você recupera todas as utilizações gastas da sua
+Inspiração de Bardo quando você termina um descanso
+curto ou longo.
+curto ou longo.
+ANÇÃO DE
+ANÇÃO DE
+ROTEÇÃO
+No 6° nível, você adquire a habilidade de usar notas
+musicais ou palavras de poder para interromper efeito de
+influência mental. Com uma ação, você pode começar uma
+atuação que dura até o fim do seu próximo turno. Durante
+esse tempo, você e qualquer criatura amigável a até 9
+metros de você terá vantagem em testes de resistência
+para não ser amedrontado ou enfeitiçado. Uma criatura
+deve ser capaz de ouvir você para receber esse benefício.
+A atuação termina prematuramente se você for
+incapacitado ou silenciado ou se você terminá-
+incapacitado ou silenciado ou se você terminá-incapacitado ou silenciado ou se você terminá-
+voluntariamente (não requer ação).
+voluntariamente (não requer ação).
+EGREDOS
+EGREDOS
+ÁGICOS
+No 10° nível, você usurpou conhecimento mágico de um
+vasto espectro de disciplinas. Escolha duas magias de
+qualquer classe, incluindo essa. A magia que você
+escolher deve ser de um nível que você possa conjurar,
+como mostrado na tabela
+como mostrado na tabela
+Bardo, ou um truque.
+As magias escolhidas contam como magias de bardo
+para você e já estão incluídas no número da coluna Magias Conhecidas da tabela O Bardo.
+Você aprende duas magias adicionais de qualquer
+classe no 14° nível e novamente no 18° nível.
+classe no 14° nível e novamente no 18° nível.
+NSPIRAÇÃO
+NSPIRAÇÃO
+UPERIOR
+No 20° nível, quando você rolar iniciativa e não tiver
+nenhum uso restante de Inspiração de Bardo, você
+recupera um uso.
+recupera um uso.OLÉGIOS DE
+B ARDO
+O caminho de um bardo é gregário. Bardos buscam uns aos outros para trocar canções e histórias, gabando-se de
+suas realizações e partilhando seus conhecimentos.
+Bardos formam associações esporádicas, que eles chamam de colégios, para facilitar sua coleta e preservar suas tradições.
+tradições.
+OLÉGIO DO
+OLÉGIO DO
+ONHECIMENTO
+Bardos do Colégio do Conhecimento conhecem algo sobre
+a maioria das coisas, coletando pedaços de conhecimento de fontes tão diversas quanto tomos eruditos ou contos de
+camponeses. Quer seja cantando baladas populares em
+taverna, quer seja elaborando composições para cortes reais, esses bardos usam seus dons para manter a
+audiência enfeitiçada. Quando os aplausos acabam, os
+membros da audiência vão estar se questionando se tudo que eles creem é verdade, desde sua crença no sacerdócio
+do templo local até sua lealdade ao rei.
+A fidelidade desses bardos reside na busca pela beleza
+e verdade, não na lealdade a um monarca ou em seguir os dogmas de uma divindade. Um nobre que mantem um
+bardo desses como seu arauto ou conselheiro, sabe que o bardo prefere ser honesto que político.
+Os membros do colégio se reúnem em bibliotecas e, as
+vezes, em faculdades de verdade, completas com salas de aula e dormitórios, para partilhar seu conhecimento uns
+com os outros. Eles também se encontram em festivais ou
+em assuntos de estado, onde eles podem expor corrupção, desvendar mentiras e zombar da superestima de figuras
+de autoridade.
+de autoridade.
+ROFICIÊNCIA
+ROFICIÊNCIA
+DICIONAL
+DICIONAL
+Quando você se junta ao Colégio do Conhecimento no 3°
+nível, você ganha proficiência em três perícias, à sua
+escolha.
+escolha.
+ALAVRAS DE
+ALAVRAS DE
+NTERRUPÇ
+NTERRUPÇ
+NTERRUPÇ
+Também no 3° nível, você aprende como usar sua perspicácia para distrair, confundir e, de outras formas,
+atrapalhar a confiança e competência de outros. Quando
+uma criatura que você pode ver a até 18 metros de você realizar uma jogada de ataque, um teste de habilidade ou uma jogada de dano, você pode usar sua reação para gastar um uso de Inspiração de Bardo, rolando o dado de
+Inspiração de Bardo e subtraindo o número rolado da
+rolagem da criatura. Você escolhe usar essa característica
+depois da criatura fazer a rolagem, mas antes do Mestre determinar se a jogada de ataque ou teste de habilidade

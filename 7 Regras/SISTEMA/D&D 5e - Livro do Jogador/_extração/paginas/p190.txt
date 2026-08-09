@@ -1,0 +1,192 @@
+UTRAS
+UTRAS
+TIVIDADES NO
+TIVIDADES NO
+TIVIDADES NO
+TIVIDADES NO
+TIVIDADES NO
+URNO
+Seu turno pode incluir uma variedade de floreios que não
+requerem sua ação ou seu movimento.
+Você pode se comunicar a qualquer momento que
+puder, através de expressões ou gestos breves, à medida que joga seu turno.
+Você também pode interagir com um objeto ou
+característica do ambiente livremente, tanto durante o seu movimento como em sua ação. Por exemplo, você pode
+abrir uma porta durante seu movimento à medida que
+avança na direção de um adversário, ou pode sacar sua arma como parte da mesma ação usada para atacar.
+Se você quer interagir com um segundo objeto, então
+você precisa usar uma ação. Alguns itens mágicos e objetos especiais sempre requerem uma ação para serem
+usados, conforme dito em suas descrições.
+O Mestre pode requerer que você use uma ação para
+qualquer atividade que precisa de atenção especial ou apresente um obstáculo não usual. Por exemplo, o Mestre
+pode sensatamente esperar que você use uma ação para abrir uma porta emperrada ou girar uma manivela para
+abaixar uma ponte levadiça.
+abaixar uma ponte levadiça.
+EAÇÕES
+EAÇÕES
+Certas habilidades especiais, magias e situações
+permitem que você realize uma ação especial chamada de reação. Uma reação é uma resposta instantânea a reação. Uma reação é uma resposta instantânea a
+reação. Uma reação é uma resposta instantânea a
+tipo de gatilho, que pode ocorrer no seu turno ou no de
+outr
+outr
+. O ataque de oportunidade, descrito mais à frente
+nesse capítulo, é o tipo mais comum de reação.
+Quando você realiza uma reação, você não pode
+realizar outra até o início do seu próximo turno. Se a
+reação interrompeu o turno de outra criatura, aquela criatura pode continuar o turno depois da reação.
+criatura pode continuar o turno depois da reação.
+OVIMENTO E
+OVIMENTO E
+OSIÇÃO
+Em combate, personagens e monstros estão em constante
+movimento, frequentemente usando movimento e posição
+para ganhar vantagem.
+para ganhar vantagem.
+NTERAGINDO COM OS
+NTERAGINDO COM OS
+BJETOS A SUA
+BJETOS A SUA
+OLTA
+OLTA
+Aqui estão alguns exemplos do que você pode fazer em
+Aqui estão alguns exemplos do que você pode fazer em
+conjunto
+com seu movimento e ação:
+com seu movimento e ação:
+com seu movimento e ação:
+sacar ou guardar uma espada
+sacar ou guardar uma espada
+abrir ou fechar uma porta
+abrir ou fechar uma porta
+retirar uma poção da sua mochila
+retirar uma poção da sua mochila
+pegar um machado no chão
+pegar um machado no chão
+pegar
+uma bugiganga de uma mesa
+uma bugiganga de uma mesa
+remover um anel do seu dedo
+remover um anel do seu dedo
+por alguma comida em sua boca
+por alguma comida em sua boca
+cravar um estandarte no chão
+cravar um estandarte no chão
+tirar algumas moedas da algibeira em seu cinto
+tirar algumas moedas da algibeira em seu cinto
+beber todo o conteúdo de um frasco
+beber todo o conteúdo de um frasco
+abaixar ou levantar uma alavanca
+abaixar ou levantar uma alavanca
+puxar uma tocha de um suport
+puxar uma tocha de um suport
+puxar uma tocha de um suport
+pegar um livro de uma prateleira ao seu alcance
+pegar um livro de uma prateleira ao seu alcance
+apagar uma pequena fogueira
+apagar uma pequena fogueira
+colocar uma máscara
+colocar uma máscara
+colocar uma máscara
+remover
+remover
+remover
+capuz de um manto
+capuz de um manto
+da sua cabeça
+da sua cabeça
+colocar sua orelha na porta
+colocar sua orelha na porta
+chutar uma pequena pedra
+chutar uma pequena pedra
+girar a chave em uma fechadura
+girar a chave em uma fechadura
+tocar o piso com uma haste de 3
+metros
+metros
+pegar um item de outro personagem
+No seu turno, você pode se mover uma distância igual
+ao seu deslocamento máximo. Pode usar o máximo ou o
+mínimo do seu deslocamento durante seu turno, seguindo
+as regras a seguir.
+Seu movimento pode incluir saltar, escalar e nadar.
+Esses diferentes modos de movimento podem ser
+combinados com caminhada ou podem constituir todo combinados com caminhada ou podem constituir todo
+seu movimento. De qualquer maneira que você esteja se
+movendo, você deduz a distância de cada parte de seu
+movimento do seu deslocamento total, até você usá-lo por
+completo ou até você acabar de se mover.
+A seção "Tipos Especiais de Movimento" no capítulo 8
+fornece as particularidades para salto, escalada e
+natação.
+natação.
+UEBRANDO SEU
+UEBRANDO SEU
+OVIMENTO
+OVIMENTO
+Você pode quebrar seu movimento em seu turno, usando parte do seu deslocamento antes e depois de sua ação. Por
+exemplo, se você tem deslocamento de 9 metros, você pode
+andar 3 metros, realizar sua ação e então se mover mais 6
+metros.
+metros.
+OVENDO-SE ENTRE
+OVENDO-SE ENTRE
+TAQUES
+Se você realiza uma ação que inclua mais de um ataque
+com arma, você pode quebrar seu movimento ainda mais
+ao se mover entre esses ataques. Por exemplo, um
+guerreiro que pode realizar dois ataques com a
+característica de classe Ataque Extra e se ele tem o
+deslocamento de 7,5 metros, ele pode se mover 3 metros,
+realizar um ataque, se mover 4,5 metros e então atacar de
+novo.
+novo.
+SANDO
+SANDO
+ESLOCAMENTOS
+ESLOCAMENTOS
+IFERENTES
+Se você tem mais de um tipo de deslocamento, como seu deslocamento
+deslocamento
+caminhada e um deslocamento de voo,
+você pode intercala-los durante seu deslocamento. Toda vez que fizer essa troca, subtraia a distância que você já
+percorreu do novo deslocamento. O resultado determina o
+quanto você ainda pode se deslocar. Se o resultado for 0
+ou menor, você não pode usar outro deslocamento durante
+esse movimento.
+Por exemplo, se o seu deslocamento de caminhada for
+9 metros e de voo for 18 metros, por conta da magia voo
+que um mago lançou em você, você poderia voar 6 metros,
+depois caminhar 3 metros e então saltar no ar e voar
+outros 9 metros.
+outros 9 metros.
+ERRENO
+ERRENO
+IFÍCIL
+IFÍCIL
+Um combate raramente ocorre em salas vazias ou planícies inexpressivas. Cavernas com pedras espalhadas,
+florestas sufocadas por arbustos, escadarias traiçoeiras, a
+ambientação de uma luta típica contém terreno difícil.
+Cada 1,5 metro de movimento em um terreno difícil custa
+1,5 metro adicional. Essa regra é válida mesmo se houver
+múltiplos obstáculos em um espaço contado como terreno
+difícil.
+Mobílias baixas, escombros, vegetação rasteira,
+escadas íngremes, neve e pântanos rasos são exemplos de
+terreno difícil. Um espaço ocupado por outra criatura,
+seja hostil ou não, também conta como terreno difícil.
+seja hostil ou não, também conta como terreno difícil.
+STAR
+STAR
+AÍDO
+AÍDO
+Combatentes frequentemente encontram-se jogados ao
+chão, seja porque foram derrubados ou porque se jogaram
+no chão. No jogo, eles são considerados caídos, uma
+condição descrita no apêndice A.
+Você pode
+jogar-se ao chão
+sem usar qualquer
+deslocamento seu.
+Levantar-se
+exige maior esforço e

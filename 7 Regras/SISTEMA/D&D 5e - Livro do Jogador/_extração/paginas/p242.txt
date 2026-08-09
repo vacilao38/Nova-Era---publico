@@ -1,0 +1,146 @@
+Um campo cintilante aparece ao redor de uma criatura, à
+sua escolha, dentro do alcance, concedendo +2 de bônus
+na CA pela duração.
+na CA pela duração.
+SCUDO DE
+SCUDO DE
+OGO
+4° nível de evocação
+Tempo de Conjuração: 1 ação Alcance
+: Pessoal
+Componentes
+: V, S, M (um pouco de fósforo ou um vaga-
+lume)
+Duração
+: 10 minutos
+Finas e discretas chamas rodeiam seu corpo pela duração,
+emitindo luz plena em 3 metros de raio e penumbra por
+mais 3 metros adicionais. Você pode terminar a magia prematuramente usando sua ação para dissipa-
+prematuramente usando sua ação para dissipa-
+prematuramente usando sua ação para dissipa-
+As chamas lhe conferem um escudo quente ou um
+escudo frio, à sua escolha. O escudo quente lhe garante resistência a dano de frio e o escudo frio lhe concede
+resistência a dano de fogo.
+Além disso, sempre que uma criatura a 1,5 metro de
+você atingir você com um ataque corpo-a-corpo, o escudo
+expele chamas. O atacante sofre 2d8 de dano de fogo do
+escudo quente ou 2d8 de dano de frio do escudo frio.
+escudo quente ou 2d8 de dano de frio do escudo frio.
+SCURIDÃO
+2° nível de evocação Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+: V, M (pelo de morcego e uma gota de
+piche ou pedaço de carvão)
+Duração
+: Concentração, até 10 minutos
+Escuridão mágica se espalha a partir de um ponto, à sua
+escolha, dentro do alcance e preenche uma esfera de 4,5 metros de raio pela duração. A escuridão se estende,
+dobrando esquinas. Uma criatura com visão no escuro não
+pode ver através dessa escuridão e luz não-mágica não pode iluminar dentro dela.
+Se o ponto que você escolheu for um objeto que você
+esteja segurando, ou um que não esteja sendo vestido ou carregado, a escuridão emanará do objeto e se moverá
+com ele. Cobrir completamente a fonte da escuridão com
+um objeto opaco, como uma vasilha ou um elmo, bloqueará a escuridão.
+Se qualquer área dessa magia sobrepor uma área de
+luz criada por uma magia de 2° ou inferior, a magia que luz criada por uma magia de 2° ou inferior, a magia que
+ou a luz será dissipada.
+ou a luz será dissipada.
+SFERA
+SFERA
+ONGELANTE DE
+ONGELANTE DE
+TILUKE
+6° nível de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: 90 metros
+Componentes
+: V, S, M (uma pequena esfera de cristal)
+Duração
+: Instantânea
+Um globo frigido de energia gelada é arremessado das pontas dos seus dedos para um ponto, à sua escolha,
+dentro do alcance, onde ele explode numa esfera de 18
+metros de raio. Cada criatura dentro da área deve
+realizar um teste de resistência de Constituição. Se falhar na resistência, uma criatura sofre 10d6 de dano de frio.
+Se obtiver sucesso na resistência, ela sofre metade desse
+dano.
+Se o globo atingir um corpo de água ou liquido
+composto principalmente de água (não incluindo criaturas
+feitas de água), ele congela o líquido até uma
+profundidade de 15 centímetros numa área de 9 metros
+quadrados. Esse gelo dura por 1 minuto. Criaturas que
+estiverem nadando na superfície de água congelada
+estarão presas no gelo. Uma criatura presa pode usar sua ação para realizar um teste de Força contra a CD da
+magia para se libertar.
+Você pode evitar de disparar o globo após completar a
+magia, se desejar. Um pequeno globo, do tamanho de uma pedra de funda, frio ao toque, aparece em sua mão. A
+qualquer momento, você ou uma criatura a quem você entregar o globo, pode arremessa-lo (a uma distância de
+12 metros) ou atira-lo com uma funda (ao alcance normal
+da funda). Ele se despedaça no impacto, produzindo o mesmo efeito da conjuração normal da magia. Você pode,
+também, soltar o globo no chão sem despedaça-lo. Após 1
+minuto, se o globo ainda não tiver se despedaçado, ele explode.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 7° nível ou superior, o dano aumenta em 1d6 para cada nível do
+espaço acima do 6°.
+espaço acima do 6°.
+SFERA
+SFERA
+LAMEJANTE
+2° nível de conjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+: V, S, M (um pouco de seco, uma pitada de
+enxofre e uma camada de pó de ferro)
+Duração
+: Concentração, até 1 minuto
+Uma esfera de fogo, com 1,5 metro de diâmetro, aparece
+em um espaço desocupado, à sua escolha, dentro do
+alcance e permanece pela duração. Qualquer criatura que terminar seu turno a até 1,5 metro da esfera, deve
+realizar um teste de resistência de Destreza. A criatura
+sofre 2d6 de dano de fogo se falhar na resistência, ou metade desse dano se obtiver sucesso.
+Com uma ação bônus, você pode mover a esfera até 9
+metros. Se você arremessar a esfera contra uma criatura, essa criatura deve realizar o teste de resistência contra o
+dano da esfera e a esfera para de se mover esse turno.
+Quando você move a esfera, você pode direciona-
+Quando você move a esfera, você pode direciona-
+para barreira de até 1,5 metro de altura e ela salta sobre
+fossos de até 3 metros de distância. A esfera incendeia
+objetos inflamáveis que não estejam sendo vestidos ou carregados e emite luz plena a 6 metros de raio e
+penumbra por mais 6 metros adicionais.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 3° nível ou superior, o dano aumenta em 1d6 para cada nível do
+espaço acima do 2°.
+espaço acima do 2°.
+SFERA
+SFERA
+ESILIENTE DE
+ESILIENTE DE
+TILUKE
+4° nível de evocação Tempo de Conjuração: 1 ação
+Alcance
+: 9 metros
+Componentes
+: V, S, M (uma peça hemisférica de cristal
+transparente e uma peça hemisférica que combine de goma arábica)
+Duração
+: Concentração, até 1 minuto
+Uma esfera de energia brilhante engloba uma criatura ou
+objeto de tamanho Grande ou menor, dentro do alcance.
+Uma criatura involuntária deve realizar um teste de
+resistência de Destreza. Se falhar na resistência, a criatura estará enclausurada pela duração.
+Nada
+Nada
+nem objetos físicos, energia ou outros efeitos
+mágicos
+mágicos
+pode passar através da barreira, para dentro
+ou para fora, apesar da criatura na esfera poder respirar
+lá dentro. A esfera é imune a todos os danos e a criatura
+ou objeto dentro não pode sofrer dano de ataques ou efeitos originados de fora, nem a criatura dentro da
+esfera, pode causar dano a nada fora dela.

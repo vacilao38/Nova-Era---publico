@@ -1,0 +1,179 @@
+não ver. Se o alvo não está na localização que você mirou,
+o ataque fracassa automaticamente, mas o Mestre
+geralmente diz apenas que o ataque errou, não que você
+tenha acertado a localização da criatura.
+Quando uma criatura não pode ver você, então você
+tem vantagem nas jogadas de ataque contra a criatura.
+Se você está escondido, sem ser visto e ouvido, quando
+realiza um ataque, você revela sua localização, não
+importando se o ataque acertou ou não.
+importando se o ataque acertou ou não.
+TAQUES À
+TAQUES À
+ISTÂNCIA
+ISTÂNCIA
+Quando você realiza um ataque à distância, você dispara
+uma flecha de um arco ou um virote de uma besta,
+arremessa uma machadinha ou conjura algum projétil para acertar um adversário à uma certa distância. Um monstro pode atirar espinhos de sua cauda. Muitas magias também envolvem realizar um ataque à distância.
+magias também envolvem realizar um ataque à distância.
+ISTÂNCIA
+Você pode realizar um ataque à distância contra alvos
+dentro de uma distância especificada.
+Se um ataque à distância, como uma magia, tem uma
+única distância, você não pode atacar um alvo além dessa distância.
+Alguns ataques à distância, como um tiro de arco
+longo ou curto, têm dua
+longo ou curto, têm dua
+distâncias. O menor número é a
+distância normal, e o maior número é a distância longa
+distância normal, e o maior número é a distância longa
+distância normal, e o maior número é a distância longa
+A jogada de ataque tem desvantagem quando o alvo está
+além da distância normal, e você não pode atacar além da
+distância longa.
+distância longa.
+TAQUES À
+TAQUES À
+ISTÂNCIA
+ISTÂNCIA
+NGAJADOS
+Mirar um ataque à distância é mais difícil quando o adversário está adjacente. Quando você realiza um ataque à distância com uma arma, magia ou de alguma
+outra maneira, você tem desvantagem na jogada de
+ataque se estiver a 1,5 metro de uma criatura hostil a você que possa vê-lo e que não esteja incapacitada.
+você que possa vê-lo e que não esteja incapacitada.
+TAQUES
+TAQUES
+ORPO-A-
+ORPO-A-
+ORPO-A-
+ORPO-A-
+Usado em combate mano a mano, um ataque corpo-a-
+corpo permite a você atacar um adversário dentro do seu
+alcance. Um ataque corpo-a-corpo geralmente usa alcance. Um ataque corpo-a-corpo geralmente usa
+alcance. Um ataque corpo-a-corpo geralmente usa
+arma empunhada, como uma espada, um martelo de
+guerra ou um machado. Um monstro típico realiza
+ataques corpo-a-corpo quando usa suas garras, chifres, dentes, tentáculos ou outra parte do corpo. Algumas
+magias também envolvem a realização de um ataque
+corpo-a-corpo.
+A maioria das criaturas possui
+alcance
+de 1,5 metro
+e, por isso, podem atacar alvos a até 1,5 metro delas quando realizam um ataque corpo-a-corpo. Certas criaturas (normalmente maiores que Média) têm ataques
+corpo-a-corpo com maior alcance que 1,5 metro, como
+explicado em suas descrições.
+Quando você está
+desarmado
+desarmado
+ao invés de usar uma
+arma para realizar um ataque corpo-a-corpo armado, você realiza um
+ataque desarmado
+: um soco, chute,
+cabeçada ou golpe similar (nenhum deles contam como
+armas). Se atingir, um ataque desarmado causa dano de
+concussão igual a 1 + seu modificador de Força. Você é proficiente com seus ataques desarmados.
+proficiente com seus ataques desarmados.
+TAQUES DE
+TAQUES DE
+PORTUNIDADE
+Em uma luta, todos estão constantemente esperando seus inimigos baixarem as guardas. Você raramente pode
+passar descuidado por um inimigo sem se colocar em
+perigo, e fazê-lo provoca um ataque de oportunidade.
+perigo, e fazê-lo provoca um ataque de oportunidade.
+ESTES
+ESTES
+ESISTIDOS EM
+ESISTIDOS EM
+OMBATE
+OMBATE
+Uma batalha frequentemente envolve uma competição entre
+Uma batalha frequentemente envolve uma competição entre
+seus
+poderes contra os dos seus adversários. Tal
+desafio é
+desafio é
+representado pelo teste resistido. Essa seção inclui os testes
+representado pelo teste resistido. Essa seção inclui os testes
+resistidos mais comuns em combate que usam uma ação:
+resistidos mais comuns em combate que usam uma ação:
+agarrar
+agarrar
+agarrar
+empurrar
+empurrar
+contra uma criatura. O Mestre pode usar
+contra uma criatura. O Mestre pode usar
+esses testes
+resistidos como modelo para improvisar outros.
+resistidos como modelo para improvisar outros.
+Você pode realizar um ataque de oportunidade quando um inimigo que você possa ver se move para fora de seu
+alcance. Para realizar um ataque de oportunidade, você
+usa sua reação e realiza um ataque corpo-a-corpo contra a criatura que o provocou. O ataque interrompe o
+movimento da criatura um instante antes dela deixar seu
+alcance.
+Você pode evitar provocar um ataque de oportunidade
+realizando a ação Desengajar. Você também não provoca um ataque de oportunidade quando se teletransportar ou quando alguém ou alguma coisa mover você sem exigir
+que você use sua ação, deslocamento ou reação. Por
+exemplo, você não provoca um ataque de oportunidade se
+uma explosão arremessá-lo para fora do alcance de um
+adversário ou se a gravidade fizer você cair e passar pelo
+alcance de alcance de inimigo.
+inimigo.
+OMBATER COM
+OMBATER COM
+UAS
+UAS
+RMAS
+Quando você realiza a ação de Ataque e ataca com uma
+arma corpo-a-corpo leve que está empunhando em uma
+mão, você pode usar uma ação bônus para atacar com
+uma arma corpo-a-corpo leve diferente que está
+empunhando na outra mão. Você não adiciona o
+modificador de habilidade ao dano desse ataque extra, a
+menos que o modificador seja negativo.
+Se a arma possuir a propriedade arremesso, você pode
+arremessá-la em vez de realizar um ataque corpo-a-corpo
+com ela.
+com ela.
+GARR
+GARR
+Quando você quer segurar uma criatura ou entrar em
+luta corporal com ela, você pode realizar a ação de Ataque
+para fazer um ataque corpo-a-corpo especial, um agarrão
+para fazer um ataque corpo-a-corpo especial, um agarrão
+Se você puder realizar múltiplos ataques com Se você puder realizar múltiplos ataques com ação de Ataque, esse ataque especial substitui um deles.
+O alvo da sua tentativa de agarrar deve ser de até
+uma categoria de tamanho maior que você (no máximo) e
+deve estar ao seu alcance. Usando pelo menos uma mão
+livre, você tenta subjugar o alvo ao realizar um
+teste de
+agarrar
+, um teste de Força (Atletismo) resistido pelo
+teste de Força (Atletismo) ou de Destreza (Acrobacia) do
+alvo (o alvo escolhe que habilidade usar). Se você vencer,
+o alvo fica sujeito à condição agarrado (veja no apêndice
+A). A condição especifica que tipo de coisas A). A condição especifica que tipo de coisas
+dem
+terminar com ela e você pode largar o alvo a hora que quiser (nenhuma ação é necessária).
+Escapando de um
+Escapando de um Agarrão
+Agarrão
+Uma criatura vítima
+Uma criatura vítima
+um agarrão pode usar uma ação para escapar. Para
+fazê-lo, ela precisa ser bem sucedida em um teste de
+Força (Atletismo) ou Destreza (Acrobacia) resistido por
+seu teste de Força (Atletismo).
+Movendo uma Criatura Agarrada
+Movendo uma Criatura Agarrada
+Quando você se
+move, você pode arrastar ou carregar a criatura vítima de
+um agarrão, mas seu deslocamento cai pela metade, um agarrão, mas seu deslocamento cai pela metade,
+menos que a criatura seja duas ou mais categorias de
+tamanho menor que a sua.
+tamanho menor que a sua.
+NCONTRÃO EM UMA
+NCONTRÃO EM UMA
+RIATURA
+Realizando a ação de Ataque, você pode fazer um ataque corpo-a-corpo especial para ir de encontro a uma criatura,
+seja derrubando-a ou empurrando-a para longe de você.

@@ -1,0 +1,109 @@
+VOCAÇÃO
+VOCAÇÃO
+OTENCIALIZADA
+OTENCIALIZADA
+A partir do 10º nível, você pode adicionar seu modificador
+de Inteligência no resultado das jogadas de dano de qualquer magia de evocação de mago que você conjurar.qualquer magia de evocação de mago que você conjurar.
+bonus de dano se aplica a uma rolagem de dano da magia,
+não à múltiplas rolagens.
+não à múltiplas rolagens.
+OBRECARGA
+OBRECARGA
+A partir do 14º nível, você pode aumentar o poder de suas magias mais simples. Quando você conjurar uma magia
+de mago de 5º nível ou inferior (exceto truques) que cause
+dano, a magia causa o dano máximo.
+A primeira vez que fizer isso, você não sofre qualquer
+efeito adverso. Porém, se usar de novo essa característica antes de terminar um descanso longo, você sofre 2d12 de dano necrótico para cada nível de magia, imediatamente
+após conjurá-la. Cada vez que você usar essa
+característica antes de terminar um descanso longo, o dano necrótico por nível da magia aumenta em 1d12. Esse dano ignora qualquer resistência ou imunidade.
+dano ignora qualquer resistência ou imunidade.
+SCOLA DE
+SCOLA DE
+LUSÃO
+Você focou seus estudos em magias que ofuscam os
+sentidos, confundem a mente e enganam até mesmo os povos mais sábios. Sua mágica é sutil, mas as ilusões criadas pela sua mente afiada fazem o impossível parecer real. Alguns ilusionistas
+real. Alguns ilusionistas
+incluindo muitos magos
+gnomos
+gnomos
+são vigaristas benignos que usam suas magias
+para entreter. Outros são mestres mais sinistros da enganação, usando suas ilusões para apavorar e iludir os outros para ganhos pessoais.
+outros para ganhos pessoais.
+LUSÃO LUSÃO
+NSTRUÍDA
+NSTRUÍDA
+Quando você escolhe essa escola no 2º nível, o ouro e o tempo que você precisa gastar para copiar uma magia da escola de ilusão em seu grimório é reduzido à metade.
+escola de ilusão em seu grimório é reduzido à metade.
+LUSÃO
+LUSÃO
+ENOR
+ENOR
+PRIMORADA
+PRIMORADA
+A partir do 2° nível, quando você escolhe essa escola, você
+aprende o truque
+ilusão menor
+. Se você já conhece esse
+truque, você aprende um truque de mago diferente, à sua
+escolha. O truque não conta no número de truque que você conhece.
+Quando você conjurar
+ilusão menor
+, você pode criar
+tanto um som quanto uma imagem com uma única conjuração da magia.
+conjuração da magia.
+LUSÕES
+LUSÕES
+OLDÁVEIS
+OLDÁVEIS
+A partir do 6° nível, quando você conjura uma magia de ilusão que tenha duração de 1 minuto ou maior, você pode usar sua ação para mudar a natureza da ilusão (usando os parâmetros normais da magia para a ilusão), considerando que você pode ver a ilusão.
+considerando que você pode ver a ilusão.
+U
+U
+LUSÓRIO
+LUSÓRIO
+Começando no 10° nível, você pode criar uma duplicata ilusória de si mesmo em um instante, como uma reação instintiva ao perigo. Quando uma criatura realizar uma jogada de ataque contra você, você pode usar sua reação
+para interpor a duplicata ilusória entre o atacante e você.
+O ataque erra você automaticamente, e então, a ilusão se dissipa.
+Uma vez que você usa essa característica, não pode
+usá-la novamente até terminar um descanso longo.
+usá-la novamente até terminar um descanso longo.EALIDADE
+EALIDADE
+LUSÓRIA
+LUSÓRIA
+A partir do 14° nível, você aprendeu o segredo de como tecer magia sombria em suas ilusões para torná-
+tecer magia sombria em suas ilusões para torná-tecer magia sombria em suas ilusões para torná-
+semirreais. Quando você conjura uma magia de ilusão de 1° nível ou superior, você pode escolher um objeto inanimado e não-mágico que é parte da ilusão e tornar
+esse objeto real. Você pode fazer isso no seu turno, com
+uma ação bônus, enquanto a magia estiver em efeito. O objeto permanece real por 1 minuto. Por exemplo, você pode criar uma ilusão de uma ponte sobre um abismo e depois torná-
+depois torná-real tempo suficiente para que seus
+aliados a atravessem.
+O objeto não pode causar dano ou qualquer tipo de
+ferimento direto a ninguém.
+ferimento direto a ninguém.
+SCOLA DE
+SCOLA DE
+ECROMANCIA
+A Escola de Necromancia explora as forças cósmicas da
+vida, morte e morte-vida. À medida que você foca seus
+estudos nessa tradição, você aprende a manipular a energia que anima todas as coisas vivas. Enquanto progride, você aprende a retirar a força vital de uma criatura enquanto sua magia destrói seu corpo, transformando a energia vital em poder mágico que você
+pode manipular.
+A maioria das pessoas veem necromantes como
+ameaças, ou até mesmo vilões, devido a sua associação
+intima com a morte. Nem todos os necromantes são malignos, mas as forças que eles manipulam são consideradas tabu por diversas sociedades.
+consideradas tabu por diversas sociedades.
+ECROMANCIA
+ECROMANCIA
+NSTRUÍDA
+NSTRUÍDA
+Quando você escolhe essa escola no 2º nível, o ouro e o tempo que você precisa gastar para copiar uma magia da escola de necromancia em seu grimório é reduzido à
+metade.
+metade.
+OLHEITA
+OLHEITA
+INISTRA
+INISTRA
+A partir do 2° nível, você ganha a habilidade de ceifar a
+energia vital das criaturas que você mata com suas magias. Uma vez por turno, quando você matar uma ou mais criaturas com uma magia de 1° nível ou superior,
+você recupera uma quantidade de pontos de vida igual ao
+dobro do nível da magia ou o triplo do seu nível, se a
+magia pertencer a Escola de Necromancia. Você não recebe esse benefício por matar constructos ou mortos-vivos.

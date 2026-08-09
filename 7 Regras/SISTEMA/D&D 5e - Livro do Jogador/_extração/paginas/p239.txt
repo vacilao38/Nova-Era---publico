@@ -1,0 +1,136 @@
+termina. Para cada magia de 4° nível ou superior no alvo,
+realize um teste de habilidade usando sua habilidade de
+conjuração. A CD é igual a 10 + o nível da magia. Se
+obtiver sucesso, a magia termina.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 4° nível ou superior, você dissipa automaticamente os efeitos de magias no alvo se o nível da magia for igual ou inferior ao
+nível do espaço de magia que você usar.
+nível do espaço de magia que você usar.
+ISSIPAR O
+ISSIPAR O
+EM E EM E
+EM E
+5° nível de abjuração
+Tempo de Conjuração: 1 ação Alcance
+: Pessoal
+Componentes
+: V, S, M (água benta ou pó de prata e
+ferro)
+Duração
+: Concentração, até 1 minuto
+Energia cintilante envolve e protege você de fadas,
+mortos-vivos e criaturas originarias além do Plano
+Material. Pela duração, celestiais, corruptores, elementais, fadas e mortos-vivos tem desvantagem nas
+jogadas de ataque contra você.
+Você pode terminar a magia prematuramente usando
+uma das funções especiais a seguir.
+Cancelar Encantamento
+. Com sua ação, você toca
+uma criatura que você possa alcançar que esteja
+enfeitiçada, amedrontada ou possuída por um celestial,
+corruptor, elemental, fada ou morto-vivo. A criatura
+tocada não estará mais enfeitiçada, amedrontada ou possuída por tais criaturas.
+Demissão
+. Com sua ação, faça um ataque corpo-a-
+corpo com magia contra um celestial, corruptor
+corpo com magia contra um celestial, corruptor
+elemental, fada ou morto-vivo que você possa alcançar. Se
+atingir, você pode tentar guiar a criatura de volta ao seu
+plano natal. A criatura deve ser bem sucedida num teste de resistência de Carisma ou será enviada de volta ao seu
+plano natal (se já não for aqui). Se elas não estiverem em
+plano natal (se já não for aqui). Se elas não estiverem em
+us planos de origem, mortos-vivos serão enviados para
+Umbra e fadas serão enviadas para Faéria.
+Umbra e fadas serão enviadas para Faéria.
+OENÇA
+OENÇA
+LENA
+6° nível de necromancia
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você introduz uma doença virulenta em uma criatura que você puder ver, dentro do alcance. O alvo deve realizar um teste de resistência de Constituição. Se falhar na
+resistência, ele sofre 14d6 de dano necrótico ou metade
+desse dano se obtiver sucesso na resistência. O dano não pode reduzir os pontos de vida do alvo abaixo de 1. Se o
+alvo falhar no teste de resistência, seu máximo de pontos
+de vida é reduzidos por 1 hora em uma quantidade igual ao dano necrótico causado. Qualquer efeito que remova
+uma doença permitirá que o máximo de pontos de vida do
+alvo volte ao normal antes do período indicado.
+alvo volte ao normal antes do período indicado.
+OMINAR
+OMINAR
+ESTA
+4° nível de encantamento
+Tempo de Conjuração
+: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Você tenta seduzir uma besta que você possa ver dentro
+do alcance. Ela deve ser bem sucedida num teste de
+resistência de Sabedoria ou ficará enfeitiçada por você
+pela duração. Se você ou criaturas amigáveis a você estiverem lutando com ela, ela terá vantagem no teste de
+resistência.
+Enquanto a besta estiver enfeitiçada, você terá uma
+ligação telepática com ela, contanto que ambos estejam no mesmo plano de existência. Você pode usar essa ligação
+telepática para emitir comandos para a criatura enquanto você estiver consciente (não requer uma ação), aos quais
+ela obedece da melhor forma possível. Você pode
+especificar um curso de ação simples e genérico, como´$WDTXHDTXHODFULDWXUDµ´&RUUDDWpDOLµRX´7UDJD
+DTXHOHREMHWRµ6HDFULDWXUDFRPSOHWDUDRUGHPHQmR
+receber direções posteriores de você, ela se defenderá e se auto preservará da melhor forma que puder.
+Você pode usar sua ação para tomar controle total e
+preciso do alvo. Até o final do seu próximo turno, a criatura realiza apenas as ações que você escolher e não
+faz nada que você não permita que ela faça. Durante esse
+período, você também pode fazer com que a criatura use uma reação, mas isso requer que você usa sua própria
+reação também.
+Cada vez que o alvo sofrer dano, ele realiza um novo
+teste de resistência de Sabedoria contra a magia. Se obtiver sucesso no teste de resistência, a magia termina.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 5° nível, a duração será concentração, até 10 minutos. Quando você usar um
+espaço de magia de 6° nível, a duração será concentração, até 1 hora. Quando você usar um espaço de magia de 7°
+nível, a duração será concentração, até 8 horas.
+nível, a duração será concentração, até 8 horas.
+OMINAR
+OMINAR
+ONSTRO
+8° nível de encantamento
+Tempo de Conjuração: 1 ação Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 hora
+Você tenta seduzir uma criatura que você possa ver dentro do alcance. Ela deve ser bem sucedida num teste
+de resistência de Sabedoria ou ficará enfeitiçada por você
+pela duração. Se você ou criaturas amigáveis a você estiverem lutando com ela, ela terá vantagem no teste de
+resistência.
+Enquanto a criatura estiver enfeitiçada, você terá uma
+ligação telepática com ela, contanto que ambos estejam no mesmo plano de existência. Você pode usar essa ligação
+telepática para emitir comandos para a criatura enquanto você estiver consciente (não requer uma ação), aos quais
+ela obedece da melhor forma possível. Você pode
+especificar um curso de ação simples e genérico, como´$WDTXHDTXHODFULDWXUDµ´&RUUDDWpDOLµRX´7UDJD
+DTXHOHREMHWRµ6HDFULDWXUDFRPSOHWDUDRUGHPHQmR
+receber direções posteriores de você, ela se defenderá e se auto preservará da melhor forma que puder.
+Você pode usar sua ação para tomar controle total e
+preciso do alvo. Até o final do seu próximo turno, a criatura realiza apenas as ações que você escolher e não
+faz nada que você não permita que ela faça. Durante esse
+período, você também pode fazer com que a criatura use uma reação, mas isso requer que você usa sua própria
+reação também.
+Cada vez que o alvo sofrer dano, ele realiza um novo
+teste de resistência de Sabedoria contra a magia. Se obtiver sucesso no teste de resistência, a magia termina.
+obtiver sucesso no teste de resistência, a magia termina.
+Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 9° nível, a duração será concentração, até 8 horas.

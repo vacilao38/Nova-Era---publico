@@ -1,0 +1,146 @@
+3. Amarelo
+. O alvo sofre 10d6 de dano elétrico se
+falhar na resistência ou metade desse dano se obtiver
+sucesso. A camada pode ser destruída causando, pelo
+menos, 60 de dano de energia a ela.
+4. Verde
+. O alvo sofre 10d6 de dano de veneno se
+falhar na resistência ou metade desse dano se obtiver sucesso. A magia
+criar passagem
+ou outra magia de nível
+igual ou superior que possam abrir um portal em uma
+superfície sólida, destroem essa camada.
+5. Azul
+. O alvo sofre 10d6 de dano de frio se falhar na
+resistência ou metade desse dano se obtiver sucesso.resistência ou metade desse dano se obtiver sucesso.camada pode ser destruída causando, pelo menos, 25 de
+dano de fogo a ela.
+6. Anil
+. Se falhar na resistência, o alvo ficará
+impedido. Ele deve então, fazer um teste de resistência de Constituição ao final de cada um dos turnos dele. Se obtiver sucesso três vezes, a magia termina. Se falhar na
+resistência três vezes, ela se torna pedra é afetada pela
+condição petrificado. Os sucessos e falhas não precisam ser consecutivos; anote ambos os resultados até o alvo
+acumular três de mesmo tipo.
+Enquanto essa camada estiver no lugar, magias não
+podem ser conjuradas através da muralha. A camada pode ser destruída por luz plena emitida pela magia
+luz
+do dia
+ou uma magia similar de nível equivalente ou
+superior.
+7. Violeta
+. Se falhar na resistência, o alvo ficará cego.
+Ele deve realizar um teste de resistência de Sabedoria no
+início do seu próximo turno. Um sucesso na resistência
+acaba com a cegueira. Se falhar na resistência, a criatura
+é transportada para outro plano de existência, escolhido pelo Mestre, e não estará mais cego. (Tipicamente, uma
+criatura que esteja em um plano que não seja o seu plano
+natal é banida para lá, enquanto que outras criaturas geralmente são enviadas para os Planos Astral ou
+Etéreo.) Essa camada é destruída pela magia
+dissipar
+magia
+ou por uma magia similar de nível equivalente ou
+superior que possa acabar com magias e efeitos mágicos.
+superior que possa acabar com magias e efeitos mágicos.
+EVASCA
+3° nível de conjuração Tempo de Conjuração Tempo de Conjuração 1 ação
+Alcance
+: 45 metros
+Componentes
+: V, S, M (um punhado de poeira e
+algumas gotas de água)
+Duração
+: Concentração, até 1 minuto
+Até a magia acabar, uma chuva congelante e neve caem num cilindro de 6 metros de altura por 12 metros de raio,
+centrado num ponto, à sua escolha, dentro do alcance. A
+área é de escuridão densa e, chamas expostas na área são extintas.
+O solo na área é coberto por gelo escorregadio,
+tornando-o terreno difícil. Quando uma criatura entrar na área da magia pela primeira vez num turno ou começar
+seu turno nela, ela deve realizar um teste de resistência
+de Destreza. Se falhar, cairá no chão.
+Se um, criatura estiver se concentrando na área da
+magia, a criatura deve realizar um teste de resistência de Constituição contra a CD da magia, ou perderá a concentração.
+concentração.
+ÉVOA
+ÉVOA
+ÉTIDA
+3° nível de conjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: 27 metros
+Componentes
+: V, S, M (um ovo podre ou várias folhas de
+repolho)
+Duração
+: Concentração, até 1 minuto
+Você cria uma esfera, de 6 metros de raio, de gás
+amarelado nauseante, centrada num ponto dentro do
+alcance. A névoa se espalha, dobrando esquinas, e sua
+área é de escuridão densa. A névoa perdura no ar pela
+duração.
+Cada criatura que estiver completamente dentro da
+névoa no início do seu turno deve realizar um teste de
+resistência de Constituição contra veneno. Se falhar na
+resistência, a criatura gastará sua ação nesse turno
+tentando vomitar e cambaleando.
+Um vento moderado (pelo menos 15 quilômetros por
+hora) dispersará a névoa depois de 4 rodadas. Um vento forte (pelo menos 30 quilômetros por hora) dispersará a névoa após 1 rodada.
+névoa após 1 rodada.
+ÉVOA ÉVOA
+ORTAL
+5° nível de conjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: 36 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 10 minutos
+Você cria uma esfera de nevoeiro venenoso de cor amarelo-esverdeado, com 6 metros de raio, centrado em um ponto, à sua escolha, dentro do alcance. O nevoeiro se
+espalha, dobrando esquinas. Ele permanece pela duração
+ou até um vento forte dispersar o nevoeiro, terminando a magia. Sua área é de escuridão densa.
+Quando uma criatura entra na área da magia pela
+primeira vez no turno dela ou começa seu turno lá, essa criatura deve realizar um teste de resistência de
+Constituição. A criatura sofre 5d8 de dano de veneno, ou
+metade desse dano, se passar no teste. As criaturas serão afetadas mesmo se prenderem a respiração ou não
+precisarem respirar.
+O nevoeiro se afasta 3 metros de você no começo de
+cada um dos seus turnos, deslizando pela superfície do solo. Os vapores são mais pesados que o ar, mantendo-
+solo. Os vapores são mais pesados que o ar, mantendo-
+nos níveis mais baixos do terreno, até mesmo caindo em
+aberturas.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 6° nível ou superior, o dano aumenta em 1d8 para cada nível do espaço acima do
+5°.
+5°.
+ÉVOA
+ÉVOA
+BSCURECENTE
+1° nível de conjuração
+Tempo de Conjuração: 1 ação Alcance
+: 36 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 hora
+Você cria uma esfera de 6 metros de raio de névoa, centrada num ponto, dentro do alcance. A esfera se
+espalha, dobrando esquinas, e a área dela é de escuridão
+densa. Ela permanece pela duração ou até um vento moderado ou mais rápido (pelo menos 15 quilômetros por
+hora) dispersa-
+hora) dispersa-
+hora) dispersa-
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 2° nível ou superior, o raio da névoa aumenta em 6 metros para cada
+nível do espaço acima do 1°.
+nível do espaço acima do 1°.
+UBLAR
+2° nível de ilusão Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto

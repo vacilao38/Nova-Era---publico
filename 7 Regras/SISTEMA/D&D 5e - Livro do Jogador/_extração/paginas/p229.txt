@@ -1,0 +1,139 @@
+Você invoca uma criatura feérica de nível de desafio 6 ou
+inferior ou um espírito feérico que assume a forma de
+uma besta de nível de desafio 6 ou inferior. Ela aparece
+num espaço desocupado, que você possa ver dentro do
+alcance. A criatura feérica desaparece se cair a 0 pontos
+de vida ou quando a magia acabar.
+A criatura feérica é amigável a você e a seus
+companheiros pela duração. Role a iniciativa para a criatura, que age no seu próprio turno. Ela obedece a
+quaisquer comandos verbais que você emitir (não requer uma ação sua), contanto que não violem sua tendência. Se
+você não emitir nenhum comando a ela, ela se defenderá
+de criaturas hostis, mas no mais, não realizará nenhuma de criaturas hostis, mas no mais, não realizará nenhuma
+ão.
+Se sua concentração for interrompida, a criatura
+feérica não desaparece. Ao invés disso, você perde o controle sobre o elemental e ele se torna hostil a você e
+aos seus companheiros, e irá atacar. Uma criatura feérica
+fora de controle não pode ser dispensada e desaparece 1 hora depois de você ter a invocado.
+O Mestre possui as estatísticas da criatura feérica.Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 7° nível ou
+superior, o nível de desafio aumenta em 1 para cada nível
+do espaço acima do 6°.
+do espaço acima do 6°.
+ONJURAR
+ONJURAR AJADA
+3° nível de conjuração Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal (cone de 18 metros)
+Componentes
+: V, S, M (uma munição ou arma de
+arremesso)
+Duração
+: Instantânea
+Você arremessa uma arma não-mágica ou dispara uma
+munição não-mágica no ar para criar um cone de armas idênticas que se lançam a frente e então desaparecem.
+Cada criatura num cone de 18 metros, deve ser bem
+sucedida num teste de resistência de Destreza. Uma criatura sofre 3d8 de dano se falhar na resistência, ou
+metade desse dano num sucesso. O tipo do dano é o
+mesmo da arma ou munição usada como componente.
+mesmo da arma ou munição usada como componente.
+ONJURAR
+ONJURAR
+ARAIVADA
+5° nível de conjuração Tempo de Conjuração: 1 ação
+Alcance
+: 45 metros
+Componentes
+: V, S, M (uma munição ou arma de
+arremesso)
+Duração
+: Instantânea
+Você dispara uma munição não-mágica de uma arma à
+distância ou arremessa uma arma não-mágica no ar e escolhe um ponto dentro do alcance. Centenas de
+duplicatas da munição ou arma caem em uma saraivada
+vinda de cima e então desaparecem. Cada criatura num cilindro com 12 metros de raio e 6 metros de altura
+centrado no ponto, deve realizar um teste de resistência
+de Destreza. Uma criatura sofre 8d8 de dano se falhar na
+resistência, ou metade desse dano num sucesso. O tipo do
+dano é o mesmo da munição ou arma.
+dano é o mesmo da munição ou arma.
+ONJURAR
+ONJURAR
+ERES DA
+ERES DA
+LORESTA
+4° nível de conjuração
+Tempo de Conjuração: 1 ação Alcance
+: 18 metros
+Componentes
+: V, S, M (um fruto sagrado por criatura
+invocada)
+Duração
+: Concentração, até 1 hora
+Você invoca criaturas feéricas que aparecem em espaços desocupados, que você possa ver dentro do alcance.
+Escolha uma das opções a seguir para aparecer:
+Escolha uma das opções a seguir para aparecer:
+Uma criatura feérica de nível de desafio 2 ou inferior
+Uma criatura feérica de nível de desafio 2 ou inferior
+Duas criaturas feéricas de nível de desafio 1 ou
+inferior
+inferior
+Quatro criaturas feéricas de nível de desafio 1/2 ou inferior
+inferior
+Oito criaturas feéricas de nível de desafio 1/4 ou
+inferior
+Uma criatura invocado desaparece quando cair a 0
+pontos de vida ou quando a magia acabar.
+As criaturas invocadas são amigáveis a você e a seus
+companheiros. Role a iniciativa para as criaturas
+invocadas como um grupo, que age no seu próprio turno.Eles obedecem a quaisquer comandos verbais que você
+emitir (não requer uma ação sua). Se você não emitir
+nenhum comando a elas, elas se defenderão de criaturas nenhum comando a elas, elas se defenderão de criaturas
+stis, mas no mais, não realizarão nenhuma ação.
+O Mestre possui as estatísticas das criaturas.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando certos espaços de magia superiores, você escolhe
+uma das opções de invocação acima e mais criaturas
+aparecem: o dobro delas com um espaço de 6° nível e o triplo delas com um espaço de 8° nível.
+triplo delas com um espaço de 8° nível.
+ONSAGRAR
+5° nível de evocação
+Tempo de Conjuração: 24 horas
+Alcance
+: Toque
+Componentes
+: V, S, M (ervas, óleos e incenso valendo,
+no mínimo, 1.000 po, consumidos pela magia)
+Duração
+: Até ser dissipada
+Você toca um ponto e infunde uma área ao redor com poder sagrado (ou profano). A área pode ter até 18 metros
+de raio e a magia falha se o raio incluir uma área já sob
+efeito da magia
+consagrar
+. A área afetada está sujeita aos
+seguintes efeitos.
+Primeiro, celestiais, corruptores, elementais, fadas e
+mortos-vivos não conseguem entrar na área, nem, tais criaturas, podem enfeitiçar, amedrontar ou possuir
+criaturas dentro da área. Qualquer criatura enfeitiçada,
+amedrontada ou possuída por uma criatura dessas, não estará mais enfeitiçada, amedrontada ou possuída ao
+adentrar a área. Você pode excluir um ou mais desses
+tipos de criaturas desse efeito.
+Segundo, você pode vincular um efeito extra a área.
+Escolha o efeito da lista a seguir, ou escolha um efeito oferecido pelo Mestre. Alguns desses efeitos se aplicam a criaturas na área; você pode definir seu o efeito se aplica
+a todas as criaturas, criaturas que seguem uma divindade
+ou líder especifico ou criaturas de uma espécie especifica, como orcs ou trolls. Quando uma criatura que seria
+afetada entrar na área da magia pela primeira vez em um
+turno, ou começar seu turno nela, ela pode fazer um teste
+de resistência de Carisma. Se obtiver sucesso, a criatura
+ignora o efeito extra até sair da área.
+Coragem
+. As criaturas afetadas não podem ser
+amedrontadas enquanto estiverem na área.
+Descanso Eterno
+. Cadáveres enterrados na área não
+podem ser transformados em mortos-vivos.
+Escuridão. Escuridão preenche a área. Luz normal,
+assim como luz mágica criada por magias de nível inferior
+ao nível do espaço usado para conjurar essa magia, não
+podem iluminar a área.

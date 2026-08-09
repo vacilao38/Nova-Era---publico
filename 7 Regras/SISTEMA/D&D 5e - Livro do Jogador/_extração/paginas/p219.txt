@@ -1,0 +1,151 @@
+Duração
+: Concentração, até 1 minuto
+Você mexe com os pesadelos de uma criatura que você
+possa ver, dentro do alcance, e cria uma manifestação
+ilusória dos seus medos mais profundos, visível apenas
+para a criatura. O alvo deve realizar um teste de resistência de Sabedoria. Se falhar na resistência, ele
+ficará amedrontado pela duração. No final de cada turno
+do alvo, antes da magia acabar, ele deve ser bem sucedido num teste de resistência de Sabedoria ou sofrerá 4d10 de
+dano psíquico. Se passar na resistência, a magia acaba.
+Em Níveis Superio
+Em Níveis Superio. Quando você conjurar essa
+magia usando um espaço de magia de 5° nível ou superior, o dano aumenta em 1d10 para cada nível do
+espaço acima do 4°.
+espaço acima do 4°.
+TAQUE
+TAQUE
+ERTEIRO
+Truque de adivinhação Tempo de Conjuração: 1 ação
+Alcance
+: 9 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 rodada
+Você estende sua mão e aponta o dedo para um alvo no alcance. Sua magia garante a você uma breve intuição
+sobre as defesas do alvo. No seu próximo turno, você terá vantagem na primeira jogada de ataque contra o alvo,
+considerando que essa magia não tenha acabado.
+considerando que essa magia não tenha acabado.
+TAQUE
+TAQUE
+ISUAL
+6° nível de necromancia
+Tempo de Conjuração: 1 ação Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Pela duração da magia, seus olhos tornam-se manchas vazias imbuídas com poder terrível. Uma criatura, à sua
+escolha, a até de 18 metros de você que você puder ver,
+deve ser bem sucedida num teste de resistência de
+Sabedoria ou será afetada por um dos efeitos a seguir, à
+sua escolha, pela duração. A cada um dos seus turnos, até
+a magia acabar, você pode usar sua ação para afetar outra criatura, mas não pode afetar uma criatura
+novamente se ela tiver sido bem sucedida no teste de
+resistência contra essa conjuração de
+ataque visual
+Adormecer
+. O alvo cai inconsciente. Ele acorda se
+sofrer qualquer dano ou se outra criatura usar sua ação para sacudir o adormecido até acordá-lo.
+Apavorar
+. O alvo está amedrontado. Em cada um dos
+turnos dele, a criatura amedrontada deve realizar a ação de Disparada e se mover para longe de você pela rota segura mais curta disponível, a não ser que não haja
+lugar para se mover. Se o alvo se mover para um local a,
+pelo menos, 18 metros de distância de você onde ela não possa mais te ver, esse efeito termina.
+Adoecer
+. O alvo tem desvantagem nas jogadas de
+ataque e testes de habilidade. No final de cada um dos
+turnos dele, ele pode realizar outro teste de resistência de
+Sabedoria. Se for bem sucedido, o efeito termina.
+Sabedoria. Se for bem sucedido, o efeito termina.
+UGÚRIO
+2° nível de adivinhação (ritual)
+Tempo de Conjuração: 1 minuto Alcance
+: Pessoal
+Componentes
+: V, S, M (varetas, ossos ou objetos
+similarmente marcados valendo, no mínimo, 25 po)
+Duração
+: Instantânea
+Ao lançar varetas cravejados com gemas, rolar ossos de
+dragão, puxar cartas ornamentadas ou usar outro tipo de
+ferramenta de adivinhação, você recebe um pressagio de
+uma entidade de outro mundo, sobre os resultados de
+cursos de ação específicos que você planeja tomar nos
+próximos 30 minutos. O Mestre escolhe dentre os
+possíveis presságios a seguir:
+possíveis presságios a seguir:
+Êxito
+, para resultados bons
+, para resultados bons
+Fracasso
+, para resultados maus
+, para resultados maus
+Êxito e fracasso
+, para resultados bons e maus
+, para resultados bons e maus
+Nada
+, para resultados que não são especialmente bons
+ou ruins
+A magia não leva em conta qualquer possível
+circunstancia que possa mudar o resultado, como a conjuração de magias adicionais ou a perda ou ganho de
+um companheiro.
+Se você conjurar a magia duas ou mais vezes antes de
+completar seu próximo descanso longo, existe uma chance cumulativa de 25 por cento de cada conjuração, depois da
+primeira que você fez, ter um resultado aleatório. O Mestre faz essa jogada secretamente.
+Mestre faz essa jogada secretamente.
+UMENTAR
+UMENTAR
+EDUZIR
+2° nível de transmutação
+Tempo de Conjuração: 1 ação
+Alcance
+Alcance metros
+Componentes
+: V, S, M (um pouco de pó de ferro)
+Duração
+: Concentração, até 1 minuto
+Você faz com que uma criatura ou um objeto que você possa ver dentro do alcance, fique maior ou menor, pela duração. Escolha entre uma criatura ou um objeto que
+não esteja sendo carregado nem vestido. Se o alvo for
+involuntário, ele deve realizar um teste de resistência de Constituição. Se for bem sucedido, a magia não surte
+efeito.
+Se o alvo for uma criatura, tudo que ele esteja vestindo
+ou carregando muda e tamanho com ela. Qualquer item largado por uma criatura afetada, retorna ao seu
+tamanho natural.
+Aumentar
+. O tamanho do alvo dobra em todas as
+dimensões e seu peso é multiplicado por oito. Esse aumento eleva seu tamanho em uma categoria
+aumento eleva seu tamanho em uma categoria
+de Médio
+para Grande, por exemplo. Se não houver espaço
+suficiente para que o alvo dobre de tamanho, a criatura
+ou objeto alcança o tamanho máximo possível no espaço disponível. Até o fim da magia, o alvo também tem
+vantagem em testes de Força e testes de resistência de
+Força. O tamanho das armas do alvo crescem para se adequar ao seu novo tamanho. Quando essas armas são
+ampliadas, os ataques do alvo com elas causam 1d4 de
+dano extra.
+Reduzir
+. O tamanho do alvo é reduzido à metade em
+todas as dimensões e seu peso é reduzido a um oitavo do normal. Essa redução diminui o tamanho do alvo em uma categoria
+categoria
+de Médio para Pequeno, por exemplo. Até o
+fim da magia, o alvo tem desvantagem em testes de Força e testes de resistência de Força. O tamanho das armas do
+alvo diminuem para se adequar ao seu novo tamanho.
+Quando essas armas são reduzidas, os ataques do alvo
+com elas causam 1d4 de dano a menos (isso não pode reduzir o dano a menos de 1).
+reduzir o dano a menos de 1).
+URA DE
+URA DE
+UREZA
+4° nível de abjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal (9 metros de raio)
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 10 minutos

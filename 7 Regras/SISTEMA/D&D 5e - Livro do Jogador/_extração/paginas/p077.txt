@@ -1,0 +1,751 @@
+EITICEIRO
+EITICEIRO
+Nível
+Nível
+Bônus de
+Proficiência
+Proficiência
+Pontos de
+Feitiçaria
+Feitiçaria
+Características
+Características
+Truques
+Conhecidos
+Conhecidos
+Magias
+Conhecid
+Conhecid
+Conhecid
+Conhecid
+Conhecid
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Espaços de Magia por Nível
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Conjuração, Origem de Feitiçaria
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Fonte de Magia
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Incremento no Valor de
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Habilidade
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Incremento no Valor de Habilidade
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Metamágica
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Característica de Origem de Feitiçaria
+Increment
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+o no Valor de Habilidade
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Restauração Mística
+Muitas vezes, os feiticeiros
+tem motivações obscuras ou
+quixotescas que os leva a aventuras.
+quixotescas que os leva a aventuras.Alguns buscam uma maior compreensão da
+Alguns buscam uma maior compreensão da
+orça mágica que os infunde ou a resposta do mistério de
+sua origem. Outros, esperam encontrar uma forma de se
+livrar dele ou de liberar seu potencial máximo.
+Independente dos seus objetivos, os feiticeiros são tão uteis para um grupo de aventureiros quanto os magos, compensando a falta de variedade de conhecimento mágico com uma enorme flexibilidade no uso das magias
+que eles conhecem.
+que eles conhecem.
+RIANDO UM
+RIANDO UM
+EITICEIRO
+EITICEIRO
+A pergunta mais importante a se considerar quando
+estiver criando seu feiticeiro é a origem do seu poder.
+Quando começar o seu personagem, você irá escolher uma
+origem que o vincula a uma linhagem dracônica ou a influência da magia selvagem, mas a fonte exata do seu poder cabe a você decidir. É uma maldição de família, passada a você de um ancestral distante? Ou algum evento extraordinário não apenas abençoou você com
+magia inerente mas também deixou uma cicatriz?
+Como você se sente em relação ao poder mágico que
+corre através de você? Você o abraçou, tentando dominá-lo
+ou deleita-se com sua natureza imprevisível? Ele é uma bênção ou uma maldição? Você o buscava ou foi ele que te
+encontrou? Você teve a opção de recusá-lo ou você queria
+ter tido? O que você pretende fazer com ele? Talvez você
+creia que esse poder lhe foi dado para algum propósito maior. Ou você pode decidir que esse poder lhe dá o direito de fazer o que quiser, de tomar o que você quer daqueles que não possuem tal poder. Talvez seu poder ligue você a um poderoso individuo no mundo
+ligue você a um poderoso individuo no mundo
+a criatura
+feérica que abençoou você no nascimento, o dragão que colocou uma gota de seu sangue em suas veias, o lich que criou você através de um experimento ou a divindade que escolheu você para carregar seu poder.
+escolheu você para carregar seu poder.
+ONSTRUÇÃO
+ONSTRUÇÃO
+ONSTRUÇÃO ÁPIDA
+ÁPIDA
+Você pode construir um feiticeiro rapidamente seguindo essas sugestões. Primeiro, coloque seu valor de habilidade mais alto em Carisma, seguido de Constituição. Segundo, escolha o antecedente eremita. Terceiro, escolha os truques
+truques
+, prestidigitação, raio de gelo
+, prestidigitação, raio de gelo, prestidigitação, raio de gelo
+toque chocante
+toque chocante
+além das seguintes magias de 1° nível:
+escudo arcano
+escudo arcano escudo arcano
+misseis mágicos.misseis mágicos.
+misseis mágicos.ARACTERÍSTICAS DE
+C
+LASSE
+Como um feiticeiro, você adquire as seguintes
+características de classe.
+características de classe.
+ONTOS DE
+ONTOS DE
+ONTOS DE
+IDA
+IDA
+Dado de Vida:
+Dado de Vida: Dado de Vida:
+6 por nível de feiticeiro
+Pontos de Vida no 1° Nível:
+6 + seu modificador de
+Constituição
+Pontos de Vida nos Níveis Seguintes:
+Pontos de Vida nos Níveis Seguintes: Pontos de Vida nos Níveis Seguintes:
+6 (ou 4) + seu
+modificador de Constituição por nível de feiticeiro após
+o 1°
+o 1°
+ROFICIÊNCIAS
+ROFICIÊNCIAS
+Armaduras:
+Nenhuma
+Armas:
+Adagas, dardos, fundas, bordões e bestas leves
+Ferramentas:
+Nenhuma
+Nenhuma
+Testes de Resistência:
+Constituição, Carisma
+Perícias:
+Escolha duas dentre Arcanismo, Enganação,
+Intuição, Intimidação, Persuasão e Religião
+Intuição, Intimidação, Persuasão e Religião
+QUIPAMENTO
+QUIPAMENTO
+Você começa com o seguinte equipamento, além do
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+equipamento concedido pelo seu antecedente:
+) uma besta leve e 20 virotes ou (
+) uma besta leve e 20 virotes ou (
+) qualquer arma
+simples
+simples
+simples
+simples
+) uma bolsa de componentes ou (
+) uma bolsa de componentes ou (
+) um foco arcano
+) um foco arcano
+) um foco arcano
+) um foco arcano
+) um pacote de explorador ou (
+) um pacote de explorador ou (
+) um pacote de
+aventureiro

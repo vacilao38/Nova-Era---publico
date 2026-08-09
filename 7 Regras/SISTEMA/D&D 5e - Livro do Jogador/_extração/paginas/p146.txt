@@ -1,0 +1,327 @@
+Essa armadura consiste em um casaco e
+calças (e talvez uma saia separada) de couro coberto com
+peças sobrepostas de metal, assim como as escamas peças sobrepostas de metal, assim como as escamas
+peças sobrepostas de metal, assim como as escamas
+peixe. O conjunto inclui manoplas.
+Peitoral
+Peitoral
+A armadura peitoral é constituída por A armadura peitoral é constituída por
+peitoral de metal usado com couro flexível em seu
+interior. Embora ele deixe as pernas e braços do usuário relativamente desprotegidos, essa armadura fornece boa
+proteção para seus órgãos vitais, deixando quem a usa
+relativamente sem restrições.
+Meia-Armadura
+Meia-Armadura
+Essa armadura é composta de
+placas de metal moldadas que cobrem a maior parte do corpo. Ela não inclui proteção para as pernas além de caneleiras fixadas com tiras de couro.
+caneleiras fixadas com tiras de couro.
+RMADURA
+RMADURA
+ESADA
+ESADA
+De todas as categorias de armaduras, as armaduras
+pesadas oferecem a melhor proteção. Essas armaduras
+cobrem todo o corpo e são projetadas para proteger quem as usa de uma grande variedade de ataques. Só
+guerreiros proficientes podem gerir o seu peso e volume.
+Armaduras pesadas não permitem que o usuário
+adicione seu modificador de Destreza na Classe de Armadura, mas também não o penaliza se seu
+modificador de Destreza for negativo.
+Cota de Anéis
+Cota de Anéis
+Esta armadura é feita de couro com
+pesados anéis presos a ela. Os anéis ajudam a reforçar a armadura contra golpes de espadas e machados. A cota de anéis é inferior à cota de malha e geralmente é vestida
+apenas por aqueles que não podem pagar por uma
+armadura melhor.
+Cota de Malha
+Cota de Malha
+Feita de anéis de metal entrelaçados,
+a cota de malha inclui uma camada de tecido acolchoado usada por baixo da malha de metal para evitar atrito e amortecer o impacto dos golpes. O conjunto inclui
+manoplas.
+Cota de Talas
+Cota de Talas
+Essa armadura é feita de tiras
+verticais de metal, rebitadas a um suporte de couro,
+usadas sobre um preenchimento de pano. Cotas de malha
+flexíveis protegem as articulações.
+Placas
+Placas
+Placas
+rmadura de placas consiste em placas de
+metal moldadas para cobrir todo o corpo. Inclui luvas, botas de couro pesadas, um capacete com viseira e espessas camadas de enchimento por baixo da armadura.
+Fivelas e tiras de couro distribuem o peso ao longo do
+corpo.
+corpo.
+RMADURAS
+RMADURAS
+Nome
+Nome
+Preço
+Preço
+Classe de
+Classe de
+rmadura (CA)
+rmadura (CA)
+Força
+Força
+Furtividade
+Furtividade
+Peso
+Peso
+Armadura
+Leve
+Leve
+Acolchoada
+Acolchoada
+Acolchoada
+Acolchoada
+Acolchoada
+11 + modificador de Des
+11 + modificador de Des
+11 + modificador de Des
+11 + modificador de Des
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Couro
+Couro
+Couro
+Couro
+Couro
+Couro
+Couro
+Couro
++ modifi
+cador de Des
+cador de Des
+cador de Des
+cador de Des
+cador de Des
+cador de Des
+cador de Des
+cador de Des
+cador de Des
+cador de Des
+Couro Batido
+Couro Batido
+Couro Batido
+Couro Batido
+Couro Batido
+Couro Batido
+Couro Batido
+Couro Batido
+Couro Batido
++ modificador de Des
++ modificador de Des
++ modificador de Des
++ modificador de Des
++ modificador de Des
++ modificador de Des
++ modificador de Des
++ modificador de Des
++ modificador de Des
++ modificador de Des
++ modificador de Des
+Armadura
+Médi
+Médi
+Médi
+Gibão de
+Peles
+Peles
+Peles
+Peles
+Peles
+Peles
+Peles
+Peles
+Peles
++ modificador de Des
++ modificador de Des
+(máx. +2)
+(máx. +2)
+(máx. +2)
+(máx. +2)
+(máx. +2)
+(máx. +2)
+(máx. +2)
+(máx. +2)
+(máx. +2)
+(máx. +2)
+Camisão
+Camisão
+de Malha
+de Malha
+de Malha
+de Malha
+de Malha
+de Malha
+de Malha
+13 + modificador de Des (máx. +2)
+13 + modificador de Des (máx. +2)
+13 + modificador de Des (máx. +2)
+13 + modificador de Des (máx. +2)
+13 + modificador de Des (máx. +2)
+13 + modificador de Des (máx. +2)
+13 + modificador de Des (máx. +2)
+13 + modificador de Des (máx. +2)
+13 + modificador de Des (máx. +2)
+13 + modificador de Des (máx. +2)
+Brunea
+Brunea
+Brunea
+Brunea
+Brunea
+Brunea
+Brunea
+14 + modificado
+r de Des (máx
+r de Des (máx
+r de Des (máx
++2)
++2)
++2)
++2)
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Peitoral
+Peitoral
+Peitoral
+Peitoral
+Peitoral
+Peitoral
+Peitoral
+14 + modificador de Des (máx
+14 + modificador de Des (máx
+14 + modificador de Des (máx
++2)
++2)
++2)
++2)
++2)
++2)
++2)
++2)
++2)
++2)
+Meia
+Meia
+Armadura
+Armadura
+Armadura
+Armadura
+Armadura
+Armadura
+Armadura
+Armadura
+15 + modificador de Des (máx
+15 + modificador de Des (máx
+15 + modificador de Des (máx
++2)
++2)
++2)
++2)
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Armadura
+Pesada
+Pesada
+Cota de anéis
+Cota de anéis
+Cota de anéis
+Cota de anéis
+Cota de anéis
+Cota de anéis
+Cota de anéis
+Cota de anéis
+Cota de anéis
+Cota de anéis
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Cota de malha
+Cota de malha
+Cota de malha
+Cota de malha
+Cota de malha
+Cota de malha
+Cota de malha
+Cota de malha
+Cota de malha
+For 13
+For 13
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Cota de talas
+Cota de talas
+Cota de talas
+Cota de talas
+Cota de talas
+Cota de talas
+Cota de talas
+Cota de talas
+Cota de talas
+For 15
+For 15
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Placas
+Placas
+Placas
+Placas
+Placas
+Placas
+Placas
+Placas
+Placas
+Placas
+For 15
+For 15
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Desvantagem
+Escudo
+Escudo
+Escudo
+Escudo
+Escudo
+Escudo
+Escudo
+Escudo
+Escudo
+Escudo
+Escudo
+Escudo
+Escudo
+Escudo
+Escudo
+Escudo
+Escudo
+Escudo

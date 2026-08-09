@@ -1,0 +1,68 @@
+Arremesso Arremesso
+Se uma arma possuir a propriedade
+arremesso, você pode arremessar a arma para realizar
+um ataque à distância. Se essa arma for uma arma de ataque corpo-a-corpo, você usa o mesmo modificador de
+habilidade para as jogadas de ataque e dano que usaria
+para realizar um ataque corpo-a-corpo com a arma. Por exemplo, se você arremessar uma machadinha, ele usa seu modificador de Força, mas se arremessar uma adaga, você pode usar tanto seu modificador de Força quanto o de Destreza, pois a adaga possui a propriedade acuidade.
+Distância
+Distância
+Uma arma que pode ser usada para
+realizar ataques à distância possui a distância mostrada entre parênteses após a propriedade munição ou arremesso. A distância lista dois números. O primeiro é a distância normal da arma, o segundo indica a distância máxima da arma, ambos em metros. Quando atacar um
+alvo que está além da distância normal da arma, você
+possui desvantagem na jogada de ataque. Você não pode atacar um alvo que esteja além da distância máxima da arma.
+Duas Mãos
+Duas Mãos
+Essa arma requer as duas mãos para ser
+usada. Essa propriedade só é relevante quando você ataca
+com a arma, não enquanto apenas a segura.
+Especial
+Especial
+Uma arma com a propriedade especial
+possui regras diferenciadas que detalham seu uso,
+explicado na descrição da arma (veja "Armas Especiais"mais adiante).
+Leve
+Leve
+Uma arma leve é pequena e de fácil manuseio,
+tornando-a ideal para usar quando você está combatendo com duas armas. Veja as regras para combate com duas armas no capítulo 9.
+Munição.
+Munição.
+Você pode usar uma arma que tenha a
+propriedade munição para realizar um ataque à distância, apenas se possuir munição para disparar a
+arma. Cada vez que você atacar com a arma, você gasta
+uma peça de munição. Sacar a munição de uma aljava, bolsa, ou outro recipiente faz parte do ataque. No fim da batalha, você pode recuperar metade de sua munição gasta, se tiver um minuto para procurar pelo campo de
+batalha. Recarregar uma arma de uma mão requer uma
+mão livre.
+Pesada
+Pesada
+Criaturas pequenas têm desvantagem nas
+jogadas de ataque com estas armas. O tamanho e o pes
+jogadas de ataque com estas armas. O tamanho e o pes
+de uma arma pesada tornam-na muito grande para ser
+empunhada eficientemente por criaturas Pequenas.
+Recarga.
+Recarga.
+Devido o tempo necessário para recarregar
+essa arma, você pode disparar apenas uma peça de munição da arma quando usa uma ação, ação bônus, ou munição da arma quando usa uma ação, ação bônus, ou
+ação para disparar, não importando quantos ataques
+você possua.
+Versátil.
+Versátil.
+Essa arma pode ser usada com uma ou duas
+mãos. Um valor de dano aparece entre parênteses com a
+propriedade
+propriedade
+é o dano da arma quando usada com as
+duas mãos para efetuar ataques corpo-a-corpo.
+duas mãos para efetuar ataques corpo-a-corpo.
+RMAS
+RMAS
+MPROVISADAS
+MPROVISADAS
+Algumas vezes os personagens não possuem suas armas e
+precisam atacar com qualquer coisa que tenham ao
+alcance das mãos. Uma arma improvisada inclui qualquer
+objeto que o personagem possa empunhar com uma ou duas mãos, como um vidro quebrado, um pé de mesa, uma frigideira, uma roda de carroça ou um goblin morto.
+Em muitos casos, uma arma improvisada é similar Em muitos casos, uma arma improvisada é similar
+uma arma existente e pode ser tratada como tal. Por
+exemplo, um pé de mesa é semelhante a uma clava. Com
+o consentimento do Mestre, um personagem que tenha proficiência com uma determinada arma pode usar um objeto similar como se fosse essa arma e usar seu bônus de proficiência.

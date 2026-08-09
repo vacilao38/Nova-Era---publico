@@ -1,0 +1,296 @@
+APÍTULO
+APÍTULO
+APÍTULO APÍTULO
+LASSES
+VENTUREIROS SÃO PESSOAS EXTRAORDINÁRIAS
+VENTUREIROS SÃO PESSOAS EXTRAORDINÁRIAS
+motivados pela ânsia e pela excitação
+motivados pela ânsia e pela excitação
+uma
+vida que os outros nunca ousariam levar. Eles
+são heróis, compelidos a explorar os lugares sombrios do mundo e a aceitar os desafios que homens e mulheres mais fracos não
+conseguiriam enfrentar.
+A classe é a definição principal de o quê um
+personagem pode fazer. É mais do que uma profissão: é a vocação de um personagem. As classes modificam a forma de um personagem perceber e interagir com o mundo, bem como seu relacionamento com as outras pessoas e poderes do multiverso. Um guerreiro, por exemplo, pode
+ver o mundo através de puro pragmatismo estratégico ou
+de manobras de combate, e ver a si próprio como apenas um peão em um cenário muito mais amplo. Um clérigo, por outro lado, pode se ver como um servidor devot
+por outro lado, pode se ver como um servidor devot
+por outro lado, pode se ver como um servidor devot
+nos planos de um deus ou de um conflito que está se iniciando entre vários deuses. Enquanto o guerreiro tem
+contatos com companhias ou exércitos de mercenários, o
+clérigo pode conhecer vários outros sacerdotes, paladinos e devotos à causa de seu deus.
+A classe dá a você uma variedade de características
+especiais, como a maestria em armas e armaduras de especiais, como a maestria em armas e armaduras de guerreiro ou as magias de um mago. Em níveis baixos, a classe confere apenas duas ou três características, mas à medida que os níveis evoluem, os medida que os níveis evoluem, os
+ros aumentam,
+ganhando novas características e aumentando o poder das já existentes. Cada classe aqui possui uma tabela
+resumindo os benefícios que se ganha a cada nível e uma
+explicação detalhada de cada característica.
+Algumas vezes, os aventureiros evoluem em mais de
+uma classe. Um ladino pode mudar sua vida de direção e trilhar o caminho do clérigo, podendo ainda continu trilhar o caminho do clérigo, podendo ainda continu
+trilhar o caminho do clérigo, podendo ainda continu
+progredindo como ladino. Elfos são conhecidos por
+combinarem treinamento marcial e mágico, avançando
+simultaneamente como guerreiro e mago. Regras opcionais para combinar classes desta forma, denomina
+opcionais para combinar classes desta forma, denomina
+opcionais para combinar classes desta forma, denomina
+multiclasse, podem ser encontradas no capítulo 6.
+Doze classes básicas
+Doze classes básicas
+listadas na tabela Classes listadas na tabela Classes
+são
+encontradas em quase todos os mundos de D&D encontradas em quase todos os mundos de D&D
+definem um espectro de aventureir
+definem um espectro de aventureir
+típicos.
+típicos.
+LASSES
+LASSES
+Classe
+Classe
+Descrição
+Descrição
+Dado de
+Vida
+Vida
+Habilidade
+Habilidade
+Habilidade
+Primária
+Primária
+Primária
+Proficiências em
+Resistência
+Resistência
+Proficiências em Armas
+Proficiências em Armas
+e Armaduras
+e Armaduras
+Bárbaro
+Bárbaro
+Um feroz guerrei
+ro de origem primitiva
+que pode
+que pode
+entrar em fúria durante uma
+batalha
+batalha
+d12
+d12
+Força
+Força
+Força &
+Constituição
+Constituição
+Armaduras leves e médias,
+escudos, armas simples e marciais
+escudos, armas simples e marciais
+Bardo
+Bardo
+Um místico inspirador que possui
+poderes que ecoam a música da criação
+poderes que ecoam a música da criação
+poderes que ecoam a música da criação
+poderes que ecoam a música da criação
+Carisma
+Carisma
+Destreza &
+Carisma
+Carisma
+Armaduras leves, armas simples,
+bestas de mão, espadas longas,
+rapieiras, e
+spadas curtas
+spadas curtas
+Bruxo
+Bruxo
+Um portador de magia derivada de
+barganha com uma entidade planar
+barganha com uma entidade planar
+barganha com uma entidade planar
+barganha com uma entidade planar
+Carisma
+Carisma
+Sabedoria &
+Carisma
+Carisma
+Armaduras leves, armas simples
+Armaduras leves, armas simples
+Clérigo
+Clérigo
+Um campeão sacerdotal que empunha
+magia divina a serviço de um poder
+maior
+maior
+maior
+maior
+Sabedoria
+Sabedoria
+Sabedori
+Sabedori
+Carisma
+Carisma
+Armaduras leves e médias,
+escudos, armas simples
+escudos, armas simples
+Druida
+Druida
+Um sacerdote d
+Um sacerdote d
+Um sacerdote d
+Crença Antiga,
+detentor dos poderes da natureza
+detentor dos poderes da natureza
+detentor dos poderes da natureza
+luz
+da lua e crescimento das plantas, fogo e
+relâmpagos
+relâmpagos
+relâmpagos
+e capaz de adotar formas
+animais
+animais
+animais
+animais
+Sabedoria
+Sabedoria
+Inteligência &
+Inteligência &
+bedoria
+bedoria
+Armaduras leves e médias (não
+Armaduras leves e médias (não
+metálicas), escudos (não
+metálicas), escudos (não
+metálicos), clavas, adagas,
+dardos, azagaias, maças,
+bordões
+bordões
+cimitarras, foices, fundas e lanças
+cimitarras, foices, fundas e lanças
+Feiticeiro
+Feiticeiro
+Um conjurador que possui magia latente
+advinda de um dom ou linhagem
+advinda de um dom ou linhagem
+advinda de um dom ou linhagem
+advinda de um dom ou linhagem
+Carisma
+Carisma
+Con
+stituição &
+Carisma
+Carisma
+Adagas, dardos, fundas,
+bordões
+bordões
+bestas leves
+bestas leves
+Guerreiro
+Guerreiro
+Um mestre do combate, perito em uma
+vasta gama de armas e armaduras
+vasta gama de armas e armaduras
+d10
+d10
+Força ou
+Destreza
+Destreza
+Força &
+Constituição
+Constituição
+Todas as armaduras, armas
+simples e marciais
+simples e marciais
+Ladino
+Ladino
+Um trapaceiro q
+ue utiliza de furtividade
+e astúcia para sobrepujar os obstáculos
+e inimigos
+e inimigos
+e inimigos
+e inimigos
+Destreza
+Destreza
+Destreza &
+Inteligência
+Inteligência
+Armaduras leves, armas simples,
+bestas de mão, espadas longas,
+rapieiras, espadas curtas
+rapieiras, espadas curtas
+Mago
+Mago
+Um usuário de magia escolado, capaz de
+manipular
+manipular
+as estruturas da realidade
+as estruturas da realidade
+as estruturas da realidade
+as estruturas da realidade
+Inteligência
+Inteligência
+Inteligência &
+Sabedoria
+Sabedoria
+Adagas, dardos, fundas, bastões,
+bestas leves
+bestas leves
+Monge
+Monge
+Um mestre das artes marciais, utilizando
+o poder corporal para atingir a perfeição
+física e espiritual
+física e espiritual
+física e espiritual
+física e espiritual
+Destreza &
+Sabedoria
+Sabedoria
+Força &
+Força &
+Destreza
+Destreza
+Armas simples, espadas curtas
+Armas simples, espadas curtas
+Paladino
+Paladino
+Um guerreiro
+divino
+divino
+vinculado a um
+juramento
+juramento
+sagrado
+sagrado
+d10
+d10
+Força &
+Carisma
+Carisma
+Sabedoria &
+Carisma
+Carisma
+Todas as armaduras, escudos,
+armas simples e marciais
+armas simples e marciais
+Patrulheiro
+Patrulheiro
+Um guerreiro que utiliza de poderio
+marcial e
+magia natural para combater
+ameaças nos limites da civilização
+ameaças nos limites da civilização
+d10
+d10
+Destreza &
+Sabedoria
+Sabedoria
+Força & Destreza
+Força & Destreza
+Armaduras leves
+Armaduras leves
+e médias
+e médias
+escudos, armas simples e marciais
+escudos, armas simples e marciais

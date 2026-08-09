@@ -1,0 +1,146 @@
+Você evoca uma lâmina ardente em sua mão livre. A
+lâmina é similar em tamanho e formato a uma cimitarra
+e ela permanece pela duração. Se você soltar a lâmina, ela
+desaparece, mas você pode evocar a lâmina novamente
+com uma ação bônus.
+Você pode usar sua ação para realizar ataques corpo-a-
+corpo com magia com a lâmina ardente. Se atingir, o alvo
+sofrerá 3d6 de dano de fogo.
+sofrerá 3d6 de dano de fogo.
+âmina flamejante emite luz plena a 3 metros de
+raio e penumbra por mais 3 metros adicionais.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 4° nível ou superior, o dano aumenta em 1d6 para cada dois níveis do espaço acima do 2°.
+espaço acima do 2°.
+ENTIDÃO
+3° nível de transmutação
+Tempo de Conjuração Tempo de Conjuração
+ação
+Alcance
+: 36 metros
+Componentes
+: V, S, M (uma gota de melaço)
+Duração
+: Concentração, até 1 minuto
+Você altera o tempo ao redor de até seis criaturas, à sua
+escolha, num cubo de 12 metros, dentro do alcance. Cada criatura deve ser bem sucedida num teste de resistência
+de Sabedoria ou será afetada por essa magia pela
+duração.
+O deslocamento de um alvo afetado é reduzido à
+metade, ele sofre
+metade, ele sofre
+2 de penalidade na CA e nos testes de
+resistência de Destreza e não pode usar reações. No turno dele, ele pode usar ou uma ação ou uma ação bônus, mas
+não ambas. Independentemente das habilidades ou itens
+mágicos da criatura, ela não poderá realizar mais de um ataque corpo-a-corpo ou à distância durante o turno dela.
+Se a criatura tentar conjurar uma magia com tempo
+de conjuração maior que 1 rodada, jogue um d20. Se cair 11 ou maior, a magia não surte efeito até o próximo turno
+da criatura e a criatura deve usar sua ação nesse turno
+para completar a magia. Se ela não puder, a magia é perdida.
+Uma criatura afetada por essa magia faz outro teste
+de resistência de Sabedoria no final do turno dela. Se passar na resistência, o efeito acaba nela.
+passar na resistência, o efeito acaba nela.
+EQUE
+EQUE
+ROMÁTICO
+1° nível de ilusão
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal (cone de 4,5 metros)
+Componentes
+: V, S, M (um punhado de pó ou areia nas
+cores vermelha, amarela e azul)
+Duração
+: 1 rodada
+Um feixe ofuscante de luzes coloridas ordenadas, surge da sua mão. Role 6d10; o total é a quantidade de pontos de
+vida de criaturas que essa magia pode afetar. As
+criaturas num cone de 4,5 metros, originado de você, são afetadas em ordem ascendente dos seus pontos de vida
+(ignorando criaturas inconsciente e que não podem ver).
+Começando com as criaturas que tiverem menos
+pontos de vida, cada criatura afetada por essa magia ficará cega até o fim da magia. Subtraia os pontos de vida
+de cada criatura do total antes de considerar os pontos de vida da próxima criatura. Os pontos de vida de uma
+criatura devem ser iguais ou menores que o total restante
+para que essa criatura seja afetada
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 2° nível ou superior, jogue 2d10 adicionais para cada nível do espaço acima do 1°.
+2d10 adicionais para cada nível do espaço acima do 1°.
+EVITAÇÃO
+2° nível de transmutação
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+: V, S, M (uma pequena presilha de couro
+ou um pedaço de fio dourado dobrado em forma de copo com uma haste longa em uma extremidade)
+Duração
+: Concentração, até 10 minutos
+Uma criatura ou objeto, à sua escolha, que você possa ver,
+dentro do alcance, ergue-se verticalmente, até 6 metros e
+permanece suspenso lá pela duração. A magia pode levitar um alvo pesando até 250 quilos. Uma criatura
+involuntária que for bem sucedida num teste de
+resistência de Constituição não é afetada
+O alvo pode se mover apenas ao puxar ou empurrar
+um objeto fixo ou superfície ao seu alcance (como um muro ou teto), permitindo que ele se mova como se estivesse escalando. Você pode mudar a altitude do alvo
+em até 6 metros em ambas as direções no seu turno. Se
+você for o alvo, você pode se mover para cima ou para baixo como parte do seu movimento. Do contrário, você
+precisa usar sua ação para mover o alvo, que deve
+precisa usar sua ação para mover o alvo, que deve
+rmanecer dentro do alcance da magia.
+Quando a magia acaba, o alvo flutua suavemente até o
+chão, se ele ainda estiver no ar.
+chão, se ele ainda estiver no ar.
+IGAÇÃO
+IGAÇÃO
+ELEPÁTICA DE
+ELEPÁTICA DE ARY
+5° nível de adivinhação (ritual)Tempo de Conjuração: 1 ação Alcance
+: 9 metros
+Componentes
+: V, S, M (pedaços de cascas de ovos de
+dois tipos diferentes de criatura)
+Duração
+: 1 hora
+Você forja uma ligação telepática entre até oito criaturas
+voluntárias, à sua escolha, dentro do alcance, ligando
+psiquicamente cada criatura a todas as outras, pela duração. Criaturas com valores de Inteligência 2 ou
+menos não são afetadas por essa magia.
+Até a magia acabar, os alvos podem se comunicar
+telepaticamente através do elo, independentemente de terem ou não um idioma em comum. A comunicação é
+possível a qualquer distância, apesar de não se estender a outros planos de existência.
+outros planos de existência.
+IMPAR A
+IMPAR A
+ENTE
+8° nível de abjuração
+Tempo de Conjuração Tempo de Conjuração ação
+Alcance
+: Toque
+Componentes
+Componentes
+Componentes
+Duração
+: 24 horas
+Até a magia acabar, uma criatura voluntária que você tocar fica imune a dano psíquico, a qualquer efeito que poderia sentir suas emoções ou ler seus pensamentos, a
+magias de adivinhação e a condição enfeitiçado. A magia
+pode até mesmo evitar a magia
+desejo
+e magias ou efeitos
+de poder similar usados para afetar a mente do alvo ou
+para adquirir informações sobre ele.
+para adquirir informações sobre ele.
+OCALIZAR
+OCALIZAR
+NIMAIS OU NIMAIS OU
+LANTAS
+2° nível de adivinhação (ritual)
+Tempo de Conjuração Tempo de Conjuração ação Alcance
+: Pessoal
+Componentes
+: V, S, M (um pouco de pelo de um cão de
+caça)
+Duração
+: Instantânea
+Descreva ou nomeie um tipo especifico de besta ou planta.
+Concentre-se na voz da natureza ao seu redor, você

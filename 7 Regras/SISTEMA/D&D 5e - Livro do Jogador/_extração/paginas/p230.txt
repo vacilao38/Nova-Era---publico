@@ -1,0 +1,162 @@
+Idiomas
+. As criaturas afetadas podem se comunicar
+com qualquer outra criatura na área, mesmo que elas não
+partilhem um idioma em comum.
+Interferência Extradimensional
+. As criaturas
+afetadas não podem se mover ou viajar usando teletransporte ou por meios extradimensionais ou
+interplanares.
+Luz do Dia
+. Luz plena preenche a área. Escuridão
+mágica criada por magias de nível inferior ao nível do espaço usado para conjurar essa magia, não podem extinguir a luz.
+Medo. As criaturas afetadas ficam amedrontadas
+enquanto estiverem na área.
+Proteção contra Energia
+. As criaturas afetadas na
+área tem resistência a um tipo de dano, à sua escolha, exceto de concussão, cortante ou perfurante.
+Silêncio
+. Nenhum som pode ser emitido de dentro da
+área e nenhum som pode adentra-
+área e nenhum som pode adentra-
+área e nenhum som pode adentra-
+Vulnerabilidade à Energia
+. As criaturas afetadas
+na área tem vulnerabilidade a um tipo de dano, à sua
+escolha, exceto de concussão, cortante ou perfurante.
+escolha, exceto de concussão, cortante ou perfurante.
+ONSERTAR
+Truque de transmutação Tempo de Conjuração: 1 minuto
+Alcance
+: Toque
+Componentes
+: V, S, M (dois ímãs)
+Duração
+: Instantânea
+Essa magia repara um única quebra ou fissura em um objeto que você tocar, como um elo quebrado de uma corrente, duas metades de uma chave partida, um manto
+rasgado ou o vazamento em um odre. Contanto que a
+quebra ou fissura não tenha mais de 30 centímetros em qualquer dimensão, você pode remenda-la, não deixando
+qualquer vestígio do dano anterior.
+Essa magia pode reparar fisicamente um item mágico
+ou constructo, mas a magia não irá restaurar a magia em tais objetos.
+tais objetos.
+ONSTRIÇÃO
+1° nível de conjuração
+Tempo de Conjuração: 1 ação Alcance
+: 27 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Ervas e vinhas poderosas brotam do solo num quadrado de 6 metros a partir de um ponto dentro do alcance. Pela
+duração, essas plantas transformam o solo na área em
+terreno difícil.
+Uma criatura na área quando você conjurar a magia
+deve ser bem sucedida num teste de resistência de Força ou ficará impedida pelo emaranhado de plantas, até a magia acabar. Uma criatura impedida pelas plantas pode
+usar sua ação para realizar um teste de Força, contra a
+CD da magia. Se for bem sucedido, irá se libertar.
+Quando a magia termina, as plantas conjuradas
+murcharão.
+murcharão.
+ONTATO
+ONTATO
+XTRAPLANAR
+5° nível de adivinhação (ritual)
+Tempo de Conjuração: 1 minuto
+Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: 1 minuto
+Você contata mentalmente um semideus, o espírito de um sábio morto
+sábio morto
+muito tempo ou alguma outra entidade
+misteriosa de outro plano. Contatar esse extraplanar
+inteligente pode distorcer ou até mesmo arruinar com sua
+mente. Quando você conjurar essa magia, faça um teste
+de resistência de Inteligência CD 15. Se falhar, você sofre
+6d6 de dano psíquico e fica insano até terminar um
+descanso longo. Enquanto estiver insano, você não pode
+realizar ações, não entende o que as outras criaturas
+dizem, não pode ler e fala apenas coisas sem sentido.
+Conjurar a magia
+restauração maior
+em você acaba com
+esse efeito.
+Se obtiver sucesso no teste de resistência, você pode
+fazer até cinco perguntas à entidade. Você deve fazer suas perguntas antes da magia acabar. O Mestre responde
+FDGDSHUJXQWDFRPXPD~QLFDSDODYUDFRPR´VLPµ´QmRµ
+´WDOYH]µ´QXQFDµ´LUUHOHYDQWHµRX´LQFHUWRµ VHDHQWLGDGH não souber a resposta para a pergunta). Em caso de uma
+resposta de única palavra puder levar ao engano, o
+Mestre pode, ao invés disso, oferecer uma frase curta como resposta.
+como resposta.
+ONTRAMÁGICA
+3° nível de abjuração
+Tempo de Conjuração: 1 reação, que você realiza
+quando vê uma criatura a até 18 metros conjurando
+uma magia
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você tenta interromper uma criatura no processo de
+conjuração de uma magia. Se a criatura estiver
+conjurando uma magia de 3° nível ou inferior, a magia falha e não gera nenhum efeito. Se ela estiver conjurando
+uma magia de 4° nível ou superior, faça um teste de
+habilidade usando sua habilidade de conjuração. A CD é igual a 10 + o nível da magia. Caso seja bem sucedido, a
+magia da criatura falha e não gera nenhum efeito.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 4° nível ou superior
+usando um espaço de magia de 4° nível ou superior
+magia interrompida não vai gerar efeito se o nível dela for
+menor ou igual ao nível do espaço de magia que você usar.
+menor ou igual ao nível do espaço de magia que você usar.
+ONTINGÊNCIA
+6° nível de evocação Tempo de Conjuração: 10 minutos
+Alcance
+: Pessoal
+Componentes
+: V, S, M (uma estátua sua esculpida em
+marfim e decorada com gemas valendo, no mínimo, 1.500 po)
+Duração
+: 10 dias
+Escolha uma magia de 5° nível ou inferior que você possa
+conjurar, que tenha um tempo de conjuração de 1 ação e
+que possa ter você como alvo. Você conjura essa magia
+que possa ter você como alvo. Você conjura essa magia
+que possa ter você como alvo. Você conjura essa magia
+chamada de magia contingente
+chamada de magia contingente
+como parte da
+conjuração de
+contingência
+, gastando espaços de magia
+para ambas, mas a magia contingente não tem efeito
+imediato. Ao invés disso, ela se ativa quando uma certa circunstância ocorre. Você descreve a circunstância
+quando conjura as duas magias. Por exemplo, uma
+contingência conjurada com
+respirar na água
+pode
+estipular que
+respirar na água
+se ative quando você
+estiver imerso em água ou um líquido similar.
+A magia contingente se ativa imediatamente depois da
+circunstância ser satisfeita pela primeira vez, quer você
+queira, quer não, e a
+contingência
+termina.
+A magia contingente afeta apenas você, mesmo que ela
+normalmente possa afetar outros alvos. Você pode ter
+apenas uma
+contingência
+ativa por vez. Se você conjurar
+essa magia novamente, o efeito da outra magia
+contingência termina. Além disso, a
+contingência também

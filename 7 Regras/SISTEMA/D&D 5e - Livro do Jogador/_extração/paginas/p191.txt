@@ -1,0 +1,104 @@
+fazê-lo custa metade do seu deslocamento. Por exemplo,
+se seu deslocamento é 9 metros, precisa gastar 4,5 metros
+para se levantar. Você não pode se levantar se não
+possuir deslocamento suficiente sobrando ou se seu
+deslocamento for 0.
+Para se mover enquanto estiver deitado, você precisa
+rastejar
+ou usar uma magia de teletransporte. Cada 1,5
+metro de movimento enquanto estiver deitado custa 1,5
+metro adicional. Rastejar 1,5 metro em terreno difícil, por
+exemplo, custaria 4,5 metros de deslocamento.
+exemplo, custaria 4,5 metros de deslocamento.
+OVENDO-SE
+OVENDO-SE
+RÓXIMO DE
+RÓXIMO DE
+UTRAS
+UTRAS
+RIATURAS
+RIATURAS
+Você pode Você pode
+mover através do espaço ocupado por
+criaturas não hostis. Por outro lado, você pode se mover
+pelo espaço de criaturas hostis apenas se essa criatura for
+duas categorias de tamanho maiores ou menores que você. Lembre-se que o espaço ocupado por outra criatura é
+considerado terreno difícil para você.
+Seja uma criatura amiga ou inimiga, você não pode
+voluntariamente terminar seu deslocamento no espaço
+dela.
+Se você abandonar o alcance de uma criatura hostil
+durante seu deslocamento, você provoca um ataque de
+oportunidade, como explicado mais à frente neste
+capítulo.
+capítulo.
+OVIMENTO DE
+OVIMENTO DE
+OVIMENTO DE
+OVIMENTO DE
+Criaturas que voam desfrutam de muitos benefícios de mobilidade, mas também tem que lidar com o risco de queda. Se uma criatura que voa for derrubada, tiver seu
+deslocamento reduzido a 0 ou for impedida de se mover, a
+criatura cai, a não ser que tenha a habilidade de planar ou esteja sendo mantida suspensa por magia, como a
+magia
+voo
+voo
+voo
+voo
+AMANHO DE
+AMANHO DE
+RIATURA
+RIATURA
+Cada criatura precisa de espaços diferentes por conta de
+seu tamanho. A tabela Categorias de Tamanho mostra
+quanto espaço uma criatura de um tamanho particular ocupa em combate. Objetos algumas vezes usam as mesmas categorias de tamanho.
+mesmas categorias de tamanho.
+ATEGORIAS DE
+ATEGORIAS DE
+AMANHO
+AMANHO
+Tamanho
+Tamanho
+Espaço
+Espaço
+Miúdo
+Miúdo
+0,75 m/0,75 m
+0,75 m/0,75 m
+Pequeno
+Pequeno
+Pequeno
+,5 m/1,5 m
+,5 m/1,5 m
+Médio
+Médio
+Médio
+Médio
+Médio
+Médio
+m/1,5 m
+m/1,5 m
+Grande
+Grande
+Grande
+Grande
+Enorme
+Enorme
+4,5 m/4,5 m
+4,5 m/4,5 m
+Imenso
+Imenso
+6 m/6 m ou maior
+6 m/6 m ou maior
+6 m/6 m ou maior
+SPAÇO
+O espaço de uma criatura é uma área que ela
+efetivamente controla em combate, não uma expressão
+das suas dimensões físicas. Uma típica criatura Média,
+por exemplo, não possui 1,5 metro de largura, mas
+controla um espaço desse tamanho. Se um hobgoblin Médio permanecer parado em uma porta de 1,5 metro de
+largura, outras criaturas não poderão passar por ele a não
+ser que ele permita.
+O espaço de uma criatura também reflete a área que
+ela precisa para lutar efetivamente. Por essa razão, há um limite no número de criaturas que podem cercar outra criatura em combate. Assumindo combatentes Médios,
+oito criaturas podem cercar um raio de 1,5 metro de um
+deles.

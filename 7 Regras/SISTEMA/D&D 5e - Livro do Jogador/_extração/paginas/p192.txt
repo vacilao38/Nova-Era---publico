@@ -1,0 +1,219 @@
+ARIAÇÃO
+ARIAÇÃO
+ARIAÇÃO
+OGANDO NA
+OGANDO NA
+ATRIZ DE
+ATRIZ DE
+OMBATE
+OMBATE
+Se você prefere realizar um combate usa
+ndo uma matriz
+ndo uma matriz
+ndo uma matriz
+combate, miniaturas ou outros marcadores, use essas
+combate, miniaturas ou outros marcadores, use essas
+regras.
+regras.
+Quadrados
+. Cada quadrado da matriz
+de combate tem 1,5
+de combate tem 1,5
+metro de
+metro de
+lado.
+lado.
+Deslocamento
+. Em vez de mover metro por metro, mova
+. Em vez de mover metro por metro, mova
+quadrado por quadrado. Isso significa que você usa seu
+quadrado por quadrado. Isso significa que você usa seu
+deslocamento em segmentos de 1,5 metro. É fácil, basta
+deslocamento em segmentos de 1,5 metro. É fácil, basta
+você
+você
+transformar seu deslocamento em metro
+transformar seu deslocamento em metro
+transformar seu deslocamento em metro
+para quadrados
+para quadrados
+dividindo o valor por 1,5. P
+or exemplo, um deslocamento de 9
+or exemplo, um deslocamento de 9
+metros se transforma em 6 quadrados.
+metros se transforma em 6 quadrados.
+Se você usa a matriz
+de combate com frequência, considere
+de combate com frequência, considere
+escrever seu deslocamento em quadrados na sua ficha de
+escrever seu deslocamento em quadrados na sua ficha de
+personagem.
+personagem.
+Entrando em um Quadrado
+. Para entrar em um quadrado,
+. Para entrar em um quadrado,
+você dev
+e ter pelo menos 1 quadrado restante no seu
+e ter pelo menos 1 quadrado restante no seu
+deslocamento, mesmo se esse quadrado for diagonalmente
+deslocamento, mesmo se esse quadrado for diagonalmente
+adjacente ao seu (a regra para movimento diagonal sacrifica o
+adjacente ao seu (a regra para movimento diagonal sacrifica o
+realismo pelo bem do jogo fluido.
+realismo pelo bem do jogo fluido.
+Guia do Mestre
+Guia do Mestre
+fornece
+fornece
+diretrizes para usar essa abordagem
+mais realista).
+mais realista).
+Se um quadrado custar movimento adicional, como um
+Se um quadrado custar movimento adicional, como um
+quadrado de terreno difícil, você deve ter movimento
+quadrado de terreno difícil, você deve ter movimento
+restante
+restante
+para entrar nele. Por exemplo, você deve ter pelo menos 2
+para entrar nele. Por exemplo, você deve ter pelo menos 2
+quadrados de movimento sobrando para entrar em um
+quadrados de movimento sobrando para entrar em um
+quadrado
+de terreno
+de terreno
+difícil.
+difícil.
+Quinas
+. Movimentos diagonais não podem passar através
+. Movimentos diagonais não podem passar através
+. Movimentos diagonais não podem passar através
+quinas de paredes, árvores grandes ou outra característica
+quinas de paredes, árvores grandes ou outra característica
+quinas de paredes, árvores grandes ou outra característica
+terreno que preencha aquele espaço.
+terreno que preencha aquele espaço.
+Alcances
+. Para determinar o alcance entre duas coisas em
+. Para determinar o alcance entre duas coisas em
+uma matriz
+de combate
+de combate
+de combate
+sejam cria
+turas ou objetos
+turas ou objetos
+turas ou objetos
+comece a
+comece a
+contar a partir do quadrado adjacente de um deles e pare de
+contar a partir do quadrado adjacente de um deles e pare de
+contar no espaço do outro. Conte o caminho mais curto.
+contar no espaço do outro. Conte o caminho mais curto.
+Como criaturas maiores precisam de mais espaço,
+menos delas podem cercar outras. Se cinco criaturas
+Grandes cercarem uma criatura Média ou menor, haverá pouco espaço para todos na sala. Por outro lado, até vinte
+criaturas Médias podem cercar uma criatura
+Imensa.
+Imensa.
+SPREMENDO-
+SPREMENDO-
+EM
+EM
+SPAÇOS
+SPAÇOS
+ENORES
+Uma criatura pode se espremer para passar em um
+espaço grande o suficiente para uma criatura uma
+categoria menor que ela. Assim, uma criatura Grande
+pode se apertar através de uma passagem de apenas pode se apertar através de uma passagem de apenas
+metro de largura. Enquanto estiver passando por metro de largura. Enquanto estiver passando por
+espaço apertado, uma criatura deve gastar 1,5 metro
+adicional para cada 1,5 metro que se mova e ela tem
+desvantagem nas jogadas de ataque e testes de Destreza.
+Jogadas de ataque contra ela tem vantagem enquanto ela
+estiver em um espaço menor.
+estiver em um espaço menor.
+ÇÕES EM
+ÇÕES EM OMBATE
+Quando você realiza sua ação em seu turno, você pode
+escolher entre uma das ações apresentadas aqui, uma
+ação que ganhou da sua classe ou característica especial,
+ou uma ação improvisada. Muitos monstros têm opções de
+ações próprias em seus blocos de estatísticas.
+Quando você descreve uma ação que não está
+detalhada em uma das regras, o Mestre dirá se a ação
+detalhada em uma das regras, o Mestre dirá se a ação
+possível e que tipo de jogada você deve realizar, se houver, para determinar o sucesso ou fracasso.
+houver, para determinar o sucesso ou fracasso.
+JUDAR
+JUDAR
+Você pode prestar ajuda para que outra criatura complete
+uma atividade. Quando realiza a ação Ajudar, a criatura
+que você ajuda tem vantagem no próximo teste de
+habilidade que ela fizer para completar a atividade que
+está recebendo ajuda, dado que ela realize o teste antes do começo do seu próximo turno.
+Alternativamente, você pode ajudar uma criatura
+amigável em um ataque contra uma criatura que está a até 1,5 metro de você. Você finta, distrai o alvo ou trabalha em equipe de alguma outra forma para fazer o
+ataque de seu aliado mais eficaz. Se seu aliado atacar o
+alvo antes do seu próximo turno, a primeira jogada de ataque que ele realizar contra o alvo tem vantagem.
+ataque que ele realizar contra o alvo tem vantagem.
+ataque que ele realizar contra o alvo tem vantagem.
+ataque que ele realizar contra o alvo tem vantagem.
+ataque que ele realizar contra o alvo tem vantagem.
+A ação mais comum para se realizar em combate é a ação de Ataque, seja golpear com uma espada, atirar uma flecha de um arco ou lutar corpo-a-corpo com os próprios punhos.
+Com essa ação, você realiza um ataque corpo-a-corpo
+ou à distância. Veja a seção "Realizando um Ataque" para
+as regras que dirigem os ataques.
+Certas características, como o Ataque Adicional do
+guerreiro, permitem que você realize mais de um ataque
+com essa ação.
+com essa ação.
+ONJURAR UMA
+ONJURAR UMA
+AGIA
+AGIA
+Conjuradores, como magos e clérigos, bem como muitos
+monstros, têm acesso às magias e podem usá-las com grande efeito em combate. Cada magia possui um tempo
+para ser conjurada, que especifica se é necessário gastar
+uma ação,
+uma ação,
+reação, minutos ou até mesmo horas para
+conjurá-la. O tempo para conjurar magia, portanto, não é
+necessariamente uma ação. Muitas magias têm tempo
+para conjurar magia de 1 ação, então frequentemente se usa uma ação em combate para conjurar a magia. Veja o
+capítulo 10 para as regras sobre conjurar magias.
+capítulo 10 para as regras sobre conjurar magias.
+ESENGAJAR
+ESENGAJAR
+Se você realiza a ação Desengajar, seu movimento não
+provoca ataques de oportunidade pelo resto do turno.
+provoca ataques de oportunidade pelo resto do turno.
+ISPARADA
+ISPARADA
+Quando você realiza a ação de Disparada, você ganha
+deslocamento adicional no seu turno atual. O aumento
+equivale ao seu valor de deslocamento, depois de aplicar qualquer modificador. Com o deslocamento de 9 metros,
+por exemplo, você pode se mover até 18 metros no seu
+turno se realizar uma disparada.
+Qualquer aumento ou redução do seu deslocamento
+muda esse movimento adicional na mesma medida. Se seu deslocamento de 9 metros for reduzido a 4,5 metros,
+por exemplo, você pode se mover até 9 metros no seu
+turno se realizar uma disparada.
+turno se realizar uma disparada.
+SCONDER
+SCONDER
+Quando você opta pela ação Esconder, você faz um teste
+de Destreza (Furtividade) para tentar se esconder, seguindo as regras do capítulo 7 para esconder-se. Se
+passar, você ganha certos benefícios, como descrito na
+seção "Atacantes Não Vistos e Alvos" mais adiante nes
+seção "Atacantes Não Vistos e Alvos" mais adiante nes
+capítulo.
+capítulo.
+SQUIVAR
+SQUIVAR
+Quando você realiza a ação Esquivar, você se foca
+completamente em evitar ataques. Até o começo do seu
+próximo turno, qualquer jogada de ataque contra você próximo turno, qualquer jogada de ataque contra você
+feita com desvantagem se você puder ver o atacante e
+você tem vantagem em testes de Destreza. Você perde
+esse benefício se estiver incapacitado (como explicado no apêndice A) ou se seu deslocamento cair para 0.

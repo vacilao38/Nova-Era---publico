@@ -1,0 +1,164 @@
+afetada deve se mover, da melhor forma possível, para
+essa direção no próximo turno dela. Ela pode realizar sua
+ação antes de se mover. Depois de se mover dessa forma,
+ela pode realizar outra resistência de Sabedoria para
+tentar acabar com o efeito.
+Um alvo não é obrigado a se mover em direção de um
+perigo obviamente mortal, como uma fogueira ou abismo,
+mas ele vai provocar ataques de oportunidade por se
+mover na direção designada.
+mover na direção designada.
+OMUNHÃO
+5° nível de adivinhação (ritual)
+Tempo de Conjuração: 1 minuto Alcance
+: Pessoal
+Componentes
+: V, S, M (incenso e um frasco de água
+benta ou profana)
+Duração
+: 1 minuto
+Você contata sua divindade ou um representante divino e
+faz até três perguntas que podem ser respondidas com um
+sim ou não. Você deve fazer suas perguntas antes da magia terminar. Você recebe uma resposta correta para
+cada pergunta.
+Seres divinos não são necessariamente oniscientes,
+SRUWDQWRYRFrSRGHUHFHEHU´LQFHUWRµFRPRXPDUHVSRVWD
+se uma pergunta que diga respeito a uma informação
+além do conhecimento da divindade. Em caso de uma resposta de única palavra puder levar ao engano ou
+contrariar os interesses da divindade, o Mestre pode
+oferecer uma frase curta como resposta, no lugar.
+Se você conjurar essa magia duas ou mais vezes antes
+de terminar um descanso longo, existe uma chance cumulativa de 25 por cento de cada conjuração, depois da primeira que você fez, ter um resultado aleatório. O
+Mestre faz essa jogada secretamente.
+Mestre faz essa jogada secretamente.
+OMUNHÃO COM A
+OMUNHÃO COM A
+ATUREZA
+5° nível de adivinhação (ritual)
+Tempo de Conjuração: 1 minuto Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você, momentaneamente, se torna uno com a natureza e ganha conhecimento do território ao seu redor. Ao ar
+livre, a magia lhe oferece conhecimento do terreno a até
+livre, a magia lhe oferece conhecimento do terreno a até 5 quilômetros de você. Em cavernas e outros formações subterrâneas naturais, o raio é limitado a 150 metros. A
+magia não funciona onde a natureza foi substituída por
+construções, como em masmorras ou cidades.
+Você, instantaneamente, adquire conhecimento de até
+três fatos, à sua escolha, sobre qualquer dos assuntos a seguir, relacionados a área:
+seguir, relacionados a área:
+Terrenos e corpos de água
+Terrenos e corpos de água
+Plantas, minérios, animais e povo predominante
+Plantas, minérios, animais e povo predominante
+Celestiais, fadas, corruptores, elementais ou mortos-
+vivos mais poderosos
+vivos mais poderosos
+Influência de outros planos de existência
+Influência de outros planos de existência
+Construções
+Por exemplo, você poderia determinar a localização de
+um morto-vivo poderoso na área, a localização da maior
+fonte de água potável e a localização de quaisquer cidades
+próximas.
+próximas.
+ONE DE
+ONE DE
+RIO
+5° nível de evocação
+Tempo de Conjuração: 1 ação Alcance
+: Pessoal (cone de 18 metros)
+Componentes
+: V, S, M (um pequeno cristal ou cone de
+vidro)
+Duração
+: Instantânea
+Uma explosão de ar gelado irrompe das suas mãos. Cada criatura dentro do cone de 18 metros, deve realizar um teste de resistência de Constituição. Uma criatura sofre
+8d8 de dano de frio se falhar na resistência, ou metade
+desse dano se passar.
+Uma criatura morta por essa magia se torna uma
+estátua congelada até derreter.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 6° nível ou superior, o
+dano aumenta em 1d8 para cada nível do espaço acima do
+5°.
+5°.
+ONFUSÃO
+4° nível de encantamento Tempo de Conjuração: 1 ação
+Alcance
+: 27 metros
+Componentes
+: V, S, M (três cascas de noz)
+Duração
+: Concentração, até 1 minuto
+Essa magia ataca e embaralha as mentes das criaturas, gerando delírios e provocando ações descontroladas. Cada
+criatura em uma esfera com 3 metros de raio, centrada num ponto, à sua escolha, dentro do alcance, deve ser bem
+sucedida num teste de resistência de Sabedoria, quando
+você conjurar essa magia ou for afetada por ela.
+Um alvo afetado não pode realizar reações e deve rolar
+um d10 no início de cada um dos seus turnos para determinar seu comportamento nesse turno.
+d10
+d10
+Comportamento
+Comportamento
+Comportamento
+Comportamento
+A criatura usa todo seu deslocamento para se mover em
+uma direção aleatória. Para determinar a direção, role
+um d8 e atribua uma direção a cada face do dado. A
+criatura não realiza uma ação nesse turno.
+criatura não realiza uma ação nesse turno.
+criatura não realiza uma ação nesse turno.
+criatura não realiza uma ação nesse turno.
+criatura não realiza uma ação nesse turno.
+criatura não realiza uma ação nesse turno.
+criatura não realiza uma ação nesse turno.
+criatura não se move ou realiza ações nesse turno.
+criatura não se move ou realiza ações nesse turno.
+criatura não se move ou realiza ações nesse turno.
+criatura não se move ou realiza ações nesse turno.
+criatura não se move ou realiza ações nesse turno.
+criatura não se move ou realiza ações nesse turno.
+A criatura usa sua ação para realizar um ataque corpo
+A criatura usa sua ação para realizar um ataque corpo
+A criatura usa sua ação para realizar um ataque corpo
+A criatura usa sua ação para realizar um ataque corpo
+corpo contra uma criatura, determinada aleatoriamente,
+ao seu alcance. Se não houver criaturas dentro do
+alcance, a criatura não faz nada nesse
+turno.
+turno.
+turno.
+turno.
+turno.
+turno.
+A criatura pode agir e se mover normalmente.
+A criatura pode agir e se mover normalmente.
+Ao final de cada um dos seus turnos, um alvo afetado
+pode realizar um teste de resistência de Sabedoria. Se for bem sucedido, esse efeito acaba nesse alvo.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 5° nível ou superior, o raio da esfera aumenta em 1,5 metro para cada nível do
+espaço acima do 4°.
+espaço acima do 4°.
+ONHECIMENTO
+ONHECIMENTO
+ENDÁRIO
+5° nível de adivinhação
+Tempo de Conjuração: 10 minutos Alcance
+: Pessoal
+Componentes
+: V, S, M (incenso valendo, no mínimo, 250
+po, consumido pela magia e quatro tiras de marfim valendo, no mínimo, 50 po cada)
+Duração
+: Instantânea
+Nomeie ou descreva uma pessoa, local ou objeto. A magia traz a sua mente um breve resumo do conhecimento significativo sobre a coisa que você nomeou. O
+conhecimento deve consistir em contos atuais, histórias
+esquecidas ou, até mesmo, conhecimento secreto que
+nunca foi amplamente divulgado. Se a coisa que você
+nomeou não for de importância lendária, você não recebe
+qualquer informação sofre ela. Quanto mais informação

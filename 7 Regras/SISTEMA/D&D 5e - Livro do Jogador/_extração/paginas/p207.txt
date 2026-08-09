@@ -1,0 +1,172 @@
+APÍTULO
+APÍTULO APÍTULO
+APÍTULO APÍTULO
+AGIAS
+STE CAPÍTULO DESCREVE AS MAGIAS MAIS COMUNS
+nos mundos de D
+UNGEONS
+& D
+RAGONS
+RAGONS
+Ele
+começa com a lista de magias de todas as
+classes conjuradoras.classes conjuradoras.
+escola de magia
+escola de magia escola de magia
+qual a magia pertence é determinada
+entre parênteses após seu nome. Se uma magia puder ser conjurada como um
+ritual
+, o descritor ritual também
+aparecerá dentro dos parênteses. Logo depois, virão todas as descrições das magias em ordem alfabética dos nomes das magias.
+das magias.
+AGIAS DE
+AGIAS DE
+ARDO
+ARDO
+ARDO
+RUQUES
+RUQUES
+ÍVEL
+ÍVEL
+Amizade (encantamento)
+Ataque Certeiro (adivinhação)
+Consertar (transmutação)
+Globos de Luz (evocação)
+Ilusão Menor (ilusão)
+Luz (evocação)
+Mãos Mágicas (conjuração)
+Mensagem (transmutação)
+Prestidigitação (transmutação)
+Proteção contra Lâminas (abjuração)
+Zombaria Viciosa (encantamento)
+1° N
+ÍVEL
+Amizade animal (encantamento)Compreender Idiomas (adivinhação, ritual)
+Curar Ferimentos (evocação)
+Detectar Magia (adivinhação, ritual)
+Disfarçar-
+Disfarçar-
+(ilusão)
+Enfeitiçar Pessoa (encantamento)
+Escrita Ilusória (ilusão, ritual)
+Falar com Animais (adivinhação, ritual)
+Fogo das Fadas (evocação)
+Heroísmo (encantamento)
+Identificação (adivinhação, ritual)
+Imagem Silenciosa (ilusão)
+Onda Trovejante (evocação)
+Queda Suave (transmutação)
+Palavra Curativa (evocação)
+Passos Longos (transmutação)
+Perdição (encantamento)
+Riso Histérico de Tasha (encantamento)
+Servo Invisível (conjuração, ritual)
+Sono (encantamento)
+Sussurros Dissonantes (encantamento)
+2° N
+ÍVEL
+Acalmar Emoções (encantamento)Aprimorar Habilidade (transmutação)
+Arrombar (transmutação)
+Boca Encantada (ilusão, ritual)
+Cativar (encantamento)
+Cegueira/Surdez (necromancia)
+Coroa da Loucura (encantamento)
+Esquentar Metal (transmutação)
+Despedaçar (evocação)
+Força Fantasmagórica (ilusão)
+Detectar Pensamentos (adivinhação)
+Imobilizar Pessoa (encantamento)
+Invisibilidade (ilusão)
+Localizar Animais ou Plantas
+(adivinhação, ritual)
+Localizar Objeto (adivinhação)
+Mensageiro Animal (encantamento, ritual)
+Nuvem de Adagas (conjuração)
+Restauração Menor (abjuração)
+Silêncio (ilusão, ritual)
+Sugestão (encantamento)
+Ver o Invisível (adivinhação)
+Zona da Verdade (encantamento)
+3° N
+ÍVEL
+Ampliar Plantas (transmutação)
+Clarividência (adivinhação)
+Dificultar Detecção (abjuração)
+Dissipar Magia (abjuração)
+Enviar Mensagem (evocação)
+Falar com os Mortos (necromancia)
+Falar com Plantas (transmutação)
+Forjar Morte (necromancia, ritual)
+Glifo de Vigilânc
+Glifo de Vigilânc
+(abjuração)
+Idiomas (adivinhação)Imagem Maior (ilusão)
+Medo (ilusão)
+Névoa Fétida (conjuração)
+Padrão Hipnótico (ilusão)
+Pequena Cabana de Leomund
+(evocação, ritual)
+Rogar Maldição (necromancia)
+4° N
+ÍVEL
+Confusão (encantamento)
+Compulsão (encantamento)
+Movimentação Livre (abjuração)
+Invisibilidade Maior (ilusão)
+Localizar Criatura (adivinhação)
+Metamorfose (transmutação)
+Porta Dimensional (conjuração)
+Terreno Alucinógeno (ilusão)
+5° N
+ÍVEL
+Âncora Planar (abjuração)
+Animar Objetos (transmutação)
+Círculo de Teletransporte (conjuração)
+Conhecimento Lendário (adivinhação)
+Curar Ferimentos em Massa (evocação)Despertar (transmutação)
+Despistar (ilusão)
+Dominar Pessoa (encantamento)
+Imobilizar Monstro (encantamento)
+Missão (encantamento)
+Modificar Memória (encantamento)
+Restauração Maior (abjuração)
+Reviver os Mortos (necromancia)
+Similaridade (ilusão)
+Sonho (ilusão)
+Vidência (adivinhação)
+6° N
+ÍVEL
+Ataque Visual (necromancia)Dança Irresistível de Otto (encantamento)
+Encontrar o Caminho (adivinhação)
+Ilusão Programada (ilusão)
+Proteger Fortaleza (abjuração)
+Sugestão em Massa (encantamento)
+Visão da Verdade (adivinhação)
+7° N
+ÍVEL
+Espada de Mordenkainen (evocação)Forma Etérea (transmutação)
+Miragem (ilusão)
+Mansão Magnifica de Mordenkain
+Mansão Magnifica de Mordenkain
+Mansão Magnifica de Mordenkain
+(conjuração)
+Prisão de Energia (evocação)
+Projetar Imagem (ilusão)
+Regeneração (transmutação)
+Ressurreição (necromancia)
+Símbolo (abjuração)
+Teletransporte (conjuração)
+8° N
+ÍVEL
+Dominar Monstro (encantamento)
+Enfraquecer Intelecto (encantamento)
+Limpar a Mente (abjuração)
+Loquacidade (transmutação)
+Palavra de Poder Atordoar
+(encantamento)
+9° N
+ÍVEL
+Palavra de Poder Curar (evocação)
+Palavra de Poder Matar (encantamento)
+Metamorfose Verdadeira (transmutação)
+Sexto Sentido (adivinhação)

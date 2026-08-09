@@ -1,0 +1,98 @@
+O Mestre também pode decidir que algum fenômeno
+ambiental, como o impacto de uma onda sobre você
+enquanto está em um navio enfrentando uma
+tempestade, demande um sucesso em um teste de
+resistência de Constituição com CD 10, para poder manter a concentração na magia.
+manter a concentração na magia.
+manter a concentração na magia.
+manter a concentração na magia.
+Uma magia típica requer que você escolha um ou mais alvos para serem afetados por ela. A descrição da magia
+informa a você se ela tem como alvo criaturas, objetos ou
+um ponto de origem para uma área de efeito (descrita abaixo).
+A menos que uma magia tenha efeito perceptíve
+A menos que uma magia tenha efeito perceptíve
+uma
+criatura pode não saber se foi alvo de uma magia. Um
+efeito, como luzes crepitantes é bem obvio, mas um efeito
+mais sutil, como uma tentativa de ler os pensamentos de
+uma criatura, normalmente passa despercebido, a menos que a magia diga o contrário.
+que a magia diga o contrário.
+que a magia diga o contrário.
+que a magia diga o contrário.
+AMINHO
+AMINHO
+IVRE ATÉ O
+IVRE ATÉ O
+LVO
+Para mirar em um alvo, você deve ter o caminho livre,
+logo não pode estar por de trás de uma cobertura total.
+Se você definir uma área de efeito a partir de um
+ponto que não possa ver e que seja uma obstrução, como uma parede, entre você e o alvo, o ponto de origem tem
+início no ponto mais próximo da obstrução.
+início no ponto mais próximo da obstrução.
+IRANDO EM
+IRANDO EM
+IRANDO EM
+M
+ESMO
+Se uma magia tem como alvo uma criatura à sua escolha,
+você pode escolher a si próprio, a menos que a criatura
+precise ser hostil a você ou se especificado que a criatura seja outra que não você. Se você estiver na área de efeito
+de uma magia conjurada por você mesmo, você pode ter a
+si próprio como alvo.
+si próprio como alvo.
+REAS D
+REAS D
+REAS D
+FEITO
+FEITO
+Magias como
+mãos flamejantes
+mãos flamejantes mãos flamejantes
+cone de frio
+cobrem uma
+área, permitindo afetar múltiplas criaturas de uma área, permitindo afetar múltiplas criaturas de uma
+vez.
+A descrição da magia especifica sua área de efeito, A descrição da magia especifica sua área de efeito,
+qual tem normalmente uma das cinco formas: cone, cubo, cilindro, esfera ou linha. Toda área de efeito tem cilindro, esfera ou linha. Toda área de efeito tem
+ponto de origem
+, uma localização de onde a magia
+irrompe. As regras para cada forma especificam como
+você posiciona seu ponto de origem. Normalmente, um
+ponto de origem é um ponto no espaço, mas algumas
+magias têm uma área cujo ponto de origem é uma criatura ou objeto.
+O efeito da magia se expande em linhas retas a partir
+do ponto de origem. Se nenhuma linha reta desbloqueada estender-se a partir do ponto de origem até uma
+localização dentro da área de efeito, essa localização não
+estará inclusa na área da magia. Para bloquear um
+estará inclusa na área da magia. Para bloquear um
+dessas linhas imaginárias, uma obstrução deve fornecer
+cobertura total, como explicado no capítulo 9.
+cobertura total, como explicado no capítulo 9.
+ILINDRO
+O ponto de origem de um cilindro é o centro de um círculo
+de um raio em particular, como dito na descrição da
+magia. O círculo deve estar ou no chão ou na altura do
+efeito da magia. A energia de um cilindro se expande em
+linhas retas do ponto de origem até o perímetro de círculo, formando a base do cilindro. O efeito da magia, então, se
+conjura da base ou desce do topo, até uma distância
+equivalente à altura do cilindro.
+O ponto de origem do cilindro está incluso em sua área
+de efeito.
+de efeito.
+de efeito.
+de efeito.
+Um cone se estende em uma direção escolhida por você Um cone se estende em uma direção escolhida por você partir do ponto de origem. A largura do cone em determinado ponto de seu comprimento é igual à
+distância desse ponto àquele de origem.
+O ponto de origem do cone não está incluso na área de
+efeito do mesmo, a menos que você decida o contrário.
+efeito do mesmo, a menos que você decida o contrário.
+UBO
+Você escolhe o ponto de origem do cubo em qualquer lugar na face do efeito cúbico. O tamanho do cubo é expresso
+pelo comprimento de cada lado.
+O ponto de origem do cubo não está incluso em sua
+área de efeito, a menos que você decida o contrário.
+área de efeito, a menos que você decida o contrário.
+SFERA
+Você seleciona o ponto de origem de uma esfera, e ela se expande a partir desse ponto. O tamanho da esfera é expresso pelo raio em metros que se estende a partir do
+ponto de origem.

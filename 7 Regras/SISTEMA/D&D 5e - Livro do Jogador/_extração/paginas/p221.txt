@@ -1,0 +1,138 @@
+Componentes
+: V, S, M (uma tigela encrustada de gemas
+valendo, no mínimo, 1.000 po, que é consumida pela
+magia)
+Duração
+: Instantânea
+Você traz um grande banquete, incluindo comida e bebida
+magnificas. O banquete leva 1 hora para ser consumido e
+desaparece ao final desse tempo e os efeitos benéficos não
+se aplicam até essa hora terminar. Até doze criaturas podem participar do banquete.
+Uma criatura que participe do banquete ganha
+diversos benefícios. A criatura é curada de todas as doenças e venenos, torna-se imune a veneno e a ser
+amedrontada e faz todos os seus testes de resistência de
+Sabedoria com vantagem. Seu máximo de pontos de vida também aumenta em 2d10 e ela ganha a mesma
+quantidade de pontos de vida. Esses benefícios duram por
+24 horas.
+24 horas.
+ARREIRA DE
+ARREIRA DE
+ÂMINAS
+6° nível de evocação Tempo de Conjuração: 1 ação
+Alcance
+: 24 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 10 minutos
+Você cria uma muralha vertical de lâminas giratórias,
+afiadas como navalhas, feitas de energia mágica. A
+muralha aparece dentro do alcance e permanece pela duração. Você pode fazer uma muralha reta de até 30
+metros de comprimento por 6 metros de altura e 1,5
+metro de largura ou uma muralha anelar com até 18 metros de diâmetro, 6 metros de altura e 1,5 metro de
+largura. A muralha confere três-quartos de cobertura a
+criaturas atrás dela e seu espaço é terreno difícil.
+Quando uma criatura entrar a área da muralha pela
+primeira vez em um turno, ou começar seu turno nela, a criatura deve realizar um teste de resistência de Destreza. Se falhar, a criatura sofrerá 6d10 de dano
+cortante. Em um sucesso, a criatura sofre metade desse
+dano.
+dano.
+ÊNÇÃO
+1° nível de encantamento
+Tempo de Conjuração
+: 1 ação
+Alcance
+: 9 metros
+Componentes
+: V, S, M (um borrifo de água benta)
+Duração
+: Concentração, até 1 minuto
+Você abençoa até três criaturas, à sua escolha, dentro do
+alcance. Sempre que um alvo realizar uma jogada de
+ataque ou teste de resistência antes da magia acabar, o alvo pode jogar um d4 e adicionar o valor jogado ao
+ataque ou teste de resistência.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 2° nível ou superior, você pode afetar uma criatura adicional para
+cada nível do espaço acima do 1°.
+cada nível do espaço acima do 1°.
+OCA
+OCA
+NCANTADA
+2° nível de ilusão (ritual)Tempo de Conjuração: 1 minuto
+Alcance
+: 9 metros
+Componentes
+: V, S, M (um pedaço de favo de mel e pó
+de jade valendo, no mínimo, 10 po, consumidos pela magia)
+Duração
+: Até ser dissipada
+Você implanta uma mensagem em um objeto dentro do
+alcance, uma mensagem que é pronunciada quando uma
+condição de ativação é satisfeita. Escolha um objeto que
+você possa ver e não esteja sendo vestido ou carregado por
+outra criatura. Então, fale a mensagem, que deve conter
+25 palavras ou menos, apesar de ela poder ser entregue
+durante um período de até 10 minutos. Finalmente,
+determine a circunstância que irá ativar a magia para
+que sua mensagem seja entregue.
+Quando essa circunstância ocorrer, a boca encantada
+aparecerá no objeto e recitará a mensagem com sua voz e com o mesmo volume que você falou. Se o objeto que você
+escolheu tiver uma boca ou algo semelhante a uma boca(por exemplo, a boca de uma estátua), a boca mágica
+aparece ai, então, as palavras parecerão vir da boca do
+objeto. Quando você conjura essa magia, você pode fazer a magia acabar depois de enviar sua mensagem ou ela pode
+permanecer e repetir a mensagem sempre que a
+circunstância de ativação ocorrer.
+A circunstância de ativação pode ser tão genérica ou
+tão detalhada quando você quiser, apesar de ela precisar ser baseada em condições visuais ou audíveis que ocorram a até 9 metros do objeto. Por exemplo, você pode instruir
+a boca a falar quando uma criatura se aproximar a menos
+de 9 metros do objeto ou quando um sino de prata tocar a
+menos de 9 metros dela.
+menos de 9 metros dela.
+OLA DE OLA DE
+OGO
+3° nível de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: 45 metros
+Componentes
+: V, S, M (uma minúscula bola de guano de
+morcego e enxofre)
+Duração
+Duração
+Instantânea
+Um veio brilhante lampeja na ponta do seu dedo em direção a um ponto que você escolher, dentro do alcance, e
+então eclode com um estampido baixo, explodindo em
+chamas. Cada criatura em uma esfera de 6 metros de raio, centrada no ponto, deve realizar um teste de
+resistência de Destreza. Um alvo sofre 8d6 de dano de
+fogo se falhar na resistência, ou metade desse dano se obtiver sucesso.
+O fogo se espalha, dobrando esquinas. Ele incendeia
+objetos inflamáveis na área que não estejam sendo vestidos ou carregados.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 4° nível ou superior, o dano aumenta em 1d6 para cada nível do
+espaço acima do 3°.
+espaço acima do 3°.
+OLA DE OLA DE
+OGO
+OGO
+ONTROLÁVEL
+7° nível de evocação
+Tempo de Conjuração: 1 ação Alcance
+: 45 metros
+Componentes
+: V, S, M (uma minúscula bola de guano de
+morcego e enxofre)
+Duração
+: Concentração, até 1 minuto
+Um feixe de luz amarelada é disparado da ponta do seu
+dedo, então se condensa e aguarda no ponto escolhido,
+dentro do alcance, como uma conta brilhante, pela
+duração. Quando a magia termina, seja por sua
+concentração ter sido interrompida ou por você ter
+decidido termina-la, a conta eclode com um estampido baixo, explodindo em chamas que se espalhando,
+dobrando esquinas. Cada criatura numa esfera, com 6
+metros de raio, centrada na conta, deve realizar um teste de resistência de Destreza. Uma criatura sofre dano igual
+ao total de dano acumulado se falhar na resistência, ou
+metade do total se obtiver sucesso.

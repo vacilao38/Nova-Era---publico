@@ -1,0 +1,80 @@
+Determine os modificadores.
+O Mestre determina
+se o alvo tem cobertura ou não e se você tem vantagem
+ou desvantagem contra o alvo. Além disso, magias,
+habilidades especiais e outros efeitos podem aplicar
+penalidades ou bônus na jogada de ataque.
+penalidades ou bônus na jogada de ataque.
+Resolva o ataque.
+Você realiza uma jogada de
+ataque. Se acertar, joga o dano, a não ser que um
+ataque particular tenha regras específicas que digam o
+contrário. Alguns ataques causam efeitos especiais em
+adição ou ao invés do dano.
+Se houver qualquer dúvida sobre se algo que você faz é
+um ataque ou não, a regra é simples: se você realiza uma jogada de ataque, então você está realizando um ataque.
+jogada de ataque, então você está realizando um ataque.
+OGADAS DE
+OGADAS DE
+TAQUE
+TAQUE
+Quando você realiza um ataque, sua jogada de ataque determina se o ataque acerta ou erra. Para realizar uma jogada de ataque, jogue um d20 e adicione os
+modificadores apropriados. Se o total da jogada, somado
+aos modificadores, igualar ou ultrapassar a Classe de Armadura (CA) do alvo, o ataque acerta. A CA de um
+personagem é determinada na criação do personagem,
+enquanto que a CA de um monstro está em seu bloco de estatísticas.
+estatísticas.
+ODIFICADORES
+ODIFICADORES
+ODIFICADORES
+ODIFICADORES
+OGADA
+Quando um personagem realiza uma jogada de ataque, Quando um personagem realiza uma jogada de ataque, dois modificadores mais comuns para a jogada são dois modificadores mais comuns para a jogada são
+modificador de habilidade e o bônus de proficiência do
+personagem. Quando um monstro realiza uma jogada de
+ataque, ele usa os modificadores fornecidos em seu bloco
+de estatísticas.
+Modificador de Habilidade
+Modificador de Habilidade
+Modificador de Habilidade
+modificador de
+habilidade usado para um ataque com uma arma corpo-a-
+corpo é a Força, e o modificador usado para um ataque
+com uma arma à distância é a Destreza. Armas que
+possuem a propriedade Acuidade ou Arremesso quebram
+essa regra.
+Algumas magias também requerem uma jogada de
+ataque. O modificador de habilidade usado por um ataque
+de magia depende da habilidade para conjurar magias de
+quem as conjura, como explicado no capítulo 10.
+Bônus de Proficiência
+Bônus de Proficiência
+Você adiciona seu bônus de
+proficiência nas jogadas de ataque quando está usando
+uma arma que é proficiente, bem como quando ataque
+com uma magia.
+com uma magia.OLANDO
+OLANDO
+OLANDO 20
+Algumas vezes, o destino abençoa ou amaldiçoa um
+personagem, levando um novato
+personagem, levando um novato acertar e um veterano
+a errar.
+Se a jogada de ataque com o d20 resultar em 20, o
+ataque acerta, independentemente de qualquer
+modificador ou da CA do alvo. Além disso, o ataque é considerado um acerto crítico, como é explicado mais à
+frente nesse capítulo.
+Se a jogada de ataque com o d20 resultar em 1, o
+ataque erra, independentemente de qualquer modificador ou da CA do alvo.
+ou da CA do alvo.
+TACANTES E
+TACANTES E
+LVOS
+LVOS
+CULTOS
+CULTOS
+Combatentes normalmente tentam escapar da vista de
+seus adversários ao se esconder, conjurando a magia invisibilidade ou espreitando-se na escuridão total.
+Quando você ataca um alvo que não pode ver, você tem
+desvantagem na jogada de ataque. Isso ocorre mesmo se você está tentando adivinhar a localização do alvo ou se
+está mirando em uma criatura que consegue ouvir, mas

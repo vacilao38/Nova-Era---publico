@@ -1,0 +1,129 @@
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 2° nível ou superior, a
+cura aumenta em 1d8 para cada nível do espaço acima do
+1°.
+1°.
+URAR
+URAR
+ERIMENTOS EM
+ERIMENTOS EM
+ASSA
+5° nível de evocação Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Uma onda de energia curativa emerge de um ponto, à sua escolha, dentro do alcance. Escolha até seis criaturas
+numa esfera de 9 metros de raio, centrada nesse ponto.Cada alvo recupera uma quantidade de pontos de vida
+igual a 3d8 + seu modificador de habilidade de
+conjuração. A magia não afeta mortos-vivos ou constructos.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 6° nível ou superior, a cura aumenta em 1d8 para cada nível do
+espaço acima do 5°.
+espaço acima do 5°.
+ANÇA
+ANÇA
+RRESISTÍVEL DE
+RRESISTÍVEL DE
+RRESISTÍVEL DE
+6° nível de encantamento
+Tempo de Conjuração
+: 1 ação
+Alcance
+: 9 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Escolha uma criatura que você possa ver, dentro do alcance. O alvo começa a dançar comicamente no lugar:
+rodopiando, batendo os pés e saltitando pela duração. As
+criaturas que não podem ser enfeitiçadas são imunes a essa magia.
+Uma criatura dançando deve usar todo o seu
+movimento para dançar sem abandonar seu espaço e tem desvantagem nos testes de resistência de Destreza e nas
+jogadas de ataque. Enquanto o alvo estiver sob efeito
+dessa magia, as outras criaturas terão vantagem nas
+jogadas de ataque contra ele. Com uma ação, uma
+criatura dançando pode realizar um teste de resistência
+de Sabedoria para recuperar controle sobre si mesmo.Num sucesso na resistência, a magia acaba.
+Num sucesso na resistência, a magia acaba.
+EDO DA
+EDO DA
+ORTE
+7° nível de necromancia
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Você envia energia negativa na direção de uma criatura que você possa ver, dentro do alcance, causando dores severas nela. O alvo deve realizar um teste de resistência
+de Constituição. Ele sofre 7d8 + 30 de dano necrótico se
+falhar na resistência, ou metade desse dano se obtiver sucesso.
+Um humanoide morto por essa magia, se ergue no
+início do seu próximo turno como um zumbi que está permanentemente sob seu controle, seguindo suas ordens
+verbais da melhor forma possível.
+verbais da melhor forma possível.
+ESEJO
+9° nível de conjuração
+Tempo de Conjuração: 1 ação Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Desejo
+é a magia mais poderosa que uma criatura mortal
+pode conjurar. Apenas ao falar em voz alta, você pode
+alterar os próprios fundamentos da realidade, de acordo
+com seus desejos.
+O uso básico dessa magia é de copiar qualquer magia
+de 8° nível ou inferior. Você não precisa atender a qualquer pré-requisito da magia copiada, incluindo os componentes dispendiosos. A magia simplesmente
+acontece.
+Alternativamente, você pode criar um dos seguintes
+efeitos, à sua escolha:
+efeitos, à sua escolha:
+Você cria um objeto no valor de até 25.000 po, que não
+seja mágico. O objeto não pode ter dimensões maiores
+que 90 metros e ele aparece em um espaço desocupado
+que você possa ver, no chão.
+que você possa ver, no chão.
+Você permite que até doze criaturas que você possa
+ver, recuperem todos os seus pontos de vida e você acaba com todos os efeitos descritos na magia
+restauração maior
+restauração maior
+restauração maior
+Você concede a até dez criaturas que você possa ver,
+resistência a um tipo de dano, à sua escolha.
+resistência a um tipo de dano, à sua escolha.
+Você concede a até dez criaturas que você possa ver, imunidade a uma única magia ou outro efeito mágico por 8 horas. Por exemplo, você poderia deixar você e
+todos os seus companheiros imunes ao ataque de
+dreno de vida de um lich.
+dreno de vida de um lich.
+Você desfaz um único evento recente forçando uma
+nova jogada de qualquer jogada feita na última rodada
+(incluindo seu último turno). A realidade remodela-
+(incluindo seu último turno). A realidade remodela-
+para acomodar o novo resultado. Por exemplo, uma
+magia
+desejo
+poderia desfazer o teste de resistênc
+poderia desfazer o teste de resistênc
+bem sucedido de um oponente, um acerto crítico de um
+inimigo ou o teste de resistência fracassado de um
+amigo. Você pode forçar que a nova jogada seja feita
+com vantagem ou desvantagem e você pode escolher se irá usar o resultado da nova jogada ou da jogada
+original.
+Você é capaz de fazer coisas além do alcance dos
+exemplos acima. Apresente seu desejo ao Mestre o mais
+precisamente possível. O Mestre tem grande amplitude
+em definir o que ocorre em tais circunstâncias; quanto maior o desejo, maior será a possibilidade de que algo dê
+errado. Essa magia pode simplesmente falhar, o efeito do

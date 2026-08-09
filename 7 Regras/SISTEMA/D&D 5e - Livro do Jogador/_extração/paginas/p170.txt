@@ -1,0 +1,66 @@
+ESTRE DE
+ESTRE DE
+RMAS
+RMAS
+RANDES
+RANDES
+Você aprendeu a usar o peso em sua vantagem, deixando
+o balanço potencializar seus golpes. Você recebe os
+seguintes benefícios:
+seguintes benefícios:
+No seu turno, quando você atingir um acerto crítico
+com uma arma corpo-a-corpo ou reduzir os pontos de
+vida de uma criatura a 0, você pode realizar um
+ataque corpo-a-corpo com arma, com uma ação bônus.
+ataque corpo-a-corpo com arma, com uma ação bônus.
+Antes de você realizar um ataque corpo-a-corpo com
+Antes de você realizar um ataque corpo-a-corpo com
+arma pesada na qual você seja proficiente, você
+pode escolher sofrer
+pode escolher sofrer
+5 de penalidade em sua jogada
+de ataque. Se o ataque atingir, você adiciona +10 ao
+dano do ataque.
+dano do ataque.
+ESTRE DE
+ESTRE DE
+SCUDO
+SCUDO
+Você não usa escudos apenas para proteção, mas também de forma ofensiva. Você ganha os seguintes benefícios enquanto estiver empunhando um escudo:
+enquanto estiver empunhando um escudo:
+Se você realizar a ação de Ataque no seu turno, você
+pode usar uma ação bônus para tentar empurrar uma
+criatura, a até 1,5 metro de você, com seu escudo.
+criatura, a até 1,5 metro de você, com seu escudo.
+Se você não estiver incapacitado, você pode adicionar seu bônus de CA do escudo a qualquer teste de resistência de Destreza que você fizer contra uma
+magia ou outro efeito nocivo que tenha você como alvo.
+magia ou outro efeito nocivo que tenha você como alvo.
+Se você for alvo de um efeito que permita realizar um teste de resistência de Destreza para sofrer apenas
+metade do dano, você pode usar sua reação para não sofrer dano se passar no teste de resistência, interpondo seu escudo entre você e a fonte do efeito.
+interpondo seu escudo entre você e a fonte do efeito.
+OBILIDADE
+Você é excepcionalmente rápido e ágil. Você ganha os seguintes benefícios:
+seguintes benefícios:
+Seu deslocamento aumenta em 3 metros.
+Seu deslocamento aumenta em 3 metros.
+Quando você usa a ação de Disparada, mover-
+Quando você usa a ação de Disparada, mover-
+através de terreno difícil não lhe custa qualquer
+movimento adicional neste turno.
+movimento adicional neste turno.
+Quando você realiza um ataque corpo-a-corpo contra
+uma criatura, você não provoca ataques de
+oportunidade para essa criatura pelo resto do turno,
+independentemente de ter atingido ou não.
+independentemente de ter atingido ou não.
+BSERVADOR
+BSERVADOR
+Rápido em perceber os detalhes do ambiente, você ganha
+os seguintes benefícios:
+os seguintes benefícios:
+Aumente seu valor de Inteligência ou Sabedoria em 1,
+até o máximo de 20.
+até o máximo de 20.
+Se você puder ver a boca de uma criatura enquanto ela
+fala um idioma que você compreende, você pode
+interpretar o que ela está dizendo ao ler os seus lábios.

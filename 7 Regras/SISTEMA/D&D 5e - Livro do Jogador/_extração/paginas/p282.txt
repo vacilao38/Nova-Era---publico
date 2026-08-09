@@ -1,0 +1,125 @@
+se moverá para um terreno obviamente perigoso, como
+uma fogueira ou abismo. Se obtiver sucesso na
+resistência, o alvo sofre metade do dano e não precisa se
+afastar de você. Uma criatura surda obtém sucesso
+automaticamente na sua resistência.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 2° nível ou
+superior, o dano aumenta em 1d6 para cada nível do
+espaço acima do 1°.
+espaço acima do 1°.
+AUMATURGIA
+Truque de transmutação
+Tempo de Conjuração: 1 ação Alcance
+: 9 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Até 1 minuto
+Você manifesta pequenas maravilhas, um sinal de poder sobrenatural, dentro do alcance. Você cria um dos
+seguintes efeitos mágicos dentro do alcance:
+seguintes efeitos mágicos dentro do alcance:
+Sua voz ressoa com o triplo do volume normal por 1
+minuto.
+minuto.
+Você provoca tremores inofensivos no solo por 1
+minuto.
+minuto.
+Você cria, instantaneamente, um som que se origina
+de um ponto, à sua escolha, dentro do alcance, como o
+barulho de um trovão, o gralhar de um corvo ou
+sussurros sinistros.
+sussurros sinistros.
+Você, instantaneamente, faz uma porta ou janela
+destrancada se abrir ou se fechar.
+destrancada se abrir ou se fechar.
+Você altera a aparência dos seus olhos por 1 minuto.
+Se você conjurar essa magia diversas vezes, você pode
+ter até três dos efeitos de 1 minuto ativos por vez, e você
+pode dissipar um desses efeitos com uma ação.
+pode dissipar um desses efeitos com uma ação.
+EIA
+2° nível de conjuração Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+: V, S, M (um pedaço de teia de aranha)
+Duração
+: Concentração, até 1 hora
+Você conjura uma massa de teias espessas e pegajosas
+num ponto, à sua escolha, dentro do alcance. As teias
+preenchem um cubo de 6 metros naquele ponto, pela duração. As teias são terreno difícil e causam escuridão
+leve na área delas.
+Se as teias não estiverem sendo suportadas por duas
+massas sólidas (como duas paredes ou árvores) ou em camadas sobre um chão, parede ou teto, a teia conjurada
+desaba sobre si mesma e a magia termina no início do seu próximo turno. As teias em camadas sobre uma superfície
+plana terão 1,5 metro de profundidade.
+Cada criatura que começar seu turno nas teias ou
+entrar nelas durante seu turno, deve realizar um teste de resistência de Destreza. Se falhar na resistência, a
+criatura estará impedida enquanto permanecer nas teias
+ou até se libertar.
+Uma criatura impedida pelas teias pode usar sua ação
+para realizar um teste de Força contra a CD da magia. Se obtiver sucesso, ela não estará mais impedida.
+As teias são inflamáveis. Qualquer cubo de 1,5 metro
+de teia exposto ao fogo, é consumida por ele em 1 rodada, causando 2d4 de dano de fogo a qualquer criatura que
+começar seu turno nas chamas.
+começar seu turno nas chamas.
+ELECINÉSIA
+5° nível de transmutação
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 10 minutos
+Você adquire a habilidade de mover ou manipular criaturas ou objetos através do pensamento. Quando você conjura a magia e, com sua ação a cada turno, pela
+duração, você pode exercer sua vontade sobre uma
+criatura ou objeto que você possa ver, dentro do alcance, causando os efeitos apropriados abaixo. Você pode afetar
+o mesmo alvo rodada após rodada, ou escolher um novo a
+qualquer momento. Se você mudar de alvos, o alvo anterior não será mais afetado pela magia.
+Criatura
+. Você pode tentar mover uma criatura
+Enorme ou menor. Faça um teste de habilidade com sua habilidade de conjuração resistido por um teste Força da
+criatura. Se você vencer a disputa, você move a criatura
+até 9 metros em qualquer direção, incluindo para cima, mas não além do alcance da magia. Até o final do seu
+próximo turno, a criatura estará impedida pelo seu
+agarrão telecinético. Uma criatura erguida para cima estará suspensa no ar.
+Em rodadas subsequente, você pode usar sua ação
+para tentar manter seu agarrão telecinético na criatura repetindo o teste resistido.
+Objeto
+. Você pode tentar mover um objeto pesando até
+500 quilos. Se o objeto não estiver sendo vestido ou carregado, você o move, automaticamente, até 9 metros
+em qualquer direção, mas não além do alcance dessa
+magia.
+Se o objeto estiver sendo vestido ou carregado por uma
+criatura, você deve realizar um teste de habilidade com sua habilidade de conjuração resistido por um teste de Força da criatura. Se você for bem sucedido, você arranca
+o objeto da criatura e o move até 9 metros, em qualquer
+direção, mas não além do alcance dessa magia.
+Você pode exercer um controle refinado sobre os
+objetos com seu agarrão telecinético, como manipular ferramentas simples, abrir uma porta ou um recipiente, guardar ou recuperar um item de um recipiente aberto ou
+derramar o conteúdo de um frasco.
+derramar o conteúdo de um frasco.
+ELEPATIA
+8° nível de adivinhação
+Tempo de Conjuração
+: 1 ação
+Alcance
+: Ilimitado
+Componentes
+: V, S, M (um par de anéis de prata
+unidos)
+Duração
+: 24 horas
+Você cria uma ligação telepática entre você e uma
+criatura voluntária com a qual você seja familiarizado. A
+criatura pode estar em qualquer lugar no mesmo plano de existência que você. A magia termina se você ou o alvo
+não estiver mais no mesmo plano.
+Até a magia acabar, você e o alvo podem,
+instantaneamente, compartilhar palavras, imagens, sons e outras mensagens sensoriais uma com a outra através
+da ligação e o alvo reconhece que é você a criatura que está se comunicando com ele. A magia permite que uma
+criatura com valor de Inteligência mínimo de 1
+compreenda o sentido das suas palavras e capta o sentido geral de qualquer mensagem sensorial que você enviar.

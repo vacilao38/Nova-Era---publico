@@ -1,0 +1,147 @@
+ÃO ÃO
+IEL DE
+IEL DE
+ORDENKAINEN
+4° nível de conjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: 9 metros
+Componentes
+: V, S, M (um minúsculo apito de prata,
+um pedaço de osso e um fio)
+Duração
+: 8 horas
+Você conjura um cão de guarda fantasma em um espaço desocupado que você possa ver, dentro do alcance, que
+permanece pela duração, até você dissipa-lo com uma
+ação ou até você se mover para mais de 30 metros dele.
+O cão é invisível para todas as criaturas, exceto para
+você, e não pode ser ferido. Quando uma criatura Pequena ou maior se aproximar a 9 metros sem, primeiramente, falar a senha que você especifica quando
+conjura a magia, o cão começa a latir muito alto. O cão vê
+criaturas invisíveis e pode ver no Plano Etéreo. Ele ignora criaturas invisíveis e pode ver no Plano Etéreo. Ele ignora
+criaturas invisíveis e pode ver no Plano Etéreo. Ele ignora
+criaturas invisíveis e pode ver no Plano Etéreo. Ele ignora
+No começo de cada um dos seus turnos, o cão tenta
+morder uma criatura a 1,5 metro dele que seja hostil a você. O bônus de ataque do cão é igual ao seu modificador
+de habilidade de conjuração + seu bônus de proficiência.
+Se atingir, ele causa 4d8 de dano perfurante.
+Se atingir, ele causa 4d8 de dano perfurante.
+ATIVAR
+2° nível de encantamento Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: 1 minuto
+Você tece um cordão de palavras distrativas, fazendo as criaturas, à sua escolha, que você puder ver dentro do
+alcance e que puderem ouvir você, realizarem um teste de resistência de Sabedoria. Qualquer criatura que não
+puder ser enfeitiçada, passa automaticamente nesse teste
+de resistência e, se você ou seus companheiros estiverem lutando com a criatura, ela terá vantagem na resistência.
+Se falhar na resistência, a criatura terá desvantagem em
+testes de Sabedoria (Percepção) feitos para notar
+qualquer criatura além de você, até a magia acabar ou até
+o alvo não poder mais ouvir você. A magia acaba se você
+estiver incapacitado ou incapaz de falar.
+estiver incapacitado ou incapaz de falar.
+ARNE PARA
+ARNE PARA
+EDRA
+6° nível de transmutação Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+: V, S, M (uma pitada de cal, água e terra)
+Duração
+: Concentração, até 1 minuto
+Você tenta transformar uma criatura que você possa ver, dentro do alcance, em pedra. Se o corpo do alvo for feito
+de carne, a criatura deve realizar um teste de resistência de Constituição. Em caso de falha, ela ficará impedida, à
+medida que sua carne começa a endurecer. Se obtiver
+sucesso, a criatura não é afetada.
+Uma criatura impedida por essa magia deve realizar
+outro teste de resistência de Constituição no final de cada um dos turnos dela. Se obtiver sucesso na resistência contra essa magia três vezes, a magia termina. Se ela
+falhar no teste de resistência três vezes, ela se torna
+pedra é afetada pela condição petrificado pela duração. Os sucessos e falhas não precisam ser consecutivos; anote
+ambos os resultados até o alvo acumular três de mesmo
+tipo.
+Se a criatura for quebrada fisicamente enquanto
+petrificada, ela sofre deformidades similares se for
+revertida ao seu estado original.
+Se você mantiver sua concentração nessa magia
+durante toda a duração possível, a criatura é
+transformada em pedra até o efeito ser removido.
+transformada em pedra até o efeito ser removido.
+EGUEIRA
+EGUEIRA
+URDEZ
+2° nível de necromancia
+Tempo de Conjuração: 1 ação Alcance
+: 9 metros
+Componentes
+Componentes
+Componentes
+Duração
+: 1 minuto
+Você pode cegar ou ensurdecer um oponente. Escolha uma criatura que você possa ver dentro do alcance para fazer
+um teste de resistência de Constituição. Se ela falhar,
+ficará ou cega ou surda (à sua escolha) pela duração. No final de cada um dos turnos dele, o alvo pode realizar um
+teste de resistência de Constituição. Se obtiver sucesso, a
+magia termina.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 3° nível ou superior, você pode afetar uma criatura adicional para cada nível de espaço acima do 2°.
+espaço acima do 2°.
+HAMA
+HAMA
+ONTÍNUA
+2° nível de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: Toque
+Componentes
+: V, S, M (pó de rubi no valor de 50 po,
+consumido pela magia)
+Duração
+: Até ser dissipada
+Uma chama, que produz iluminação equivalente a uma tocha, surge de um objeto que você tocar. O efeito é
+parecido com o de uma chama normal, mas ele não
+produz calor e não consome oxigênio. Uma chama continua pode ser coberta ou escondida, mas não sufocada
+ou extinta.
+ou extinta.
+HAMA
+HAMA
+AGRADA
+Truque de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Radiação similar a uma chama desce sobre uma criatura que você possa ver, dentro do alcance. O alvo deve ser
+bem sucedido num teste de resistência de Destreza ou
+sofrerá 1d8 de dano radiante. O alvo não recebe qualquer benefício de cobertura contra esse teste de resistência.
+O dano da magia aumenta em 1d8 quando você
+alcança o 5° nível (2d8), 11° nível (3d8) e 17° nível (4d8).
+alcança o 5° nível (2d8), 11° nível (3d8) e 17° nível (4d8).
+HICOTE DE
+HICOTE DE
+SPINHOS
+Truque de transmutação Tempo de Conjuração: 1 ação
+Alcance
+: 9 metros
+Componentes
+: V, S, M (um muda de uma planta com
+espinhos)
+Duração
+: Instantânea
+Você cria um longo chicote de vinhas coberto por espinhos
+que chicoteia, ao seu comando, em direção de uma criatura dentro do alcance. Realize um ataque corpo-a-
+corpo com magia contra o alvo. Se o ataque atingir, a
+criatura sofrerá 1d6 de dano perfurante e, se a criatura
+for Grande ou menor, você a puxa até 3 metros para perto
+de você.
+O dano dessa magia aumenta em 1d6 quando você
+alcança o 5° nível (2d6), 11° nível (3d6) e 17° nível (4d6).

@@ -1,0 +1,109 @@
+NTRANDO E
+NTRANDO E
+AINDO DE UMA
+AINDO DE UMA
+RMADURA
+RMADURA
+O tempo que leva para vestir ou despir uma armadura
+depende da categoria.
+Vestir.
+Esse é o tempo necessário para colocar a
+armadura. Você se beneficia da CA da armadura só se
+despender o tempo integral para vestir o conjunto da
+armadura.
+Remover.
+Esse é o tempo necessário para despir uma
+armadura. Se alguém ajudá-lo, reduza esse tempo pela metade.
+metade.
+ESTINDO E
+ESTINDO E
+ESPINDO UMA
+ESPINDO UMA
+RMADURA
+RMADURA
+Categoria
+Categoria
+Vestir
+Vestir
+Remover
+Remover
+Armadura Leve
+Armadura Leve
+1 minuto
+1 minuto
+1 minuto
+1 minuto
+Armadura Média
+Armadura Média
+5 minutos
+5 minutos
+1 minuto
+1 minuto
+Armadura Pesada
+Armadura Pesada
+10 minutos
+10 minutos
+5 minutos
+5 minutos
+Esc
+Esc
+Esc
+1 ação
+1 ação
+1 ação
+1 ação
+1 ação
+RMAS
+Sua classe garante a você proficiência com algumas
+armas, refletindo tanto o foco da classe, quanto as ferramentas mais prováveis que o personagem usa. Não importa se você prefere uma espada longa ou um arco longo, sua arma e a capacidade de manejá-
+longo, sua arma e a capacidade de manejá-longo, sua arma e a capacidade de manejá-
+efetivamente podem significar a diferença entre a vida e a
+morte enquanto estiver se aventurando.
+A tabela Armas mostra as armas mais comuns
+utilizadas nos mundos de D&D, seu preço e peso, os danos
+que elas causam quando atingem um alvo, e qualquer propriedade especial que elas possuem. Cada arma é classificada como corpo-a-corpo ou à distância. Uma
+arma corpo-a-corpo
+é usada para atacar um alvo é usada para atacar um alvo
+metro de você, enquanto que uma
+arma
+arma
+à distância
+à distância
+usada para atacar um alvo a uma certa distância.
+usada para atacar um alvo a uma certa distância.
+ROFICIÊNCIA EM
+ROFICIÊNCIA EM
+RMA
+RMA
+Sua raça, classe e talentos podem conceder a você
+proficiência com certas armas ou categorias de armas. As duas categorias são
+simples
+simples
+marciais
+. A maioria das
+pessoas pode usar armas simples com proficiência. Essas pessoas pode usar armas simples com proficiência. Essas
+mas simples incluem clavas, maças e outras armas
+encontradas frequentemente nas mãos dos plebeus.
+Armas marciais, incluindo espadas, machados e
+alabardas, exigem um treinamento mais especializado para serem usada com eficácia. A maioria dos guerreiros usa armas marciais, pois essas armas permitem que seus estilos de luta e treinamentos tenham melhor proveito.
+Proficiência com uma arma permite que você adicione
+seu bônus de proficiência na jogada de ataque em qualquer ataque que você realizar com essa arma. Se você realizar uma jogada de ataque utilizando uma arma com a qual não tenha proficiência, não adiciona seu bônus de proficiência na jogada de ataque.
+proficiência na jogada de ataque.
+ROPRIEDADES DAS
+ROPRIEDADES DAS
+RMAS
+RMAS
+Muitas armas têm propriedades especiais relacionados com a sua utilização, como mostrado na tabela Armas.
+Acuidade
+Acuidade
+Quando realizar um ataque com uma arma
+com a propriedade acuidade, você pode escolher usar seu
+modificador de Força ou de Destreza para realizar a
+jogada de ataque e de dano. Você precisa usar o mesmo
+modificador para ambas as jogadas, ataque e dano.
+Alcance.
+Alcance.
+Essa arma adiciona 1,5 metro ao seu alcance
+quando você a usa para atacar. Essa propriedade também
+determina seu alcance ao realizar ataques de
+oportunidade com uma arma de alcance.

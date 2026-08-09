@@ -1,0 +1,138 @@
+Você tem +5 de bônus nos seus valores passivos de
+Sabedoria (Percepção) e Inteligência (Investigação).
+Sabedoria (Percepção) e Inteligência (Investigação).
+ERITO
+ERITO
+Você ganha proficiência em qualquer combinação de três
+perícias ou ferramentas, à sua escolha.
+perícias ou ferramentas, à sua escolha.
+OLIGLOTA
+OLIGLOTA
+Você estudou línguas e códigos, ganhando os seguintes
+benefícios:
+benefícios:
+Aumente seu valor de Inteligência em 1, até o máximo
+de 20.
+de 20.
+Você aprende três idiomas, à sua escolha.
+Você aprende três idiomas, à sua escolha.
+Você é capaz de criar criptogramas escritos. Outros
+não podem decifrar um código criado por você a não
+ser que você os ensine, elas sejam bem sucedidas num
+teste de inteligência (CD igual ao seu valor de Inteligência + seu bônus de proficiência) ou usem mágica para decifrá-lo.
+mágica para decifrá-lo.
+ROTEÇÃO
+ROTEÇÃO
+ROTEÇÃO
+ROTEÇÃO
+Você treinou até dominar o uso de armaduras leves,
+ganhando os seguintes benefícios:
+ganhando os seguintes benefícios:
+Aumente seu valor de Força em 1, até o máximo de 20.
+Aumente seu valor de Força em 1, até o máximo de 20.
+Você ganha proficiência com armadura leves.
+Você ganha proficiência com armadura leves.
+ROTEÇÃO
+ROTEÇÃO
+ODERADA
+ODERADA
+Pré-requisito: Proficiência em armadura leve
+Você treinou até dominar o uso de armaduras médias e
+escudos, ganhando os seguintes benefícios:
+escudos, ganhando os seguintes benefícios:
+Aumente seu valor de Força em 1, até o máximo de 20.
+Aumente seu valor de Força em 1, até o máximo de 20.
+Você ganha proficiência com armadura média e
+escudos.
+escudos.
+ROTEÇÃO
+P
+ESADA
+Pré-requisito: Proficiência em armadura média
+Você treinou até dominar o uso de armaduras pesadas,
+ganhando os seguintes benefícios:
+ganhando os seguintes benefícios:
+Aumente seu valor de Força em 1, até o máximo de 20.
+Aumente seu valor de Força em 1, até o máximo de 20.
+Você ganha proficiência com armadura pesada.
+Você ganha proficiência com armadura pesada.
+ESILIENTE
+ESILIENTE
+Escolha um valor de habilidade. Você ganha os seguintes
+benefícios:
+benefícios:
+Aumente o valor de habilidade escolhido em 1, até o
+máximo de 20.
+máximo de 20.
+Você ganha proficiência em testes de resistência usando a habilidade escolhida.
+usando a habilidade escolhida.
+ESISTENTE
+ESISTENTE
+Duro e resistente, você ganha os seguintes benefícios:
+Duro e resistente, você ganha os seguintes benefícios:
+Aumente seu valor de Constituição em 1, até o
+máximo de 20.
+máximo de 20.
+Quando você rolar um Dado de Vida para recuperar
+pontos de vida, o valor mínimo de pontos de vida que
+você recupera dessa rolagem será igual a duas vezes
+seu modificador de Constituição (mínimo de 2).
+seu modificador de Constituição (mínimo de 2).
+OBUSTO
+OBUSTO
+Seu máximo de pontos de vida aumenta em um valor igual a duas vezes seu nível quando você adquire esse talento. Toda vez que você ganhar um nível, após isso, seu máximo de pontos de vida aumenta em 2 pontos de vida adicionais.
+adicionais.
+ENTINELA
+Você domina técnicas para obter vantagem
+Você domina técnicas para obter vantagem cada vez que
+qualquer inimigo baixar a guarda, ganha
+qualquer inimigo baixar a guarda, ganha
+os seguintes
+benefícios:
+benefícios:
+Quando você atinge uma criatura com um ataque de
+oportunidade, o deslocamento da criatura se torna 0
+pelo resto do turno.
+pelo resto do turno.
+As criaturas provocam ataques de oportunidade de
+você mesmo se realizarem a ação de Desengajar antes
+de saírem do seu alcance.
+de saírem do seu alcance.
+Quando uma criatura a até 1,5 metro de você realizar
+um ataque contra um alvo diferente de você (e o alvo
+não possuir esse talento), você pode usar sua reação para realizar um ataque corpo-a-corpo com arma
+contra a criatura atacante.
+contra a criatura atacante.
+ORRATEIRO
+ORRATEIRO
+Pré-requisito: Destreza 13 ou maior
+Você é especialista em espreitar através das sombras.
+Você ganha os seguintes benefícios:
+Você ganha os seguintes benefícios:
+Você pode tentar se esconder quando estiver
+levemente obscurecido para a criatura de quem você
+está tentando se esconder.
+está tentando se esconder.
+Quando você estiver escondido de uma criatura e errar
+um ataque à distância contra ela, realizar esse ataque
+não revelará sua posição.
+não revelará sua posição.
+Penumbra não impõem desvantagem nos seus testes
+de Sabedoria (Percepção) relacionados a visão.
+de Sabedoria (Percepção) relacionados a visão.
+ORTUDO
+ORTUDO
+Você tem uma sorte inexplicável que parece surgir nos momentos exatos.
+Você tem 3 pontos de sorte. A qualquer momento que
+você realizar uma jogada de ataque, teste de habilidade
+ou teste de resistência, você pode gastar um ponto de sorte para rolar um d20 adicional. Você pode escolher gastar um dos seus pontos de sorte depois de rolar o dado,
+mas antes de saber o resultado da jogada. Você escolhe
+qual dos d20s irá usar para a jogada de ataque, teste de habilidade ou teste de resistência.
+Você também pode gastar um ponto de sorte quando
+uma jogada de ataque for feita contra você. Role um d20, e então escolha se o ataque irá usar a jogada do atacante
+ou a sua.
+Se mais de uma criatura gastar um ponto de sorte
+para influenciar uma mesma jogada, os pontos se
+cancelam mutuamente; nenhum dado adicional é rolado.
+Você recupera seus pontos de sorte gastos após
+terminar um descanso longo.

@@ -1,0 +1,143 @@
+habilidade de se comunicar com você e seguir seus
+comandos simples. Você pode perguntar as plantas sobre
+eventos na área da magia, acontecidos desde o dia
+anterior, recebendo informações sobre criaturas que
+passaram, clima e outras circunstâncias.
+Você também pode tornar terreno difícil causado pelo
+crescimento de plantas (como arbustos e vegetação
+rasteira) em terreno normal, permanecendo assim pela
+duração. Ou você pode tornar terreno normal onde as
+plantas estiverem presentes, em terreno difícil, permanecendo assim pela duração, fazendo as vinhas e
+ramos atrasarem perseguidores, por exemplo.
+As plantas podem ser capazes de realizar outras
+tarefas em seu favor, à critério do Mestre. A magia não permite que as plantas desenraizem-se e se movam, mas
+elas podem mover, livremente, seus ramos, galhos e caules.
+Se uma criatura planta estiver na área, você pode se
+comunicar com ela se você partilhar um idioma em comum, mas você não recebe qualquer habilidade mágica
+para influencia-
+para influencia-
+para influencia-
+Essa magia pode fazer as plantas criadas pela magia
+constrição
+soltarem uma criatura impedida.
+soltarem uma criatura impedida.
+LECHA
+LECHA
+CIDA DE
+CIDA DE
+ELF
+2° nível de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: 36 metros
+Componentes
+: V, S, M (folha de ruibarbo em pó e o
+estômago de uma víbora)
+Duração
+: Instantânea
+Uma flecha esverdeada cintilante voa em direção de um
+alvo dentro do alcance e explode em um jato de ácido.Faça um ataque à distância com magia contra o alvo. Se
+atingir, o alvo sofre 4d4 de dano de ácido imediatamente e
+2d4 de dano de ácido no final do próximo turno dele. Se errar, a flecha salpica o alvo com ácido, causando metade
+do dano inicial e nenhum dano no final do próximo turno
+dele.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 3° nível ou superior, o dano (tanto inicial quanto posterior) aumenta em 1d4 para cada nível do espaço acima do 2°.
+em 1d4 para cada nível do espaço acima do 2°.
+LECHA
+LECHA ELAMPEJANTE
+3° nível de transmutação
+Tempo de Conjuração: 1 ação bônus
+Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Da próxima vez que você realizar um ataque com uma arma à distância enquanto a magia durar, a munição da arma ou a própria arma, se ela for uma arma de
+arremesso, se transforma num relâmpago. Realize uma
+jogada de ataque normal. O alvo sofre 4d8 de dano elétrico se atingir ou metade desse dano se errar, ao invés
+do dano normal da arma.
+Independentemente de você acertar ou errar, cada
+criatura a até 3 metros do alvo deve realizar um teste de
+resistência de Destreza. Cada uma dessas criaturas sofre
+2d8 de dano elétrico se falhar na resistência ou metade desse dano se obtiver sucesso.
+A munição ou arma então, volta a sua forma normal.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 4° nível ou
+superior, o dano de ambos os efeitos da magia aumenta
+em 1d8 para cada nível do espaço acima do 3°.
+em 1d8 para cada nível do espaço acima do 3°.
+OGO DAS
+OGO DAS
+ADAS
+1° nível de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Cada objeto num cubo de 6 metros dentro do alcance fica delineado com luz azul, verde ou violeta (à sua escolha).
+Qualquer criatura na área, quando a magia é conjurada,
+também fica delineada com luz, se falhar num teste de resistência de Destreza. Pela duração, os objetos
+resistência de Destreza. Pela duração, os objetos
+criaturas afetadas emitem penumbra num raio de 3 metros.
+Qualquer jogada de ataque contra uma criatura
+afetada ou objeto tem vantagem, se o atacante puder ver o alvo e, a criatura afetada ou objeto não recebe benefício por estar invisível.
+por estar invisível.
+OME DE
+OME DE
+ADAR
+3° nível de conjuração
+Tempo de Conjuração: 1 ação
+Alcance
+: 45 metros
+Componentes
+: V, S, M (um tentáculo de polvo em
+conserva)
+Duração
+: Concentração, até 1 minuto
+Você abre um portal para a escuridão entre as estrelas,
+uma região infestada de horrores desconhecidos. Uma
+esfera de 6 metros de raio de negritude e frio severo aparece, centrada num ponto dentro do alcance, e
+permanece pela duração. Esse vazio está preenchido por
+uma cacofonia de sussurros suaves e barulhos de rangidos que podem ser ouvidos a até 9 metros. Nenhuma luz,
+mágica ou qualquer que seja, pode iluminar a área e as
+criaturas totalmente dentro da área estarão cegas.
+O vazio cria uma dobra no tecido do espaço e a área é
+de terreno difícil. Qualquer criatura que começar seu turno na área sofre 2d6 de dano de frio. Qualquer criatura que terminar seu turno na área, deve ser bem
+sucedida num teste de resistência de Destreza ou sofrerá
+2d6 de dano de ácido, à medida que tentáculos leitosos extraterrestres se esfregam contra ela.
+extraterrestres se esfregam contra ela.
+ORÇA ORÇA
+ANTASMAGÓRICA
+2° nível de ilusão
+Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+: V, S, M (um pouco de lã)
+Duração
+: Concentração, até 1 minuto
+Você constrói uma ilusão que se enraíza na mente de uma criatura que você possa ver, dentro do alcance. O alvo
+deve realizar um teste de resistência de Inteligência. Se
+falhar na resistência, você cria um objeto, criatura ou outro fenômeno visível
+outro fenômeno visível
+porém, fantasmagórico
+porém, fantasmagórico
+à sua
+escolha, com não mais de 3 metros cúbicos e que será percebido apenas pelo alvo, pela duração. Essa magia não afeta mortos-vivos ou constructos.
+O fantasma inclui som, temperatura e outros
+estímulos, também evidentes apenas para o alvo.
+O alvo pode usar sua ação para examinar o fantasma
+com um teste de Inteligência (Investigação) contra a CD da as magia. Se for bem sucedido, o alvo percebe que o fantasma é uma ilusão e a magia acaba.
+Enquanto o alvo estiver sob efeito dessa magia, ele
+considerará o fantasma como sendo real. O alvo racionalizará quaisquer resultados ilógicos ao interagir
+com o fantasma. Por exemplo, um alvo tentado atravessar
+uma ponte fantasmagórica que atravesse um abismo, cairá quando pisar na ponte. Se o alvo sobreviver a queda,

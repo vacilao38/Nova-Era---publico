@@ -1,0 +1,147 @@
+Componentes
+: V, S, M (um conjunto de ferramentas de
+adivinhação
+adivinhação
+como ossos, bastões de marfim, dentes
+ou runas esculpidas
+ou runas esculpidas
+ou runas esculpidas ou runas esculpidas
+valor de 100 po e um objeto
+do lugar que você deseja encontrar)
+Duração
+: Concentração, até 1 dia
+Essa magia permite que você encontre a rota física mais
+curta e direta para um local especifico estático, que você
+seja familiar, no mesmo plano de existência. Se você denominar um destino em outro plano de existência, um
+local que se mova (como uma fortaleza andante) ou um
+GHVWLQRTXHQmRVHMDHVSHFLILFR FRPR´RFRYLOGRGUDJmR YHUGHµ DPDJLDIDOKD
+YHUGHµ DPDJLDIDOKD
+Pela duração, contanto que você esteja no mesmo
+plano de existência do destino, você saberá o quão longe ele está e em que direção ele se encontra. Enquanto
+estiver viajando, sempre que você se deparar com uma
+escolha de trajetória no caminho, você automaticamente determina qual trajetória tem a rota mais curta e direta
+(mas não necessariamente a rota mais segura) para o
+destino.
+destino.
+NFEITIÇAR
+NFEITIÇAR
+ESSOA
+1° nível de encantamento Tempo de Conjuração: 1 ação
+Alcance
+: 9 metros
+Componentes
+Componentes
+Componentes
+Duração
+: 1 hora
+Você tenta enfeitiçar um humanoide que você possa ver dentro do alcance. Ele deve realizar um teste de
+resistência de Sabedoria, e recebe vantagem nesse teste se você ou seus companheiros estiverem lutando com ele.
+Se ele falhar, ficará enfeitiçado por você até a magia
+acabar ou até você ou seus companheiros fizerem qualquer coisa nociva contra ele. A criatura enfeitiçada
+reconhece você como um conhecido amigável. Quando a
+magia acabar, a criatura saberá que foi enfeitiçada por você.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 2° nível ou superior, você pode afetar uma criatura adicional para cada nível do
+espaço acima do 1°. As criaturas devem estar a até 9
+metros umas das outras quando você for afeta-las.
+metros umas das outras quando você for afeta-las.
+NFRAQUECER
+NFRAQUECER
+NTELECTO
+8° nível de encantamento Tempo de Conjuração: 1 ação
+Alcance
+: 45 metros
+Componentes
+: V, S, M (um punhado de barro, cristal,
+vidro ou esferas minerais)
+Duração
+: Instantânea
+Você ataca a mente de uma criatura que você possa ver,
+dentro do alcance, tentando despedaçar seu intelecto e personalidade. O alvo sofre 4d6 de dano psíquico e deve
+realizar um teste de resistência de Inteligência.
+Se falhar na resistência, os valores de Inteligência e
+Carisma da criatura se tornam 1. A criatura não pode conjurar magias, ativar itens mágicos, compreender
+idiomas ou se comunicar de qualquer forma inteligível. A criatura pode, no entanto, identificar seus amigos, segui-
+los e, até mesmo, protege-los.
+Ao final de cada 30 dias, a criatura pode repetir seu
+teste de resistência contra essa magia. Se ela obtiver sucesso no teste de resistência, a magia termina.
+Essa magia também pode ser terminada através de
+restauração maior, cura completa
+ou
+desejo
+NVIAR
+NVIAR
+ENSAGEM
+3° nível de evocação Tempo de Conjuração: 1 ação
+Alcance
+: Ilimitado
+Componentes
+: V, S, M (um pequeno e fino pedaço de fio
+de cobre)
+Duração
+: 1 rodada
+Você envia uma mensagem curta, de vinte e cinco palavras ou menos, para uma criatura que seja familiar a
+você. A criatura ouve a mensagem na sua mente,
+reconhecendo que foi enviada por você, se ela te conhecer, reconhecendo que foi enviada por você, se ela te conhecer,
+pode responder da mesma maneira, imediatamente. A
+magia permite que criaturas com valores de Inteligência de no mínimo 1, compreendam o sentido da sua mensagem.
+Você pode enviar a mensagem através de qualquer
+distância e, até mesmo, para outro plano de existência, mas se o alvo estiver em um plano diferente do seu, existe
+5 por cento de chance da mensagem não chegar.
+5 por cento de chance da mensagem não chegar.
+SCRITA
+SCRITA
+LUSÓRIA
+1° nível de ilusão (ritual)
+Tempo de Conjuração: 1 minuto Alcance
+: Toque
+Componentes
+: S, M (uma tinta à base de chumbo
+valendo, no mínimo, 10 po, que é consumida pela magia)
+Duração
+: 10 dias
+Você escreve em um pergaminho, papel ou qualquer outro material adequado e tinge ele com uma poderosa ilusão que permanece pela duração.
+Para você e para qualquer criatura que você designa
+Para você e para qualquer criatura que você designa
+quando você conjura essa magia, a escrita parece normal, escrita com a sua caligrafia e transmite qualquer que seja
+a mensagem que você desejava quando escreveu o texto.
+Para todos os outros, a escrita aparece como se tivesse sido escrita com uma caligrafia desconhecida ou mágica
+que é inteligível. Alternativamente, você pode fazer a
+escrita parecer uma mensagem totalmente diferente,
+escrita com uma caligrafia e idioma diferentes, apesar de
+o idioma precisar ser um que você conheça.
+No caso da magia ser dissipada, tanto a escrita
+original quanto a ilusória desaparecem.
+Uma criatura com visão verdadeira pode ler a
+mensagem escondida.
+mensagem escondida.
+SCUDO
+SCUDO
+RCANO
+1° nível de abjuração
+Tempo de Conjuração: 1 reação, que você faz quando é
+atingido por um ataque ou alvo da magia mísseis mágicos
+Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: 1 rodada
+Uma barreira de energia invisível aparece e protege você.
+Até o início do seu próximo turno, você recebe +5 de bônus
+na CA, incluindo contra o ataque que desencadeou a
+magia, e você não sofre dano de
+mísseis mágicos
+SCUDO DA
+SCUDO DA
+SCUDO DA
+1° nível de abjuração Tempo de Conjuração: 1 ação bônus
+Alcance
+: 18 metros
+Componentes
+: V, S, M (um pequeno pergaminho com
+alguns textos sagrados escritos nele)
+Duração
+: Concentração, até 10 minutos

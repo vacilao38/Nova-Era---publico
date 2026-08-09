@@ -1,0 +1,127 @@
+Por exemplo, se um personagem tenta subir um
+penhasco perigoso, o Mestre pode pedir um teste de Força
+(Atletismo). Se o personagem for proficiente em Atletismo, o bônus de proficiência do personagem é
+adicionado ao teste. Se o personagem não possui
+proficiência em Atletismo, ele realiza apenas um teste de Força normal.
+Força normal.
+ARIAÇÃO
+ARIAÇÃO
+ARIAÇÃO ERÍCIAS COM
+ERÍCIAS COM
+ABILIDADES
+ABILIDADES
+IFERENTES
+Normalmente, a proficiência em uma perícia só se aplica
+a um tipo específico de teste de habilidade. Proficiência
+em Atletismo, por exemplo, geralmente se aplica a testes de Força. Em algumas situações, no entanto, a sua proficiência pode razoavelmente se aplicar a um tipo diferente de teste. Nesses casos, o Mestre pode pedir um teste usando uma combinação incomum de habilidade teste usando uma combinação incomum de habilidade
+perícia, ou o jogador pode perguntar ao seu Mestre se
+pode aplicar uma proficiência para um teste diferente.Por exemplo, se o jogador tiver que nadar de uma ilha para o continente, o Mestre pode pedir um teste de Constituição para ver se ele tem a energia necessária
+para realizar a tarefa. Neste caso, o Mestre pode permitir
+que o jogador aplique sua proficiência em Atletismo e
+pedir um teste de Constituição (Atletismo). Então, se o jogador for proficiente em Atletismo, ele pode aplicar seu bônus de proficiência para o teste de Constituição, assim como ele faria para um teste de Força (Atletismo). Da mesma forma, quando o guerreiro anão usa uma exibição
+mesma forma, quando o guerreiro anão usa uma exibição
+força bruta para intimidar um inimigo, o Mestre pode
+pedir um teste de Força (Intimidação), apesar de
+Intimidação ser normalmente associada com o Carisma.
+Intimidação ser normalmente associada com o Carisma.
+ESTES
+ESTES
+ASSIVOS
+ASSIVOS
+Um teste passivo é um tipo especial de teste de habilidade que não envolve rolagens de dado. Esse teste pode representar o resultado médio de uma tarefa feita repetidamente, tal como a procura de portas secretas várias vezes ou quando o Mestre quer determinar
+secretamente se os personagens obtiveram sucesso em
+uma tarefa sem rolagem de dado, como perceber um
+monstro escondido.
+Veja como determinar o valor total do teste passivo de
+um personagem:
+10 + todos os modificadores que se aplicam
+normalmente ao teste
+Se o personagem tem vantagem no teste, adicione Se o personagem tem vantagem no teste, adicione
+Se possuir desvantagem, subtraia 5. A mecânica de jogo
+refere-se ao total do teste passivo como valor.
+Por exemplo, se um personagem de 1º nível possui
+Sabedoria 15 e tem proficiência em Percepção, ele terá
+uma Sabedoria (Percepção) Passiva com valor de 14.
+As regras sobre esconder-se na seção "Destreza"
+abaixo, dependem de testes passivos, assim como as
+regras de exploração no capítulo 8.
+regras de exploração no capítulo 8.
+RABALHO EM
+RABALHO EM
+QUIPE QUIPE
+Algumas vezes, dois ou mais personagens se unem para
+tentar realizar uma tarefa. O personagem que está
+liderando o esforço liderando o esforço
+ou aquele que possui o maior
+modificador de habilidade modificador de habilidade
+pode fazer um teste de
+habilidade com vantagem, o que reflete a ajuda prestada
+pelos outros personagens. Em combate, isso requer a ação
+Ajudar (veja o capítulo 9).
+Um personagem só pode fornecer ajuda em uma tarefa
+que ele poderia tentar sozinho. Por exemplo, tentar abrir uma fechadura requer proficiência com ferramentas de
+ladrão, então um personagem que não tenha essa proficiência não pode ajudar outro personagem na tarefa.Além disso, um personagem pode ajudar apenas quando dois ou mais indivíduos trabalhando juntos seria
+realmente produtivo. Algumas tarefas, tais como enfiar
+uma linha em uma agulha, não se tornam mais fáceis com ajuda.
+ajuda.
+ESTES EM
+ESTES EM
+RUPO
+Quando um número de indivíduos está tentando realizar
+algo como um grupo, o Mestre pode pedir um teste de
+habilidade do grupo. Em tal situação, os personagens que são hábeis em uma determinada tarefa ajudam a cobrir aqueles que não são.
+Para fazer um teste de habilidade do grupo, todos no
+Para fazer um teste de habilidade do grupo, todos no
+upo realizam um teste de habilidade. Se pelo menos
+metade do grupo for bem sucedido, o grupo tem sucesso.Caso contrário, o grupo fracassa.
+Testes de grupo não são frequentes e são mais úteis
+quando todos os personagens obtêm sucesso ou fracassam como grupo. Por exemplo, quando os aventureiros estão
+navegando através de um pântano, o Mestre pode pedir
+um teste de Sabedoria (Sobrevivência) do grupo para
+verificar se os personagens podem evitar areia movediça, buracos e outros perigos naturais do ambiente. Se pelo menos metade do grupo for bem sucedido, os personagens que obtiveram sucesso são capazes de orientar seus companheiros para fora do perigo. Caso contrário, o grupo
+se depara com um desses perigos.
+se depara com um desses perigos.
+SANDO
+SANDO SANDO
+SANDO
+ABILIDADE
+Cada tarefa que um personagem ou monstro pode tentar
+durante o jogo é coberta por uma das seis habilidades.
+Essa seção explica mais detalhadamente o que essa
+Essa seção explica mais detalhadamente o que essa
+habilidades medem e as formas que elas são utilizadas no
+jogo.
+jogo.
+ORÇA
+ORÇA
+A Força mede a potência física, treinamento atlético, e
+A Força mede a potência física, treinamento atlético, e
+extensão da força bruta que você pode exercer.
+extensão da força bruta que você pode exercer.
+ESTES DE
+ESTES DE
+ORÇA
+Um teste de Força representa qualquer tentativa de
+levantar, empurrar, puxar ou quebrar alguma coisa,
+forçar seu corpo através de um espaço ou outra forma de
+aplicar a força bruta para resolver uma situação. A perícia Atletismo reflete aptidão em certos tipos de testes de Força.
+Atletismo.
+Um teste de Força (Atletismo) abrange as
+situações difíceis que você encontra ao escalar, saltar ou nadar. Os exemplos incluem as seguintes atividades:
+nadar. Os exemplos incluem as seguintes atividades:
+Você tenta escalar um penhasco natural ou
+escorregadio, evitar perigos enquanto escala uma
+parede, ou agarrar-se a uma superfície quando algo
+está tentando derrubá-lo.
+está tentando derrubá-lo.
+Você tenta saltar uma distância excepcionalmente
+longa ou executar um salto em altura.
+longa ou executar um salto em altura.
+Você luta para nadar ou manter-se à tona em
+corredeiras traiçoeiras, ondas agitadas pela
+tempestade ou áreas com algas espessas. Ou outra criatura tenta empurrá-lo ou puxá-lo debaixo da água ou interferir de outra forma em sua natação.
+Outros Testes de Força
+Outros Testes de Força
+O Mestre também pode
+pedir um teste de Força quando você tenta realizar uma
+das seguintes tarefas:

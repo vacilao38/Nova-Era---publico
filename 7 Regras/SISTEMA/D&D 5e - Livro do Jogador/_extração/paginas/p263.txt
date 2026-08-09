@@ -1,0 +1,67 @@
+Seu corpo se torna turvo, mudando e oscilando para todos
+que puderem ver você. Pela duração, qualquer criatura
+terá desvantagem nas jogadas de ataque contra você. Um
+atacante é imune a esse efeito se não depender de visão,
+como os que tenham percepção às cegas ou os que
+puderem ver através de ilusões, como os com visão
+verdadeira.
+verdadeira.
+UVEM DE
+UVEM DE
+DAGAS
+2° nível de conjuração Tempo de Conjuração: 1 ação
+Alcance
+: 18 metros
+Componentes
+: V, S, M (uma lasca de vidro)
+Duração
+: Concentração, até 1 minuto
+Você preenche o ar com adagas giratórias num cubo de 1,5 metro quadrado, centrado em m ponto, à sua escolha,
+dentro do alcance. Uma criatura sofre 4d4 de dano cortante quando entra na área da magia pela primeira
+vez no turno dela ou começa seu turno na área.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 3° nível ou superior, o
+dano aumenta em 2d4 para cada nível do espaço acima do
+2°.
+2°.
+UVEM
+UVEM
+NCENDIÁRIA
+8° nível de conjuração Tempo de Conjuração: 1 ação
+Alcance
+: 45 metros
+Componentes
+Componentes
+S
+Duração
+: Concentração, até 1 minuto
+Uma nuvem de fumaça rodopiante que dispara brasas incandescentes aparece numa esfera de 6 metros centrada
+num ponto, dentro do alcance. A nuvem se espalha, dobrando esquinas, e gera escuridão densa. Ela
+permanece pela duração ou até que um vento de
+velocidade moderada ou mais forte (pelo menos 15 quilômetros por hora) a disperse.
+Quando a nuvem aparece, cada criatura deve realizar
+um teste de resistência de Destreza. Uma criatura sofre 10d8 de dano de fogo se falhar na resistência ou metade
+desse dano se passar. Uma criatura deve, também,
+realizar um teste de resistência quando entrar na área da magia pela primeira vez num turno ou terminar seu
+turno nela.
+A nuvem se afasta 3 metros de você numa direção, que
+você escolheu, no começo de cada um dos seus turnos.
+você escolheu, no começo de cada um dos seus turnos.
+LHO
+LHO
+RCANO
+4° nível de adivinhação Tempo de Conjuração: 1 ação
+Alcance
+: 9 metros
+Componentes
+: V, S, M (um punhado de pelo de morcego)
+Duração
+: Concentração, até 1 hora
+Você cria um olho mágico invisível, dentro do alcance, que flutua no ar pela duração.
+Você mentalmente recebe informações visuais do olho,
+que possui visão normal e visão no escuro com alcance de 9 metros. O olho pode ver em todas as direções.
+Com uma ação, você pode mover o olho até 9 metros
+em qualquer direção. Não existe limite de quão longe de você o olho pode se mover, mas ele não pode entrar em outro plano de existência. Uma barreira solida bloqueia o
+movimento do olho, mas o olho pode passar através de
+aberturas de até 3 centímetros de diâmetro.

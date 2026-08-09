@@ -1,0 +1,377 @@
+---
+title: "Descrição de Magias"
+capitulo: "Capítulo 11"
+pagina_inicial: 215
+pagina_final: 289
+fonte: "Livro do Jogador"
+tipo: regra
+status_editorial: formatado_automaticamente
+tags:
+  - dnd/regras/magias
+---
+# Descrição de Magias
+
+## Relacionados
+- [[00 Sumário]]
+- [[Magia]]
+- [[Conjurando uma Magia]]
+- [[Lista de Magias]]
+- [[Classes]]
+
+Índice das descrições de magias extraídas em notas individuais.
+
+- [[Acalmar Emoções|Acalmar Emoções]] — p. 215-215
+- [[Adivinhação|Adivinhação]] — p. 215-215
+- [[Ajuda|Ajuda]] — p. 215-215
+- [[Alarme|Alarme]] — p. 215-215
+- [[Aliado Planar|Aliado Planar]] — p. 215-216
+- [[Aljava Veloz|Aljava Veloz]] — p. 216-216
+- [[Alterar Forma|Alterar Forma]] — p. 216-216
+- [[Alterar-Se|Alterar-Se]] — p. 216-216
+- [[Amizade|Amizade]] — p. 216-217
+- [[Amizade Animal|Amizade Animal]] — p. 217-217
+- [[Ampliar Plantas|Ampliar Plantas]] — p. 217-217
+- [[Âncora Planar|Âncora Planar]] — p. 217-217
+- [[Andar Na Água|Andar Na Água]] — p. 217-217
+- [[Animar Mortos|Animar Mortos]] — p. 217-218
+- [[Animar Objetos|Animar Objetos]] — p. 218-218
+- [[Antipatia-Simpatia|Antipatia/Simpatia]] — p. 218-219
+- [[Aprimorar Habilidade|Aprimorar Habilidade]] — p. 219-219
+- [[Aprisionamento|Aprisionamento]] — p. 219-219
+- [[Arca Secreta De Leomund|Arca Secreta De Leomund]] — p. 219-220
+- [[Área Escorregadia|Área Escorregadia]] — p. 220-220
+- [[Arma Elemental|Arma Elemental]] — p. 220-220
+- [[Arma Espiritual|Arma Espiritual]] — p. 220-220
+- [[Arma Mágica|Arma Mágica]] — p. 220-220
+- [[Armadura Arcana|Armadura Arcana]] — p. 220-220
+- [[Armadura De Agathys|Armadura De Agathys]] — p. 220-220
+- [[Arrombar|Arrombar]] — p. 220-220
+- [[Assassino Fantasmagórico|Assassino Fantasmagórico]] — p. 220-221
+- [[Ataque Certeiro|Ataque Certeiro]] — p. 221-221
+- [[Ataque Visual|Ataque Visual]] — p. 221-221
+- [[Augúrio|Augúrio]] — p. 221-221
+- [[Aumentar-Reduzir|Aumentar/Reduzir]] — p. 221-221
+- [[Aura De Pureza|Aura De Pureza]] — p. 221-222
+- [[Aura De Vida|Aura De Vida]] — p. 222-222
+- [[Aura De Vitalidade|Aura De Vitalidade]] — p. 222-222
+- [[Aura Mágica De Nystul|Aura Mágica De Nystul]] — p. 222-222
+- [[Aura Sagrada|Aura Sagrada]] — p. 222-222
+- [[Auxílio Divino|Auxílio Divino]] — p. 222-222
+- [[Banimento|Banimento]] — p. 222-222
+- [[Banquete De Heróis|Banquete De Heróis]] — p. 222-223
+- [[Barreira De Lâminas|Barreira De Lâminas]] — p. 223-223
+- [[Bênção|Bênção]] — p. 223-223
+- [[Boca Encantada|Boca Encantada]] — p. 223-223
+- [[Bola De Fogo|Bola De Fogo]] — p. 223-223
+- [[Bola De Fogo Controlável|Bola De Fogo Controlável]] — p. 223-224
+- [[Bom Fruto|Bom Fruto]] — p. 224-224
+- [[Bordão Místico|Bordão Místico]] — p. 224-224
+- [[Braços De Hadar|Braços De Hadar]] — p. 224-225
+- [[Bruxaria|Bruxaria]] — p. 225-225
+- [[Caminhar Em Árvores|Caminhar Em Árvores]] — p. 225-225
+- [[Caminhar No Vento|Caminhar No Vento]] — p. 225-225
+- [[Campo Antimagia|Campo Antimagia]] — p. 225-226
+- [[Cão Fiel De Mordenkainen|Cão Fiel De Mordenkainen]] — p. 226-226
+- [[Cativar|Cativar]] — p. 226-226
+- [[Carne Para Pedra|Carne Para Pedra]] — p. 226-226
+- [[Cegueira-Surdez|Cegueira/Surdez]] — p. 226-226
+- [[Chama Contínua|Chama Contínua]] — p. 226-226
+- [[Chama Sagrada|Chama Sagrada]] — p. 226-226
+- [[Chicote De Espinhos|Chicote De Espinhos]] — p. 226-227
+- [[Chuva De Meteoros|Chuva De Meteoros]] — p. 227-227
+- [[Círculo Da Morte|Círculo Da Morte]] — p. 227-227
+- [[Círculo De Poder|Círculo De Poder]] — p. 227-227
+- [[Círculo De Teletransporte|Círculo De Teletransporte]] — p. 227-227
+- [[Círculo Mágico|Círculo Mágico]] — p. 227-227
+- [[Clarividência|Clarividência]] — p. 227-228
+- [[Clone|Clone]] — p. 228-228
+- [[Coluna De Chamas|Coluna De Chamas]] — p. 228-228
+- [[Comando|Comando]] — p. 228-228
+- [[Compreender Idiomas|Compreender Idiomas]] — p. 228-228
+- [[Compulsão|Compulsão]] — p. 228-229
+- [[Comunhão|Comunhão]] — p. 229-229
+- [[Comunhão Com A Natureza|Comunhão Com A Natureza]] — p. 229-229
+- [[Cone De Frio|Cone De Frio]] — p. 229-229
+- [[Confusão|Confusão]] — p. 229-229
+- [[Conhecimento Lendário|Conhecimento Lendário]] — p. 229-230
+- [[Conjurar Animais|Conjurar Animais]] — p. 230-230
+- [[Conjurar Celestial|Conjurar Celestial]] — p. 230-230
+- [[Conjurar Elementais Menores|Conjurar Elementais Menores]] — p. 230-230
+- [[Conjurar Elemental|Conjurar Elemental]] — p. 230-230
+- [[Conjurar Fada|Conjurar Fada]] — p. 230-231
+- [[Conjurar Rajada|Conjurar Rajada]] — p. 231-231
+- [[Conjurar Saraivada|Conjurar Saraivada]] — p. 231-231
+- [[Conjurar Seres Da Floresta|Conjurar Seres Da Floresta]] — p. 231-231
+- [[Consagrar|Consagrar]] — p. 231-232
+- [[Consertar|Consertar]] — p. 232-232
+- [[Constrição|Constrição]] — p. 232-232
+- [[Contato Extraplanar|Contato Extraplanar]] — p. 232-232
+- [[Contramágica|Contramágica]] — p. 232-232
+- [[Contingência|Contingência]] — p. 232-233
+- [[Controlar A Água|Controlar A Água]] — p. 233-233
+- [[Controlar O Clima|Controlar O Clima]] — p. 233-233
+- [[Convocar Familiar|Convocar Familiar]] — p. 233-234
+- [[Convocar Montaria|Convocar Montaria]] — p. 234-234
+- [[Convocar Relâmpagos|Convocar Relâmpagos]] — p. 234-234
+- [[Coroa Da Loucura|Coroa Da Loucura]] — p. 234-234
+- [[Cordão De Flechas|Cordão De Flechas]] — p. 234-235
+- [[Corrente De Relâmpagos|Corrente De Relâmpagos]] — p. 235-235
+- [[Crescer Espinhos|Crescer Espinhos]] — p. 235-235
+- [[Criação|Criação]] — p. 235-235
+- [[Criar Alimentos|Criar Alimentos]] — p. 235-235
+- [[Criar Chamas|Criar Chamas]] — p. 235-235
+- [[Criar Mortos-Vivos|Criar Mortos-Vivos]] — p. 235-236
+- [[Criar Ou Destruir Água|Criar Ou Destruir Água]] — p. 236-236
+- [[Criar Passagem|Criar Passagem]] — p. 236-236
+- [[Cúpula Antivida|Cúpula Antivida]] — p. 236-236
+- [[Cura Completa|Cura Completa]] — p. 236-236
+- [[Cura Completa Em Massa|Cura Completa Em Massa]] — p. 236-236
+- [[Curar Ferimentos|Curar Ferimentos]] — p. 236-237
+- [[Curar Ferimentos Em Massa|Curar Ferimentos Em Massa]] — p. 237-237
+- [[Dança Irresistível De Otto|Dança Irresistível De Otto]] — p. 237-237
+- [[Dedo Da Morte|Dedo Da Morte]] — p. 237-237
+- [[Desejo|Desejo]] — p. 237-238
+- [[Desintegrar|Desintegrar]] — p. 238-238
+- [[Despedaçar|Despedaçar]] — p. 238-238
+- [[Despertar|Despertar]] — p. 238-238
+- [[Despistar|Despistar]] — p. 238-238
+- [[Destruição Banidora|Destruição Banidora]] — p. 238-239
+- [[Destruição Cegante|Destruição Cegante]] — p. 239-239
+- [[Destruição Colérica|Destruição Colérica]] — p. 239-239
+- [[Destruição Estonteante|Destruição Estonteante]] — p. 239-239
+- [[Destruição Lancinante|Destruição Lancinante]] — p. 239-239
+- [[Destruição Trovejante|Destruição Trovejante]] — p. 239-239
+- [[Detectar O Bem E Mal|Detectar O Bem E Mal]] — p. 239-239
+- [[Detectar Magia|Detectar Magia]] — p. 239-239
+- [[Detectar Pensamentos|Detectar Pensamentos]] — p. 239-240
+- [[Detectar Veneno E Doença|Detectar Veneno E Doença]] — p. 240-240
+- [[Dificultar Detecção|Dificultar Detecção]] — p. 240-240
+- [[Disco Flutuante De Tenser|Disco Flutuante De Tenser]] — p. 240-240
+- [[Disfarçar-Se|Disfarçar-Se]] — p. 240-240
+- [[Dissipar Magia|Dissipar Magia]] — p. 240-241
+- [[Dissipar O Bem E Mal|Dissipar O Bem E Mal]] — p. 241-241
+- [[Doença Plena|Doença Plena]] — p. 241-241
+- [[Dominar Besta|Dominar Besta]] — p. 241-241
+- [[Dominar Monstro|Dominar Monstro]] — p. 241-242
+- [[Dominar Pessoa|Dominar Pessoa]] — p. 242-242
+- [[Druidismo|Druidismo]] — p. 242-242
+- [[Duelo Compelido|Duelo Compelido]] — p. 242-242
+- [[Encarnação Fantasmagórica|Encarnação Fantasmagórica]] — p. 242-242
+- [[Encontrar Armadilhas|Encontrar Armadilhas]] — p. 242-242
+- [[Encontrar O Caminho|Encontrar O Caminho]] — p. 242-243
+- [[Enfeitiçar Pessoa|Enfeitiçar Pessoa]] — p. 243-243
+- [[Enfraquecer Intelecto|Enfraquecer Intelecto]] — p. 243-243
+- [[Enviar Mensagem|Enviar Mensagem]] — p. 243-243
+- [[Escrita Ilusória|Escrita Ilusória]] — p. 243-243
+- [[Escudo Arcano|Escudo Arcano]] — p. 243-243
+- [[Escudo Da Fé|Escudo Da Fé]] — p. 243-244
+- [[Escudo De Fogo|Escudo De Fogo]] — p. 244-244
+- [[Escuridão|Escuridão]] — p. 244-244
+- [[Esfera Congelante De Otiluke|Esfera Congelante De Otiluke]] — p. 244-244
+- [[Esfera Flamejante|Esfera Flamejante]] — p. 244-244
+- [[Esfera Resiliente De Otiluke|Esfera Resiliente De Otiluke]] — p. 244-245
+- [[Espada De Mordenkainen|Espada De Mordenkainen]] — p. 245-245
+- [[Espíritos Guardiões|Espíritos Guardiões]] — p. 245-245
+- [[Espirro Ácido|Espirro Ácido]] — p. 245-246
+- [[Esquentar Metal|Esquentar Metal]] — p. 246-246
+- [[Estabilizar|Estabilizar]] — p. 246-246
+- [[Explosão Solar|Explosão Solar]] — p. 246-246
+- [[Fabricar|Fabricar]] — p. 246-246
+- [[Falar Com Animais|Falar Com Animais]] — p. 246-246
+- [[Falar Com Os Mortos|Falar Com Os Mortos]] — p. 246-246
+- [[Falar Com Plantas|Falar Com Plantas]] — p. 246-247
+- [[Flecha Ácida De Melf|Flecha Ácida De Melf]] — p. 247-247
+- [[Flecha Relampejante|Flecha Relampejante]] — p. 247-247
+- [[Fogo Das Fadas|Fogo Das Fadas]] — p. 247-247
+- [[Fome De Hadar|Fome De Hadar]] — p. 247-247
+- [[Força Fantasmagórica|Força Fantasmagórica]] — p. 247-248
+- [[Forjar Morte|Forjar Morte]] — p. 248-248
+- [[Forma Etérea|Forma Etérea]] — p. 248-248
+- [[Forma Gasosa|Forma Gasosa]] — p. 248-248
+- [[Formas Animais|Formas Animais]] — p. 248-249
+- [[Glifo De Vigilância|Glifo De Vigilância]] — p. 249-249
+- [[Globo De Invulnerabilidade|Globo De Invulnerabilidade]] — p. 249-249
+- [[Globos De Luz|Globos De Luz]] — p. 249-249
+- [[Golpe Constritor|Golpe Constritor]] — p. 249-250
+- [[Guardião Da Fé|Guardião Da Fé]] — p. 250-250
+- [[Heroísmo|Heroísmo]] — p. 250-250
+- [[Identificação|Identificação]] — p. 250-250
+- [[Idiomas|Idiomas]] — p. 250-250
+- [[Ilusão Menor|Ilusão Menor]] — p. 250-250
+- [[Ilusão Programada|Ilusão Programada]] — p. 250-252
+- [[Imagem Maior|Imagem Maior]] — p. 252-252
+- [[Imagem Silenciosa|Imagem Silenciosa]] — p. 252-252
+- [[Imobilizar Monstro|Imobilizar Monstro]] — p. 252-252
+- [[Imobilizar Pessoa|Imobilizar Pessoa]] — p. 252-252
+- [[Infligir Ferimentos|Infligir Ferimentos]] — p. 252-252
+- [[Inseto Gigante|Inseto Gigante]] — p. 252-253
+- [[Inverter A Gravidade|Inverter A Gravidade]] — p. 253-253
+- [[Invisibilidade|Invisibilidade]] — p. 253-253
+- [[Invisibilidade Maior|Invisibilidade Maior]] — p. 253-253
+- [[Invocação Instantânea De Drawmij|Invocação Instantânea De Drawmij]] — p. 253-253
+- [[Isolamento|Isolamento]] — p. 253-253
+- [[Labirinto|Labirinto]] — p. 253-253
+- [[Lâmina Flamejante|Lâmina Flamejante]] — p. 253-254
+- [[Lentidão|Lentidão]] — p. 254-254
+- [[Leque Cromático|Leque Cromático]] — p. 254-254
+- [[Levitação|Levitação]] — p. 254-254
+- [[Ligação Telepática De Rary|Ligação Telepática De Rary]] — p. 254-254
+- [[Limpar A Mente|Limpar A Mente]] — p. 254-254
+- [[Localizar Animais Ou Plantas|Localizar Animais Ou Plantas]] — p. 254-255
+- [[Localizar Criatura|Localizar Criatura]] — p. 255-255
+- [[Localizar Objeto|Localizar Objeto]] — p. 255-255
+- [[Loquacidade|Loquacidade]] — p. 255-255
+- [[Lufada De Vento|Lufada De Vento]] — p. 255-255
+- [[Luz|Luz]] — p. 255-255
+- [[Luz Do Dia|Luz Do Dia]] — p. 255-255
+- [[Malogro|Malogro]] — p. 255-256
+- [[Mansão Magnífica De Mordenkainen|Mansão Magnífica De Mordenkainen]] — p. 256-256
+- [[Manto Do Cruzado|Manto Do Cruzado]] — p. 256-256
+- [[Mão De Bigby|Mão De Bigby]] — p. 256-256
+- [[Mãos Flamejantes|Mãos Flamejantes]] — p. 256-257
+- [[Mãos Mágicas|Mãos Mágicas]] — p. 257-257
+- [[Marca Da Punição|Marca Da Punição]] — p. 257-257
+- [[Marca Do Caçador|Marca Do Caçador]] — p. 257-258
+- [[Medo|Medo]] — p. 258-258
+- [[Mensageiro Animal|Mensageiro Animal]] — p. 258-258
+- [[Mensagem|Mensagem]] — p. 258-258
+- [[Mesclar-Se Às Rochas|Mesclar-Se Às Rochas]] — p. 258-258
+- [[Metamorfose|Metamorfose]] — p. 258-259
+- [[Metamorfose Verdadeira|Metamorfose Verdadeira]] — p. 259-259
+- [[Miragem|Miragem]] — p. 259-259
+- [[Missão|Missão]] — p. 259-259
+- [[Mísseis Mágicos|Mísseis Mágicos]] — p. 259-260
+- [[Modificar Memória|Modificar Memória]] — p. 260-260
+- [[Moldar Rochas|Moldar Rochas]] — p. 260-260
+- [[Montaria Fantasmagórica|Montaria Fantasmagórica]] — p. 260-260
+- [[Mover Terra|Mover Terra]] — p. 260-261
+- [[Movimentação Livre|Movimentação Livre]] — p. 261-261
+- [[Muralha De Energia|Muralha De Energia]] — p. 261-261
+- [[Muralha De Espinhos|Muralha De Espinhos]] — p. 261-261
+- [[Muralha De Fogo|Muralha De Fogo]] — p. 261-261
+- [[Muralha De Gelo|Muralha De Gelo]] — p. 261-263
+- [[Muralha De Pedra|Muralha De Pedra]] — p. 263-263
+- [[Muralha De Vento|Muralha De Vento]] — p. 263-263
+- [[Muralha Prismática|Muralha Prismática]] — p. 263-264
+- [[Nevasca|Nevasca]] — p. 264-264
+- [[Névoa Fétida|Névoa Fétida]] — p. 264-264
+- [[Névoa Mortal|Névoa Mortal]] — p. 264-264
+- [[Névoa Obscurecente|Névoa Obscurecente]] — p. 264-264
+- [[Nublar|Nublar]] — p. 264-265
+- [[Nuvem De Adagas|Nuvem De Adagas]] — p. 265-265
+- [[Nuvem Incendiária|Nuvem Incendiária]] — p. 265-265
+- [[Olho Arcano|Olho Arcano]] — p. 265-266
+- [[Onda Destrutiva|Onda Destrutiva]] — p. 266-266
+- [[Onda Trovejante|Onda Trovejante]] — p. 266-266
+- [[Oração Curativa|Oração Curativa]] — p. 266-266
+- [[Orbe Cromática|Orbe Cromática]] — p. 266-266
+- [[Orientação|Orientação]] — p. 266-266
+- [[Padrão Hipnótico|Padrão Hipnótico]] — p. 266-266
+- [[Palavra Curativa|Palavra Curativa]] — p. 266-266
+- [[Palavra Curativa Em Massa|Palavra Curativa Em Massa]] — p. 266-267
+- [[Palavra De Poder Atordoar|Palavra De Poder Atordoar]] — p. 267-267
+- [[Palavra De Poder Curar|Palavra De Poder Curar]] — p. 267-267
+- [[Palavra De Poder Matar|Palavra De Poder Matar]] — p. 267-267
+- [[Palavra De Recordação|Palavra De Recordação]] — p. 267-267
+- [[Palavra Divina|Palavra Divina]] — p. 267-267
+- [[Parar O Tempo|Parar O Tempo]] — p. 267-267
+- [[Passo Nebuloso|Passo Nebuloso]] — p. 267-267
+- [[Passos Longos|Passos Longos]] — p. 267-268
+- [[Passos Sem Pegadas|Passos Sem Pegadas]] — p. 268-268
+- [[Patas De Aranha|Patas De Aranha]] — p. 268-268
+- [[Pele De Árvore|Pele De Árvore]] — p. 268-268
+- [[Pele De Pedra|Pele De Pedra]] — p. 268-268
+- [[Pequena Cabana De Leomund|Pequena Cabana De Leomund]] — p. 268-269
+- [[Perdição|Perdição]] — p. 269-269
+- [[Piscar|Piscar]] — p. 269-269
+- [[Porta Dimensional|Porta Dimensional]] — p. 269-269
+- [[Portal|Portal]] — p. 269-269
+- [[Portal Arcano|Portal Arcano]] — p. 269-270
+- [[Praga|Praga]] — p. 270-270
+- [[Praga De Insetos|Praga De Insetos]] — p. 270-271
+- [[Prestidigitação|Prestidigitação]] — p. 271-271
+- [[Prisão De Energia|Prisão De Energia]] — p. 271-271
+- [[Proibição|Proibição]] — p. 271-271
+- [[Projeção Astral|Projeção Astral]] — p. 271-272
+- [[Projetar Imagem|Projetar Imagem]] — p. 272-272
+- [[Proteção Contra A Morte|Proteção Contra A Morte]] — p. 272-272
+- [[Proteção Contra Energia|Proteção Contra Energia]] — p. 272-272
+- [[Proteção Contra Lâminas|Proteção Contra Lâminas]] — p. 272-272
+- [[Proteção Contra O Bem E Mal|Proteção Contra O Bem E Mal]] — p. 272-272
+- [[Proteção Contra Veneno|Proteção Contra Veneno]] — p. 272-273
+- [[Proteger Fortaleza|Proteger Fortaleza]] — p. 273-273
+- [[Purificar Alimentos|Purificar Alimentos]] — p. 273-273
+- [[Queda Suave|Queda Suave]] — p. 273-273
+- [[Raio Adoecente|Raio Adoecente]] — p. 273-273
+- [[Raio Ardente|Raio Ardente]] — p. 273-273
+- [[Raio De Bruxa|Raio De Bruxa]] — p. 273-274
+- [[Raio De Fogo|Raio De Fogo]] — p. 274-274
+- [[Raio De Gelo|Raio De Gelo]] — p. 274-274
+- [[Raio Do Enfraquecimento|Raio Do Enfraquecimento]] — p. 274-274
+- [[Raio Guiador|Raio Guiador]] — p. 274-275
+- [[Raio Lunar|Raio Lunar]] — p. 275-275
+- [[Raio Solar|Raio Solar]] — p. 275-275
+- [[Rajada De Veneno|Rajada De Veneno]] — p. 275-275
+- [[Rajada Mística|Rajada Mística]] — p. 275-275
+- [[Rajada Prismática|Rajada Prismática]] — p. 275-277
+- [[Recipiente Arcano|Recipiente Arcano]] — p. 277-277
+- [[Recuo Acelerado|Recuo Acelerado]] — p. 277-277
+- [[Reencarnação|Reencarnação]] — p. 277-277
+- [[Reflexos|Reflexos]] — p. 277-278
+- [[Regeneração|Regeneração]] — p. 278-278
+- [[Relâmpago|Relâmpago]] — p. 278-278
+- [[Remover Maldição|Remover Maldição]] — p. 278-278
+- [[Repouso Tranquilo|Repouso Tranquilo]] — p. 278-278
+- [[Repreensão Infernal|Repreensão Infernal]] — p. 278-278
+- [[Resistência|Resistência]] — p. 278-278
+- [[Respirar Na Água|Respirar Na Água]] — p. 278-278
+- [[Ressurreição|Ressurreição]] — p. 278-279
+- [[Ressurreição Verdadeira|Ressurreição Verdadeira]] — p. 279-279
+- [[Restauração Maior|Restauração Maior]] — p. 279-279
+- [[Restauração Menor|Restauração Menor]] — p. 279-279
+- [[Reviver Os Mortos|Reviver Os Mortos]] — p. 279-279
+- [[Revivificar|Revivificar]] — p. 279-279
+- [[Riso Histérico De Tasha|Riso Histérico De Tasha]] — p. 279-279
+- [[Rogar Maldição|Rogar Maldição]] — p. 279-280
+- [[Salto|Salto]] — p. 280-280
+- [[Santuário|Santuário]] — p. 280-280
+- [[Santuário Particular De Mordenkainen|Santuário Particular De Mordenkainen]] — p. 280-280
+- [[Saraivada De Espinhos|Saraivada De Espinhos]] — p. 280-280
+- [[Semiplano|Semiplano]] — p. 280-281
+- [[Sentido Bestial|Sentido Bestial]] — p. 281-281
+- [[Servo Invisível|Servo Invisível]] — p. 281-281
+- [[Sexto Sentido|Sexto Sentido]] — p. 281-281
+- [[Silêncio|Silêncio]] — p. 281-281
+- [[Símbolo|Símbolo]] — p. 281-282
+- [[Similaridade|Similaridade]] — p. 282-282
+- [[Simulacro|Simulacro]] — p. 282-282
+- [[Sinal De Esperança|Sinal De Esperança]] — p. 282-282
+- [[Sonho|Sonho]] — p. 282-283
+- [[Sono|Sono]] — p. 283-283
+- [[Sugestão|Sugestão]] — p. 283-283
+- [[Sugestão Em Massa|Sugestão Em Massa]] — p. 283-283
+- [[Será De 10 Dias. Quando Você Usar Um Espaço De Magia De|Será De 10 Dias. Quando Você Usar Um Espaço De Magia De]] — p. 283-283
+- [[Sussurros Dissonantes|Sussurros Dissonantes]] — p. 283-284
+- [[Taumaturgia|Taumaturgia]] — p. 284-284
+- [[Teia|Teia]] — p. 284-284
+- [[Telecinésia|Telecinésia]] — p. 284-284
+- [[Telepatia|Telepatia]] — p. 284-286
+- [[Teletransporte|Teletransporte]] — p. 286-286
+- [[Teletransporte Por Árvores|Teletransporte Por Árvores]] — p. 286-286
+- [[Tempestade Da Vingança|Tempestade Da Vingança]] — p. 286-287
+- [[Tempestade De Fogo|Tempestade De Fogo]] — p. 287-287
+- [[Tempestade De Gelo|Tempestade De Gelo]] — p. 287-287
+- [[Tentáculos Negros De Evard|Tentáculos Negros De Evard]] — p. 287-287
+- [[Terremoto|Terremoto]] — p. 287-287
+- [[Terreno Alucinógeno|Terreno Alucinógeno]] — p. 287-288
+- [[Toque Arrepiante|Toque Arrepiante]] — p. 288-288
+- [[Toque Chocante|Toque Chocante]] — p. 288-288
+- [[Toque Vampírico|Toque Vampírico]] — p. 288-288
+- [[Tranca Arcana|Tranca Arcana]] — p. 288-288
+- [[Truque De Corda|Truque De Corda]] — p. 288-288
+- [[Tsunami|Tsunami]] — p. 288-289
+- [[Velocidade|Velocidade]] — p. 289-289
+- [[Ver O Invisível|Ver O Invisível]] — p. 289-289
+- [[Viagem Planar|Viagem Planar]] — p. 289-289
+- [[Vidência|Vidência]] — p. 289-289
+- [[Vínculo Protetor|Vínculo Protetor]] — p. 289-289

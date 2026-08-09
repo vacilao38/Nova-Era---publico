@@ -1,0 +1,433 @@
+FOR
+FOR
+12 (+1)
+12 (+1)
+DES
+DES
+15 (+2)
+15 (+2)
+15 (+2)
+15 (+2)
+12 (+1)
+12 (+1)
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+12 (+1)
+12 (+1)
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+Perícias
+Perícias
+Furtividade +4, Percepção +3
+Furtividade +4, Percepção +3
+Sentidos
+Sentidos
+Percepção passiva 13
+Percepção passiva 13
+Idiomas
+Idiomas
+Idiomas
+Idiomas
+Nível de Desafio
+Nível de Desafio
+1/4 (50 XP)
+1/4 (50 XP)
+Audição e Faro Aguçados
+. O lobo tem vantagem em testes de
+Sabedoria (Percepção) relacionados à audição e ao olfato.
+Sabedoria (Percepção) relacionados à audição e ao olfato.
+Táticas de Matilha
+. O lobo tem vantagem nas jogadas de ataque
+contra uma criatura se, pelo menos, um dos aliados do lobo
+estiver a 1,5 metro da criaturas e não es
+tiver incapacitado.
+tiver incapacitado.
+tiver incapacitado.
+ÇÕES
+ÇÕES
+Mordida
+Mordida
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Corpo com Arma
+: +4 para atingir,
+alcance 1,5 m, um alvo.
+Acerto
+: 7 (2d4 + 2) de dano perfurante. Se
+o alvo for uma criatura, ele deve ser bem sucedido num teste de
+resistência de Força para não cair no
+chão.
+chão.
+chão.
+OBO
+OBO
+OBO
+Besta grande,
+imparcial
+imparcial
+Classe de Armadura
+Classe de Armadura
+14 (armadura natural)
+14 (armadura natural)
+Pontos de Vida
+Pontos de Vida
+37 (5d10 + 10)
+37 (5d10 + 10)
+Deslocamento
+Deslocamento
+Deslocamento
+Deslocamento
+FOR
+FOR
+17 (+3)
+17 (+3)
+DES
+DES
+15 (+2)
+15 (+2)
+15 (+2)
+15 (+2)
+15 (+2)
+15 (+2)
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+12 (+1)
+12 (+1)
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+Perícias
+Perícias
+Furtividade +4, Percepção +3
+Furtividade +4, Percepção +3
+Sentidos
+Sentidos
+Percepção passiva 13
+Percepção passiva 13
+Idiomas
+Idiomas
+Idiomas
+Idiomas
+Nível de Desafio
+Nível de Desafio
+1 (200 XP)
+1 (200 XP)
+Audição e Faro Aguçados
+. O lobo tem vantagem em testes de
+Sabedoria (Percepção) relacionados à audição e ao olfato.
+Sabedoria (Percepção) relacionados à audição e ao olfato.
+Táticas de Matilha
+. O lobo tem vantagem nas jogadas de ataque
+contra uma
+criatura se, pelo menos, um dos aliados do lobo
+estiver a 1,5 metro da criaturas e não estiver incapacitado.
+estiver a 1,5 metro da criaturas e não estiver incapacitado.
+estiver a 1,5 metro da criaturas e não estiver incapacitado.
+ÇÕES
+ÇÕES
+Mordida
+Mordida
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Corpo com Arma
+: +5 para atingir,
+alcance 1,5 m, um alvo.
+Acerto
+: 10 (2d6 + 3) de dano perfurante.
+Se o alvo for uma
+Se o alvo for uma
+criatura, ela deve ser bem sucedida num teste
+de resistência de Força CD 13 ou será derrubada no chão.
+de resistência de Força CD 13 ou será derrubada no chão.
+de resistência de Força CD 13 ou será derrubada no chão.
+ASTIM
+Besta médi
+Besta médi
+Besta médi
+imparcial
+imparcial
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Pontos de Vida
+Pontos de Vida
+5 (1d8 + 1)
+5 (1d8 + 1)
+Deslocamento
+Deslocamento
+Deslocamento
+Deslocamento
+FOR
+FOR
+13 (+1)
+13 (+1)
+DES
+DES
+14 (+2)
+14 (+2)
+14 (+2)
+14 (+2)
+12 (+1)
+12 (+1)
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+12 (+1)
+12 (+1)
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+Perícias
+Perícias
+Percepção +3
+Percepção +3
+Sentidos
+Sentidos
+Percepção passiva 13
+Percepção passiva 13
+Idiomas
+Idiomas
+Idiomas
+Idiomas
+Nível de Desafio
+Nível de Desafio
+1/8 (25 XP)
+1/8 (25 XP)
+Audição e Olfato Aguçados
+. O mastim tem vantagem em testes
+de Sabedoria (Percepção) relacionados à audição e ao olfato.
+de Sabedoria (Percepção) relacionados à audição e ao olfato.
+de Sabedoria (Percepção) relacionados à audição e ao olfato.
+ÇÕES
+ÇÕES
+ÇÕES
+Mordida
+Mordida
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Corpo com Arma
+: +3 para atingir,
+alcance 1,5 m, um alvo.
+Acerto
+: 4 (1d6 + 1) de dano perfurante. Se
+o alvo for uma criatura, ela deve ser bem sucedida num teste de
+resistência de Força CD 11 para não cair no chão.
+resistência de Força CD 11 para não cair no chão.
+ORCEGO
+Besta miúd
+Besta miúd
+Besta miúd
+imparcial
+imparcial
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Pontos de Vida
+Pontos de Vida
+1 (1d4
+1 (1d4
+1 (1d4
+1 (1d4
+1 (1d4
+Deslocamento
+Deslocamento
+1,5 m,
+voo
+voo
+voo
+voo
+FOR
+FOR
+FOR
+FOR
+FOR
+FOR
+DES
+DES
+15 (+2)
+15 (+2)
+15 (+2)
+15 (+2)
+15 (+2)
+15 (+2)
+15 (+2)
+15 (+2)
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+12 (+1)
+12 (+1)
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+Sentidos
+Sentidos
+percepção às cegas
+percepção às cegas
+18 m, Percepção passiva 11
+Idiomas
+Idiomas
+Idiomas
+Idiomas
+Nível de Desafio
+Nível de Desafio
+0 (10 XP)
+0 (10 XP)
+Eco
+Localização
+. Enquanto não puder ouvir, o morcego perderá o
+percepção às cegas
+percepção às cegas
+percepção às cegas
+Audição Aguçada
+. O morcego tem vantagem em testes de
+Sabedoria (Percepção) relacionados à audição.
+Sabedoria (Percepção) relacionados à audição.
+Sabedoria (Percepção) relacionados à audição.
+ÇÕES
+ÇÕES
+Mordida
+Mordida
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Corpo com Arma
+: +0 para atingir,
+alcance 1,5
+m, um
+a criatura
+a criatura
+Acerto
+: 1 de dano perfurante.
+: 1 de dano perfurante.
+: 1 de dano perfurante.
+ULA
+Besta médi
+Besta médi
+Besta médi
+imparcial
+imparcial
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Classe de Armadura
+Pontos de Vida
+Pontos de Vida
+11 (2d8 + 2)
+11 (2d8 + 2)
+Deslocamento
+Deslocamento
+Deslocamento
+Deslocamento
+FOR
+FOR
+14 (+2)
+14 (+2)
+DES
+DES
+10 (+
+10 (+
+10 (+
+10 (+
+10 (+
+10 (+
+13 (+1)
+13 (+1)
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+INT
+10 (+0)
+10 (+0)
+CAR
+CAR
+CAR
+CAR
+CAR
+CAR
+Sentidos
+Sentidos
+Percepção passiva 10
+Percepção passiva 10
+Idiomas
+Idiomas
+Idiomas
+Idiomas
+Nível de Desafio
+Nível de Desafio
+1/8 (25 XP)
+1/8 (25 XP)
+Besta de Carga
+. A mula é considerada como um animal Grande
+com os propósitos de determinar sua capacidade de carga.
+com os propósitos de determinar sua capacidade de carga.
+Estável
+. Sempre que a mula poderia cair no chão, ela poderá
+permanecer de pé se for bem sucedida num teste
+de resistência
+de Destreza CD 10.
+de Destreza CD 10.
+de Destreza CD 10.
+ÇÕES
+ÇÕES
+Cascos
+Cascos
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Ataque Corpo
+Corpo com Arma
+: +2 para atingir, alcance
+1,5 m, um alvo.
+Acerto
+: 4 (1d4 + 2) de dano de concussão.
+: 4 (1d4 + 2) de dano de concussão.

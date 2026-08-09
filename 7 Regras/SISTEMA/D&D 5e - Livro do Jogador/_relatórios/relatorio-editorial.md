@@ -1,0 +1,118 @@
+# Relatório editorial
+
+- Fonte textual usada: _extração/poppler-raw.txt
+- Notas reescritas/geradas nesta etapa: 447
+- Magias detectadas: 355
+- Tabelas convertidas automaticamente: 84
+- Links quebrados após validação: 0
+- Backup das magias antigas: C:\Users\Rogerin\Documents\Obsidian Vault\NOVA ERA MANAGE\7 Regras\SISTEMA\D&D 5e - Livro do Jogador\_extração\backup-magias-pre-formatacao-20260711-112426
+
+## Revisão manual recomendada
+- Tabelas complexas com muitas colunas, especialmente equipamentos, classes e listas de magia.
+- Páginas em que o livro usa caixas laterais ou texto em paralelo.
+- Magias cujo título foi detectado por heurística; nomes duplicados receberam sufixo numérico.
+
+## Candidatas a tabela mencionadas no texto
+- A tabela que aparece na descrição da classe mostra o
+- descritos no capítulo 7. A tabela Sumário de Valores de
+- a tabela Valores e Modificadores de Habilidade. Para
+- tabela, você deve subtrair 10 do valor de habilidade e
+- mostrado na tabela Custo de Pontos de Habilidades. Por
+- uma bugiganga sem nenhum custo (consulte a tabela
+- A tabela Avanço de Personagem mostra a quantidade
+- A área sombreada na tabela Avanço de Personagem
+- dracônico. Escolha um tipo de dragão da tabela Ancestral
+- tabela.
+- das já existentes. Cada classe aqui possui uma tabela
+- Doze classes básicas – listadas na tabela Classes – são
+- Fúria na tabela O Bárbaro.
+- tabela O Bárbaro, você precisará terminar um descanso
+- mostrado na coluna Truques Conhecidos da tabela O
+- A tabela O Bardo mostra quantos espaços de magia de 1°
+- A coluna Magias Conhecidas na tabela O Bardo
+- que você tenha acesso, como mostrado na tabela. Por
+- como mostrado na tabela O Bardo, ou um truque.
+- Magias Conhecidas da tabela O Bardo.
+- tabela O Bardo, ou um truque. As magias escolhidas
+- A tabela O Bruxo mostra quantos espaços de magia você
+- possui. A tabela também mostra qual o nível desses
+- A coluna Magias Conhecidas na tabela O Bruxo
+- mostrado na tabela na coluna de Nível de Magia para o
+- na tabela O Bruxo.
+- A tabela O Clérigo mostra quantos espaços de magia você
+- de Desafio dele for menor ou igual ao valor da tabela
+- A tabela O Druida mostra quantos espaços de magia você
+- pode se transformar, como mostrado na tabela Formas de
+- (você ignora a coluna ND Max da tabela Formas de Besta,
+- A tabela O Feiticeiro mostra quantos espaços de magia de
+- A coluna Magias Conhecidas na tabela O Feiticeiro
+- nível a que você tenha acesso, como mostrado na tabela.
+- Pontos de Feitiçaria da tabela O Feiticeiro. Você nunca
+- tabela para o seu nível. Você recupera todos os pontos de
+- com uma ação bônus, no seu turno. A tabela Criando
+- tabela Surto de Magia Selvagem para criar um efeito
+- característica, o Mestre pode rolar na tabela Surto de
+- surtos de magia selvagem. Sempre que você rolar a tabela
+- 01–02 Role nessa tabela, no começo de cada um dos seus
+- Espaços de Magia. A tabela Conjuração de Cavaleiro
+- A coluna Magias Conhecidas na tabela Conjuração do
+- acesso, como mostrado na tabela. Por exemplo, quando
+- Ataque Furtivo da tabela O Ladino.
+- Espaços de Magia. A tabela Conjuração de
+- coluna Truques Conhecidos na tabela O Mago.
+- A tabela O Mago mostra quantos espaços de magia você
+- espaços de magia, conforme mostra a tabela O Mago. Em
+- como mostrado na coluna Artes Marciais na tabela O
+- tabela O Monge.
+- seu nível de monge, como mostrado na tabela Magias e
+- A tabela O Paladino mostra quantos espaços de magia
+- A tabela O Patrulheiro mostra quantos espaços de magia
+- A coluna Magias Conhecidas na tabela O Patrulheiro
+- na tabela de altura e peso aleatórios. Pense nos valores de
+- peso do seu personagem na tabela Altura e Peso
+- Escolha seus idiomas da tabela Idiomas Padrão, ou
+- da tabela Idiomas Exóticos ou um idioma secreto, como as
+- Você pode escolher seu negócio da guilda da tabela
+- a três rotinas, ou role na tabela abaixo, para definir suas
+- predileta ou role na tabela abaixo.
+- como criminoso, ou role na tabela abaixo.
+- sua reclusão ou você pode escolher rolar na tabela abaixo
+- causaram em você. Você pode rolar na tabela a seguir ou
+- (ou você pode rolar uma bugiganga da tabela
+- ou escolha na tabela abaixo.
+- exército. Jogue o d8 ou escolha entre as opções na tabela
+- gastá-los em itens das listas nesse capítulo. Veja a tabela
+- A tabela Armaduras reúne os tipos mais comuns de
+- A tabela Armaduras mostra o custo da armadura, o
+- livremente. Se a tabela de Armadura mostrar "For 13" ou
+- Furtividade. Se a tabela Armaduras mostrar
+- A tabela Armas mostra as armas mais comuns
+- com a sua utilização, como mostrado na tabela Armas.
+- ofício ou profissão. A tabela mostra exemplos dos tipos
+- de instrumentos musicais são mostrados na tabela como
+- exibidos na tabela Ferramentas, mas existem outros tipos
+- mais lento. A tabela Montarias e Outros Animais mostra
+- de armadura mostrada na tabela Armadura nesse
+- comerciais sem o uso de moeda. A tabela Escambo mostra
+- determine um estilo de vida a partir da tabela Despesas
+- A tabela Comida, Bebida e Hospedagem mostra os preços
+- vez na tabela Bugigangas para receber uma bugiganga,
+- também pode se utilizar dessa tabela. Ela pode ajudá-lo a
+- mostrado na tabela Pré-Requisitos de Multiclasse. Por
+- total, como mostrado na tabela Avanço de Personagem, no
+- nível de personagem total, como mostrado na tabela
+- proficiências iniciais da classe, como mostrado na tabela
+- espaços de magia consultando a tabela Multiclasse para
+- tabela pode conceder a você espaços de magia de níveis
+- de habilidade 1) até +10 (para um valor de 30). A tabela
+- consultar a tabela, você deve subtrair 10 do valor do
+- tabela Classes de Dificuldade Típicas mostra as CD mais
+- ignore a coluna Força da tabela Armaduras no capítulo 5.
+- mostrado na tabela Ritmo de Viagem. A tabela indica a
+- Marcha Forçada. A tabela Ritmo de Viagem assume
+- As velocidades de deslocamento dadas na tabela Ritmo de
+- seu tamanho. A tabela Categorias de Tamanho mostra
+- inclui uma tabela mostrando quantas magias de cada
+- criatura mude. O Mestre rola um d100 e consulta a tabela
+- consulta a tabela.
+- rola novamente a tabela para ver onde você foi parar

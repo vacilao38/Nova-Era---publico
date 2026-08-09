@@ -1,0 +1,128 @@
+Se você afetar uma criatura planta ou planta mágica,
+ela faz seu teste de resistência com desvantagem e a
+magia causa o máximo de dano a ela.
+Se você afetar uma planta não-mágica que não seja
+uma criatura, como uma árvore ou arbusto, ele não faz um teste de resistência; ela simplesmente seca e morre.
+Em Níveis Superiores
+. Quando você conjurar essa
+magia usando um espaço de magia de 5° nível ou superior, o dano aumenta em 1d8 para cada nível do
+espaço acima do 4°.
+espaço acima do 4°.
+ANSÃO
+ANSÃO
+AGNÍFICA DE AGNÍFICA DE
+ORDENKAINEN
+7° nível de conjuração Tempo de Conjuração: 1 minuto
+Alcance
+: 90 metros
+Componentes
+: V, S, M (um portal em miniatura
+esculpido em marfim, um pedaço de mármore polido e uma pequena colher de prata, cada item valendo, no
+mínimo, 5 po)
+Duração
+: 24 horas
+Você conjura uma residência extradimensional, dentro do
+alcance, que permanece pela duração. Você escolhe onde
+sua única entrada é localizada. A entrada brilha discretamente e tem 1,5 metro de largura por 3 metros de
+altura. Você e qualquer criatura que você designou,
+quando conjurou a magia, pode entrar na residência extradimensional enquanto o portal permanecer aberto.
+Você pode abrir ou fechar o portal se estiver a até 9
+metros dele. Enquanto estiver fechado, o portal é invisível.
+Além do portal existe um magnifico salão com
+inúmeros aposentos. A atmosfera é limpa, fresca e morna.
+Você pode criar qualquer projeto de piso que quiser,
+mas o espaço não pode exceder 50 cubos, cada cubo tendo 3 metros de cada lado. O local é mobiliado e decorado como você desejar. Ele contém comida suficiente para
+servir nove banquetes para até 100 pessoas. Uma equipe
+de 100 servos quase-transparentes atende todos que entrarem. Você decide a aparência visual dos servos e o
+vestuário deles. Eles são completamente obedientes as
+suas ordens. Cada servo pode realizar qualquer tarefa que um servo humano comum poderia fazer, mas eles não
+podem atacar ou realizar qualquer ação que poderia
+causar maleficio direto a outra criatura. Portanto, os servos podem buscar coisas, limpar, remendar, dobrar
+roupas, acender lareiras, servir comida, despejar vinho e
+assim por diante. Os servos podem ir a qualquer lugar na mansão, mas não podem deixa-la. Mobília e outros objetos
+criados por essa magia viram fumaça se forem removidos
+da mansão. Quando a magia acabar, qualquer criatura dentro do espaço extradimensional é expelida para o
+espaço vago mais próximo da entrada.
+espaço vago mais próximo da entrada.
+ANTO DO
+ANTO DO
+RUZADO
+3° nível de evocação
+Tempo de Conjuração: 1 ação Alcance
+: Pessoal
+Componentes
+Componentes
+Componentes
+Duração
+: Concentração, até 1 minuto
+Poder sagrado irradia de você em uma aura de 9 metros de raio, despertando a audácia nas criaturas amigáveis.
+Até o final da magia, a aura se move, se mantendo
+centrada em você. Enquanto estiver na aura, cada criatura não-hostil (incluindo você) causa 1d4 de dano
+radiante extra quando atingir com ataques com arma.
+radiante extra quando atingir com ataques com arma.
+ÃO DE
+ÃO DE
+IGBY
+5° nível de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: 36 metros
+Componentes
+Componentes
+S, M (uma casca de ovo e uma luva de
+couro de cobra)
+Duração
+: Concentração, até 1 minuto
+Você cria uma mão Grande de energia cintilante e translucida em um espaço desocupado que você possa ver
+dentro do alcance. A mão permanece pela duração da
+magia e ela se move ao seu comando, imitando os movimentos da sua própria mão.
+A mão é um objeto com CA 20 e pontos de vida igual
+ao seu máximo de pontos de vida. Se ela cair a 0 pontos de vida, a magia termina. Ela tem Força 26 (+8) e Destreza
+10 (+0). A mão não preenche o espaço dela.
+Quando você conjura essa magia você pode, com uma
+ação bônus, nos seus turnos subsequentes, mover a mão até 18 metros e então causar um dos seguintes efeitos
+com ela.
+Mão Esmagadora
+. A mão tenta agarrar uma
+criatura Enorme ou menor a 1,5 metro dela. Você usa o valor de Força da mão para determinar o agarrão. Se o alvo for Médio ou menor, você terá vantagem no teste.
+Enquanto a mão estiver agarrando o alvo, você pode usar
+uma ação bônus para fazer a mão esmaga-lo. Quando o fizer, o alvo sofre dano de concussão igual a 2d6 + seu
+modificador de habilidade de conjuração.
+Mão Interposta
+. A mão se interpõem entre você e
+uma criatura a sua escolha até você lhe dar um comando diferente. A mão se move para ficar entre você e o alvo,
+concedendo a você meia-cobertura contra o alvo. O alvo não pode se mover através do espaço da mão se o valor de
+Força dele for menor ou igual ao valor de Força da mão.
+Se o valor de Força dele for maior que o valor de Força da mão, o alvo pode se mover até você através do espaço da
+mão, mas aquele espaço será considerado terreno difícil
+para o alvo.
+Mão Poderosa
+. A mão tenta empurrar uma criatura
+a 1,5 metro dela em uma direção a sua escolha. Realize um teste com a Força da mão, resistido por um teste de Força (Atletismo) do alvo. Se o alvo for Médio ou menor,
+você tem vantagem no teste. Se você for bem sucedido, a
+mão empurra o alvo até 1,5 metro mais uma quantidade de metros igual ao modificador da sua habilidade de
+conjuração multiplicado por 1,5. A mão se move com conjuração multiplicado por 1,5. A mão se move com
+alvo, permanecendo a 1,5 metro dele.
+Punho Cerrado
+. A mão golpeia uma criatura ou
+objeto a 1,5 metro dela. Realize uma jogada de ataque corpo-a-corpo com magia para a mão usando suas estatísticas de jogo. Se atingir, o alvo sofre 4d8 de dano de
+energia.
+Em Níveis Superiores
+. Se você conjurar essa magia
+usando um espaço de magia de 6° nível ou superior, o dano da opção punho cerrado aumenta em 2d8 e o dano
+da mão esmagadora aumenta em 2d6 para cada nível do espaço acima do 5°.
+espaço acima do 5°.
+ÃOS
+ÃOS
+LAMEJANTES
+1° nível de evocação
+Tempo de Conjuração: 1 ação
+Alcance
+: Pessoal (cone de 4,5 metros)
+Componentes
+Componentes
+Componentes
+Duração
+: Instantânea
+Enquanto você mantiver suas mãos com os polegares juntos e os dedos abertos, uma fino leque de chamas emerge das pontas dos seus dedos erguidos. Cada criatura
+num cone de 4,5 metros deve realizar um teste de
