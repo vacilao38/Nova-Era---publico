@@ -20,7 +20,7 @@ git pull --ff-only
 
 - `Automacao/Sincronizar-Vault-Ruan.ps1` copia mudanças permitidas, reflete exclusões já gerenciadas e pode criar/enviar commits.
 - `Automacao/Observar-Vault-Ruan.ps1` observa o vault de origem e agrupa cada salvamento em um commit automático.
-- `Automacao/Instalar-AutoSync-Ruan.ps1` registra o observador para iniciar junto com o Windows.
+- `Automacao/Instalar-AutoSync-Ruan.ps1` registra o observador para iniciar junto com o Windows; se o Agendador de Tarefas não estiver disponível, usa a pasta de Inicialização do usuário.
 
 O estado interno da sincronização fica dentro de `.git` e nunca é publicado. Na primeira execução, arquivos curados que existem apenas nesta versão são preservados.
 
