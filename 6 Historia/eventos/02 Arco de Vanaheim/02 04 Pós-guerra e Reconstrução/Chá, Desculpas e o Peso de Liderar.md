@@ -4,17 +4,17 @@
 - Tipo: interação / reconciliação / pós-guerra / liderança
 - Estado da fonte: concluída
 - Data da conversa: 30–31/07/2026
-- Data diegética: após 13/07/0387; a data exata é incerta, pois a abertura declara o décimo sexto dia após a morte de [[Odr]] (12/07/0387), mas a conversa ocorre depois de [[Peixe Assado e uma Visita ao Anoitecer]]
-- Estação: Outono, caso pertença ao pós-guerra imediato indicado pela sequência
-- Fase da Lua ao anoitecer: indeterminada enquanto a data exata não for resolvida
+- Data diegética: 14/07/0387, décimo oitavo dia após a derrota de [[Odr]]
+- Estação: Outono
+- Fase da Lua ao anoitecer: indeterminada
 - Horário e local diegéticos: fim de tarde numa cafeteria da [[Varethia|Capital de Vanaheim]]; depois, uma antiga loja de dois andares em reforma nas proximidades; encerramento ao anoitecer
 - Participantes centrais: [[Blanck]], [[Elder]]
 - Participantes mencionados: [[Navi|Naví]], [[Scann]], [[Leif]], [[Aurélia]], [[Cleide]], [[Harald]], [[Ophelia]], Queixo
 - Fonte primária: `Nova Era - conversas 2.txt`, exportado de `WhatsApp Chat with (Nova Era)Conversas 2.zip`
 - Corte consultado: 31/07/2026 às 22h05
 
-> [!warning] Divergência cronológica
-> A fonte chama a cena de “16º dia após a morte de Odr”, data já usada por [[Chá, Raízes e o Fim da Aventura]]. Entretanto, Elder afirma ter recebido Naví em casa recentemente, o que coloca esta conversa depois do jantar registrado no 17º dia. Até correção ou confirmação, a ordem causal depois do jantar é segura, mas a data absoluta permanece incerta.
+> [!note] Correção cronológica
+> A data canônica foi fixada no 18º dia após a derrota de Odr, 14/07/0387, substituindo a indicação de “16º dia” presente na abertura da fonte. Assim, a cena ocorre no dia seguinte a [[Peixe Assado e uma Visita ao Anoitecer]].
 
 > [!note] Limite da fonte
 > A interação foi concluída no texto disponível. Mídias omitidas podem conter reações visuais, mas não alteram os fatos textuais. A conversa não nomeia perdas específicas que Blanck desejava lamentar nem esclarece a causa da mão enfaixada de Elder.
@@ -128,7 +128,6 @@ No espaço privado, Elder não substitui Blanck nem resolve sua dor. Usa pergunt
 
 ## Lacunas e ambiguidades
 
-- Corrigir ou confirmar a data diegética diante da contradição entre “16º dia” e a referência ao jantar de Naví.
 - Identificar a velha conhecida de Elder e esclarecer o significado institucional de “direito de resolução”.
 - Esclarecer o que Elder contou a Ophelia há cerca de 302 anos e o que ela considera já resolvido entre as duas.
 - Não interpretar automaticamente a fala sobre bebida como diagnóstico ou dependência.

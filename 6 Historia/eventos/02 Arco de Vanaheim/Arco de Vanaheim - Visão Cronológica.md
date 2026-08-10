@@ -256,9 +256,9 @@ No mesmo dia, [[Blanck]] e [[Hori Turling]] procuram uma residência definitiva 
 
 Elder recebe [[Navi|Naví]] na casa em que viveu com Juliet e Ophelia enquanto prepara peixe e suco. Ela explica que o convidou porque os dois começaram com o pé esquerdo e nunca se conheceram fora da guerra. Naví fala dos avós humanos que o criaram, da busca pelos pais biológicos e do fardo deixado pela partida de Cleide. Elder compartilha memórias das filhas, narra uma lembrança sobre Cleide criança e pede que Naví reconheça o que já fez e aproveite a vida com quem permanece, incluindo ela. A noite termina com abraço, marmita para o turno no quartel e um vínculo que passa da emergência para a convivência.
 
-### Depois de 13/07/0387 — [[Chá, Desculpas e o Peso de Liderar]]
+### 14/07/0387 — [[Chá, Desculpas e o Peso de Liderar]]
 
-Blanck e Elder reparam o conflito da guerra, discutem limites de respeito, o cuidado por Naví e a perda de direção depois da liderança. Numa antiga loja em reforma, Elder usa a espada ligada a Juliet e miniaturas luminosas para perguntar quem cuida de Blanck quando não existe batalha. A maga reconhece Scann como presença constante e decide deixar os companheiros crescerem, acompanhar Naví sem prendê-lo e não carregar um reino nas costas. As duas encerram a conversa sem cura total, mas desejando que exista uma próxima; a data permanece contraditória porque a fonte também declara o 16º dia após Odr.
+Blanck e Elder reparam o conflito da guerra, discutem limites de respeito, o cuidado por Naví e a perda de direção depois da liderança. Numa antiga loja em reforma, Elder usa a espada ligada a Juliet e miniaturas luminosas para perguntar quem cuida de Blanck quando não existe batalha. A maga reconhece Scann como presença constante e decide deixar os companheiros crescerem, acompanhar Naví sem prendê-lo e não carregar um reino nas costas. As duas encerram a conversa sem cura total, mas desejando que exista uma próxima. A data canônica foi fixada no 18º dia após a derrota de Odr.
 
 ### Provavelmente entre 15 e 18/07/0387 — [[Lírios, Vinho e um Futuro sob a Lua]]
 
@@ -292,7 +292,7 @@ Blanck e Elder reparam o conflito da guerra, discutem limites de respeito, o cui
 | 09/07/0387 | [[A Empregada e o Futuro Rei entre os Leões]]; [[A Casa, a Chuva e a Rainha dos Mapas]] | Outono | — |
 | 12/07/0387 | [[Chá, Raízes e o Fim da Aventura]] | Outono | — |
 | Noite de 13/07/0387 | [[Peixe Assado e uma Visita ao Anoitecer]] | Outono | transição para Lua Cheia |
-| Depois de 13/07/0387 | [[Chá, Desculpas e o Peso de Liderar]]; a fonte também declara, contraditoriamente, o 16º dia após Odr, que corresponderia a 12/07 | Outono, se for pós-guerra imediato | indeterminada |
+| 14/07/0387 | [[Chá, Desculpas e o Peso de Liderar]]; 18º dia após a derrota de Odr | Outono | indeterminada |
 | Provavelmente 15–18/07/0387 | [[Lírios, Vinho e um Futuro sob a Lua]] | Outono | Lua Cheia, explícita na fonte |
 | Tarde de 20/07/0387 | [[Mapas entre Tempos e uma Anciã Desatualizada]] | Outono | — |
 
@@ -359,7 +359,7 @@ Todas as datas abaixo pertencem ao ano 0387. Maio está no **Verão**; junho e j
 | 09/07 | [[A Casa, a Chuva e a Rainha dos Mapas]] | Blanck procura uma residência definitiva, Hori revela o custo dos contratos de Odr e as duas experimentam uma aproximação cotidiana |
 | 12/07 | [[Chá, Raízes e o Fim da Aventura]] | Blanck assume a pesquisa das raízes, Aurélia divide os encargos do governo e Elder estabelece limites entre intimidade e trabalho |
 | Noite de 13/07 | [[Peixe Assado e uma Visita ao Anoitecer]] | Elder convida Navi para conhecê-lo e compartilha memórias das filhas; transição para Lua Cheia |
-| Após 13/07? | [[Chá, Desculpas e o Peso de Liderar]] | Blanck e Elder reparam o conflito da guerra; Elder torna visível a falta de reciprocidade em torno da maga, e Blanck decide deixar o grupo crescer sem carregar um reino nas costas; a fonte também declara, de modo contraditório, o 16º dia após Odr |
+| 14/07 | [[Chá, Desculpas e o Peso de Liderar]] | Blanck e Elder reparam o conflito da guerra; Elder torna visível a falta de reciprocidade em torno da maga, e Blanck decide deixar o grupo crescer sem carregar um reino nas costas; 18º dia após a derrota de Odr |
 | Provavelmente 15–18/07 | [[Lírios, Vinho e um Futuro sob a Lua]] | Leif e Aurélia convertem o futuro desejado em planos explícitos; Lua Cheia descrita pela fonte |
 | Tarde de 20/07 | [[Mapas entre Tempos e uma Anciã Desatualizada]] | Elder e Hori abrem uma parceria por mapas; 24º dia após Odr |
 

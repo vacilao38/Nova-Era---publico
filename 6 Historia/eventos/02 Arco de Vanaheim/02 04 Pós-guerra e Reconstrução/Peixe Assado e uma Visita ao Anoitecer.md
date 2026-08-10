@@ -99,6 +99,6 @@ O vínculo deixa de depender exclusivamente de combate e emergência. Elder assu
 ## Conexões
 
 - Evento anterior: [[Chá, Raízes e o Fim da Aventura]]
-- Evento seguinte na ordem causal: [[Chá, Desculpas e o Peso de Liderar]]; a data absoluta desse evento permanece contraditória
+- Evento seguinte: [[Chá, Desculpas e o Peso de Liderar]], em 14/07/0387
 - Relações: [[Elder]], [[Navi]], [[Cleide]], [[Kaeli|Kaelith]]
 - Planejamento: [[Elder - Cenas a escrever]] e [[Planejamento - Retorno a Alfheim e timeskip da Elder]]
