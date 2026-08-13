@@ -1,7 +1,8 @@
 # Cronologia: Projeto Nova Era
 1. [[Grande Omissão]]
-2. [[Vitória-dos-Heróis-de-Vannaheim-contra-o-Arauto-de-Loki]]
-3. [[O Encontro no Palácio - A Fuga de Aurélia e Leif]]
+2. [[Colisão Injusta - A Segunda Guerra Divina]]
+3. [[Vitória-dos-Heróis-de-Vannaheim-contra-o-Arauto-de-Loki]]
+4. [[O Encontro no Palácio - A Fuga de Aurélia e Leif]]
 4. [[A Batalha Contra o Dragão Vermelho Morrüm]]
 5. [[A Vingança do Peteleco (Confronto entre Cleide e Blanck)]]
 6. [[Viagem até Oggdir]]

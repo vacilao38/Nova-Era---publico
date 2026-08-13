@@ -6,6 +6,23 @@ Conflito antigo citado por [[Braggi]] e aprofundado em [[Ouro de Tolo]]. A queim
 
 As notas antigas também registram duas guerras separadas por milhões de anos, mas a identidade e a cronologia exata desses dois conflitos ainda não foram reconciliadas com a guerra Vanir–Aesir descrita no arco atual.
 
+## Segunda Guerra Divina
+
+Por volta de **113 AV**, enquanto a guerra élfica já consumia [[Alfheim]] e antes da vitória dos [[Heróis-de-Vanaheim]], uma assembleia em [[Asgard]] tentou julgar [[Loki]]. A reunião já era uma armadilha: Loki havia usado o [[Desk]] para cegar e prender [[Odin]], corromper [[Thor]] e escapar até da previsão das [[Nornas]].
+
+Em [[Colisão Injusta - A Segunda Guerra Divina]], [[Sterk Bresnver]], [[Huli Jing]] e [[mane|Máni]] rompem a armadilha. Huli destrói a manifestação de Thor; Máni abençoa a linhagem [[Bresnver]] em troca da promessa de Sterk proteger [[Sol]]; e Sterk parte Loki ao meio com uma espada fortalecida pela Lua. A vitória encerra o confronto no salão, mas não a guerra: Loki sobrevive, o Desk permanece ativo e sua prisão em Midgard ainda precisa acontecer.
+
+A colisão confirma que a Segunda Guerra Divina não nasceu apenas de disputa entre panteões. Ela reúne a perda de fé, a guerra élfica, o massacre da [[Ordem dos Escribas]], a manipulação de vínculos familiares e a tentativa de Loki de transformar o Desk em arma contra memória e destino. É a abertura canônica do conflito, não um resumo de todas as suas frentes posteriores.
+
+### Consequências duradouras
+
+- os deuses descobrem que o Desk pode prendê-los, corrompê-los e escapar de sua leitura do futuro;
+- Máni transforma a aposta nos mortais em aliança direta com Sterk;
+- a linhagem Bresnver recebe uma bênção lunar que alcançará gerações futuras;
+- Loki é derrotado fisicamente, mas só será preso depois, na caverna de [[Midgard]];
+- os servos e arautos de Loki sobrevivem à guerra e exigem nova resposta no marco zero do calendário;
+- Máni atribui a morte da Ordem dos Escribas à aliança de Loki, contradizendo a acusação posterior de [[Zakna]] contra Thor.
+
 ## Guerra contra o arauto de Loki
 
 No marco zero do calendário, os [[Heróis-de-Vanaheim]] derrotaram um arauto de [[Loki]]. [[Elder]] participou do grupo antes de abandoná-lo; [[Wyrrer]], [[Fêr]], [[Ólfir]], [[Arsthör]] e [[Yrídia]] permaneceram associados à lenda. O destino completo dos heróis depois da vitória ainda não foi revelado.
