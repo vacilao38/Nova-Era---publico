@@ -28,7 +28,7 @@
 
 No vigésimo dia após a derrota de Odr, Blanck atravessa os subúrbios da capital à noite usando capa e capuz sobre roupas simples. Ela retorna à Taverna Peixinho, reserva o andar superior e recebe Zakna para cumprir a parceria cautelosa aberta em [[O Riacho dos Renegados]]. A guerra terminou, os aliados de Odr estão sendo presos e julgados, e os Renegados começaram a retirar sua força principal de Vanaheim.
 
-Blanck não pede comida nem bebida, mas oferece pagar o consumo do convidado. Zakna escolhe suco de **Fajo Solar**, fruto de árvores que absorvem o sol no topo e cuja aparência lembra o astro. O detalhe ganha peso no encerramento, quando seus pensamentos revelam que ele nunca sentiu a pele tocada pelo sol e que a única luz que testemunhou foi o fogo.
+Blanck não pede comida nem bebida, mas oferece pagar o consumo do convidado. Zakna escolhe suco de **Fajo Solar**, fruto de árvores que absorvem o sol no topo e cuja aparência lembra o astro. O detalhe ganha peso no poema final do Mestre, em que Zakna pergunta pelas cores e pelo toque do sol antes de reconhecer o fogo como única luz testemunhada.
 
 ## O que os Renegados são
 
