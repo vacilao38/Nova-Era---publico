@@ -14,6 +14,9 @@
 - Fonte primária: `WhatsApp Chat with (D&D) Conversas.txt`, dentro de `whatsapp chat with (Nova Era) conversas.zip`
 - Corte consultado: mensagens de 11/08/2026, 20h40–23h04
 
+> [!warning] Conversão da data
+> A fonte declara o “20º dia após a morte de Odr”. A data absoluta de 16/07/0387 segue a convenção já fixada no vault, pela qual o 18º dia corresponde a 14/07. Essa contagem relativa ainda não coincide matematicamente com a queda de Odr registrada na noite de 24/06; a discrepância da data-base permanece aberta e não foi corrigida silenciosamente aqui.
+
 > [!note] Limites da fonte
 > O trecho contém 28 figurinhas anexadas, três mensagens editadas e uma mídia omitida depois da saída de Blanck. As figurinhas novas de Zakna reforçam cautela, surpresa, desconforto e seriedade, mas não acrescentam fatos independentes. O conteúdo da mídia omitida não pode ser inferido. As explicações cosmológicas abaixo são declarações de Zakna; a cena não fornece confirmação externa para todas elas.
 
