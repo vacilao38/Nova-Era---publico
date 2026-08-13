@@ -66,6 +66,10 @@ Em [[Chá, Desculpas e o Peso de Liderar]], Blanck e [[Elder]] reparam o conflit
 
 No espaço privado, Elder usa uma espada de prata e miniaturas luminosas para perguntar quem cuida de Blanck fora das crises. A maga consegue nomear [[Scann]] como presença constante e recorda ajudas pontuais dos demais, mas encontra pouca reciprocidade cotidiana. Ainda assim, recusa transformar isso em condenação: afirma que o grupo precisava dela e agora está criando independência. Ao fim, decide acompanhar Naví sem prendê-lo, ajudar quando for procurada e não carregar um reino nas costas. A conversa não resolve lutos específicos, mas faz Blanck assumir em palavras a decisão de deixar os companheiros crescerem.
 
+Em [[Fajo Solar, Segredos e a Cabeça de Thor]], Blanck procura [[Zakna]] por iniciativa própria depois que os Renegados começam a deixar Vanaheim. A conversa dá forma à maneira como ela constrói confiança: oferece hospitalidade, pergunta o que a organização precisa, aceita responder questões sensíveis e revela a chacina dos [[Bresnver]] porque não quer manter uma dívida informacional. Ao mesmo tempo, controla a exposição. Interrompe o aprofundamento sobre Alfheim quando percebe risco de assassinato, admite não saber a origem exata dos poderes de Naví e mostra o artefato das catacumbas sem tirá-lo do pescoço.
+
+Blanck passa a tratar informação como uma relação de reciprocidade, consentimento e risco político. Ela escuta o objetivo de Zakna de matar [[Thor]] sem ridicularizá-lo, mas também sem adotá-lo: reafirma que o [[Desk]] é sua prioridade e oferece cooperação apenas quando os caminhos coincidirem. Essa postura realiza, em escala menor, a decisão tomada com Elder. Blanck não assume a missão de Zakna nem volta a carregar uma organização; cria uma ponte, delimita o que pode dar e deixa o outro responsável pelo próprio objetivo.
+
 ## Acontecimentos importantes
 
 | Evento | Participacao |
@@ -96,6 +100,7 @@ No espaço privado, Elder usa uma espada de prata e miniaturas luminosas para pe
 | [[A Casa, a Chuva e a Rainha dos Mapas]] | Procura uma casa definitiva, discute vida ordinária e aprofunda a amizade com Hori |
 | [[Chá, Raízes e o Fim da Aventura]] | Assume a pesquisa das raízes do palácio e deixa de se definir como líder permanente |
 | [[Chá, Desculpas e o Peso de Liderar]] | Repara o conflito com Elder, reconhece a falta de reciprocidade fora das crises e decide deixar o grupo crescer sem carregar um reino nas costas |
+| [[Fajo Solar, Segredos e a Cabeça de Thor]] | Procura Zakna, esclarece a natureza dos Renegados, revela a chacina dos Bresnver e estabelece uma parceria limitada de informações sobre o Desk e ameaças inter-reinos |
 
 ## Pontos altos
 
@@ -125,6 +130,7 @@ No espaço privado, Elder usa uma espada de prata e miniaturas luminosas para pe
 - [[Hori Turling]] — amiga que a hospeda e acompanha na busca da casa; percebe suas inseguranças sociais e oferece uma aproximação ainda sem definição romântica.
 - [[Felix]] — antigo parceiro intelectual; sua traicao transforma respeito em ameaca, mas no clímax ele ainda a reconhece como boa amiga e entrega um grimório antes de aceitar a própria sentença.
 - [[Rog]] — fonte de conhecimento sobre elfos, [[Odr]], [[Wyrrer]] e a historia divina de Vanaheim.
+- [[Zakna]] — parceiro cauteloso de inteligência; Blanck testa suas intenções antes da guerra e, depois da vitória, procura-o para trocar informações sem aderir aos Renegados nem assumir o objetivo dele contra Thor.
 - [[Kaeli|Kaelith]] — jovem princesa cuja presença lembra algo de [[Cleide]], embora com uma gentileza diferente.
 
 ## Itens e marcas
@@ -137,6 +143,7 @@ No espaço privado, Elder usa uma espada de prata e miniaturas luminosas para pe
 - [[Sofandi]], seu [[Dracolupi|Pula-Nuvem]] azul
 - Tatuagem/runas copiadas de [[Aurélia]] para estudar protecao contra o ouro
 - [[Embrulho]], usado no plano contra as estruturas do palacio
+- Artefato antigo da [[Catacumba de Gullveig]], originalmente semelhante a um brinco e transformado por Blanck em colar com corrente de ouro rúnica protegida contra roubo
 
 ## Ganchos pendentes
 
@@ -152,3 +159,7 @@ No espaço privado, Elder usa uma espada de prata e miniaturas luminosas para pe
 - Descobrir quem é quando não precisa liderar uma crise nem manter todos vivos.
 - Testar se conseguirá deixar os companheiros crescerem, acompanhar Naví sem prendê-lo e aceitar ajuda antes de uma nova crise.
 - Elaborar os lutos específicos que a liderança a impediu de viver; a conversa com Elder tornou o desequilíbrio visível, mas não nomeou essas perdas.
+- Investigar a chacina dos Bresnver, o apagamento do nome da avó, a aliança que formou o nome Bresnver Vakker e a possível ligação com a antiga derrota atribuída a um arauto de Loki.
+- Identificar a ordem de magos independentes encontrada nos arquivos de Odr e explicar por que sua tradição é idêntica à de Blanck.
+- Determinar a função do artefato transformado em colar e dos outros oito lugares atemporais mencionados por Zakna.
+- Manter a parceria informacional com Zakna sem absorver a missão dele contra Thor nem perder o foco no Desk.
