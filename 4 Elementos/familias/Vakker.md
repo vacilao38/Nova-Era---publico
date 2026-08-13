@@ -17,11 +17,13 @@ Se a decisão também interferir nos desejos do povo de Alfheim, o [[Conselho do
 
 ## Relação com Blanck
 
-[[Blanck|Blanck Bresnver Vakker]] carrega o nome das Casas Vakker e [[Bresnver]]. A extensão jurídica de cada vínculo, sua posição sucessória e os direitos derivados desses nomes ainda não foram revelados.
+[[Blanck|Blanck Bresnver Vakker]] carrega o nome das Casas Vakker e [[Bresnver]]. Em [[Fajo Solar, Segredos e a Cabeça de Thor]], ela explica que seu pai formou uma aliança com os Vakker para reerguer os Bresnver depois da emboscada que quase eliminou o núcleo sobrevivente da Casa há 386 anos. O sobrenome composto nasce dessa reconstrução familiar.
+
+A fonte não esclarece se a aliança foi casamento, adoção, pacto institucional, acordo sucessório ou combinação desses mecanismos. A extensão jurídica de cada vínculo, a posição de Blanck e os direitos derivados dos dois nomes continuam abertos.
 
 ## Lacunas
 
-A liderança atual, a estrutura interna, os critérios de julgamento de matérias mágicas e a relação exata dos Vakker com outras instituições arcanas permanecem indefinidos.
+A liderança atual, a estrutura interna, os critérios de julgamento de matérias mágicas, os termos da aliança com os Bresnver e a relação exata dos Vakker com outras instituições arcanas permanecem indefinidos.
 
 ## Conexões
 

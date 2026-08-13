@@ -16,6 +16,8 @@ As Casas são famílias de alto prestígio e poder que concentram responsabilida
 - A [[Catedral]] não participa dos tribunais das outras Casas, mas recebe ciência dos casos e preserva os registros necessários à coordenação jurídica de Alfheim.
 - Essa comunicação permite que estrangeiros **de nome** — pessoas de renome, influência ou importância reconhecida — envolvidos em casos sejam identificados nas fronteiras, barrados ou presos quando houver determinação válida.
 - Se qualquer integrante da [[Catedral]] entrar em processo, independentemente de pertencer ou não à [[Lumína]], o julgamento cabe conjuntamente aos [[Bresnver]] e aos [[Vakker]].
+- Os Bresnver, Vakker e Lumína são tratados por Blanck como as três Grandes Casas que historicamente exerciam controle rígido sobre o próprio sangue.
+- Depois da chacina dos Bresnver há 386 anos, o pai de Blanck aliou a Casa aos Vakker para reconstruir a linhagem; os termos dessa aliança ainda não foram revelados.
 - Quando esse julgamento exigir uma decisão que interfira nos desejos do povo de Alfheim, o [[Conselho dos Sábios]] participa. O Conselho não possui membros das Casas e existe para defender a vontade popular.
 - A [[Catedral]] emite vereditos e determinações, mas terceiriza às demais Casas o cumprimento material de suas decisões e execuções, conforme a competência necessária.
 
