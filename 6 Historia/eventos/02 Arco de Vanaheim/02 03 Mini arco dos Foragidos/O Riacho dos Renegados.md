@@ -93,6 +93,12 @@ Antes de ir descansar, Blanck diz que os próximos dias serão cansativos. Zakna
 - Acompanhar a parceria cautelosa entre Blanck e Zakna.
 - Investigar o que Blanck quer dizer ao afirmar que o ouro apenas disfarça um problema maior ligado ao [[Desk]].
 
+## Consequência no pós-guerra
+
+[[Fajo Solar, Segredos e a Cabeça de Thor]] retoma a parceria no vigésimo dia após Odr. Zakna confirma que sua divisão atua em espionagem e que irá primeiro a [[Alfheim]] com [[Fir|Fyir]] e outros dois integrantes. Blanck, que aqui recusava adesão aos Renegados, procura-o por iniciativa própria e estabelece uma troca limitada de informações. A parceria prevista no riacho torna-se canônica sem eliminar a autonomia das duas partes.
+
+O novo encontro também aprofunda, mas não encerra, a memória de destruição associada a Zakna. Seu monólogo sobre nunca ter sentido o sol e conhecer apenas o fogo liga pessoalmente sua melancolia à vida subterrânea e aos ancestrais de [[Svarfheim]], sem confirmar que o riacho morto evocava um evento específico do reino.
+
 ## Conexoes
 
 - Evento anterior: [[A Fúria do Sol e o Peso de Matar]]

@@ -4,7 +4,7 @@ Rede inter-reinos de refugiados, dissidentes, combatentes e agentes. Em Vanaheim
 
 ## Estrutura conhecida
 
-- divisões com nomes próprios, como Nevasca, Carmesim e Leopardo;
+- divisões com nomes próprios, como Nevasca, Carmesim e Florescer;
 - [[Zakna]] lidera o esquadrão Leopardo;
 - [[Fir]] atua como informante por meio de aranhas azuis;
 - [[Aurélia]] torna-se símbolo e liderança política da retomada sem declarar submissão completa à organização;
