@@ -10,6 +10,8 @@ As notas antigas também registram duas guerras separadas por milhões de anos, 
 
 No marco zero do calendário, os [[Heróis-de-Vanaheim]] derrotaram um arauto de [[Loki]]. [[Elder]] participou do grupo antes de abandoná-lo; [[Wyrrer]], [[Fêr]], [[Ólfir]], [[Arsthör]] e [[Yrídia]] permaneceram associados à lenda. O destino completo dos heróis depois da vitória ainda não foi revelado.
 
+A tradição dos [[Bresnver]] liga a consequência dessa vitória a uma crise em [[Alfheim]]. Há 386 anos, o núcleo sobrevivente da Casa foi emboscado por mais de cinquenta assassinos ao retornar de uma reunião sobre os próximos passos do reino. [[Blanck]] sempre considerou exagerada a reação provocada pela queda de um simples arauto; [[Zakna]] levanta a possibilidade de avatar ou entidade maior, sem confirmação. Não está demonstrado que a emboscada foi causada diretamente pela vitória.
+
 ## Revolta e retomada de Vanaheim
 
 Entre maio e 24 de junho de 0387, [[Aurélia]], os Renegados e aliados enfrentaram o regime de [[Odr]]. A ofensiva final derrubou o [[Círculo Dourado]], matou Odr e iniciou a restauração do reino. Nenhum inocente morreu na operação final segundo a narração, mas as forças combatentes sofreram mais de 60% de baixas.
@@ -20,3 +22,4 @@ Entre maio e 24 de junho de 0387, [[Aurélia]], os Renegados e aliados enfrentar
 - tensão entre deuses, fé mortal e a aproximação do [[Ragnarok]];
 - destino dos povos deslocados de [[Alfheim]] e [[Svarfheim]];
 - consequências políticas da queda de Odr e da reconstrução de [[Vanaheim]].
+- rumores de traição envolvendo seis personalidades das leis de Alfheim e a chegada de elfos de Svarfheim; Zakna considera possível uma guerra silenciosa de consequências maiores, mas a acusação, as partes e a autoridade desses elfos ainda não foram confirmadas.
