@@ -51,6 +51,7 @@ Reino dos Vanir, governado pelo Rei [[Odr]].
 | 16/05/387 | [[A Maldição de Ouro]] | Blanck revela infecção |
 | 16/05/387 | [[O Chamado de Baldur]] | Contato com Baldur |
 | 16/05/387 | [[Reencontro com Aurélia]] | Aurélia é resgatada |
+| 16/07/387 | [[Fajo Solar, Segredos e a Cabeça de Thor]] | Blanck e Zakna transformam a aliança de guerra em parceria informacional durante a retirada dos Renegados |
 
 ### Deuses
 - [[Baldur]] — Deus da Luz, contatado por Blanck
@@ -96,6 +97,8 @@ Reino dos Vanir, governado pelo Rei [[Odr]].
 [[Odr]] foi derrotado e decapitado na noite de 24/06/0387; [[Blanck]] encerrou seus restos dentro de uma grande árvore. [[Aurélia]] pediu ajuda ao povo para reconstruir o reino, sem transformar a vitória em direito automático de governar. Sua lágrima verdadeira começou a purificar o ouro, enquanto [[Rog]] entregou a vida para restaurar a vegetação e [[Njord]] devolveu rios, mares e ventos ao equilíbrio.
 
 O governo anterior deve ser lido como encerrado. A sucessão de Aurélia ainda precisa ser formalizada, [[Cassius Vareth]] permanece ligado às estátuas dos reis e o alcance da reversão da maldição ainda não foi medido. A restauração não significa que o [[Desk]] tenha sido curado no reino inteiro.
+
+No vigésimo dia após a vitória, a força principal dos [[Renegados]] começou a retirar-se. A Divisão Florescer assumiria a presença da organização no reino, enquanto a divisão de espionagem de [[Zakna]] se dispersaria e prepararia uma missão em [[Alfheim]]. Não foi registrada incorporação formal dos Renegados ao governo de Aurélia.
 
 ## Verdades reveladas sobre o reino
 
