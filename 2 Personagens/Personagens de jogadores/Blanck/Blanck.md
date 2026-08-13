@@ -68,6 +68,8 @@ No espaço privado, Elder usa uma espada de prata e miniaturas luminosas para pe
 
 Em [[Fajo Solar, Segredos e a Cabeça de Thor]], Blanck procura [[Zakna]] por iniciativa própria depois que os Renegados começam a deixar Vanaheim. A conversa dá forma à maneira como ela constrói confiança: oferece hospitalidade, pergunta o que a organização precisa, aceita responder questões sensíveis e revela a chacina dos [[Bresnver]] porque não quer manter uma dívida informacional. Ao mesmo tempo, controla a exposição. Interrompe o aprofundamento sobre Alfheim quando percebe risco de assassinato, admite não saber a origem exata dos poderes de Naví e mostra o artefato das catacumbas sem tirá-lo do pescoço.
 
+Ela também revela ter encontrado, nos arquivos de Odr, referências a uma antiga ordem de magos independentes cuja tradição é idêntica à sua. A ordem não é nomeada, e a conversa não esclarece se essa semelhança explica a forma de magia de Blanck, a herança Vakker, os ensinamentos do irmão ou uma linhagem ainda desconhecida.
+
 Blanck passa a tratar informação como uma relação de reciprocidade, consentimento e risco político. Ela escuta o objetivo de Zakna de matar [[Thor]] sem ridicularizá-lo, mas também sem adotá-lo: reafirma que o [[Desk]] é sua prioridade e oferece cooperação apenas quando os caminhos coincidirem. Essa postura realiza, em escala menor, a decisão tomada com Elder. Blanck não assume a missão de Zakna nem volta a carregar uma organização; cria uma ponte, delimita o que pode dar e deixa o outro responsável pelo próprio objetivo.
 
 ## Acontecimentos importantes
