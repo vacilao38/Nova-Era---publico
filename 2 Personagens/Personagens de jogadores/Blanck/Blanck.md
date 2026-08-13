@@ -68,6 +68,8 @@ No espaço privado, Elder usa uma espada de prata e miniaturas luminosas para pe
 
 Em [[Fajo Solar, Segredos e a Cabeça de Thor]], Blanck procura [[Zakna]] por iniciativa própria depois que os Renegados começam a deixar Vanaheim. A conversa dá forma à maneira como ela constrói confiança: oferece hospitalidade, pergunta o que a organização precisa, aceita responder questões sensíveis e revela a chacina dos [[Bresnver]] porque não quer manter uma dívida informacional. Ao mesmo tempo, controla a exposição. Interrompe o aprofundamento sobre Alfheim quando percebe risco de assassinato, admite não saber a origem exata dos poderes de Naví e mostra o artefato das catacumbas sem tirá-lo do pescoço.
 
+[[Colisão Injusta - A Segunda Guerra Divina]] acrescenta uma camada ancestral à identidade de Blanck. [[Sterk Bresnver]] recebeu de [[mane|Máni]] uma bênção destinada às gerações futuras e viu uma descendente cercada por magia extraordinária. A cena não pronuncia o nome de Blanck, mas a combinação de linhagem Bresnver, cabelos azuis e poder mágico funciona como forte prenúncio dela. Isso não resolve a origem específica de sua magia nem prova que a visão descrevia exclusivamente Blanck.
+
 Ela também revela ter encontrado, nos arquivos de Odr, referências a uma antiga ordem de magos independentes cuja tradição é idêntica à sua. A ordem não é nomeada, e a conversa não esclarece se essa semelhança explica a forma de magia de Blanck, a herança Vakker, os ensinamentos do irmão ou uma linhagem ainda desconhecida.
 
 Blanck passa a tratar informação como uma relação de reciprocidade, consentimento e risco político. Ela escuta o objetivo de Zakna de matar [[Thor]] sem ridicularizá-lo, mas também sem adotá-lo: reafirma que o [[Desk]] é sua prioridade e oferece cooperação apenas quando os caminhos coincidirem. Essa postura realiza, em escala menor, a decisão tomada com Elder. Blanck não assume a missão de Zakna nem volta a carregar uma organização; cria uma ponte, delimita o que pode dar e deixa o outro responsável pelo próprio objetivo.
@@ -161,7 +163,7 @@ Blanck passa a tratar informação como uma relação de reciprocidade, consenti
 - Descobrir quem é quando não precisa liderar uma crise nem manter todos vivos.
 - Testar se conseguirá deixar os companheiros crescerem, acompanhar Naví sem prendê-lo e aceitar ajuda antes de uma nova crise.
 - Elaborar os lutos específicos que a liderança a impediu de viver; a conversa com Elder tornou o desequilíbrio visível, mas não nomeou essas perdas.
-- Investigar a chacina dos Bresnver, o apagamento do nome da avó, a aliança que formou o nome Bresnver Vakker e a possível ligação com a antiga derrota atribuída a um arauto de Loki.
+- Investigar a chacina dos Bresnver, o apagamento do nome da avó, a aliança que formou o nome Bresnver Vakker, a bênção lunar de Sterk e a possível ligação com a antiga derrota atribuída a um arauto de Loki.
 - Identificar a ordem de magos independentes encontrada nos arquivos de Odr e explicar por que sua tradição é idêntica à de Blanck.
 - Determinar a função do artefato transformado em colar e dos outros oito lugares atemporais mencionados por Zakna.
 - Manter a parceria informacional com Zakna sem absorver a missão dele contra Thor nem perder o foco no Desk.

@@ -71,6 +71,13 @@ Em [[Acerto de Contas- Parte 1]], [[Horis-Tuti]] revela que a marca no pescoço 
 - [[Elder]] — ja viu Freya e guarda uma visao cinica dos deuses, apesar da ligacao antiga.
 - [[Cleide]] — semideus/aberração que Freya selou para impedir destruição da natureza.
 - [[Morrüm]] — outra aberração que teria sido derrubada por Freya junto de Cleide.
+- [[Huli Jing]] — criação felina de Freya, manipulada por Loki durante a abertura da Segunda Guerra Divina.
+
+## Colisão Injusta
+
+[[Colisão Injusta - A Segunda Guerra Divina]] confirma Huli Jing como criação felina de Freya. [[Elder]] a descreve erroneamente como raposa ao contar o evento a [[Navi|Naví]]; a confusão pertence à lembrança narrada, não à origem de Huli.
+
+Ao fim do confronto em Asgard, [[mane|Máni]] ajuda Freya a se levantar e afirma que ainda existe muito a fazer. A imagem liga a vitória parcial contra Loki à continuação da guerra e preserva Freya como sobrevivente responsável pelo que vem depois, não apenas como símbolo distante.
 
 ## Ganchos pendentes
 

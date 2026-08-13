@@ -12,6 +12,8 @@ Praga sobrenatural também chamada de **sopro negro**. O Desk corrói matéria, 
 - O ouro de Odr chegou a consumir o Desk em zonas de baixa mana, mas essa “cura” transformava vida e natureza em matéria estática.
 - [[Gullveig]] parece ligada a uma resposta sombria da natureza ao mal feito contra o mundo; a relação exata dela com o Desk ainda não foi explicada.
 - [[Zakna]] relata uma tradição da [[Ordem dos Escribas]] segundo a qual a ambição mortal pelo [[Título de Imperador]] fez surgir outra instância do Desk quando o nome do título se espalhou. A afirmação ainda não possui confirmação externa.
+- Em [[Colisão Injusta - A Segunda Guerra Divina]], Loki usa o Desk no centro de Asgard: a praga prende e cega [[Odin]], corrompe [[Thor]], invade memórias, reforça vínculos manipulados e tenta substituir lembranças de [[Sterk Bresnver]].
+- Nem as [[Nornas]] conseguiram prever sua presença naquela assembleia, indicando que o Desk pode interferir na leitura divina do destino.
 
 ## Efeitos observados
 
@@ -19,6 +21,8 @@ Praga sobrenatural também chamada de **sopro negro**. O Desk corrói matéria, 
 - tristeza e desgaste espiritual;
 - corrupção de corpos, dragões, plantas e portais;
 - perda ou distorção de memória;
+- substituição de lealdades e lembranças por versões emocionalmente convenientes;
+- contenção e cegueira de entidades divinas;
 - criação ou fortalecimento de arautos e corruptores;
 - interferência na circulação de mana e na passagem entre reinos.
 
@@ -29,6 +33,6 @@ A queda de [[Odr]] encerrou o sistema de ouro que mascarava a praga em Vanaheim,
 ## Ambiguidades
 
 - Não está confirmado se Desk e [[Sorgudra]] são exatamente a mesma coisa ou se Sorgudra é uma manifestação/efeito do Desk.
-- A ligação causal entre [[Loki]], os corruptores e a origem primordial da praga ainda não foi revelada.
+- A ligação causal entre [[Loki]], os corruptores e a origem primordial da praga ainda não foi revelada. A Segunda Guerra Divina confirma que Loki sabia direcioná-la, não que a criou.
 - Não está confirmado o que “outra instância” significa: foco independente, manifestação conceitual, entidade, ciclo ou simples expansão da mesma praga.
 - A alegação de que o Desk “ouviu” a palavra Imperador mesmo dormente pode ser descrição literal, linguagem religiosa dos Renegados ou metáfora preservada pela Ordem dos Escribas.

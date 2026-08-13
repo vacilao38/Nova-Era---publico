@@ -15,6 +15,12 @@ Grande Casa élfica de [[Alfheim]] à qual pertence [[Blanck|Blanck Bresnver Vak
 
 ## Quase extinção e reconstrução
 
+### Sterk e a bênção da Lua
+
+Em [[Colisão Injusta - A Segunda Guerra Divina]], [[Sterk Bresnver]] representa Alfheim diante dos deuses enquanto a guerra élfica já estava em curso. Ao resistir a Loki e proteger a promessa feita a [[Sol]], recebe de [[mane|Máni]] uma bênção destinada à própria geração e a todas as seguintes.
+
+Máni mostra a Sterk sua esposa grávida, uma primeira criança de cabelos azuis e uma descendente futura cercada por magia extraordinária. A cena confirma que o sangue Bresnver sobreviverá. A descendente não é nomeada, mas funciona como forte prenúncio de [[Blanck|Blanck Bresnver Vakker]]. A bênção não explica automaticamente toda a magia da Casa nem resolve quais ramos descendem diretamente de Sterk.
+
 Em [[Fajo Solar, Segredos e a Cabeça de Thor]], [[Blanck]] apresenta a história familiar que recebeu do pai. Os Bresnver, assim como as outras duas Grandes Casas, mantinham controle rígido sobre o próprio sangue. Depois da última grande guerra dos elfos, somente o avô de Blanck e a família dele teriam sobrevivido entre os membros da Casa.
 
 Há 386 anos, esse núcleo retornava de uma reunião sobre os próximos passos de [[Alfheim]]. A viagem ocorreu depois da derrota, em [[Vanaheim]], da entidade que a tradição familiar chama de arauto de [[Loki]]. Mais de cinquenta assassinos emboscaram o grupo. Segundo o pai de Blanck, apenas ele e a mãe escaparam inicialmente, mas a avó morreu pouco antes de conseguirem ajuda.
@@ -35,6 +41,8 @@ O governo interno, os membros atuais, o motivo exato da rejeição de Blanck, os
 
 - a identidade dos cinco Bresnver mencionados por Zakna;
 - os nomes do avô, da avó e dos parentes mortos na emboscada;
+- os nomes da esposa e dos filhos de Sterk e a linha genealógica entre ele e os Bresnver atuais;
+- se a descendente mostrada por Máni era Blanck ou outra herdeira da Casa;
 - quem encomendou a chacina e por que o caso foi abafado;
 - se a reunião familiar, o ataque e a antiga derrota em Vanaheim possuem relação causal;
 - se o inimigo enfrentado pelos Heróis de Vanaheim era apenas um arauto, um avatar ou outra manifestação de Loki;
