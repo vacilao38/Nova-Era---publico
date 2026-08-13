@@ -104,7 +104,7 @@ Máni conecta as três respostas ao futuro. Ele não nega o destino da própria 
 
 ### Elder como guardiã imperfeita da memória
 
-O sorriso que desaparece indica que Elder não narra uma lenda distante e limpa. Ela carrega o peso do que sabe, mas também erra: transforma uma felina em raposa. A cena preserva simultaneamente seu valor como testemunha e sua falibilidade. Contar a Naví é um gesto de permanência: em vez de deixar outra geração caminhar apenas entre versões apagadas, Elder entrega a história — inclusive com a marca humana de quem a conta.
+O sorriso que desaparece indica que Elder não narra uma lenda distante e limpa. Ela carrega o peso do que sabe, mas também erra: transforma uma felina em raposa. A cena preserva simultaneamente seu valor como transmissora e sua falibilidade. Contar a Naví é um gesto de permanência: em vez de deixar outra geração caminhar apenas entre versões apagadas, Elder entrega a história — inclusive com a marca humana de quem a conta.
 
 ## Ambiguidades preservadas
 
@@ -138,4 +138,3 @@ O sorriso que desaparece indica que Elder não narra uma lenda distante e limpa.
 - [[Ordem dos Escribas]]
 - [[Elder]]
 - [[Navi|Naví]]
-
