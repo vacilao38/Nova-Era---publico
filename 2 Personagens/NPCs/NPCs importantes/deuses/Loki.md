@@ -62,6 +62,14 @@ Deus nórdico causador de caos.
 - [[Odr]] traz caos relacionado a Loki
 - [[Aesir]] e [[Vanir]] estão lutando
 
+## Colisão Injusta e a Segunda Guerra Divina
+
+Em [[Colisão Injusta - A Segunda Guerra Divina]], Loki converteu uma assembleia em Asgard numa armadilha. Usou o [[Desk]] para cegar e prender [[Odin]], corromper memória e lealdade, transformar [[Thor]] em protetor involuntário e reforçar a dependência afetiva de [[Huli Jing]]. A cena confirma que Loki sabia **direcionar** a praga contra deuses e destinos, mas não confirma que a criou.
+
+[[Sterk Bresnver]], Huli e [[mane|Máni]] romperam a armadilha. Huli destruiu a manifestação de Thor, e Sterk, fortalecido pela Lua, partiu Loki ao meio e abriu o palácio de Asgard. A derrota foi corporal e temporária: Máni já sabia que Loki teria de ser encontrado e aprisionado depois. Isso conecta a colisão à punição posterior na caverna de [[Midgard]] e aos arautos que continuaram ativos até o marco zero.
+
+Loki também aparece ligado ao massacre da [[Ordem dos Escribas]]. Máni afirma diretamente que seus fiéis foram caçados pela aliança de Loki, versão que contradiz a acusação posterior de [[Zakna]] contra Thor.
+
 ## Relato da Ordem dos Escribas
 
 Em [[Fajo Solar, Segredos e a Cabeça de Thor]], [[Zakna]] transmite uma tradição encontrada pelos [[Renegados]] num depósito da [[Ordem dos Escribas]]. Segundo esse relato, Loki rebelou-se depois que os deuses rejeitaram um pedido de conteúdo desconhecido. Antes de Odr, teria viajado além de [[Ginnungagap]] e concluído que o [[Título de Imperador]] era o mais adequado à própria ambição.
