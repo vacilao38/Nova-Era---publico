@@ -97,7 +97,7 @@ Antes de ir descansar, Blanck diz que os próximos dias serão cansativos. Zakna
 
 [[Fajo Solar, Segredos e a Cabeça de Thor]] retoma a parceria no vigésimo dia após Odr. Zakna confirma que sua divisão atua em espionagem e que irá primeiro a [[Alfheim]] com [[Fir|Fyir]] e outros dois integrantes. Blanck, que aqui recusava adesão aos Renegados, procura-o por iniciativa própria e estabelece uma troca limitada de informações. A parceria prevista no riacho torna-se canônica sem eliminar a autonomia das duas partes.
 
-O novo encontro também aprofunda, mas não encerra, a memória de destruição associada a Zakna. Seu monólogo sobre nunca ter sentido o sol e conhecer apenas o fogo liga pessoalmente sua melancolia à vida subterrânea e aos ancestrais de [[Svarfheim]], sem confirmar que o riacho morto evocava um evento específico do reino.
+O novo encontro também aprofunda, mas não encerra, a memória de destruição associada a Zakna. O poema final escrito pelo Mestre pergunta pelas cores e pelo toque do sol e nomeia o fogo como única luz testemunhada. Isso liga pessoalmente sua melancolia à vida subterrânea e aos ancestrais de [[Svarfheim]], sem confirmar que o riacho morto evocava um evento específico do reino.
 
 ## Conexoes
 
