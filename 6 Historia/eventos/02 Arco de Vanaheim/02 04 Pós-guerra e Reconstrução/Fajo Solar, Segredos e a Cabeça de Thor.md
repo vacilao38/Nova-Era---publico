@@ -11,6 +11,7 @@
 - Participantes centrais: [[Blanck]], [[Zakna]]
 - Participantes mencionados: [[Aurélia]], [[Fir|Fyir]], [[Scann]], [[Navi|Naví]], [[Wyrrer]], [[mane|Máni]], [[Odr]], [[Loki]], [[Thor]], [[Odin]], Sigurd, Fafnir
 - Autoria na fonte: Ruan escreve Blanck; Carvones Joanes (Davi) escreve Zakna
+- Autoria do encerramento: poema de Zakna escrito pelo próprio Mestre da mesa
 - Fonte primária: `WhatsApp Chat with (D&D) Conversas.txt`, dentro de `whatsapp chat with (Nova Era) conversas.zip`
 - Corte consultado: mensagens de 11/08/2026, 20h40–23h04
 
@@ -19,6 +20,9 @@
 
 > [!note] Limites da fonte
 > O trecho contém 28 figurinhas anexadas, três mensagens editadas e uma mídia omitida depois da saída de Blanck. As figurinhas novas de Zakna reforçam cautela, surpresa, desconforto e seriedade, mas não acrescentam fatos independentes. O conteúdo da mídia omitida não pode ser inferido. As explicações cosmológicas abaixo são declarações de Zakna; a cena não fornece confirmação externa para todas elas.
+
+> [!note] Fajo ou Faço Solar
+> Ao pedir a bebida, a fonte usa **Fajo Solar**. No poema final fornecido pelo Mestre, aparece **Faço solar**. As duas formas foram preservadas como variação da fonte; a grafia canônica da fruta ainda precisa ser confirmada.
 
 ## Contexto
 
@@ -94,7 +98,19 @@ Blanck chama o objetivo de praticamente impossível, mas não o ridiculariza nem
 
 A forma da aliança mudou desde o riacho. Antes da guerra, Blanck cooperava sem se colocar ao lado dos Renegados. Depois da vitória, ela procura Zakna por iniciativa própria, oferece informação familiar sensível, revela um artefato protegido e propõe atualização recíproca. Ainda preserva limites: interrompe perguntas quando o risco cresce, oferece somente o que sabe sobre Naví e não retira o artefato do corpo.
 
-Blanck se despede chamando-o novamente de “lorde Zakna”, paga o suco e sai com um sorriso de canto. Zakna permanece até o último cliente. Seus pensamentos abandonam a postura do espião e revelam uma privação íntima: pergunta-se qual é o sabor verdadeiro do Fajo Solar, como são as cores, como seria sentir o sol na pele e por que seus ancestrais aceitaram uma vida longe da luz. A única luz que afirma ter testemunhado é o fogo.
+Blanck se despede chamando-o novamente de “lorde Zakna”, paga o suco e sai com um sorriso de canto. Zakna permanece até o último cliente. A cena termina com um poema de Zakna escrito pelo próprio Mestre:
+
+> “Esse sabor do Faço solar... uma vez em anos que posso sentir esse sabor, essas conversas... como deve ser as cores? Como deve ser ter a pele tocada pelo sol?
+>
+> E quem diria, uma elfa luminosa me ajudando, será que ela brilha como dizem? Ou apenas os abençoados pelo sol podem contemplar tal luz?
+>
+> Se for assim, por que, ancestrais... porque aceitaram essa vida, ao invés de permanecer na luz?
+>
+> A única luz que testemunhou... fogo”
+
+O poema abandona a linguagem operacional do espião e organiza sua vulnerabilidade em torno de sabor, cor, pele e luz. O suco permite contato raro com o sol apenas como gosto; Blanck torna-se a possibilidade de uma luz que ele talvez nem consiga contemplar; os ancestrais transformam a privação individual em pergunta histórica. A última linha substitui o sol pelo fogo e encerra o texto não com esperança, mas com a única experiência luminosa que Zakna reconhece possuir.
+
+O grau literal dessa privação permanece aberto. O poema estabelece diretamente que Zakna pergunta como são as cores e o toque do sol e que a única luz testemunhada foi o fogo. Não explica se isso decorre de vida exclusivamente subterrânea, condição sensorial, ausência de bênção solar ou linguagem poética para exílio e violência.
 
 ## Desenvolvimento dos personagens
 
@@ -115,7 +131,7 @@ Blanck se despede chamando-o novamente de “lorde Zakna”, paga o suco e sai c
 - Protege segredos institucionais, porém recompensa confiança com informação concreta e aceita respostas incompletas, usando consentimento informacional em vez de coerção.
 - Não trata Fyir como subordinada sem autonomia; afirma que ela escolhe quando partir e que o acompanha por compreender o risco.
 - Seu objetivo pessoal combina vingança pela Ordem dos Escribas, investigação sobre o título de Imperador e disposição de desafiar Thor apesar da condição mortal.
-- O encerramento dá base ao desconforto sugerido no riacho: Zakna não carrega apenas a destruição de uma terra, mas uma história subterrânea de privação da luz e dúvida sobre as escolhas ancestrais.
+- O poema escrito pelo Mestre dá base ao desconforto sugerido no riacho: Zakna não carrega apenas a destruição de uma terra, mas uma história subterrânea de privação da luz e dúvida sobre as escolhas ancestrais.
 - A relação com Blanck é de respeito profissional e reconhecimento. Ele a chama de líder dos heróis, aceita a parceria e oferece informação sem exigir submissão à organização.
 
 ## Informações de mundo confirmadas pela conversa
@@ -127,7 +143,7 @@ Blanck se despede chamando-o novamente de “lorde Zakna”, paga o suco e sai c
 - O pai de Blanck reconstruiu a família por meio de aliança com os Vakker.
 - A autoria da emboscada, o nome da avó de Blanck e o motivo do abafamento permanecem desconhecidos.
 - Blanck transformou o artefato das catacumbas em colar e o protegeu com uma corrente rúnica contra roubo.
-- Zakna nunca experimentou diretamente a luz solar segundo seu monólogo final.
+- O poema de Zakna afirma que ele pergunta como são as cores e o toque do sol e que a única luz que testemunhou foi o fogo; a causa dessa experiência não é revelada.
 
 ## Informações atribuídas a Zakna, ainda sem confirmação externa
 
@@ -154,6 +170,7 @@ Blanck se despede chamando-o novamente de “lorde Zakna”, paga o suco e sai c
 - Verificar a história do título de Imperador, sua relação causal com o Desk e a responsabilidade de Thor pelo fim da Ordem dos Escribas.
 - Esclarecer o que Zakna pretende depois de matar Thor e por que deseja informações específicas sobre Odin e Sigurd.
 - O conteúdo da mídia omitida depois da despedida de Blanck permanece desconhecido.
+- Confirmar se **Fajo Solar** ou **Faço Solar** é a grafia canônica da fruta.
 
 ## Conexões
 

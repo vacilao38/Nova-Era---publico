@@ -20,7 +20,30 @@ Em [[Fajo Solar, Segredos e a Cabeça de Thor]], Zakna demonstra que sua cautela
 
 Sua mentalidade combina paciência de espião e ambição extrema. Zakna prepara o caminho antes de mover a equipe, evita revelar toda a estrutura dos Renegados e pensa conflitos élficos como guerras silenciosas. Ao mesmo tempo, declara querer matar [[Thor]], descobrir o segredo do título de Imperador e obter informações sobre [[Odin]] e Sigurd. Ele reconhece ser um mortal pequeno diante desse objetivo, mas não o trata como motivo para desistir.
 
-O encerramento da conversa revela uma vulnerabilidade que a postura profissional esconde. Diante do suco de Fajo Solar e de uma elfa luminosa que aceitou ajudá-lo, Zakna imagina cores e o toque do sol, questiona por que seus ancestrais escolheram permanecer longe da luz e afirma ter conhecido apenas o fogo. A cena sustenta uma relação pessoal de privação com [[Svarfheim]] e a vida subterrânea, sem autorizar generalizar essa experiência a todos os elfos negros.
+O encerramento da conversa revela uma vulnerabilidade que a postura profissional esconde. Diante do suco chamado de Fajo Solar na conversa e de Faço solar no poema, Zakna imagina cores e o toque do sol, questiona por que seus ancestrais aceitaram essa vida em vez de permanecer na luz e afirma ter testemunhado apenas o fogo. A cena sustenta uma relação pessoal de privação com [[Svarfheim]] e a vida subterrânea, sem autorizar generalizar essa experiência a todos os elfos negros.
+
+## Poema do Mestre
+
+O encerramento de [[Fajo Solar, Segredos e a Cabeça de Thor]] é um poema de Zakna escrito pelo próprio Mestre da mesa:
+
+> “Esse sabor do Faço solar... uma vez em anos que posso sentir esse sabor, essas conversas... como deve ser as cores? Como deve ser ter a pele tocada pelo sol?
+>
+> E quem diria, uma elfa luminosa me ajudando, será que ela brilha como dizem? Ou apenas os abençoados pelo sol podem contemplar tal luz?
+>
+> Se for assim, por que, ancestrais... porque aceitaram essa vida, ao invés de permanecer na luz?
+>
+> A única luz que testemunhou... fogo”
+
+O poema dá uma estrutura precisa à interioridade de Zakna:
+
+- **sabor:** o fruto oferece uma experiência solar rara, acessível apenas uma vez em anos;
+- **cor:** Zakna não descreve cores; pergunta como elas são, mantendo aberta a causa dessa ausência;
+- **pele:** o sol é imaginado como contato corporal que ele nunca afirma ter recebido;
+- **Blanck:** a elfa luminosa aparece como luz possível, mas Zakna duvida se possui a bênção necessária para contemplá-la;
+- **ancestrais:** sua condição deixa de ser apenas individual e vira questionamento sobre a história de seu povo;
+- **fogo:** a única luz testemunhada é também uma luz que queima, substituindo acolhimento por violência, sobrevivência ou destruição.
+
+A passagem não confirma atração romântica por Blanck. Ela sustenta assombro, gratidão e curiosidade diante de uma elfa luminosa que o ajudou. Uma leitura afetiva é possível, mas o centro textual permanece a distância entre Zakna e a luz.
 
 ## Objetivo pessoal
 
@@ -36,5 +59,6 @@ Antes da queda de Odr, Blanck aceita cooperar sem jurar lealdade aos Renegados. 
 
 - Pode ser ex-membro, desertor ou infiltrado do Círculo Dourado; o significado do número 7 não foi confirmado.
 - A posição exata de Zakna entre esquadrão Leopardo, divisão de espionagem e liderança geral dos Renegados ainda não foi definida.
-- Não está confirmado se ele nunca viu o sol por ter vivido sempre no subterrâneo, por uma limitação sensorial ou por outra condição; seu monólogo confirma apenas a experiência subjetiva de ter conhecido o fogo como única luz.
+- Não está confirmado se a ausência de cores e de contato solar decorre de vida subterrânea, condição sensorial, falta de bênção solar ou construção poética; o poema confirma apenas as perguntas de Zakna e o fogo como única luz testemunhada.
+- A conversa usa **Fajo Solar**, enquanto o poema do Mestre usa **Faço solar**; a grafia canônica permanece aberta.
 - A responsabilidade de Thor pelo fim da Ordem dos Escribas e toda a tradição do título de Imperador ainda dependem de confirmação externa.

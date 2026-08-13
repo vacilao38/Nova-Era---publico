@@ -15,6 +15,8 @@ Em [[Fajo Solar, Segredos e a Cabeça de Thor]], [[Zakna]] afirma que elfos vind
 
 A fonte não estabelece se esses elfos representam o governo de Svarfheim, uma facção, os [[Renegados]] ou uma operação independente. Também não identifica as seis figuras nem confirma a traição. A informação deve permanecer como inteligência atribuída a Zakna.
 
-No encerramento da mesma conversa, Zakna pensa no sabor do Fajo Solar, nas cores e no toque do sol, questionando por que seus ancestrais aceitaram viver longe da luz. Ele afirma que a única luz que testemunhou foi o fogo. O monólogo dá forma individual ao custo da adaptação subterrânea, mas não autoriza tratar todos os elfos negros como privados do sol da mesma maneira.
+No encerramento da mesma conversa, um poema de Zakna escrito pelo próprio Mestre contrapõe o sabor raro do Faço Solar às cores e ao toque do sol que ele não conhece. Zakna pergunta por que seus ancestrais aceitaram essa vida em vez de permanecer na luz e encerra afirmando que a única luz testemunhada foi o fogo.
+
+Por possuir autoria direta do Mestre, o poema é fonte forte para a interioridade de Zakna e para o modo como ele percebe a herança subterrânea. Ainda assim, não estabelece que a mudança ancestral foi historicamente voluntária nem autoriza tratar todos os elfos negros como privados do sol da mesma maneira. “Aceitaram” pertence à acusação e à dúvida de Zakna, não a uma reconstrução objetiva da história de Svarfheim.
 
 O estado atual do reino, a autoridade dos elfos enviados a Alfheim e sua relação política com a Vanaheim reconstruída ainda não foram mostrados.
