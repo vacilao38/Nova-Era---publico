@@ -264,6 +264,10 @@ Blanck e Elder reparam o conflito da guerra, discutem limites de respeito, o cui
 
 [[Leif]] prepara para [[Aurélia]] um jantar no jardim do palácio, com vinho, lírios, rosas e uma toalha que [[Elder]] o ajudou a costurar. Aurélia verifica por magia se ele está enfeitiçado antes de aceitar sua pressa para casar. Os dois falam das famílias, do luto pelas mães, de filhos, lua de mel e de um reino seguro. Leif pretende encaminhar com [[Cassius Vareth]] o ducado e o casamento e levar [[Cleide]] a [[Jotunheim|Jötunheim]]. A noite termina com Aurélia tocando harpa sob a lua; nenhum desses planos futuros é registrado como já realizado.
 
+### Noite de 16/07/0387 — [[Fajo Solar, Segredos e a Cabeça de Thor]]
+
+Blanck procura Zakna na Taverna Peixinho quando os Renegados começam a se retirar de Vanaheim. A troca esclarece a fé e a estrutura de espionagem da organização, a missão iminente em Alfheim e o risco de uma guerra silenciosa envolvendo elfos de Svarfheim. Blanck revela a chacina que quase extinguiu os Bresnver, a aliança com os Vakker e o artefato transformado em colar. Zakna afirma que a Catacumba de Gullveig é um de nove lugares atemporais e liga Loki, o título de Imperador, uma nova instância do Desk e a destruição da Ordem dos Escribas por Thor. A conversa termina numa parceria limitada de informações; as alegações cosmológicas permanecem atribuídas a Zakna.
+
 ### Tarde de 20/07/0387 — [[Mapas entre Tempos e uma Anciã Desatualizada]]
 
 Às três da tarde de um dia chuvoso, Elder visita [[Hori Turling]], pede desculpas ao mordomo em quem pisou anteriormente e desorganiza o escritório ao cair diante das muitas trancas. Entre mapas, arquivos e provocações, ela rejeita o título de heroína, admite estar desatualizada e descreve o álcool contínuo como forma de não perder a razão. A hipótese de Hori sobre lacunas ou censura nos registros de Svarfheim provoca uma reação silenciosa que Elder não explica. Hori mostra rascunhos e um mapa concluído, recebe elogio sincero e permite que Elder escolha mapas atuais de Midgard; a fonte não identifica o inventário retirado nem registra a devolução.
@@ -294,6 +298,7 @@ Blanck e Elder reparam o conflito da guerra, discutem limites de respeito, o cui
 | Noite de 13/07/0387 | [[Peixe Assado e uma Visita ao Anoitecer]] | Outono | transição para Lua Cheia |
 | 14/07/0387 | [[Chá, Desculpas e o Peso de Liderar]]; 18º dia após a derrota de Odr | Outono | indeterminada |
 | Provavelmente 15–18/07/0387 | [[Lírios, Vinho e um Futuro sob a Lua]] | Outono | Lua Cheia, explícita na fonte |
+| Noite de 16/07/0387 | [[Fajo Solar, Segredos e a Cabeça de Thor]]; 20º dia após a derrota de Odr | Outono | provavelmente Lua Cheia; encoberta por nuvens |
 | Tarde de 20/07/0387 | [[Mapas entre Tempos e uma Anciã Desatualizada]] | Outono | — |
 
 ---
@@ -361,6 +366,7 @@ Todas as datas abaixo pertencem ao ano 0387. Maio está no **Verão**; junho e j
 | Noite de 13/07 | [[Peixe Assado e uma Visita ao Anoitecer]] | Elder convida Navi para conhecê-lo e compartilha memórias das filhas; transição para Lua Cheia |
 | 14/07 | [[Chá, Desculpas e o Peso de Liderar]] | Blanck e Elder reparam o conflito da guerra; Elder torna visível a falta de reciprocidade em torno da maga, e Blanck decide deixar o grupo crescer sem carregar um reino nas costas; 18º dia após a derrota de Odr |
 | Provavelmente 15–18/07 | [[Lírios, Vinho e um Futuro sob a Lua]] | Leif e Aurélia convertem o futuro desejado em planos explícitos; Lua Cheia descrita pela fonte |
+| Noite de 16/07 | [[Fajo Solar, Segredos e a Cabeça de Thor]] | Blanck e Zakna transformam a aliança de guerra em parceria informacional; surgem a chacina dos Bresnver, a crise de Alfheim, os nove lugares atemporais e o título de Imperador |
 | Tarde de 20/07 | [[Mapas entre Tempos e uma Anciã Desatualizada]] | Elder e Hori abrem uma parceria por mapas; 24º dia após Odr |
 
 ---

@@ -49,6 +49,10 @@
 - **Relação com Loki:** Loki causa caos mesmo aprisionado
 - **Relação com Odr:** Odr traz confusão ao reino
 
+## Título de Imperador
+
+[[Zakna]] afirma que Odin é uma das três figuras capazes de herdar o [[Título de Imperador]], por ser o Pai de Todos e ter unido os deuses contra [[Loki]]. A tradição também nomeia [[Thor]] e Sigurd. A candidatura, a natureza do título e o episódio de união divina ainda dependem do relato preservado pela [[Ordem dos Escribas]], sem confirmação externa na cena.
+
 ## Templos
 - Templo dos Aesir em [[Oggdir]]
 

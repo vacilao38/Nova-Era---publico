@@ -76,4 +76,5 @@
 75. [[Peixe Assado e uma Visita ao Anoitecer]]
 76. [[Chá, Desculpas e o Peso de Liderar]]
 77. [[Lírios, Vinho e um Futuro sob a Lua]]
-78. [[Mapas entre Tempos e uma Anciã Desatualizada]]
+78. [[Fajo Solar, Segredos e a Cabeça de Thor]]
+79. [[Mapas entre Tempos e uma Anciã Desatualizada]]

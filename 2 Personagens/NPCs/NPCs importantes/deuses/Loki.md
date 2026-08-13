@@ -61,3 +61,9 @@ Deus nórdico causador de caos.
 - Está causando caos em [[Vanaheim]]
 - [[Odr]] traz caos relacionado a Loki
 - [[Aesir]] e [[Vanir]] estão lutando
+
+## Relato da Ordem dos Escribas
+
+Em [[Fajo Solar, Segredos e a Cabeça de Thor]], [[Zakna]] transmite uma tradição encontrada pelos [[Renegados]] num depósito da [[Ordem dos Escribas]]. Segundo esse relato, Loki rebelou-se depois que os deuses rejeitaram um pedido de conteúdo desconhecido. Antes de Odr, teria viajado além de [[Ginnungagap]] e concluído que o [[Título de Imperador]] era o mais adequado à própria ambição.
+
+Zakna afirma que, quando o título chegou aos mortais, o [[Desk]] o ouviu mesmo dormente e produziu outra instância. Essa versão ainda não possui confirmação externa e não substitui os fatos já registrados sobre o castigo, os arautos ou o caos causado por Loki.
