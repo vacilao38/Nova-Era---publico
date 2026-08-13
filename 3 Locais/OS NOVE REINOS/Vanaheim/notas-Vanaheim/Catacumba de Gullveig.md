@@ -8,6 +8,7 @@ Masmorra ancestral e viva encontrada em [[Vanaheim]] durante a busca pelo [[Escu
 - [[Rog]] a associa à natureza e as fontes sugerem ligação com [[Jord]], mas a identificação não foi confirmada diretamente.
 - Dentro dela existem água viva, fluxos de mana, memórias, raízes, caminhos que alteram idade e marcas físicas.
 - A derrota ou libertação de [[Gullveig]] afetou o equilíbrio externo: o céu ficou limpo demais, o calor aumentou e as estações pareceram sair de ordem.
+- [[Zakna]] afirma que a catacumba é um de nove lugares tão antigos quanto o próprio tempo e aparentemente atemporais, capazes de retratar passado, presente e futuro. A fonte confirma que o grupo viu memórias do passado, mas a classificação dos nove lugares e a capacidade de mostrar presente ou futuro ainda dependem apenas do relato dele.
 
 ## Eventos centrais
 
@@ -29,3 +30,5 @@ Masmorra ancestral e viva encontrada em [[Vanaheim]] durante a busca pelo [[Escu
 - Qual é a relação exata entre a catacumba, [[Gullveig]], [[Freya]], [[Jord]] e o Coração Esmeralda?
 - O que aconteceria se [[Wyrrer]] despertasse?
 - O [[Embrulho]] é o Escudo de Wyrrer ou apenas parte do mecanismo?
+- Quais são os outros oito lugares atemporais mencionados por Zakna?
+- A catacumba mostra realmente passado, presente e futuro, ou Zakna interpretou dessa forma o que observou pelas aranhas de [[Fir|Fyir]]?
