@@ -40,5 +40,6 @@ Os registros públicos da Elder e sua história ocorrida em sessão continuam in
 Esta branch traz de volta material que só existia no vault local do Ruan, para revisão:
 
 - **`9 Planejamento/Alfheim/`** — propostas de worldbuilding para as três Grandes Casas de Alfheim (Brensver, Lumína, Vakker): o mecanismo de licença mágica dos Vakker, o teste de sangue e reconhecimento de linhagem, a divisão de autoridade entre as três Casas, e as pendências levantadas em sessão de planejamento com o Pedro sobre esse mecanismo (camada de autorização, testes para não-magos, divergência feiticeiro/mago, magia selvagem). Tudo marcado como rascunho — nada é canon até validação do mestre.
+- **10 correções de sessão** reconciliadas com a base pública: grafia `Floorn→Florn` e `Bresnver→Brensver`, o erro "Blanck bêbada quase mata Scann" corrigido para "Elder bêbada" em `Arco de Vanaheim - Visão Cronológica.md`, data do Festival dos Vagalumes (18/05→17/05) e outras datas já fechadas, e a afiliação do Florn aos Quatro Ventos incorporada em `Florn.md` (marcada `#suspeita`, ainda sem fonte de sessão confirmada).
 
-Fora do escopo desta branch, de propósito: qualquer coisa sobre a Blanck (personagem, relações, notas pessoais) e os arquivos de prompt/contexto de trabalho do Ruan — não são relevantes para o restante da mesa.
+Fora do escopo desta branch, de propósito: notas pessoais e relações da Blanck, e os arquivos de prompt/contexto de trabalho do Ruan — não são relevantes para o restante da mesa.

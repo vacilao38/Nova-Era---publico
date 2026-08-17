@@ -9,12 +9,12 @@
 - Marco temporal: 51 dias após a derrota do [[Morrüm|Dragão Morrüm]], conforme o calendário de 28 dias por mês
 - Local principal: [[Palacio-dos-Vareth|Palácio da Capital de Vanaheim]] e arredores da [[Varethia|Capital de Vanaheim]]
 - Participantes centrais: [[Leif]], [[Blanck]], [[Felix]], [[Navi]], [[Cleide]], [[Elder]], [[Raksha]], [[Horis-Tuti]], [[Ghull]], [[Odr]], [[Njord]]
-- Participantes paralelos: [[Kaeli]], [[Harald]], [[Dagrin]], [[Aurélia]], [[Bruno]], [[Cassius Vareth]]
+- Participantes paralelos: [[Kaeli]], [[Harald]], [[Dagrin]], [[Aurélia]], [[Bruno]], [[Cassius-Vareth|Cassius Vareth]]
 - Lore revelado: [[Guram]], [[Freya]], [[Valquírias]], [[Guardiões de Escudo]]
 
 ## Contexto cronológico
 
-Depois da reunião de 22/06/0387 em [[Chá, Amor e Promessas Antes da Guerra - EP 22]], o plano de retomada entra em marcha. [[Blanck]], [[Aurélia]] e [[Elder]] já haviam revisado torres, rotas, alvos do [[Círculo Dourado]] e riscos de baixas. [[Navi]], [[Cleide]] e [[Leif]] chegariam à capital em 23/06, e o ataque decisivo estava previsto para a noite de 24/06.
+Depois da reunião de 22/06/0387 em [[Chá, Amor e Promessas Antes da Guerra - EP 22]], o plano de retomada entra em marcha. [[Blanck]], [[Aurélia]] e [[Elder]] já haviam revisado torres, rotas, alvos do [[4 Elementos/conceitos/Círculo Dourado|Círculo Dourado]] e riscos de baixas. [[Navi]], [[Cleide]] e [[Leif]] chegariam à capital em 23/06, e o ataque decisivo estava previsto para a noite de 24/06.
 
 A sessão retoma uma ponta deixada em aberto no começo da sessão anterior: a capital não está apenas sendo infiltrada por pequenos grupos. Do lado de fora, uma força marítima também se aproxima, transformando a retomada de Vanaheim numa guerra de múltiplos fronts.
 
@@ -52,7 +52,7 @@ Navi, usando o item que lhe permite sentir memórias como as de animais, vê fra
 
 Horis joga os machados de Cleide e deixa Navi diante do pior dilema possível. Se o garoto quer que ele, seus amigos e os demais vivam, deve queimar Cleide. Em vez disso, Navi tenta salvá-lo. Coloca o elmo surrado marcado pelos treinos com Cleide, cresce, ganha penas maiores, garras e uma fúria de ave solar. No impulso, passa a atacar a marca de Freya no pescoço de Cleide para arrancá-la. Quanto mais o selo se rompe, mais Cleide recupera a força antiga de semideus e menos controle mantém.
 
-O confronto entre os dois se torna brutal e íntimo. Cleide, tomado pela violência, ataca Navi como presa, abrindo seu pescoço e esmagando seu corpo. Navi tenta falar, mas entra em choque; tenta lutar, mas sabe que está ferindo o próprio amigo. A virada vem quando usa água purificada da [[Catacumba de Gullveig]]. O corpo de Cleide começa a limpar, desacelerar e tremer. Navi reconhece um tapa de treino no golpe do gigante e diz a frase que alcança o amigo: **“Cade, vamos brincar.”**
+O confronto entre os dois se torna brutal e íntimo. Cleide, tomado pela violência, ataca Navi como presa, abrindo seu pescoço e esmagando seu corpo. Navi tenta falar, mas entra em choque; tenta lutar, mas sabe que está ferindo o próprio amigo. A virada vem quando usa água purificada da [[3 Locais/Catacumba de Gullveig|Catacumba de Gullveig]]. O corpo de Cleide começa a limpar, desacelerar e tremer. Navi reconhece um tapa de treino no golpe do gigante e diz a frase que alcança o amigo: **“Cade, vamos brincar.”**
 
 Mesmo assim, não basta. Navi prende Cleide em um mata-leão, espelhando o gesto de [[Freya]] no passado. A sessão revela então que Cleide, como semideus, lutou contra [[Morrüm]] numa batalha tão poderosa que rasgou os nove reinos até chegar a Midgard. Freya viu duas aberrações destruindo a natureza e disse “já basta”, derrubando ambos. Agora, Navi segura o pescoço de Cleide como Freya segurou, mas com intenção oposta: não para eliminar uma praga, e sim para proteger um amigo.
 
@@ -60,7 +60,7 @@ Cleide se lembra das vítimas, da própria violência e do choro de Navi quando 
 
 As chamas finalmente permitem que a alma de Cleide suba. As [[Valquírias]] que um dia ajudaram Navi aparecem para levá-lo. Antes de desaparecer, Cleide toca a cabeça do amigo e deixa suas últimas palavras: **Laranja é amigo. Navi é laranja. Laranja é família.** Seu time é laranja. A cena encerra a jornada recente de Cleide ligando [[Lorde Laranja]], amizade, família escolhida e descanso.
 
-Depois disso, a sessão corta para [[Elder]]. [[Bruno]] está caído depois de apanhar dela e foge por um portal prometendo vingança. Acima da estátua está [[Ghull]], também chamada de Gull, uma valquíria caída ou ex-valquíria ligada ao [[Círculo Dourado]]. Ela sente a perda de Cleide ao longe e lamenta não apenas a morte, mas a inocência de uma criança sendo arrancada.
+Depois disso, a sessão corta para [[Elder]]. [[Bruno]] está caído depois de apanhar dela e foge por um portal prometendo vingança. Acima da estátua está [[Ghull]], também chamada de Gull, uma valquíria caída ou ex-valquíria ligada ao [[4 Elementos/conceitos/Círculo Dourado|Círculo Dourado]]. Ela sente a perda de Cleide ao longe e lamenta não apenas a morte, mas a inocência de uma criança sendo arrancada.
 
 A conversa entre Elder e Ghull não vira combate imediato. Ghull é jovem demais para o peso que carrega, tem cicatrizes recentes nos olhos, aparência de quem não dorme há dias e uma raiva prestes a explodir. Ela afirma que o título de valquíria não pertence mais a ela, mas que seu nome lendário não pode ser retirado porque nasceu para isso. Seu passado é ligado à valquíria lendária da guerra entre [[Aesir]] e [[Vanir]], aquela que colecionou mais de 500 cabeças como troféus, morreu em batalha e teve a alma dilacerada. A natureza teria exigido o retorno desse nome, e Ghull acredita ter nascido apenas para sujá-lo.
 
@@ -77,9 +77,9 @@ O último corte vai para a sala de [[Odr]]. Ele está controlando o castelo para
 
 Odr percebe que Njord está compartilhando poder com os combatentes do lado de fora, inclusive [[Harald]], [[Kaeli]] e a escolta. Mesmo velho, humano, doente pelo [[Desk]], sem fé suficiente dos mortais e sem poder total, Njord continua ali. Ele afirma que lutará por sua terra mesmo que perca braços, pernas, visão e voz, ainda que isso contrarie planos dos deuses. Também lembra que ensinou e educou cada um dos deuses de Vanaheim. Por isso, quer dar “palmadas” em Odr.
 
-Odr não o subestima. Chama Njord de pai de Vanaheim/Vanir, reúne sua coleção de reis transformados em estátuas e prepara todos para lutar. Entre eles está [[Cassius Vareth]]. Njord o reconhece, pergunta há quanto tempo não o via e como ele perdeu para Odr. Cassius, ainda como parte da coleção, empunha a espada. Njord terá de atravessar cada rei até chegar a Odr.
+Odr não o subestima. Chama Njord de pai de Vanaheim/Vanir, reúne sua coleção de reis transformados em estátuas e prepara todos para lutar. Entre eles está [[Cassius-Vareth|Cassius Vareth]]. Njord o reconhece, pergunta há quanto tempo não o via e como ele perdeu para Odr. Cassius, ainda como parte da coleção, empunha a espada. Njord terá de atravessar cada rei até chegar a Odr.
 
-A sessão termina com todos os núcleos suspensos: Leif ainda enfrentando [[Raksha]] depois do relâmpago; [[Ghull]] encarando [[Elder]]; [[Blanck]] mirando em [[Felix]]; [[Horis-Tuti]] se aproximando de [[Navi]] depois do descanso de [[Cleide]]; e [[Njord]] começando a enfrentar a coleção de reis de [[Odr]], incluindo [[Cassius Vareth]]. É oficialmente a **parte um do clímax do arco de Vanaheim**.
+A sessão termina com todos os núcleos suspensos: Leif ainda enfrentando [[Raksha]] depois do relâmpago; [[Ghull]] encarando [[Elder]]; [[Blanck]] mirando em [[Felix]]; [[Horis-Tuti]] se aproximando de [[Navi]] depois do descanso de [[Cleide]]; e [[Njord]] começando a enfrentar a coleção de reis de [[Odr]], incluindo [[Cassius-Vareth|Cassius Vareth]]. É oficialmente a **parte um do clímax do arco de Vanaheim**.
 
 ## Leitura de personagens
 
@@ -137,7 +137,7 @@ A sessão termina com todos os núcleos suspensos: Leif ainda enfrentando [[Raks
 - Odr continua no centro do tabuleiro, sustentando o castelo, coordenando frentes e usando sua coleção de reis como arma.
 - Njord aparece como força divina diminuída pela falta de fé, idade humana, [[Desk]] e perda de poder total, mas ainda disposto a lutar por Vanaheim.
 - O encontro reposiciona o clímax: não é apenas rebelião mortal contra tirano. É também um confronto entre o pai antigo de Vanaheim e o rei que tentou substituir os deuses.
-- A presença de [[Cassius Vareth]] entre as estátuas de reis transforma o objetivo de [[Aurélia]] em urgência concreta.
+- A presença de [[Cassius-Vareth|Cassius Vareth]] entre as estátuas de reis transforma o objetivo de [[Aurélia]] em urgência concreta.
 
 ## Topicos
 
@@ -166,7 +166,7 @@ A sessão termina com todos os núcleos suspensos: Leif ainda enfrentando [[Raks
 - Elder se apresenta como Jopell/Joppele e afirma que seu nome real foi esquecido.
 - Elder aposta que Ghull pode ser tão forte quanto [[Odr]].
 - Ghull chama Elder de Anjo do Julgamento.
-- [[Njord]] entra na sala de [[Odr]] e começa a enfrentar a coleção de reis, incluindo [[Cassius Vareth]].
+- [[Njord]] entra na sala de [[Odr]] e começa a enfrentar a coleção de reis, incluindo [[Cassius-Vareth|Cassius Vareth]].
 
 ## Resoluções posteriores e ganchos
 
@@ -174,8 +174,8 @@ A sessão termina com todos os núcleos suspensos: Leif ainda enfrentando [[Raks
 - [[Blanck]] executa e queima [[Felix]]; o conteúdo do grimório entregue por ele ainda não foi lido.
 - [[Horis-Tuti]] é derrotado pela ação conjunta do grupo; a origem de [[Navi]], o grande pássaro e as aves luminosas continuam sem confirmação.
 - [[Cleide]] recebe descanso pelo fogo e é levado pelas [[Valquírias]]; as consequências metafísicas permanecem abertas.
-- [[Ghull]] derrota Elder, não consegue matá-la e desaparece. Sua saída definitiva do [[Círculo Dourado]] não foi confirmada.
-- [[Njord]] abre o caminho contra [[Odr]], mas [[Cassius Vareth]] não é mostrado livre depois da vitória.
+- [[Ghull]] derrota Elder, não consegue matá-la e desaparece. Sua saída definitiva do [[4 Elementos/conceitos/Círculo Dourado|Círculo Dourado]] não foi confirmada.
+- [[Njord]] abre o caminho contra [[Odr]], mas [[Cassius-Vareth|Cassius Vareth]] não é mostrado livre depois da vitória.
 - [[Guram]], o panteão de Raksha e a natureza do “chakar” continuam pendentes.
 
 ## Conexoes
@@ -184,6 +184,6 @@ A sessão termina com todos os núcleos suspensos: Leif ainda enfrentando [[Raks
 - Evento abrangente: [[O Deus Adormecido e o Retorno a Capital]]
 - Locais: [[Varethia]], [[Palacio-dos-Vareth]], Jardim das Rainhas
 - Heróis e aliados: [[Leif]], [[Blanck]], [[Navi]], [[Cleide]], [[Elder]], [[Aurélia]], [[Kaeli]], [[Harald]], [[Njord]]
-- Antagonistas e alvos: [[Odr]], [[Raksha]], [[Felix]], [[Horis-Tuti]], [[Ghull]], [[Bruno]], [[Círculo Dourado]]
-- Família e legado: [[Lopt]], [[Cassius Vareth]], [[Seraphine Vareth]], [[Wyrrer]], [[Juliet]], [[Ophelia]], [[Guram]]
+- Antagonistas e alvos: [[Odr]], [[Raksha]], [[Felix]], [[Horis-Tuti]], [[Ghull]], [[Bruno]], [[4 Elementos/conceitos/Círculo Dourado|Círculo Dourado]]
+- Família e legado: [[Lopt]], [[Cassius-Vareth|Cassius Vareth]], [[Seraphine Vareth]], [[Wyrrer]], [[Juliet]], [[Ophelia]], [[Guram]]
 - Conceitos: clímax de Vanaheim, despertar divino, chakar, retorno da morte, aberração contra a natureza, valquírias, descanso pelo fogo, reis-estátuas, status quo dos deuses

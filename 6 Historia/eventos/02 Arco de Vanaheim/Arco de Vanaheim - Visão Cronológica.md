@@ -34,7 +34,7 @@ Em Winhart, Felix constrói um dragão mecânico (Tatá 2.0). Blanck questiona D
 **Batalha contra os caçadores:** [[Raksha]] e [[Horis-Tuti]] interceptam o grupo — a cabeça de Leif vale **3 milhões**. Libertam [[Aurélia]] de uma gaiola, que está com o machado de Cleide. Batalha violenta: Leif decepa a perna de Raksha (revelando coração de energia azul), Felix cai inconsciente. O grupo vence. Ao longe, a oficina de Dagrin queima.
 
 ### Reencontro com Aurélia
-Aurélia acorda e revela que Cleide foi capturado e levado para ser leiloado. Confirma que **Odr e O-Colecionador são a mesma pessoa**. Ela é filha do verdadeiro rei [[Cassius Vareth]], desaparecido.
+Aurélia acorda e revela que Cleide foi capturado e levado para ser leiloado. Confirma que **Odr e O-Colecionador são a mesma pessoa**. Ela é filha do verdadeiro rei [[Cassius-Vareth|Cassius Vareth]], desaparecido.
 
 ### Confronto com o Agiota
 O agiota de Leif surge. Felix o desarma. Aurélia o intimida a fugir para a capital. Felix dá um sermão em Leif sobre suas dívidas.
@@ -75,13 +75,13 @@ Blanck molda blocos de gelo sob as rodas para deslizar sobre o mar. No meio da n
 
 ---
 
-## 📅 18 de Maio de 0387 — Chegada à Capital do Ouro
+## 📅 17 de Maio de 0387 — Chegada à Capital do Ouro
 
 A carruagem toca terra firme na **Capital de Vanaheim** — metrópole de opulência absurda onde natureza e ouro coexistem em utopia artificial. Scann avista a capital ao amanhecer. O cavalo descansa. O grupo chega exatamente quando o **Festival dos Vagalumes** é declarado aberto, com multidões aguardando o Rei Odr.
 
 ---
 
-## 📅 Noite de 18 de Maio de 0387 — Festival dos Vagalumes
+## 📅 Noite de 17 de Maio de 0387 — Festival dos Vagalumes
 
 ### Bruno vs Leif, Felix vs Odr
 Leif é forçado a um duelo público contra o bardo [[Bruno]], imbuído de poder sombrio. Bruno usa *Despedaçar*. Leif quebra o palco. Enquanto isso, **Felix é levado ao Rei Odr**, que oferece que ele se junte à sua causa. Felix bebe ouro líquido e torna-se imune à maldição. Leif derrota Bruno com uma escudada. Blanck liberta Cleide com *Orbe Cromático*.
@@ -94,11 +94,11 @@ Felix abandona o grupo e seu relicário. Aurélia lidera os Renegados. Uma Valqu
 **Navi emerge da Pixie em chamas negras** e enfrenta Odr para salvar Cleide. Ele resgata Cleide, mas morre em seus braços ao chegar na carruagem. O grupo foge pela praia. Cleide revive misteriosamente pelas lagrimas genuinas de Navi.
 
 ### Flecha, Fogo e Ouro, Antes da Fuga (simultâneo)
-Enquanto o grupo foge pela praia, Floorn (irmão de Blanck) destrói a lua de Aurélia com um raio. Odr sobe na estátua de Freya e faz um discurso — declara que os deuses os abandonaram e ordena que queimem todos os símbolos divinos. Grande parte do povo abandona a fé. Os que resistem são marcados pelo olho de Odr. Felix, em prova de lealdade, recebe de Odr uma arma de fogo — algo familiar de seu irmão mais velho. Na sala secreta do rei, Felix vê as estátuas de ouro dos pais de Aurélia. Kiaut, um elfo com marca de lua, surge e lidera o ataque dos renegados contra o palácio.
+Enquanto o grupo foge pela praia, Florn (irmão de Blanck) destrói a lua de Aurélia com um raio. Odr sobe na estátua de Freya e faz um discurso — declara que os deuses os abandonaram e ordena que queimem todos os símbolos divinos. Grande parte do povo abandona a fé. Os que resistem são marcados pelo olho de Odr. Felix, em prova de lealdade, recebe de Odr uma arma de fogo — algo familiar de seu irmão mais velho. Na sala secreta do rei, Felix vê as estátuas de ouro dos pais de Aurélia. Kiaut, um elfo com marca de lua, surge e lidera o ataque dos renegados contra o palácio.
 
 ---
 
-## 📅 Noite de 18 a 20 de Maio de 0387 — Fuga e Refúgio Subterrâneo
+## 📅 Noite de 17 a 19 de Maio de 0387 — Fuga e Refúgio Subterrâneo
 
 ### A Fuga da Capital
 O grupo se refugia em uma cidade subterrânea sustentada por raízes luminosas. Kirai revela memórias fragmentadas de naufrágio e de um "homem com cara de cachorro". Conhecem Crank, um médico gnomo que explica que as raízes são de uma "Grande Árvore" com propriedades medicinais. Na taverna, Elder Joppele reconhece Leif como "Leif Lopt" pela fama de derrotar o Capitão Score.
@@ -124,7 +124,7 @@ Navi vaga pela caverna refletindo sobre sua trajetória e encontra um **Dracolup
 ## 📅 27 de Maio de 0387 — O Encontro com os Elfos Negros
 
 ### Recap — A Jornada
-O grupo parte da caverna de Rog. Voam sobre Vanaheim, colidem com uma **montanha invisível**, descobrem um **portal abandonado** para Midgard. Encontram o **navio naufragado de Skor** — o _Desk_ no porão é transformado em ouro, criando um monumento dourado. Chegam a uma vila onde **servos do rei os atacam**; obtêm informações sobre **Dandil** e o **Deus da Lua**. Dias de interações se passam: Blanck fica bêbada e **quase mata Scann**; Leif **quase queima uma floresta inteira**.
+O grupo parte da caverna de Rog. Voam sobre Vanaheim, colidem com uma **montanha invisível**, descobrem um **portal abandonado** para Midgard. Encontram o **navio naufragado de Skor** — o _Desk_ no porão é transformado em ouro, criando um monumento dourado. Chegam a uma vila onde **servos do rei os atacam**; obtêm informações sobre **Dandil** e o **Deus da Lua**. Dias de interações se passam: Elder fica bêbada e **quase mata Scann**; Leif **quase queima uma floresta inteira**.
 
 ### Aurora nos Céus de Vanaheim
 **Aurélia** acorda nas costas de **Skirnir**, voando sobre o arquipélago. Skirnir a leva a um **refúgio** — uma clareira com cabanas e guardas. Um **anão de perna de pau** recebe Skirnir e o leva a um curandeiro.
@@ -159,7 +159,7 @@ Ainda na **Masmorra Viva**, Blanck, Navi e Elder escapam das estatuas despertada
 ## 📅 05 de Junho de 0387 — Preparação para a Retomada
 
 ### A Fúria do Sol e o Peso de Matar
-No segundo dia de acampamento na montanha do santuário, [[Navi|Naví]] chama [[Cleide]] para um treinamento. A cena começa como treino físico, mas se torna uma conversa prática sobre violência, sobrevivência e morte. Cleide ensina que um inimigo mais forte precisa ser vencido com qualquer recurso disponível, enquanto Naví percebe que os inimigos ligados a [[Odr]] e ao [[Círculo Dourado]] não lutarão de forma limpa. O menino pergunta se Cleide pode ensiná-lo a matar, depois tenta reformular como aprender a encerrar lutas mais rápido. O treino escala quando Cleide invoca sua fúria de batalha e Naví desperta uma forma bestial ligada à fúria do sol, impressionando o gigante pela pressão espiritual. Em paralelo, [[Aurélia]] decide reencontrar Cleide para estudar seu estado após a fuga de Vanaheim e possível infecção pela névoa, enquanto [[Fir]] avisa [[Zakna]] e organiza o deslocamento para que todos se reúnam com [[Blanck]] e sigam o plano contra a capital.
+No segundo dia de acampamento na montanha do santuário, [[Navi|Naví]] chama [[Cleide]] para um treinamento. A cena começa como treino físico, mas se torna uma conversa prática sobre violência, sobrevivência e morte. Cleide ensina que um inimigo mais forte precisa ser vencido com qualquer recurso disponível, enquanto Naví percebe que os inimigos ligados a [[Odr]] e ao [[4 Elementos/conceitos/Círculo Dourado|Círculo Dourado]] não lutarão de forma limpa. O menino pergunta se Cleide pode ensiná-lo a matar, depois tenta reformular como aprender a encerrar lutas mais rápido. O treino escala quando Cleide invoca sua fúria de batalha e Naví desperta uma forma bestial ligada à fúria do sol, impressionando o gigante pela pressão espiritual. Em paralelo, [[Aurélia]] decide reencontrar Cleide para estudar seu estado após a fuga de Vanaheim e possível infecção pela névoa, enquanto [[Fir]] avisa [[Zakna]] e organiza o deslocamento para que todos se reúnam com [[Blanck]] e sigam o plano contra a capital.
 
 ### O Riacho dos Renegados
 Na noite seguinte à chegada de [[Blanck]] à base dos aliados de [[Aurélia]], ela encontra [[Zakna]] perto de um riacho, aliviando o estresse com assobios e pedras na água. A conversa começa com o plano de infiltração no palácio: Zakna já mapeou as rotas, os renegados da divisão Nevasca serão iscas e Blanck quer montar a equipe que cegará os olhos do rei. O tom muda quando Zakna mostra os peixes mortos no riacho e admite que Vanaheim pode morrer se falharem, como outras terras destruídas antes. Blanck testa suas intenções e pergunta se Aurélia está sendo usada como degrau político. Zakna nega e afirma ver nela a melhor chance da linhagem real de mudar Vanaheim sem repetir a ilusão de controle de [[Odr]]. Ele revela mais sobre os Renegados, suas divisões por seis dos Nove Reinos e seu papel como líder do esquadrão Leopardo. Ao fim, Blanck aceita trabalhar com ele, mas deixa claro que não está do lado da organização; ainda assim, abre espaço para uma parceria futura.
@@ -169,18 +169,18 @@ Na noite seguinte à chegada de [[Blanck]] à base dos aliados de [[Aurélia]], 
 ## 📅 Aproximadamente 10 de Junho de 0387 — O Mar e a Morte Evitável
 
 ### O Mar, o Cabelo Vermelho e a Morte Evitavel
-Seis dias apos a saida da masmorra de [[Gullveig]], [[Blanck]] encontra [[Elder]] a beira-mar, tentando tingir novamente o cabelo com um corante vermelho encontrado na [[Catacumba de Gullveig]]. A conversa parte das queimaduras deixadas pela bruxa e se torna uma investigacao intima sobre morte, memoria e amor: Elder revela que ja morreu, que [[Hela]] a salvou, que talvez nao tenha sido a primeira vez, e que nao entende por que os outros dao tanto valor a sua vida. Blanck, por sua vez, admite que nao sabe explicar por que se importa, mas sabe que nao quer perder o grupo e que tentara evitar mortes evitaveis. A interacao tambem reconecta as duas a [[Velha-lembranças|um encontro de cinquenta anos antes]], quando Blanck acolheu Elder depois da morte de [[Ólfir]], e termina com Elder empalidecendo ao descobrir que [[Odr]] esta vivo.
+Seis dias apos a saida da masmorra de [[Gullveig]], [[Blanck]] encontra [[Elder]] a beira-mar, tentando tingir novamente o cabelo com um corante vermelho encontrado na [[3 Locais/Catacumba de Gullveig|Catacumba de Gullveig]]. A conversa parte das queimaduras deixadas pela bruxa e se torna uma investigacao intima sobre morte, memoria e amor: Elder revela que ja morreu, que [[Hela]] a salvou, que talvez nao tenha sido a primeira vez, e que nao entende por que os outros dao tanto valor a sua vida. Blanck, por sua vez, admite que nao sabe explicar por que se importa, mas sabe que nao quer perder o grupo e que tentara evitar mortes evitaveis. A interacao tambem reconecta as duas a [[Velha-lembranças|um encontro de cinquenta anos antes]], quando Blanck acolheu Elder depois da morte de [[Ólfir]], e termina com Elder empalidecendo ao descobrir que [[Odr]] esta vivo.
 
 ---
 
 ## 📅 04–24 de Junho de 0387 — O Deus Adormecido e o Retorno à Capital
 
 ### O Deus Adormecido e o Retorno a Capital
-Ao fim da [[Catacumba de Gullveig]], [[Blanck]] e [[Elder]] encontram [[Wyrrer]] adormecido dentro de um fluxo de mana que sustenta [[Vanaheim|Vanaheim]], revelando sua ligacao ambigua com o [[mane|Deus da Lua]] e sua importancia para a historia de [[Juliet]], [[Ophelia]] e [[Kaeli]]. A masmorra se revela uma entidade viva ligada a [[Jord|Deusa da Terra]], enquanto [[Rog]] explica conexoes entre [[mane|Máni]], [[Wyrrer]], [[Odr]], [[Gullveig|Gveig/Gullveig]], fe mortal e [[Desk]]. Durante cerca de vinte dias, [[Leif]] aprende a realizar um milagre sem depender de pactos, [[Navi]] treina com o [[Povo do Sol]] e redefine esperanca, [[Cleide]] comeca a perguntar se tambem pode te-la, [[Elder]] confronta [[Odr]] no palacio, e [[Horis-Tuti|Oristut]] revela a [[Navi]] e [[Aurélia]] sua face de [[Horis-Tuti|Tecedor de Ouro]]. Em paralelo, [[Blanck]], [[Zakna]] e [[Fir]] planejam a entrada na capital contra o [[Círculo Dourado]], tratando [[Raksha]] numero 6 e [[Zakna]] numero 7 como possiveis membros ou ex-membros ligados ao circulo. A sessao termina com o grupo retornando a [[Varethia|Capital de Vanaheim]] e o primeiro choque da invasao envolvendo [[Leif]].
+Ao fim da [[3 Locais/Catacumba de Gullveig|Catacumba de Gullveig]], [[Blanck]] e [[Elder]] encontram [[Wyrrer]] adormecido dentro de um fluxo de mana que sustenta [[Vanaheim|Vanaheim]], revelando sua ligacao ambigua com o [[mane|Deus da Lua]] e sua importancia para a historia de [[Juliet]], [[Ophelia]] e [[Kaeli]]. A masmorra se revela uma entidade viva ligada a [[Jord|Deusa da Terra]], enquanto [[Rog]] explica conexoes entre [[mane|Máni]], [[Wyrrer]], [[Odr]], [[Gullveig|Gveig/Gullveig]], fe mortal e [[Desk]]. Durante cerca de vinte dias, [[Leif]] aprende a realizar um milagre sem depender de pactos, [[Navi]] treina com o [[4 Elementos/conceitos/Povo do Sol|Povo do Sol]] e redefine esperanca, [[Cleide]] comeca a perguntar se tambem pode te-la, [[Elder]] confronta [[Odr]] no palacio, e [[Horis-Tuti|Oristut]] revela a [[Navi]] e [[Aurélia]] sua face de [[Horis-Tuti|Tecedor de Ouro]]. Em paralelo, [[Blanck]], [[Zakna]] e [[Fir]] planejam a entrada na capital contra o [[4 Elementos/conceitos/Círculo Dourado|Círculo Dourado]], tratando [[Raksha]] numero 6 e [[Zakna]] numero 7 como possiveis membros ou ex-membros ligados ao circulo. A sessao termina com o grupo retornando a [[Varethia|Capital de Vanaheim]] e o primeiro choque da invasao envolvendo [[Leif]].
 
 ### 22 de Junho de 0387 — Chá, Amor e Promessas Antes da Guerra (EP 22)
 
-Dois dias antes do clímax planejado, [[Blanck]], [[Aurélia]] e [[Elder]] se reúnem na propriedade da família Turling, com [[Scann]], [[Fir]] e Hori Turling. O grupo revisa mapas, torres, alvos do [[Círculo Dourado]] e o risco de baixas. A formalidade desaba depois que Hori encontra Elder bêbada na rua e a leva para um banho forçado, transformando a preparação da guerra em uma sequência cômica. Depois, Elder usa sua experiência com [[Wyrrer]] para falar sobre amor, convivência, defeitos, discussões e o arrependimento de ter compreendido tarde demais o que sentia. Aurélia admite gostar de [[Leif]], revela como o conheceu ao invadir o quarto de [[Seraphine Vareth|Seraphine]] e chama Blanck de sua primeira amiga verdadeira. Uma memória final mostra Seraphine pedindo que Elder protegesse a pequena Aurélia antes de morrer; o funeral da rainha termina ligando a retomada do reino ao desejo de Aurélia de trazer [[Cassius Vareth]] de volta. Em paralelo, [[Horis-Tuti|Horis]] avisa [[Odr]] sobre um despertar, enquanto [[Felix]] estuda o símbolo lunar e o [[Embrulho]].
+Dois dias antes do clímax planejado, [[Blanck]], [[Aurélia]] e [[Elder]] se reúnem na propriedade da família Turling, com [[Scann]], [[Fir]] e Hori Turling. O grupo revisa mapas, torres, alvos do [[4 Elementos/conceitos/Círculo Dourado|Círculo Dourado]] e o risco de baixas. A formalidade desaba depois que Hori encontra Elder bêbada na rua e a leva para um banho forçado, transformando a preparação da guerra em uma sequência cômica. Depois, Elder usa sua experiência com [[Wyrrer]] para falar sobre amor, convivência, defeitos, discussões e o arrependimento de ter compreendido tarde demais o que sentia. Aurélia admite gostar de [[Leif]], revela como o conheceu ao invadir o quarto de [[Seraphine Vareth|Seraphine]] e chama Blanck de sua primeira amiga verdadeira. Uma memória final mostra Seraphine pedindo que Elder protegesse a pequena Aurélia antes de morrer; o funeral da rainha termina ligando a retomada do reino ao desejo de Aurélia de trazer [[Cassius-Vareth|Cassius Vareth]] de volta. Em paralelo, [[Horis-Tuti|Horis]] avisa [[Odr]] sobre um despertar, enquanto [[Felix]] estuda o símbolo lunar e o [[4 Elementos/abrolho|abrolho]].
 
 ### Manhã de 23 de Junho de 0387 — [[A Primeira Missão de Kaelith]]
 
@@ -192,7 +192,7 @@ Ao chegar à capital, [[Leif]] compra roupas, itens e comida antes de passar hor
 
 ### Noite de 24 de Junho de 0387 — Acerto de Contas- Parte 1
 
-O clímax começa em múltiplas frentes. Do lado de fora, [[Harald]], filho de Sold, chega com a frota Carnzin, acompanhado por [[Kaeli]], enquanto um flashback de [[Dagrin]] revela que os [[Guardiões de Escudo]] foram criados para proteger, não para matar. Dentro do palácio, [[Leif]] enfrenta [[Raksha]], que revela sua ligação com [[Guram]], habilidades divinas chamadas "chakar" e força o despertar parcial do Lopt antes de destruir a torre com um relâmpago. [[Blanck]] encontra [[Felix]], recebe seu grimório e encara o pedido para ser sua executora. No Jardim das Rainhas, [[Horis-Tuti]] revela a origem ferida de [[Navi]], a violência ampliada da ressurreição de [[Cleide]] e o selo de [[Freya]] que continha o gigante; Navi, com água purificada, memória e fogo, entrega Cleide ao descanso levado pelas [[Valquírias]]. [[Elder]] derrota [[Bruno]] e confronta [[Ghull]], valquíria caída que a chama de Anjo do Julgamento. No alto do palácio, [[Njord]] retorna para enfrentar [[Odr]], que convoca sua coleção de reis-estátuas, incluindo [[Cassius Vareth]].
+O clímax começa em múltiplas frentes. Do lado de fora, [[Harald]], filho de Sold, chega com a frota Carnzin, acompanhado por [[Kaeli]], enquanto um flashback de [[Dagrin]] revela que os [[Guardiões de Escudo]] foram criados para proteger, não para matar. Dentro do palácio, [[Leif]] enfrenta [[Raksha]], que revela sua ligação com [[Guram]], habilidades divinas chamadas "chakar" e força o despertar parcial do Lopt antes de destruir a torre com um relâmpago. [[Blanck]] encontra [[Felix]], recebe seu grimório e encara o pedido para ser sua executora. No Jardim das Rainhas, [[Horis-Tuti]] revela a origem ferida de [[Navi]], a violência ampliada da ressurreição de [[Cleide]] e o selo de [[Freya]] que continha o gigante; Navi, com água purificada, memória e fogo, entrega Cleide ao descanso levado pelas [[Valquírias]]. [[Elder]] derrota [[Bruno]] e confronta [[Ghull]], valquíria caída que a chama de Anjo do Julgamento. No alto do palácio, [[Njord]] retorna para enfrentar [[Odr]], que convoca sua coleção de reis-estátuas, incluindo [[Cassius-Vareth|Cassius Vareth]].
 
 ### Noite de 24 de Junho de 0387 — Acerto de Contas- Parte 2
 
@@ -208,7 +208,7 @@ Durante a pausa antes de enfrentar [[Odr]], [[Leif]] conversa com as cinzas de [
 
 ### Noite de 24 de Junho de 0387 — [[Ouro de Tolo]] (EP 24)
 
-O ápice do arco revela que o ouro de [[Odr]] nasceu das lágrimas que [[Freya]] derramava durante as ausências do marido e que ele converteu culpa, luto e desejo de mudança num sistema de domínio. Depois de o ritual de [[Blanck]] manifestar um adorno identificado como Brísingamen e [[Njord]] abrir o caminho até o trono por meio de [[Rog]], [[Aurélia]] confronta a hipocrisia do usurpador e o grupo enfrenta seu corpo regenerado em ouro, os totens do [[Círculo Dourado]] e as estátuas dos antigos reis. Blanck toma o controle do palácio e expõe a cicatriz lunar; [[Elder]] arranca de Odr o colar com o Coração Esmeralda, admite a derrota para [[Ghull|Göll]] e afirma que, diferente dele, sabe olhar para a frente. Aurélia mantém Odr sob a luz da lua e [[Navi]], envolto pelo fogo solar, o decapita. Navi ainda salva Queixo dos escombros, Elder estabiliza [[Leif]] e as raízes de Blanck aprisionam os restos do rei numa grande árvore. Diante do povo, Aurélia rejeita o discurso pronto, pede ajuda para reconstruir Vanaheim e purifica o ouro com uma lágrima verdadeira. Rog entrega a vida à restauração da natureza, e a chuva encerra a noite sobre uma capital liberta, mas ainda marcada pelas baixas da guerra.
+O ápice do arco revela que o ouro de [[Odr]] nasceu das lágrimas que [[Freya]] derramava durante as ausências do marido e que ele converteu culpa, luto e desejo de mudança num sistema de domínio. Depois de o ritual de [[Blanck]] manifestar um adorno identificado como Brísingamen e [[Njord]] abrir o caminho até o trono por meio de [[Rog]], [[Aurélia]] confronta a hipocrisia do usurpador e o grupo enfrenta seu corpo regenerado em ouro, os totens do [[4 Elementos/conceitos/Círculo Dourado|Círculo Dourado]] e as estátuas dos antigos reis. Blanck toma o controle do palácio e ataca a ferida lunar nas costas de [[Odr]]; [[Elder]] arranca de Odr o colar com o Coração Esmeralda, admite a derrota para [[Ghull|Göll]] e afirma que, diferente dele, sabe olhar para a frente. Aurélia mantém Odr sob a luz da lua e [[Navi]], envolto pelo fogo solar, o decapita. Navi ainda salva Queixo dos escombros, Elder estabiliza [[Leif]] e as raízes de Blanck aprisionam os restos do rei numa grande árvore. Diante do povo, Aurélia rejeita o discurso pronto, pede ajuda para reconstruir Vanaheim e purifica o ouro com uma lágrima verdadeira. Rog entrega a vida à restauração da natureza, e a chuva encerra a noite sobre uma capital liberta, mas ainda marcada pelas baixas da guerra.
 
 ### Madrugada e manhã de 25 de Junho de 0387 — [[Depois da Chuva - Feridos, Heróis e Laços de Família]]
 
@@ -232,7 +232,7 @@ Cinco dias após Odr, Blanck e Scann têm a primeira noite tranquila. Scann reco
 
 ### 08 de Julho de 0387 — [[O Ouro de Navi e o Peso de sua Origem]]
 
-Duas semanas após a vitória, Navi tornou-se recruta, recebe autógrafos e recupera num banco aproximadamente cem milhões de peças de ouro. Por ainda ser menor segundo a política da instituição, escolhe Blanck como responsável legal. Uma análise da [[Espada de proteção e amor]] revela semelhanças com o [[Embrulho]] e com a mana sustentada por Wyrrer. Depois, Navi conta que viu seu povo e descobriu que todos estão mortos. Blanck abandona a explicação e oferece presença, abraço e a certeza de que ele já é herói.
+Duas semanas após a vitória, Navi tornou-se recruta, recebe autógrafos e recupera num banco aproximadamente cem milhões de peças de ouro. Por ainda ser menor segundo a política da instituição, escolhe Blanck como responsável legal. Uma análise da [[Espada de proteção e amor]] revela semelhanças com o [[4 Elementos/abrolho|abrolho]] e com a mana sustentada por Wyrrer. Depois, Navi conta que viu seu povo e descobriu que todos estão mortos. Blanck abandona a explicação e oferece presença, abraço e a certeza de que ele já é herói.
 
 ### 08 de Julho de 0387 — [[A Mão Negra e a Fada que Cresceu]]
 
@@ -262,19 +262,15 @@ Blanck e Elder reparam o conflito da guerra, discutem limites de respeito, o cui
 
 ### Provavelmente entre 15 e 18/07/0387 — [[Lírios, Vinho e um Futuro sob a Lua]]
 
-[[Leif]] prepara para [[Aurélia]] um jantar no jardim do palácio, com vinho, lírios, rosas e uma toalha que [[Elder]] o ajudou a costurar. Aurélia verifica por magia se ele está enfeitiçado antes de aceitar sua pressa para casar. Os dois falam das famílias, do luto pelas mães, de filhos, lua de mel e de um reino seguro. Leif pretende encaminhar com [[Cassius Vareth]] o ducado e o casamento e levar [[Cleide]] a [[Jotunheim|Jötunheim]]. A noite termina com Aurélia tocando harpa sob a lua; nenhum desses planos futuros é registrado como já realizado.
+[[Leif]] prepara para [[Aurélia]] um jantar no jardim do palácio, com vinho, lírios, rosas e uma toalha que [[Elder]] o ajudou a costurar. Aurélia verifica por magia se ele está enfeitiçado antes de aceitar sua pressa para casar. Os dois falam das famílias, do luto pelas mães, de filhos, lua de mel e de um reino seguro. Leif pretende encaminhar com [[Cassius-Vareth|Cassius Vareth]] o ducado e o casamento e levar [[Cleide]] a [[Jotunheim|Jötunheim]]. A noite termina com Aurélia tocando harpa sob a lua; nenhum desses planos futuros é registrado como já realizado.
 
 ### Noite de 16/07/0387 — [[Fajo Solar, Segredos e a Cabeça de Thor]]
 
-Blanck procura Zakna na Taverna Peixinho quando os Renegados começam a se retirar de Vanaheim. A troca esclarece a fé e a estrutura de espionagem da organização, a missão iminente em Alfheim e o risco de uma guerra silenciosa envolvendo elfos de Svarfheim. Blanck revela a chacina que quase extinguiu os Bresnver, a aliança com os Vakker e o artefato transformado em colar. Zakna afirma que a Catacumba de Gullveig é um de nove lugares atemporais e liga Loki, o título de Imperador, uma nova instância do Desk e a destruição da Ordem dos Escribas por Thor. A conversa termina numa parceria limitada de informações; as alegações cosmológicas permanecem atribuídas a Zakna.
+Blanck procura Zakna na Taverna Peixinho quando os Renegados começam a se retirar de Vanaheim. A troca esclarece a fé e a estrutura de espionagem da organização, a missão iminente em Alfheim e o risco de uma guerra silenciosa envolvendo elfos de Svarfheim. Blanck revela a chacina que quase extinguiu os Brensver, a aliança com os Vakker e o artefato transformado em colar. Zakna afirma que a Catacumba de Gullveig é um de nove lugares atemporais e liga Loki, o título de Imperador, uma nova instância do Desk e a destruição da Ordem dos Escribas por Thor. A conversa termina numa parceria limitada de informações; as alegações cosmológicas permanecem atribuídas a Zakna.
 
 ### Tarde de 20/07/0387 — [[Mapas entre Tempos e uma Anciã Desatualizada]]
 
 Às três da tarde de um dia chuvoso, Elder visita [[Hori Turling]], pede desculpas ao mordomo em quem pisou anteriormente e desorganiza o escritório ao cair diante das muitas trancas. Entre mapas, arquivos e provocações, ela rejeita o título de heroína, admite estar desatualizada e descreve o álcool contínuo como forma de não perder a razão. A hipótese de Hori sobre lacunas ou censura nos registros de Svarfheim provoca uma reação silenciosa que Elder não explica. Hori mostra rascunhos e um mapa concluído, recebe elogio sincero e permite que Elder escolha mapas atuais de Midgard; a fonte não identifica o inventário retirado nem registra a devolução.
-
-### Madrugada de 21/07/0387 — [[A Lareira Apagada e a Noite sem Sono]]
-
-Às 03:14, Elder costura diante de uma lareira apagada enquanto duas figuras infantis de luz brincam e chamam pela mãe. As figuras desaparecem quando Leif chega. Ele fala do desejo de casar com Aurélia, ter muitos filhos e manter os irmãos unidos; Elder oferece ajuda à família futura e compara sua lealdade à de Arsthör e [[Yrídia]]. A conversa passa por Felix, culpa e luto por Odr como amigo que Elder desejava conservar. Depois de receber “vocês, elfos” como fronteira quase acusatória, ela revela que nunca conseguiu dormir; o criador confirma ausência de sonhos e descanso, consciência durante o repouso, exaustão e dor de cabeça contínuas. A fonte, identificada também como o 25º dia após Odr, termina na surpresa de Leif e não registra a continuação.
 
 ### Calendário da retomada da capital
 
@@ -304,7 +300,6 @@ Blanck procura Zakna na Taverna Peixinho quando os Renegados começam a se retir
 | Provavelmente 15–18/07/0387 | [[Lírios, Vinho e um Futuro sob a Lua]] | Outono | Lua Cheia, explícita na fonte |
 | Noite de 16/07/0387 | [[Fajo Solar, Segredos e a Cabeça de Thor]]; 20º dia após a derrota de Odr | Outono | provavelmente Lua Cheia; encoberta por nuvens |
 | Tarde de 20/07/0387 | [[Mapas entre Tempos e uma Anciã Desatualizada]] | Outono | — |
-| 03:14 de 21/07/0387 | [[A Lareira Apagada e a Noite sem Sono]]; 25º dia após a derrota de Odr | Outono | indeterminada; luz semelhante ao luar descrita na fonte |
 
 ---
 
@@ -332,24 +327,24 @@ Todas as datas abaixo pertencem ao ano 0387. Maio está no **Verão**; junho e j
 | 17/05 | Jogo contra o Coruja | Vitória de Leif |
 | 17/05 | Mercado e Bolsa sem Fundo | Compras de Blanck |
 | Noite de 17/05 | Travessia Marítima | Kraken e Coruja; Lua Cheia |
-| 18/05 | Chegada à Capital do Ouro | Festival dos Vagalumes inicia |
-| Noite de 18/05 | Bruno vs Leif, Odr vs Felix | Traição de Felix, Odr revelado; Lua Cheia |
-| Noite de 18/05 | Revolta e Luz da Lua | Fuga, morte de Navi; Lua Cheia |
-| Noite de 18/05 | Flecha, Fogo e Ouro, Antes da Fuga | Floorn destrói a lua, discurso de Odr, Felix recebe arma de fogo, ataque dos renegados; Lua Cheia |
-| Noite de 18/05 | A Fuga da Capital | O grupo alcança o refúgio subterrâneo; Lua Cheia |
-| 18–20/05 | Estadia Subterrânea | Refúgio na caverna de Rog; Lua Cheia na noite de 18 e transição para Lua Minguante nas noites de 19–20 |
+| 17/05 | Chegada à Capital do Ouro | Festival dos Vagalumes inicia |
+| Noite de 17/05 | Bruno vs Leif, Odr vs Felix | Traição de Felix, Odr revelado; Lua Cheia |
+| Noite de 17/05 | Revolta e Luz da Lua | Fuga, morte de Navi; Lua Cheia |
+| Noite de 17/05 | Flecha, Fogo e Ouro, Antes da Fuga | Florn destrói a lua, discurso de Odr, Felix recebe arma de fogo, ataque dos renegados; Lua Cheia |
+| Noite de 17/05 | A Fuga da Capital | O grupo alcança o refúgio subterrâneo; Lua Cheia |
+| 17–19/05 | Estadia Subterrânea | Refúgio na caverna de Rog; Lua Cheia na noite de 17 e transição para Lua Minguante nas noites de 18–19 |
 | 22/05 | Manhã do Subsolo | Navi e o Dracolupi, Blanck conversa com Rog sobre a história élfica |
 | 22/05 | O Treino da Raiz Primordial | Rog remove a runa de Svava, missão do Escudo de Wyrrer, Elder revela passado, Blanck passa a viajar com Sofandi |
 | 23/05 | Preparação para a viagem à masmorra | Rog retira a runa de Svava e entrega a missão do Escudo de Wyrrer |
-| 27/05 | O Encontro com os Elfos Negros | Aurélia conhece Zakna e Fir no acampamento de refugiados; Blanck bêbada quase mata Scann; Leif queima floresta |
+| 27/05 | O Encontro com os Elfos Negros | Aurélia conhece Zakna e Fir no acampamento de refugiados; Elder bêbada quase mata Scann; Leif queima floresta |
 | 27/05 | O Portal de Midgard e o Quarto do Circulo Dourado | O grupo viaja com os Dracolupi, encontra um portal antigo para Midgard, vê o Desk ser consumido pelo ouro de Odr, recebe informações sobre o Deus da Lua e atrai o número quatro do Círculo Dourado |
 | 02/06 | O Povo do Sol e a Masmorra Viva | Aurélia negocia com Zakna; o grupo encontra o Povo do Sol, derrota o número quatro do Círculo Dourado e recebe permissão para entrar na Masmorra Viva |
 | 04/06 | O Eco do Passado na Masmorra Viva | O grupo explora a Masmorra Viva, encontra água viva, memórias antigas de Vanaheim e ecos de uma guerra contra uma mulher alada; Odr reúne o Círculo Dourado e Felix recebe nova missão |
 | 04/06 | A Bruxa, a Espada e o Deus da Lua | O grupo salva Leif da influencia da bruxa, enfrenta a guardia da espada, recupera o objeto de madeira da missao e encontra novas pistas sobre Freya, o Deus da Lua e o rei destruido |
 | 05/06 | A Fúria do Sol e o Peso de Matar | Naví treina com Cleide, pede para aprender a matar ou encerrar lutas mais rapido, desperta uma forma bestial ligada à fúria do sol, e Aurélia se prepara para reencontrar Cleide antes da retomada da capital |
 | Noite de 05/06 | O Riacho dos Renegados | Blanck conversa com Zakna, questiona as intenções dos Renegados sobre Aurélia e recebe detalhes da infiltração; transição para Lua Crescente |
-| 10/06 (aprox.) | O Mar, o Cabelo Vermelho e a Morte Evitavel | Interacao entre [[Blanck]] e [[Elder]] seis dias apos a masmorra de [[Gullveig]]; morte, amor, [[Hela]], [[Ólfir]], a [[Elder e sua espada Juliet|espada de Juliet]] e a surpresa de Elder ao saber que [[Odr]] esta vivo |
-| 04/06–24/06 | O Deus Adormecido e o Retorno a Capital | [[Wyrrer]] e encontrado sustentando [[local--Vanaheim|Vanaheim]], [[Rog]] explica [[mane|Máni]], [[Gullveig|Gveig/Gullveig]] e [[Desk]], [[Leif]] e [[Navi]] treinam esperanca por caminhos diferentes, [[Elder]] conversa com [[Odr]], [[Horis-Tuti|Oristut]] confronta [[Navi]] e [[Aurélia]], e [[Blanck]] planeja com [[Zakna]] o ataque ao [[Círculo Dourado]] |
+| 10/06 | O Mar, o Cabelo Vermelho e a Morte Evitavel | Interacao entre [[Blanck]] e [[Elder]] seis dias apos a masmorra de [[Gullveig]]; morte, amor, [[Hela]], [[Ólfir]], a [[Elder e sua espada Juliet|espada de Juliet]] e a surpresa de Elder ao saber que [[Odr]] esta vivo |
+| 04/06–24/06 | O Deus Adormecido e o Retorno a Capital | [[Wyrrer]] e encontrado sustentando [[local--Vanaheim|Vanaheim]], [[Rog]] explica [[mane|Máni]], [[Gullveig|Gveig/Gullveig]] e [[Desk]], [[Leif]] e [[Navi]] treinam esperanca por caminhos diferentes, [[Elder]] conversa com [[Odr]], [[Horis-Tuti|Oristut]] confronta [[Navi]] e [[Aurélia]], e [[Blanck]] planeja com [[Zakna]] o ataque ao [[4 Elementos/conceitos/Círculo Dourado|Círculo Dourado]] |
 | 22/06 | Chá, Amor e Promessas Antes da Guerra — EP 22 | Reunião de [[Blanck]], [[Aurélia]] e [[Elder]]; plano da invasão, Hori Turling, visão amorosa de Elder, confissão de Aurélia sobre [[Leif]] e memória de [[Seraphine Vareth]] |
 | 23/06 | [[A Primeira Missão de Kaelith]] | Kaelith treina na base, tenta esconder a ansiedade da primeira missão, é encaminhada por [[Zakna]] e [[Fir]] à força de [[Harald]] e revela sua idolatria pelos novos heróis |
 | 23/06 | [[A Decisão de Leif Antes da Guerra]] | Leif chega à capital, passa o dia sozinho e decide como pretende lidar com [[Felix]], embora a fonte não revele a escolha |
@@ -371,9 +366,8 @@ Todas as datas abaixo pertencem ao ano 0387. Maio está no **Verão**; junho e j
 | Noite de 13/07 | [[Peixe Assado e uma Visita ao Anoitecer]] | Elder convida Navi para conhecê-lo e compartilha memórias das filhas; transição para Lua Cheia |
 | 14/07 | [[Chá, Desculpas e o Peso de Liderar]] | Blanck e Elder reparam o conflito da guerra; Elder torna visível a falta de reciprocidade em torno da maga, e Blanck decide deixar o grupo crescer sem carregar um reino nas costas; 18º dia após a derrota de Odr |
 | Provavelmente 15–18/07 | [[Lírios, Vinho e um Futuro sob a Lua]] | Leif e Aurélia convertem o futuro desejado em planos explícitos; Lua Cheia descrita pela fonte |
-| Noite de 16/07 | [[Fajo Solar, Segredos e a Cabeça de Thor]] | Blanck e Zakna transformam a aliança de guerra em parceria informacional; surgem a chacina dos Bresnver, a crise de Alfheim, os nove lugares atemporais e o título de Imperador |
+| Noite de 16/07 | [[Fajo Solar, Segredos e a Cabeça de Thor]] | Blanck e Zakna transformam a aliança de guerra em parceria informacional; surgem a chacina dos Brensver, a crise de Alfheim, os nove lugares atemporais e o título de Imperador |
 | Tarde de 20/07 | [[Mapas entre Tempos e uma Anciã Desatualizada]] | Elder e Hori abrem uma parceria por mapas; 24º dia após Odr |
-| 03:14 de 21/07 | [[A Lareira Apagada e a Noite sem Sono]] | Leif surpreende Elder com duas figuras infantis de luz; os dois falam de família, Yrídia, heroísmo, culpa e luto por Odr, e Elder revela a vigília vitalícia sem sonhos nem descanso; 25º dia após Odr, fonte interrompida |
 
 ---
 
@@ -401,6 +395,6 @@ Todas as datas abaixo pertencem ao ano 0387. Maio está no **Verão**; junho e j
 - Machado de Cleide (arma negra com caveira de olhos vermelhos)
 - Tatá 2.0 (dragão mecânico de Felix)
 - Cavalo Sligo (Cavalo das Valquírias)
-- [[Embrulho]] / possível forma ou fragmento do [[Escudo de Wyrrer]]
+- [[4 Elementos/abrolho|abrolho]] / possível forma ou fragmento do [[Escudo-de-Wyrrer|Escudo de Wyrrer]]
 - [[Brísingamen]] e [[Coração Esmeralda]]
-- Água viva e runas da [[Catacumba de Gullveig]]
+- Água viva e runas da [[3 Locais/Catacumba de Gullveig|Catacumba de Gullveig]]

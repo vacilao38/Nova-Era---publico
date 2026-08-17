@@ -14,7 +14,7 @@
 
 Após a fuga frenética do palácio e o combate inusitado contra a "Valquíria-Galinha", o grupo encontra refúgio em uma cidade subterrânea sustentada por raízes luminosas. O clima é de reorganização e descoberta sobre a verdadeira natureza de Vanaheim, enquanto buscam entender o próximo passo na resistência contra o Rei Oder.
 
-> **Nota:** Esta fuga sucede os eventos de [[02 03 Mini arco dos Foragidos/Flecha-fogo-e-ouro_antes-da-fuga|Flecha, Fogo e Ouro, Antes da Fuga]], onde a lua de Aurélia foi destruída por [[Floorn]], Felix recebeu uma arma de fogo de [[Odr]], e [[Kiaut]] liderou o ataque dos renegados ao palácio.
+> **Nota:** Esta fuga sucede os eventos de [[02 03 Mini arco dos Foragidos/Flecha-fogo-e-ouro_antes-da-fuga|Flecha, Fogo e Ouro, Antes da Fuga]], onde a lua de Aurélia foi destruída por [[Florn]], Felix recebeu uma arma de fogo de [[Odr]], e [[Kiaut]] liderou o ataque dos renegados ao palácio.
 
 --------------------------------------------------------------------------------
 

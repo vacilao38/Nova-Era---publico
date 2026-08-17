@@ -87,7 +87,7 @@ O evento causalmente mais avançado com marca relativa explícita é [[Mapas ent
 ## Observações de continuidade
 
 - O encontro de [[Aurélia]] com [[Zakna]] e [[Fir]] ocorre em 27/05/0387 e deve ser lido em paralelo à viagem do grupo, embora a nota tenha sido consolidada fora da sequência numerada principal.
-- As fontes divergem entre 17 e 18/05 para a abertura e a noite do Festival dos Vagalumes; a ordem causal dos eventos permanece segura.
-- A data anotada para [[O Mar, o Cabelo Vermelho e a Morte Evitavel]] varia entre 04/06 e “cerca de seis dias depois da catacumba”; manter a incerteza até revisão da fonte primária.
+- Festival dos Vagalumes: **17/05/0387**, manhã e noite — três fontes primárias concordam (`Bruno coloca Leif para dançar`, `AFugadaCapitalDeVanaheim`, `ARQUIVO - Do Projeto da Carruagem`). O 18/05 vinha só da Visão Cronológica, que é documento derivado. Resolvido em 12/08/2026.
+- [[O Mar, o Cabelo Vermelho e a Morte Evitavel]]: data diegética **10/06/0387** — seis dias após a Catacumba de Gullveig (04/06). O “04/06” do arquivo é a **data da conversa entre jogadores**, não data de ficção. Resolvido em 12/08/2026.
 - A conversão dos dias relativos do pós-guerra para datas absolutas não está uniforme nas fontes. Preservar “12º dia após Odr” para [[Remédio para Dormir e a Fada que Escolheu Ficar]], “24º dia após Odr” para [[Mapas entre Tempos e uma Anciã Desatualizada]] e a divergência de [[Chá, Desculpas e o Peso de Liderar]] até confirmação.
 - As datas de publicação no WhatsApp não foram usadas como datas diegéticas para [[Lírios, Vinho e um Futuro sob a Lua]].
