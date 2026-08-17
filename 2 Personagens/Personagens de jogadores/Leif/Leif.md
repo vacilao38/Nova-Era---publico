@@ -92,7 +92,7 @@ Em [[A Lareira Apagada e a Noite sem Sono]], às 03:14 de 21/07/387, Leif surpre
 | [[A Empregada e o Futuro Rei entre os Leões]] | Enfrenta os nobres com Elder, reivindica responsabilidade sem se esconder na linhagem e apresenta a primeira proposta econômica para o ducado |
 | [[Remédio para Dormir e a Fada que Escolheu Ficar]] | Procura a companhia de Scann para compras, revela a intenção de adquirir remédio para dormir e reconhece o valor da fada |
 | [[Lírios, Vinho e um Futuro sob a Lua]] | Prepara um jantar para Aurélia e transforma casamento, ducado, filhos e a promessa de levar Cleide a Jötunheim em planos explícitos |
-| [[A Lareira Apagada e a Noite sem Sono]] | Confia a Elder seus planos familiares, recebe dela uma oferta de apoio e presencia a revelação de que a anciã nunca conseguiu dormir; fonte interrompida |
+| [[A Lareira Apagada e a Noite sem Sono]] | Confia a Elder seus planos familiares, recebe dela uma oferta de apoio e presencia a revelação da vigília sem sonho nem descanso; “vocês, elfos” fere o pertencimento dela, embora a intenção depreciativa de Leif não esteja confirmada; fonte interrompida |
 
 ## Pontos altos
 

@@ -274,7 +274,7 @@ Blanck procura Zakna na Taverna Peixinho quando os Renegados começam a se retir
 
 ### Madrugada de 21/07/0387 — [[A Lareira Apagada e a Noite sem Sono]]
 
-Às 03:14, Elder costura diante de uma lareira apagada enquanto duas figuras infantis de luz brincam e chamam pela mãe. As figuras desaparecem quando Leif chega. Ele fala do desejo de casar com Aurélia, ter muitos filhos e manter os irmãos unidos; Elder oferece ajuda à família futura. A conversa passa por heroísmo, Arsthör, Felix, Odr e culpa até Elder revelar que nunca conseguiu dormir. A fonte, identificada também como o 25º dia após Odr, termina na surpresa de Leif e não registra a continuação.
+Às 03:14, Elder costura diante de uma lareira apagada enquanto duas figuras infantis de luz brincam e chamam pela mãe. As figuras desaparecem quando Leif chega. Ele fala do desejo de casar com Aurélia, ter muitos filhos e manter os irmãos unidos; Elder oferece ajuda à família futura e compara sua lealdade à de Arsthör e [[Yrídia]]. A conversa passa por Felix, culpa e luto por Odr como amigo que Elder desejava conservar. Depois de receber “vocês, elfos” como fronteira quase acusatória, ela revela que nunca conseguiu dormir; o criador confirma ausência de sonhos e descanso, consciência durante o repouso, exaustão e dor de cabeça contínuas. A fonte, identificada também como o 25º dia após Odr, termina na surpresa de Leif e não registra a continuação.
 
 ### Calendário da retomada da capital
 
@@ -373,7 +373,7 @@ Todas as datas abaixo pertencem ao ano 0387. Maio está no **Verão**; junho e j
 | Provavelmente 15–18/07 | [[Lírios, Vinho e um Futuro sob a Lua]] | Leif e Aurélia convertem o futuro desejado em planos explícitos; Lua Cheia descrita pela fonte |
 | Noite de 16/07 | [[Fajo Solar, Segredos e a Cabeça de Thor]] | Blanck e Zakna transformam a aliança de guerra em parceria informacional; surgem a chacina dos Bresnver, a crise de Alfheim, os nove lugares atemporais e o título de Imperador |
 | Tarde de 20/07 | [[Mapas entre Tempos e uma Anciã Desatualizada]] | Elder e Hori abrem uma parceria por mapas; 24º dia após Odr |
-| 03:14 de 21/07 | [[A Lareira Apagada e a Noite sem Sono]] | Leif surpreende Elder com duas figuras infantis de luz; os dois falam de família, heroísmo e culpa, e Elder revela nunca ter conseguido dormir; 25º dia após Odr, fonte interrompida |
+| 03:14 de 21/07 | [[A Lareira Apagada e a Noite sem Sono]] | Leif surpreende Elder com duas figuras infantis de luz; os dois falam de família, Yrídia, heroísmo, culpa e luto por Odr, e Elder revela a vigília vitalícia sem sonhos nem descanso; 25º dia após Odr, fonte interrompida |
 
 ---
 

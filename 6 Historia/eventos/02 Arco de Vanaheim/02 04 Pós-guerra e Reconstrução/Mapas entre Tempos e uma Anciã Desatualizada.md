@@ -14,6 +14,9 @@
 > [!note] Integridade da fonte e das mídias
 > A interação possui 459 mensagens datadas de 07–08/08/2026. Há 97 ocorrências de figurinhas, correspondentes a 67 arquivos e 67 hashes SHA-256 distintos; cada conteúdo foi inspecionado uma vez. Somente uma figurinha é animada, sem mudança expressiva relevante entre os quadros amostrados. A análise visual está separada da cronologia factual em [[Análise da interação - Mapas entre tempos]].
 
+> [!info] Contexto canônico confirmado pelo criador em 16/08/2026
+> [[Odr]] era amigo de Elder, e a boa conversa dos dois antes da batalha fez com que ela desejasse preservar aquele Odr e aquele vínculo. Elder nunca conheceu um sonho nem descanso verdadeiro, permanece consciente durante o repouso e convive com exaustão e dor de cabeça contínuas. Esses dados aprofundam a comparação com Odr e a fala sobre nunca dormir, mas não são apresentados como texto direto desta exportação.
+
 ## Contexto
 
 Antes da retomada da capital, Hori encontrou Elder bêbada e ferida e a conduziu para a propriedade onde [[Blanck]] estava hospedada. No pós-guerra, Elder pretende voltar a trabalhar fora de Vanaheim e precisa atualizar informações antigas sobre rotas e reinos. Ela decide procurar Hori sem depender de Blanck como intermediária.
@@ -44,7 +47,7 @@ Essas descrições permanecem testemunho de Elder sobre períodos e territórios
 
 ## “Eu não me mantive sã”
 
-Hori pergunta como Elder continua sã depois de acumular tanto tempo e conhecimento e cogita se os antigos Heróis de Vanaheim a sustentam. Elder rejeita a premissa. Afirma não ser diferente de Odr, diz estar cansada por nunca ter realmente dormido e descreve rostos e vidas como um borrão de informação.
+Hori pergunta como Elder continua sã depois de acumular tanto tempo e conhecimento e cogita se os antigos Heróis de Vanaheim a sustentam. Elder rejeita a premissa. Afirma não ser diferente de Odr, diz estar cansada por nunca ter realmente dormido e descreve rostos e vidas como um borrão de informação. Odr não é para ela um vilão abstrato, mas o amigo que desejava conservar; a comparação une medo da própria deterioração ao luto. A vigília também não é metáfora: ela nunca sonhou nem descansou, continua consciente durante o repouso e nunca deixa inteiramente a exaustão ou a dor de cabeça.
 
 Quando Hori oferece ajuda e chama a possibilidade de conversar com ela de especial, Elder responde que um dia poderá procurá-la para visitar um antigo templo de [[Freyir|Freyr]] em Alfheim. Depois volta à pergunta central e declara:
 
