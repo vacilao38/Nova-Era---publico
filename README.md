@@ -34,3 +34,11 @@ O filtro exclui:
 - ideias pessoais, análises privadas, backups, exportações e fontes brutas de WhatsApp.
 
 Os registros públicos da Elder e sua história ocorrida em sessão continuam incluídos na forma curada que já existe nesta versão. Como a origem contém versões mais extensas e privadas desses mesmos arquivos, todo o ramo Pedro/Elder é protegido contra sobrescrita automática.
+
+## Contribuições do Ruan (branch `correcoes-ruan`)
+
+Esta branch traz de volta material que só existia no vault local do Ruan, para revisão:
+
+- **`9 Planejamento/Alfheim/`** — propostas de worldbuilding para as três Grandes Casas de Alfheim (Brensver, Lumína, Vakker): o mecanismo de licença mágica dos Vakker, o teste de sangue e reconhecimento de linhagem, a divisão de autoridade entre as três Casas, e as pendências levantadas em sessão de planejamento com o Pedro sobre esse mecanismo (camada de autorização, testes para não-magos, divergência feiticeiro/mago, magia selvagem). Tudo marcado como rascunho — nada é canon até validação do mestre.
+
+Fora do escopo desta branch, de propósito: qualquer coisa sobre a Blanck (personagem, relações, notas pessoais) e os arquivos de prompt/contexto de trabalho do Ruan — não são relevantes para o restante da mesa.
