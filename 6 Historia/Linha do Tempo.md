@@ -79,3 +79,4 @@
 78. [[Lírios, Vinho e um Futuro sob a Lua]]
 79. [[Fajo Solar, Segredos e a Cabeça de Thor]]
 80. [[Mapas entre Tempos e uma Anciã Desatualizada]]
+81. [[A Lareira Apagada e a Noite sem Sono]]

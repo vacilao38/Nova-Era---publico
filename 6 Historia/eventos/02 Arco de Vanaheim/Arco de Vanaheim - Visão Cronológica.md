@@ -272,6 +272,10 @@ Blanck procura Zakna na Taverna Peixinho quando os Renegados começam a se retir
 
 Às três da tarde de um dia chuvoso, Elder visita [[Hori Turling]], pede desculpas ao mordomo em quem pisou anteriormente e desorganiza o escritório ao cair diante das muitas trancas. Entre mapas, arquivos e provocações, ela rejeita o título de heroína, admite estar desatualizada e descreve o álcool contínuo como forma de não perder a razão. A hipótese de Hori sobre lacunas ou censura nos registros de Svarfheim provoca uma reação silenciosa que Elder não explica. Hori mostra rascunhos e um mapa concluído, recebe elogio sincero e permite que Elder escolha mapas atuais de Midgard; a fonte não identifica o inventário retirado nem registra a devolução.
 
+### Madrugada de 21/07/0387 — [[A Lareira Apagada e a Noite sem Sono]]
+
+Às 03:14, Elder costura diante de uma lareira apagada enquanto duas figuras infantis de luz brincam e chamam pela mãe. As figuras desaparecem quando Leif chega. Ele fala do desejo de casar com Aurélia, ter muitos filhos e manter os irmãos unidos; Elder oferece ajuda à família futura. A conversa passa por heroísmo, Arsthör, Felix, Odr e culpa até Elder revelar que nunca conseguiu dormir. A fonte, identificada também como o 25º dia após Odr, termina na surpresa de Leif e não registra a continuação.
+
 ### Calendário da retomada da capital
 
 | Data | Preparação | Estação | Fase da Lua, quando noturno |
@@ -300,6 +304,7 @@ Blanck procura Zakna na Taverna Peixinho quando os Renegados começam a se retir
 | Provavelmente 15–18/07/0387 | [[Lírios, Vinho e um Futuro sob a Lua]] | Outono | Lua Cheia, explícita na fonte |
 | Noite de 16/07/0387 | [[Fajo Solar, Segredos e a Cabeça de Thor]]; 20º dia após a derrota de Odr | Outono | provavelmente Lua Cheia; encoberta por nuvens |
 | Tarde de 20/07/0387 | [[Mapas entre Tempos e uma Anciã Desatualizada]] | Outono | — |
+| 03:14 de 21/07/0387 | [[A Lareira Apagada e a Noite sem Sono]]; 25º dia após a derrota de Odr | Outono | indeterminada; luz semelhante ao luar descrita na fonte |
 
 ---
 
@@ -368,6 +373,7 @@ Todas as datas abaixo pertencem ao ano 0387. Maio está no **Verão**; junho e j
 | Provavelmente 15–18/07 | [[Lírios, Vinho e um Futuro sob a Lua]] | Leif e Aurélia convertem o futuro desejado em planos explícitos; Lua Cheia descrita pela fonte |
 | Noite de 16/07 | [[Fajo Solar, Segredos e a Cabeça de Thor]] | Blanck e Zakna transformam a aliança de guerra em parceria informacional; surgem a chacina dos Bresnver, a crise de Alfheim, os nove lugares atemporais e o título de Imperador |
 | Tarde de 20/07 | [[Mapas entre Tempos e uma Anciã Desatualizada]] | Elder e Hori abrem uma parceria por mapas; 24º dia após Odr |
+| 03:14 de 21/07 | [[A Lareira Apagada e a Noite sem Sono]] | Leif surpreende Elder com duas figuras infantis de luz; os dois falam de família, heroísmo e culpa, e Elder revela nunca ter conseguido dormir; 25º dia após Odr, fonte interrompida |
 
 ---
 

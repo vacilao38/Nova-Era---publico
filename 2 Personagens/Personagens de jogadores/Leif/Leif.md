@@ -62,6 +62,8 @@ No décimo segundo dia depois da derrota de Odr, em [[Remédio para Dormir e a F
 
 Em [[Lírios, Vinho e um Futuro sob a Lua]], Leif prepara no jardim do palácio um jantar romântico com vinho, lírios e rosas, usando uma toalha que [[Elder]] o ajudou a costurar. Ele e Aurélia conversam sobre pais, mães e irmãos, reafirmam que querem se casar e ter filhos e imaginam uma lua de mel e um reino seguro. Leif pretende procurar[[Cassius Vareth]]] para encaminhar o ducado e o casamento e levar [[Cleide]] a[[Jotunheim|Jötunheim]]] para cumprir sua promessa. A conversa termina com Aurélia tocando uma harpa dourada sob a lua; a fonte não registra casamento, viagem ou lua de mel já realizados.
 
+Em [[A Lareira Apagada e a Noite sem Sono]], às 03:14 de 21/07/387, Leif surpreende Elder costurando junto de duas figuras infantis de luz, que desaparecem quando ele chega. Ele fala abertamente do desejo de pedir a bênção para se casar com Aurélia, ter muitos filhos e conservar a proximidade entre irmãos mesmo após a morte dos pais. Elder oferece ajuda à futura família e compara o heroísmo dele ao de Arsthör. Ao falar de Felix, Odr e culpa, a conversa chega à revelação de que Elder nunca conseguiu dormir. O recorte termina na resposta surpresa de Leif, antes da continuação.
+
 ## Acontecimentos importantes
 
 | Evento | Participacao |
@@ -90,6 +92,7 @@ Em [[Lírios, Vinho e um Futuro sob a Lua]], Leif prepara no jardim do palácio 
 | [[A Empregada e o Futuro Rei entre os Leões]] | Enfrenta os nobres com Elder, reivindica responsabilidade sem se esconder na linhagem e apresenta a primeira proposta econômica para o ducado |
 | [[Remédio para Dormir e a Fada que Escolheu Ficar]] | Procura a companhia de Scann para compras, revela a intenção de adquirir remédio para dormir e reconhece o valor da fada |
 | [[Lírios, Vinho e um Futuro sob a Lua]] | Prepara um jantar para Aurélia e transforma casamento, ducado, filhos e a promessa de levar Cleide a Jötunheim em planos explícitos |
+| [[A Lareira Apagada e a Noite sem Sono]] | Confia a Elder seus planos familiares, recebe dela uma oferta de apoio e presencia a revelação de que a anciã nunca conseguiu dormir; fonte interrompida |
 
 ## Pontos altos
 
@@ -116,7 +119,7 @@ Em [[Lírios, Vinho e um Futuro sob a Lua]], Leif prepara no jardim do palácio 
 - [[Navi]] — companheiro mais jovem que o ajuda a expulsar a sombra da masmorra.
 - [[Felix]] — antigo aliado; Leif decide como pretende enfrentá-lo, mas Blanck o executa antes que a escolha seja explicitada.
 - [[Rog]] — guia recente no processo de encontrar poder sem depender de pactos.
-- [[Elder]] — aliada antiga que confia sua vida a ele, critica sua irresponsabilidade e o orienta diante dos nobres sem substituir formalmente sua voz.
+- [[Elder]] — aliada antiga que confia sua vida a ele, critica sua irresponsabilidade e o orienta diante dos nobres; depois de ser surpreendida numa cena privada com duas crianças de luz, oferece apoio à futura família dele e revela sua vigília vitalícia.
 
 ## Ganchos pendentes
 
@@ -127,6 +130,7 @@ Em [[Lírios, Vinho e um Futuro sob a Lua]], Leif prepara no jardim do palácio 
 - Concluir a recuperação da visão, energia e controle da transformação depois do clímax.
 - Concluir a negociação, definir quem explorará o território e construir legitimidade diante dos nobres sem depender apenas de casamento ou linhagem.
 - Esclarecer por que procura remédio para dormir, se a compra ocorre e se existe uma dificuldade recorrente de sono.
+- Continuar a conversa com Elder depois de “Sério!?”, permitindo que Leif reaja à incapacidade dela de dormir e, se houver abertura, pergunte pelas figuras luminosas.
 - Formalizar com [[Aurélia]] o casamento e a sucessão, encaminhar o ducado com[[Cassius Vareth]]] e decidir o nome de futuros filhos.
 - Aprender a acolher o luto de Navi sem reduzi-lo a mais um fardo inevitável.
 - Cumprir a promessa de levar [[Cleide]] a[[Jotunheim|Jötunheim]]]; a fonte ainda não registra como ou quando a viagem ocorrerá.
