@@ -63,7 +63,7 @@ Para Elder, a morte encerrou mais do que o governo de um inimigo. Ela perdeu um 
 | [[A Revolta e a luz da Lua]] | Discurso na estatua de [[Freya]], queda publica da fe e confronto com o grupo |
 | [[Flecha-fogo-e-ouro_antes-da-fuga]] | Consolida o controle politico apos a revolta |
 | [[O Eco do Passado na Masmorra Viva]] | Reune o [[Círculo Dourado]] enquanto [[Fir]] espiona para [[Aurélia]] |
-| [[O Deus Adormecido e o Retorno a Capital]] | Conversa com [[Elder]] e expõe sua leitura de [[Ragnarok]], [[Desk]] e mudanca |
+| [[O Deus Adormecido e o Retorno a Capital]] | Tem uma conversa genuinamente boa com a amiga [[Elder]], reacendendo nela a esperança de preservar o vínculo, e expõe sua leitura de [[Ragnarok]], [[Desk]] e mudanca |
 | [[Chá, Amor e Promessas Antes da Guerra - EP 22]] | Recebe de [[Horis-Tuti|Horis]] o aviso de que alguém está despertando e acompanha a investigação do símbolo lunar e do [[Embrulho]] |
 | [[Acerto de Contas- Parte 1]] | Sustenta o palácio, coordena o clímax e enfrenta [[Njord]] com sua coleção de reis-estátuas |
 | [[Ouro de Tolo]] | Tem a origem revelada, perde o Coração Esmeralda, é decapitado e tem os restos encerrados numa árvore |
