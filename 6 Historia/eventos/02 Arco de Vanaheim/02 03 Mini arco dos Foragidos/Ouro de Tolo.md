@@ -15,6 +15,9 @@
 
 > Observação de fonte: a legenda é automática, não identifica falantes e registra nomes com muitas variações. Formas como “Ode/Oder/Oden”, “Brincing Gamer” e “Valand” foram normalizadas para [[Odr]], **Brísingamen** e [[Valandi|Valand]] apenas quando o contexto e as notas anteriores sustentam a identificação. “Mão Ômega” é a leitura mais provável da expressão usada para uma das mãos de Odr, mas a grafia ainda precisa ser confirmada. Os nomes das duas filhas de Odr e [[Freya]], algumas figuras antigas do prólogo e a palavra usada por [[Njord]] ao questionar o verdadeiro nome de [[Elder]] permanecem incertos.
 
+> [!info] Contexto canônico confirmado pelo criador em 16/08/2026
+> [[Odr]] era amigo de Elder. Antes desta batalha, os dois tiveram uma conversa genuinamente boa, e ela desejou que aquele Odr e aquela relação permanecessem, para não perder outra pessoa importante. A legenda da sessão mostra a hesitação, mas não verbaliza a causa; a motivação é consolidada por esta confirmação posterior do criador.
+
 ## Contexto cronológico
 
 Este evento acontece depois de [[Acerto de Contas- Parte 2]], ainda na noite de 24/06/0387. O [[Círculo Dourado]] foi desmontado em várias frentes: [[Felix]], [[Raksha]] e [[Horis-Tuti|Horis]] caíram; [[Ghull|Göll]] desapareceu depois de não conseguir matar [[Elder]]; e [[Cleide]] foi entregue ao descanso pelas mãos de [[Navi]]. Durante a pausa, [[Leif]] se despediu das cinzas de Cleide e recebeu o primeiro beijo de [[Aurélia]] em [[Cinzas de Cleide e o Primeiro Beijo]]. Em [[O Cheiro de Thráveig e a Pausa Antes de Odr]], Elder, [[Scann]] e Blanck reagiram ao casal, atravessaram uma discussão causada pela exaustão e retomaram o compromisso com a última batalha. O ritual de Blanck espalhou raízes pelo palácio e tornou o ouro de Odr instável, mas o rei ainda está vivo no salão superior.
@@ -81,7 +84,7 @@ As estátuas dos antigos reis também despertam. Entre elas estão [[Cassius Var
 
 Aurélia transforma Odr em alvo visível com fogo feérico e cura Navi sem abandonar sua posição. O garoto volta a atacar envolto em chamas. Blanck, observando as costas do rei, finalmente encontra a ferida descrita por Njord: uma marca em forma de lua, atravessada por símbolos gigantes e ainda aberta. Ela concentra seus ataques nesse ponto. A descarga derruba Odr e o leva à metade de suas forças.
 
-Elder se aproxima do homem caído com um ataque preparado em cada mão. Sua expressão não mostra prazer; é a satisfação vazia de quem enxerga apenas um trabalho prestes a terminar. Mesmo com a vantagem, porém, interrompe os dois golpes no meio do movimento, desvia o olhar e recua. A ação é explícita, mas a causa não é explicada. A sequência sugere uma ruptura com a execução automática de um alvo — especialmente depois de Elder entrar no palácio anunciando o fim de sua vida como assassina e sobreviver porque Göll também não conseguiu cortar —, mas a sessão não confirma se esse é o motivo.
+Elder se aproxima do homem caído com um ataque preparado em cada mão. Sua expressão não mostra prazer; é a satisfação vazia de quem enxerga apenas um trabalho prestes a terminar. Mesmo com a vantagem, porém, interrompe os dois golpes no meio do movimento, desvia o olhar e recua. A ação é explícita, mas a legenda não explica a causa. Por confirmação posterior do criador, a hesitação nasce do vínculo: Odr era um amigo, e a conversa boa anterior à batalha havia feito Elder desejar que aquele Odr e aquela relação permanecessem. Matar o alvo significava perder outra pessoa importante. A ruptura com a execução automática e o espelho com Göll continuam presentes, mas se organizam ao redor desse luto antecipado.
 
 Ao se levantar, Odr vê o salão destruído, a guerra abaixo e o reino que afirma governar em ruínas. Ele ativa o totem do Falcão, espalha uma área de gelo como a usada por Göll e ganha asas para voar acima do grupo. Em seguida tenta usar o próprio palácio como arma. Blanck precisa disputar diretamente o domínio da estrutura.
 
@@ -148,7 +151,7 @@ O Brísingamen e o Coração Esmeralda brilham. O verde vence o ouro corrompido,
 
 - Elder começa depois de uma derrota que a fez sentir-se inútil. Ainda assim, é ela quem pede a Navi que lute até o fim e garante a Njord: “Eu acredito neles. E eu estou aqui.”
 - Sua magia espiritual associa o adorno a Brísingamen e conecta o presente à devoção de Jopell/Jopelle por Freya. Elder funciona como memória viva sem tentar ocupar o centro da descoberta.
-- Diante de Odr caído, ela hesita. A sessão não explica a causa; a interrupção pode indicar que sua tentativa de deixar de ser assassina já interfere no corpo, mas também pode nascer de uma relação antiga ou de outro motivo ainda não revelado.
+- Diante de Odr caído, ela hesita. A sessão não verbaliza a causa, mas o criador confirma que Odr era amigo de Elder e que a boa conversa anterior à batalha havia reaberto sua esperança de conservar aquele Odr e aquele vínculo. A interrupção registra luto antecipado por perder outra pessoa importante; a tentativa de deixar de ser assassina e o espelho com Göll ampliam, mas não substituem, esse motivo.
 - Quando volta a agir, não apaga a derrota contra Göll. Assume que perdeu e usa isso para distinguir-se de Odr: ela consegue olhar adiante; ele só sabe defender a imagem construída no passado.
 - Arrancar o colar é contribuição decisiva e simbólica. Elder retira de Odr um título, uma aparência e um artefato que não lhe pertenciam, depois entrega a pedra a Blanck em vez de guardá-la.
 - Ao orientar Aurélia diante do povo, começa a cumprir a promessa feita a Seraphine: proteção deixa de ser apenas impedir a morte e passa a ser ajudar a jovem rainha a confiar na própria voz.
@@ -221,7 +224,7 @@ O Brísingamen e o Coração Esmeralda brilham. O verde vence o ouro corrompido,
 - Elder amaldiçoa Odr, atinge sua nuca com dano psíquico e o chuta com uma garra negra.
 - Odr convoca totens animais e desperta estátuas de antigos reis, incluindo [[Cassius Vareth]], um patriarca Lopt e [[Valandi|Valand]].
 - Blanck identifica e ataca a ferida lunar nas costas de Odr.
-- Elder hesita quando tem a oportunidade de atacar Odr caído.
+- Elder hesita quando tem a oportunidade de atacar Odr caído; a confirmação posterior do criador liga o gesto ao luto pelo amigo e pelo vínculo que esperava conservar.
 - Odr usa o totem do Falcão para criar gelo e voar como [[Ghull|Göll]].
 - Blanck disputa o domínio do palácio com ajuda de Brísingamen, das raízes e do [[Cajado dos Ventos]].
 - Aurélia mantém Odr sob um raio lunar até o nariz sangrar.
