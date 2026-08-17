@@ -38,7 +38,7 @@ Durante o Festival dos Vagalumes, Odr sobe na estatua de [[Freya]] e transforma 
 
 Depois da fuga do grupo, Odr reune membros do [[Círculo Dourado]] no[[Palacio-dos-Vareth|palacio]]]. O circulo parece manter posicoes estrategicas e totens que drenam energia da natureza para o castelo. Entre os nomes e posicoes recentes aparecem [[Ghull]], [[Raksha]], [[Bruno]], [[Felix]] e [[Horis-Tuti|Horistut]], embora a hierarquia exata ainda esteja em investigacao.
 
-Em [[O Deus Adormecido e o Retorno a Capital]], Odr recebe [[Elder]] no palacio com familiaridade antiga. Ele fala de mudanca como aposta, dos mortais que exigiam respostas, da necessidade de se aliar a pessoas improvaveis e da fragilidade dos reinos. O [[Ragnarok]] nao e apenas guerra final: e uma epidemia de tristeza, traicao familiar, infertilidade, mares envenenados por [[Jormungandr]] e fortalecimento dos filhos de [[Loki]]. Ele afirma ter encontrado seu caminho para lutar contra isso. O problema e que esse caminho passa por controle, ouro e repressao.
+Em [[O Deus Adormecido e o Retorno a Capital]], Odr recebe [[Elder]] no palacio com familiaridade antiga. Os dois eram amigos e têm uma conversa genuinamente boa antes da batalha. Ele fala de mudanca como aposta, dos mortais que exigiam respostas, da necessidade de se aliar a pessoas improvaveis e da fragilidade dos reinos. O [[Ragnarok]] nao e apenas guerra final: e uma epidemia de tristeza, traicao familiar, infertilidade, mares envenenados por [[Jormungandr]] e fortalecimento dos filhos de [[Loki]]. Ele afirma ter encontrado seu caminho para lutar contra isso. O problema e que esse caminho passa por controle, ouro e repressao. Elder desejou que aquele Odr reencontrado na conversa e a relação dos dois pudessem permanecer.
 
 Em [[Acerto de Contas- Parte 1]], Odr aparece controlando o palácio para que a estrutura continue de pé enquanto todas as frentes da batalha acontecem. Ele repreende [[Raksha]] quando o predador divino desrespeita sua autoridade dentro do palácio, acompanha a guerra externa contra [[Harald]] e recebe [[Njord]] em sua sala. Para enfrentar o deus antigo, Odr convoca sua coleção de reis transformados em estátuas, incluindo[[Cassius Vareth]]], deixando claro que seus troféus também são armas políticas, emocionais e militares.
 
@@ -49,6 +49,8 @@ Em [[Acerto de Contas- Parte 1]], Odr aparece controlando o palácio para que a 
 Ele formou o [[Círculo Dourado]] reunindo pessoas fortes em momentos de perda e fez de [[Horis-Tuti]] o primeiro membro. Separou Brísingamen do Coração Esmeralda, usou a Mão Ômega, totens e reis-estátuas para controlar a capital, e admitiu que sua aparência de governante confiável era uma construção deliberada.
 
 No duelo final, [[Aurélia]] expôs sua hipocrisia e ofereceu fuga; Odr recusou porque considerava fugir um pecado e admitiu não confiar em ninguém. [[Elder]] arrancou o Coração Esmeralda, [[Blanck]] tomou o controle do palácio e expôs a ferida lunar, Aurélia o manteve sob a luz da lua e Navi o decapitou em forma solar. Blanck prendeu seus restos numa árvore.
+
+Para Elder, a morte encerrou mais do que o governo de um inimigo. Ela perdeu um amigo antigo justamente depois de uma conversa que havia reaberto a possibilidade de conservar o vínculo. Sua hesitação diante de Odr caído e os lamentos posteriores — “Odr poderia ser diferente” e “porque teve morrer logo agora” — carregam a dor de perder outra pessoa importante. Essa dor não absolve as escolhas de Odr nem elimina a responsabilidade que Elder sente por ter trabalhado para ele sem conhecer toda a extensão de seus crimes.
 
 ## Acontecimentos importantes
 
@@ -88,7 +90,7 @@ No duelo final, [[Aurélia]] expôs sua hipocrisia e ofereceu fuga; Odr recusou 
 -[[Cassius Vareth]]] — verdadeiro rei desaparecido, cujo lugar Odr ocupa.
 - [[Njord]] — deus antigo que retorna para defender Vanaheim e confrontá-lo diretamente.
 - [[Valandi]] — pai adotivo ou figura real anterior cujo desaparecimento abriu caminho para Odr.
-- [[Elder]] — conhecida antiga; Odr a le com intimidade desconfortavel.
+- [[Elder]] — amiga antiga; Odr a le com familiaridade e intimidade. A boa conversa anterior à batalha reacendeu nela a esperança de preservar aquele Odr e o vínculo dos dois, tornando a morte uma perda pessoal além da queda de um inimigo.
 - [[Wyrrer]] — teve contato antigo com ele antes da aventura dos [[Heróis-de-Vanaheim]].
 - [[Felix]] — aliado recente e agente tecnico dentro do palacio.
 - [[Horis-Tuti|Oristut]] — aliado perigoso, ligado a contratos, vinganca e ouro.
