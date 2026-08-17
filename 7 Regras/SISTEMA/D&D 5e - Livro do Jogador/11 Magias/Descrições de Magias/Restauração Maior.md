@@ -31,4 +31,9 @@ tags:
 mínimo, 100 po, consumido pela magia)
 
 - **Duração:** Instantânea
-Você imbui uma criatura que você toca, com energia positiva para desfazer um efeito debilitante. Você pode reduzir a exaustão do alvo em um nível ou remover um dos seguintes do alvo:  Um efeito que enfeitice ou petrifique o alvo  Uma maldição, incluindo a sintonização do alvo com um item mágico amaldiçoado  Qualquer redução a um dos valores de habilidade do alvo  Um efeito que esteja reduzindo o máximo de pontos de vida do alvo
+Você imbui uma criatura que você toca, com energia positiva para desfazer um efeito debilitante. Você pode reduzir a exaustão do alvo em um nível ou remover um dos seguintes do alvo:
+
+- Um efeito que enfeitice ou petrifique o alvo
+- Uma maldição, incluindo a sintonização do alvo com um item mágico amaldiçoado
+- Qualquer redução a um dos valores de habilidade do alvo
+- Um efeito que esteja reduzindo o máximo de pontos de vida do alvo

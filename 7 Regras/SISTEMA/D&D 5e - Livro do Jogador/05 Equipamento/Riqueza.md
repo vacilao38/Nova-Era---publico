@@ -31,4 +31,10 @@ Moedas comuns existem em várias denominações diferentes com base no valor rel
 
 ## Taxas De Câmbio Padrão
 
-Moeda pc pp pe po pl Cobre (pc) 1 1/10 1/50 1/100 1/1.000 Prata (pp) 10 1 1/5 1/10 1/100 Electro (pe) 50 5 1 1/2 1/20 Ouro (po) 100 10 2 1 1/10 Platina (pl) 1.000 100 20 10 1
+| Moeda | pc | pp | pe | po | pl |
+| --- | ---: | ---: | ---: | ---: | ---: |
+| Cobre (pc) | 1 | 1/10 | 1/50 | 1/100 | 1/1.000 |
+| Prata (pp) | 10 | 1 | 1/5 | 1/10 | 1/100 |
+| Electro (pe) | 50 | 5 | 1 | 1/2 | 1/20 |
+| Ouro (po) | 100 | 10 | 2 | 1 | 1/10 |
+| Platina (pl) | 1.000 | 100 | 20 | 10 | 1 |

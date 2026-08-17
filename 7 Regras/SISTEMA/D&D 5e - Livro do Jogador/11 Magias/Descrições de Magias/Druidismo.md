@@ -29,4 +29,9 @@ Truque de transmutação
 - **Alcance:** 9 metros
 - **Componentes:** V, S
 - **Duração:** Instantânea
-Sussurrando para os espíritos da natureza, você cria um dos seguintes efeitos, dentro do alcance:  Você cria um efeito sensorial minúsculo e inofensivo que prevê como será o clima na sua localização pelas próximas 24 horas. O efeito deve se manifestar como um globo dourado para céu claro, uma nuvem para chuva, flocos de neve para nevasca e assim por diante. Esse efeito persiste por 1 rodada.  Você faz uma flor florescer, uma semente brotar ou um folha amadurecer, instantaneamente.  Você cria um efeito sensorial inofensivo instantâneo, como folhas caindo, um sopro de vento, o som de um pequeno animal ou o suave odor de um repolho. O efeito deve caber num cubo de 1,5 metro.  Você, instantaneamente, acende ou apaga uma vela, tocha ou fogueira pequena.
+Sussurrando para os espíritos da natureza, você cria um dos seguintes efeitos, dentro do alcance:
+
+- Você cria um efeito sensorial minúsculo e inofensivo que prevê como será o clima na sua localização pelas próximas 24 horas. O efeito deve se manifestar como um globo dourado para céu claro, uma nuvem para chuva, flocos de neve para nevasca e assim por diante. Esse efeito persiste por 1 rodada.
+- Você faz uma flor florescer, uma semente brotar ou um folha amadurecer, instantaneamente.
+- Você cria um efeito sensorial inofensivo instantâneo, como folhas caindo, um sopro de vento, o som de um pequeno animal ou o suave odor de um repolho. O efeito deve caber num cubo de 1,5 metro.
+- Você, instantaneamente, acende ou apaga uma vela, tocha ou fogueira pequena.

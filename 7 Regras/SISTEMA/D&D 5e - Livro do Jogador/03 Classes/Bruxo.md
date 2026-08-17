@@ -65,7 +65,12 @@ Armaduras: Armaduras leves Armas: Armas simples Ferramentas: Nenhuma Testes de R
 
 ## Equipamento
 
-Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:  (a) uma besta leve e 20 virotes ou (b) qualquer arma simples  (a) uma bolsa de componentes ou (b) um foco arcano  (a) um pacote de estudioso ou (b) um pacote de explorador  Armadura de couro, qualquer arma simples e duas adagas
+Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:
+
+- (a) uma besta leve e 20 virotes ou (b) qualquer arma simples
+- (a) uma bolsa de componentes ou (b) um foco arcano
+- (a) um pacote de estudioso ou (b) um pacote de explorador
+- Armadura de couro, qualquer arma simples e duas adagas
 
 ## Patrono Transcendental
 

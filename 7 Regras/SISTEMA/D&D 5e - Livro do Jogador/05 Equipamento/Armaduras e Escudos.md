@@ -46,4 +46,31 @@ De todas as categorias de armaduras, as armaduras pesadas oferecem a melhor prot
 
 ## Armaduras
 
-Nome Preço Classe de Armadura (CA) Força Furtividade Peso Armadura Leve Acolchoada 5 po 11 + modificador de Des – Desvantagem 4 kg Couro 10 po 11 + modificador de Des – – 5 kg Couro Batido 45 po 12 + modificador de Des – – 6,5 kg Armadura Média Gibão de Peles 10 po 12 + modificador de Des (máx. +2) – – 6 kg Camisão de Malha 30 po 13 + modificador de Des (máx. +2) – – 10 kg Brunea 50 po 14 + modificador de Des (máx. +2) – Desvantagem 22,5 kg Peitoral 400 po 14 + modificador de Des (máx. +2) – – 10 kg Meia-Armadura 750 po 15 + modificador de Des (máx. +2) – Desvantagem 20 kg Armadura Pesada Cota de anéis 30 po 14 – Desvantagem 20 kg Cota de malha 75 po 16 For 13 Desvantagem 27,5 kg Cota de talas 200 po 17 For 15 Desvantagem 30 kg Placas 1.500 po 18 For 15 Desvantagem 32,5 kg Escudo Escudo 10 po +2 – – 3 kg
+| Nome                |    Preço | Classe de Armadura (CA)           | Força  | Furtividade |    Peso |
+| ------------------- | -------: | --------------------------------- | ------ | ----------- | ------: |
+| **Armadura Leve**   |          |                                   |        |             |         |
+| Acolchoada          |     5 po | 11 + modificador de Des           | –      | Desvantagem |    4 kg |
+| Couro               |    10 po | 11 + modificador de Des           | –      | –           |    5 kg |
+| Couro Batido        |    45 po | 12 + modificador de Des           | –      | –           |  6,5 kg |
+| **Armadura Média**  |          |                                   |        |             |         |
+| Gibão de Peles      |    10 po | 12 + modificador de Des (máx. +2) | –      | –           |    6 kg |
+| Camisão de Malha    |    30 po | 13 + modificador de Des (máx. +2) | –      | –           |   10 kg |
+| Brunea              |    50 po | 14 + modificador de Des (máx. +2) | –      | Desvantagem | 22,5 kg |
+| Peitoral            |   400 po | 14 + modificador de Des (máx. +2) | –      | –           |   10 kg |
+| Meia-Armadura       |   750 po | 15 + modificador de Des (máx. +2) | –      | Desvantagem |   20 kg |
+| **Armadura Pesada** |          |                                   |        |             |         |
+| Cota de anéis       |    30 po | 14                                | –      | Desvantagem |   20 kg |
+| Cota de malha       |    75 po | 16                                | For 13 | Desvantagem | 27,5 kg |
+| Cota de talas       |   200 po | 17                                | For 15 | Desvantagem |   30 kg |
+| Placas              | 1.500 po | 18                                | For 15 | Desvantagem | 32,5 kg |
+| **Escudo**          |          |                                   |        |             |         |
+| Escudo              |    10 po | +2                                | –      | –           |    3 kg |
+
+## Vestindo E Despindo Uma Armadura
+
+| Categoria | Vestir | Remover |
+| --- | ---: | ---: |
+| Armadura Leve | 1 minuto | 1 minuto |
+| Armadura Média | 5 minutos | 1 minuto |
+| Armadura Pesada | 10 minutos | 5 minutos |
+| Escudo | 1 ação | 1 ação |

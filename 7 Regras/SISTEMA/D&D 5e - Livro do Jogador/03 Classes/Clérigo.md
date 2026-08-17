@@ -61,7 +61,13 @@ Armaduras: Armaduras leves, armaduras médias, escudos Armas: Todas as armas sim
 
 ## Equipamento
 
-Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:  (a) uma maça ou (b) um martelo de guerra (se for proficiente)  (a) brunea, (b) armadura de couro ou (c) cota de malha (se for proficiente)  (a) um besta leve e 20 virotes ou (b) qualquer arma simples  (a) um pacote de sacerdote ou (b) um pacote de aventureiro  Um escudo e um símbolo sagrado
+Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:
+
+- (a) uma maça ou (b) um martelo de guerra (se for proficiente)
+- (a) brunea, (b) armadura de couro ou (c) cota de malha (se for proficiente)
+- (a) um besta leve e 20 virotes ou (b) qualquer arma simples
+- (a) um pacote de sacerdote ou (b) um pacote de aventureiro
+- Um escudo e um símbolo sagrado
 
 > Fonte: Livro do Jogador, p. 65
 

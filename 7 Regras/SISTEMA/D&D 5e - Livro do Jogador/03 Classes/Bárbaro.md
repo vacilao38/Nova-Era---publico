@@ -63,11 +63,21 @@ Armaduras: Armaduras leves, armaduras médias e escudos Armas: Armas simples, ar
 
 ## Equipamento
 
-Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:  (a) um machado grande ou (b) qualquer arma marcial corpo-a-corpo  (a) dois machados de mão ou (b) qualquer arma simples  Um pacote de aventureiro e quatro azagaias
+Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:
+
+- (a) um machado grande ou (b) qualquer arma marcial corpo-a-corpo
+- (a) dois machados de mão ou (b) qualquer arma simples
+- Um pacote de aventureiro e quatro azagaias
 
 ## Fúria
 
-Em batalha, você luta com uma ferocidade primitiva. No seu turno, você pode entrar em fúria com uma ação bônus. Enquanto estiver em fúria, você recebe os seguintes benefícios se você não estiver vestindo uma armadura pesada:  Você tem vantagem em testes de Força e testes de resistência de Força.  Quando você desferir um ataque com arma corpo-a-corpo usando Força, você recebe um bônus nas jogadas de dano que aumenta à medida que você adquire níveis de bárbaro, como mostrado na coluna Dano de Fúria na tabela O Bárbaro.  Você possui resistência contra dano de concussão, cortante e perfurante. Se você for capaz de conjurar magias, você não poderá conjurá-las ou se concentrar nelas enquanto estiver em fúria. **Sua fúria dura por 1 minuto.** Ela termina prematuramente se você cair inconsciente ou se seu turno acabar e você não tiver atacado nenhuma criatura hostil desde seu último turno ou não tiver sofrido dano nesse período. Você também pode terminar sua fúria no seu turno com uma ação bônus. Quando você tiver usado a quantidade de fúrias mostrada para o seu nível de bárbaro na coluna Fúrias da tabela O Bárbaro, você precisará terminar um descanso longo antes de poder entrar em fúria novamente.
+Em batalha, você luta com uma ferocidade primitiva. No seu turno, você pode entrar em fúria com uma ação bônus. Enquanto estiver em fúria, você recebe os seguintes benefícios se você não estiver vestindo uma armadura pesada:
+
+- Você tem vantagem em testes de Força e testes de resistência de Força.
+- Quando você desferir um ataque com arma corpo-a-corpo usando Força, você recebe um bônus nas jogadas de dano que aumenta à medida que você adquire níveis de bárbaro, como mostrado na coluna Dano de Fúria na tabela O Bárbaro.
+- Você possui resistência contra dano de concussão, cortante e perfurante.
+
+Se você for capaz de conjurar magias, você não poderá conjurá-las ou se concentrar nelas enquanto estiver em fúria. **Sua fúria dura por 1 minuto.** Ela termina prematuramente se você cair inconsciente ou se seu turno acabar e você não tiver atacado nenhuma criatura hostil desde seu último turno ou não tiver sofrido dano nesse período. Você também pode terminar sua fúria no seu turno com uma ação bônus. Quando você tiver usado a quantidade de fúrias mostrada para o seu nível de bárbaro na coluna Fúrias da tabela O Bárbaro, você precisará terminar um descanso longo antes de poder entrar em fúria novamente.
 
 ## Defesa Sem Armadura
 

@@ -61,7 +61,11 @@ Armaduras: Nenhuma Armas: Adagas, dardos, fundas, bordões e bestas leves Ferram
 
 ## Equipamento
 
-Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:  (a) uma besta leve e 20 virotes ou (b) qualquer arma simples  (a) uma bolsa de componentes ou (b) um foco arcano  (a) um pacote de explorador ou (b) um pacote de aventureiro
+Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:
+
+- (a) uma besta leve e 20 virotes ou (b) qualquer arma simples
+- (a) uma bolsa de componentes ou (b) um foco arcano
+- (a) um pacote de explorador ou (b) um pacote de aventureiro
 
 > Fonte: Livro do Jogador, p. 79
 

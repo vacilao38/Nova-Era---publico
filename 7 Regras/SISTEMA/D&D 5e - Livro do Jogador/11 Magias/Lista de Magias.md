@@ -20,413 +20,1219 @@ tags:
 > Fonte: Livro do Jogador, p. 209
 
 ## CAPÍTULO 11: MAGIAS
-
-## Ste Capítulo Descreve As Magias Mais Comuns
+Este Capítulo Descreve As Magias Mais Comuns
 
 nos mundos de DUNGEONS & DRAGONS. Ele começa com a lista de magias de todas as classes conjuradoras. A escola de magia a qual a magia pertence é determinada entre parênteses após seu nome. Se uma magia puder ser conjurada como um ritual, o descritor ritual também aparecerá dentro dos parênteses. Logo depois, virão todas as descrições das magias em ordem alfabética dos nomes das magias.
 
-## Magias De Bardo Truques (Nível 0)
+## Magias De Bardo 
+### Truques (Nível 0)
 
-Amizade (encantamento) Ataque Certeiro (adivinhação) Consertar (transmutação) Globos de Luz (evocação) Ilusão Menor (ilusão) Luz (evocação) Mãos Mágicas (conjuração) Mensagem (transmutação) Prestidigitação (transmutação) Proteção contra Lâminas (abjuração) Zombaria Viciosa (encantamento)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Amizade\|Amizade]] | Encantamento |
+| [[Descrições de Magias/Ataque Certeiro\|Ataque Certeiro]] | Adivinhação |
+| [[Descrições de Magias/Consertar\|Consertar]] | Transmutação |
+| [[Descrições de Magias/Globos De Luz\|Globos de Luz]] | Evocação |
+| [[Descrições de Magias/Ilusão Menor\|Ilusão Menor]] | Ilusão |
+| [[Descrições de Magias/Luz\|Luz]] | Evocação |
+| [[Descrições de Magias/Mãos Mágicas\|Mãos Mágicas]] | Conjuração |
+| [[Descrições de Magias/Mensagem\|Mensagem]] | Transmutação |
+| [[Descrições de Magias/Prestidigitação\|Prestidigitação]] | Transmutação |
+| [[Descrições de Magias/Proteção Contra Lâminas\|Proteção contra Lâminas]] | Abjuração |
+| [[Descrições de Magias/Zombaria Viciosa\|Zombaria Viciosa]] | Encantamento |
 
-## 1° Nível
+### 1° Nível
 
-Amizade animal (encantamento) Compreender Idiomas (adivinhação, ritual) Curar Ferimentos (evocação) Detectar Magia (adivinhação, ritual) Disfarçar-se (ilusão) Enfeitiçar Pessoa (encantamento) Escrita Ilusória (ilusão, ritual) Falar com Animais (adivinhação, ritual) Fogo das Fadas (evocação) Heroísmo (encantamento) Identificação (adivinhação, ritual) Imagem Silenciosa (ilusão) Onda Trovejante (evocação) Queda Suave (transmutação) Palavra Curativa (evocação) Passos Longos (transmutação) Perdição (encantamento) Riso Histérico de Tasha (encantamento) Servo Invisível (conjuração, ritual) Sono (encantamento) Sussurros Dissonantes (encantamento)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Amizade Animal\|Amizade animal]] | Encantamento |
+| [[Descrições de Magias/Compreender Idiomas\|Compreender Idiomas]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Curar Ferimentos\|Curar Ferimentos]] | Evocação |
+| [[Descrições de Magias/Detectar Magia\|Detectar Magia]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Disfarçar-Se\|Disfarçar-se]] | Ilusão |
+| [[Descrições de Magias/Enfeitiçar Pessoa\|Enfeitiçar Pessoa]] | Encantamento |
+| [[Descrições de Magias/Escrita Ilusória\|Escrita Ilusória]] | Ilusão (ritual) |
+| [[Descrições de Magias/Falar Com Animais\|Falar com Animais]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Fogo Das Fadas\|Fogo das Fadas]] | Evocação |
+| [[Descrições de Magias/Heroísmo\|Heroísmo]] | Encantamento |
+| [[Descrições de Magias/Identificação\|Identificação]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Imagem Silenciosa\|Imagem Silenciosa]] | Ilusão |
+| [[Descrições de Magias/Onda Trovejante\|Onda Trovejante]] | Evocação |
+| [[Descrições de Magias/Queda Suave\|Queda Suave]] | Transmutação |
+| [[Descrições de Magias/Palavra Curativa\|Palavra Curativa]] | Evocação |
+| [[Descrições de Magias/Passos Longos\|Passos Longos]] | Transmutação |
+| [[Descrições de Magias/Perdição\|Perdição]] | Encantamento |
+| [[Descrições de Magias/Riso Histérico De Tasha\|Riso Histérico de Tasha]] | Encantamento |
+| [[Descrições de Magias/Servo Invisível\|Servo Invisível]] | Conjuração (ritual) |
+| [[Descrições de Magias/Sono\|Sono]] | Encantamento |
+| [[Descrições de Magias/Sussurros Dissonantes\|Sussurros Dissonantes]] | Encantamento |
 
-## 2° Nível
+### 2° Nível
 
-Acalmar Emoções (encantamento) Aprimorar Habilidade (transmutação) Arrombar (transmutação) Boca Encantada (ilusão, ritual) Cativar (encantamento) Cegueira/Surdez (necromancia) Coroa da Loucura (encantamento) Esquentar Metal (transmutação) Despedaçar (evocação) Força Fantasmagórica (ilusão) Detectar Pensamentos (adivinhação) Imobilizar Pessoa (encantamento) Invisibilidade (ilusão) Localizar Animais ou Plantas (adivinhação, ritual) Localizar Objeto (adivinhação) Mensageiro Animal (encantamento, ritual) Nuvem de Adagas (conjuração) Restauração Menor (abjuração) Silêncio (ilusão, ritual) Sugestão (encantamento) Ver o Invisível (adivinhação) Zona da Verdade (encantamento)
+| Magia                                                                               | Escola                |
+| ----------------------------------------------------------------------------------- | --------------------- |
+| [[Descrições de Magias/Acalmar Emoções\|Acalmar Emoções]]                           | Encantamento          |
+| [[Descrições de Magias/Aprimorar Habilidade\|Aprimorar Habilidade]]                 | Transmutação          |
+| [[Descrições de Magias/Arrombar\|Arrombar]]                                         | Transmutação          |
+| [[Descrições de Magias/Boca Encantada\|Boca Encantada]]                             | Ilusão (ritual)       |
+| [[Descrições de Magias/Cativar\|Cativar]]                                           | Encantamento          |
+| [[Descrições de Magias/Cegueira-Surdez\|Cegueira/Surdez]]                           | Necromancia           |
+| [[Descrições de Magias/Coroa Da Loucura\|Coroa da Loucura]]                         | Encantamento          |
+| [[Descrições de Magias/Esquentar Metal\|Esquentar Metal]]                           | Transmutação          |
+| [[Descrições de Magias/Despedaçar\|Despedaçar]]                                     | Evocação              |
+| [[Descrições de Magias/Força Fantasmagórica\|Força Fantasmagórica]]                 | Ilusão                |
+| [[Descrições de Magias/Detectar Pensamentos\|Detectar Pensamentos]]                 | Adivinhação           |
+| [[Descrições de Magias/Imobilizar Pessoa\|Imobilizar Pessoa]]                       | Encantamento          |
+| [[Descrições de Magias/Invisibilidade\|Invisibilidade]]                             | Ilusão                |
+| [[Descrições de Magias/Localizar Animais Ou Plantas\|Localizar Animais ou Plantas]] | Adivinhação (ritual)  |
+| [[Descrições de Magias/Localizar Objeto\|Localizar Objeto]]                         | Adivinhação           |
+| [[Descrições de Magias/Mensageiro Animal\|Mensageiro Animal]]                       | Encantamento (ritual) |
+| [[Descrições de Magias/Nuvem De Adagas\|Nuvem de Adagas]]                           | Conjuração            |
+| [[Descrições de Magias/Restauração Menor\|Restauração Menor]]                       | Abjuração             |
+| [[Descrições de Magias/Silêncio\|Silêncio]]                                         | Ilusão (ritual)       |
+| [[Descrições de Magias/Sugestão\|Sugestão]]                                         | Encantamento          |
+| [[Descrições de Magias/Ver O Invisível\|Ver o Invisível]]                           | Adivinhação           |
+| [[Descrições de Magias/Zona da Verdade\|Zona da Verdade]]                           | Encantamento          |
 
-## 3° Nível
+### 3° Nível
 
-Ampliar Plantas (transmutação) Clarividência (adivinhação) Dificultar Detecção (abjuração) Dissipar Magia (abjuração) Enviar Mensagem (evocação) Falar com os Mortos (necromancia) Falar com Plantas (transmutação) Forjar Morte (necromancia, ritual) Glifo de Vigilância (abjuração) Idiomas (adivinhação) Imagem Maior (ilusão) Medo (ilusão) Névoa Fétida (conjuração) Padrão Hipnótico (ilusão) Pequena Cabana de Leomund (evocação, ritual) Rogar Maldição (necromancia)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Ampliar Plantas\|Ampliar Plantas]] | Transmutação |
+| [[Descrições de Magias/Clarividência\|Clarividência]] | Adivinhação |
+| [[Descrições de Magias/Dificultar Detecção\|Dificultar Detecção]] | Abjuração |
+| [[Descrições de Magias/Dissipar Magia\|Dissipar Magia]] | Abjuração |
+| [[Descrições de Magias/Enviar Mensagem\|Enviar Mensagem]] | Evocação |
+| [[Descrições de Magias/Falar Com Os Mortos\|Falar com os Mortos]] | Necromancia |
+| [[Descrições de Magias/Falar Com Plantas\|Falar com Plantas]] | Transmutação |
+| [[Descrições de Magias/Forjar Morte\|Forjar Morte]] | Necromancia (ritual) |
+| [[Descrições de Magias/Glifo De Vigilância\|Glifo de Vigilância]] | Abjuração |
+| [[Descrições de Magias/Idiomas\|Idiomas]] | Adivinhação |
+| [[Descrições de Magias/Imagem Maior\|Imagem Maior]] | Ilusão |
+| [[Descrições de Magias/Medo\|Medo]] | Ilusão |
+| [[Descrições de Magias/Névoa Fétida\|Névoa Fétida]] | Conjuração |
+| [[Descrições de Magias/Padrão Hipnótico\|Padrão Hipnótico]] | Ilusão |
+| [[Descrições de Magias/Pequena Cabana De Leomund\|Pequena Cabana de Leomund]] | Evocação (ritual) |
+| [[Descrições de Magias/Rogar Maldição\|Rogar Maldição]] | Necromancia |
 
-## 4° Nível
+### 4° Nível
 
-Confusão (encantamento) Compulsão (encantamento) Movimentação Livre (abjuração) Invisibilidade Maior (ilusão) Localizar Criatura (adivinhação) Metamorfose (transmutação) Porta Dimensional (conjuração) Terreno Alucinógeno (ilusão)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Confusão\|Confusão]] | Encantamento |
+| [[Descrições de Magias/Compulsão\|Compulsão]] | Encantamento |
+| [[Descrições de Magias/Movimentação Livre\|Movimentação Livre]] | Abjuração |
+| [[Descrições de Magias/Invisibilidade Maior\|Invisibilidade Maior]] | Ilusão |
+| [[Descrições de Magias/Localizar Criatura\|Localizar Criatura]] | Adivinhação |
+| [[Descrições de Magias/Metamorfose\|Metamorfose]] | Transmutação |
+| [[Descrições de Magias/Porta Dimensional\|Porta Dimensional]] | Conjuração |
+| [[Descrições de Magias/Terreno Alucinógeno\|Terreno Alucinógeno]] | Ilusão |
 
-## 5° Nível
+### 5° Nível
 
-Âncora Planar (abjuração) Animar Objetos (transmutação) Círculo de Teletransporte (conjuração) Conhecimento Lendário (adivinhação) Curar Ferimentos em Massa (evocação) Despertar (transmutação) Despistar (ilusão) Dominar Pessoa (encantamento) Imobilizar Monstro (encantamento) Missão (encantamento) Modificar Memória (encantamento) Restauração Maior (abjuração) Reviver os Mortos (necromancia) Similaridade (ilusão) Sonho (ilusão) Vidência (adivinhação)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Âncora Planar\|Âncora Planar]] | Abjuração |
+| [[Descrições de Magias/Animar Objetos\|Animar Objetos]] | Transmutação |
+| [[Descrições de Magias/Círculo De Teletransporte\|Círculo de Teletransporte]] | Conjuração |
+| [[Descrições de Magias/Conhecimento Lendário\|Conhecimento Lendário]] | Adivinhação |
+| [[Descrições de Magias/Curar Ferimentos Em Massa\|Curar Ferimentos em Massa]] | Evocação |
+| [[Descrições de Magias/Despertar\|Despertar]] | Transmutação |
+| [[Descrições de Magias/Despistar\|Despistar]] | Ilusão |
+| [[Descrições de Magias/Dominar Pessoa\|Dominar Pessoa]] | Encantamento |
+| [[Descrições de Magias/Imobilizar Monstro\|Imobilizar Monstro]] | Encantamento |
+| [[Descrições de Magias/Missão\|Missão]] | Encantamento |
+| [[Descrições de Magias/Modificar Memória\|Modificar Memória]] | Encantamento |
+| [[Descrições de Magias/Restauração Maior\|Restauração Maior]] | Abjuração |
+| [[Descrições de Magias/Reviver Os Mortos\|Reviver os Mortos]] | Necromancia |
+| [[Descrições de Magias/Similaridade\|Similaridade]] | Ilusão |
+| [[Descrições de Magias/Sonho\|Sonho]] | Ilusão |
+| [[Descrições de Magias/Vidência\|Vidência]] | Adivinhação |
 
-## 6° Nível
+### 6° Nível
 
-Ataque Visual (necromancia) Dança Irresistível de Otto (encantamento) Encontrar o Caminho (adivinhação) Ilusão Programada (ilusão) Proteger Fortaleza (abjuração) Sugestão em Massa (encantamento) Visão da Verdade (adivinhação)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Ataque Visual\|Ataque Visual]] | Necromancia |
+| [[Descrições de Magias/Dança Irresistível De Otto\|Dança Irresistível de Otto]] | Encantamento |
+| [[Descrições de Magias/Encontrar O Caminho\|Encontrar o Caminho]] | Adivinhação |
+| [[Descrições de Magias/Ilusão Programada\|Ilusão Programada]] | Ilusão |
+| [[Descrições de Magias/Proteger Fortaleza\|Proteger Fortaleza]] | Abjuração |
+| [[Descrições de Magias/Sugestão Em Massa\|Sugestão em Massa]] | Encantamento |
+| [[Descrições de Magias/Visão da Verdade\|Visão da Verdade]] | Adivinhação |
 
-## 7° Nível
+### 7° Nível
 
-Espada de Mordenkainen (evocação) Forma Etérea (transmutação) Miragem (ilusão) Mansão Magnifica de Mordenkainen (conjuração) Prisão de Energia (evocação) Projetar Imagem (ilusão) Regeneração (transmutação) Ressurreição (necromancia) Símbolo (abjuração) Teletransporte (conjuração)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Espada De Mordenkainen\|Espada de Mordenkainen]] | Evocação |
+| [[Descrições de Magias/Forma Etérea\|Forma Etérea]] | Transmutação |
+| [[Descrições de Magias/Miragem\|Miragem]] | Ilusão |
+| [[Descrições de Magias/Mansão Magnífica De Mordenkainen\|Mansão Magnifica de Mordenkainen]] | Conjuração |
+| [[Descrições de Magias/Prisão De Energia\|Prisão de Energia]] | Evocação |
+| [[Descrições de Magias/Projetar Imagem\|Projetar Imagem]] | Ilusão |
+| [[Descrições de Magias/Regeneração\|Regeneração]] | Transmutação |
+| [[Descrições de Magias/Ressurreição\|Ressurreição]] | Necromancia |
+| [[Descrições de Magias/Símbolo\|Símbolo]] | Abjuração |
+| [[Descrições de Magias/Teletransporte\|Teletransporte]] | Conjuração |
 
-## 8° Nível
+### 8° Nível
 
-Dominar Monstro (encantamento) Enfraquecer Intelecto (encantamento) Limpar a Mente (abjuração) Loquacidade (transmutação) Palavra de Poder Atordoar (encantamento)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Dominar Monstro\|Dominar Monstro]] | Encantamento |
+| [[Descrições de Magias/Enfraquecer Intelecto\|Enfraquecer Intelecto]] | Encantamento |
+| [[Descrições de Magias/Limpar A Mente\|Limpar a Mente]] | Abjuração |
+| [[Descrições de Magias/Loquacidade\|Loquacidade]] | Transmutação |
+| [[Descrições de Magias/Palavra De Poder Atordoar\|Palavra de Poder Atordoar]] | Encantamento |
 
-## 9° Nível
+### 9° Nível
 
-Palavra de Poder Curar (evocação) Palavra de Poder Matar (encantamento) Metamorfose Verdadeira (transmutação) Sexto Sentido (adivinhação)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Palavra De Poder Curar\|Palavra de Poder Curar]] | Evocação |
+| [[Descrições de Magias/Palavra De Poder Matar\|Palavra de Poder Matar]] | Encantamento |
+| [[Descrições de Magias/Metamorfose Verdadeira\|Metamorfose Verdadeira]] | Transmutação |
+| [[Descrições de Magias/Sexto Sentido\|Sexto Sentido]] | Adivinhação |
 
 > Fonte: Livro do Jogador, p. 210
 
-## Magias De Bruxo Truques (Nível 0)
+## Magias De Bruxo 
+### Truques (Nível 0)
 
-Amizade (encantamento) Ataque Certeiro (adivinhação) Ilusão Menor (ilusão) Mãos Mágicas (conjuração) Prestidigitação (transmutação) Proteção contra Lâminas (abjuração) Rajada de Veneno (conjuração) Rajada Mística (evocação) Toque Arrepiante (necromancia)
-
-## 1° Nível
-
-| Armadura de Agathys | (abjuração) |
+| Magia | Escola |
 | --- | --- |
-| Braços de Hadar | (conjuração) |
-| Bruxaria | (encantamento) |
-| Compreender Idiomas (adivinhação, | ritual) |
-| Enfeitiçar Pessoa | (encantamento) |
-| Escrita ilusória (ilusão, | ritual) |
-| Proteção contra o | Bem e Mal (abjuração) |
-| Raio de Bruxa | (evocação) |
-| Recuo Acelerado | (transmutação) |
-| Repreensão Infernal | (evocação) |
-| Servo Invisível (conjuração, | ritual) |
+| [[Descrições de Magias/Amizade\|Amizade]] | Encantamento |
+| [[Descrições de Magias/Ataque Certeiro\|Ataque Certeiro]] | Adivinhação |
+| [[Descrições de Magias/Ilusão Menor\|Ilusão Menor]] | Ilusão |
+| [[Descrições de Magias/Mãos Mágicas\|Mãos Mágicas]] | Conjuração |
+| [[Descrições de Magias/Prestidigitação\|Prestidigitação]] | Transmutação |
+| [[Descrições de Magias/Proteção Contra Lâminas\|Proteção contra Lâminas]] | Abjuração |
+| [[Descrições de Magias/Rajada De Veneno\|Rajada de Veneno]] | Conjuração |
+| [[Descrições de Magias/Rajada Mística\|Rajada Mística]] | Evocação |
+| [[Descrições de Magias/Toque Arrepiante\|Toque Arrepiante]] | Necromancia |
 
-## 2° Nível
+### 1° Nível
 
-Cativar (encantamento) Coroa da Loucura (encantmento) Despedaçar (evocação) Escuridão (evocação) Imobilizar Pessoa (encantamento) Invisibilidade (ilusão) Nuvem de Adagas (conjuração) Passo Nebuloso (conjuração) Patas de Aranha (transmutação) Raio do Enfraquecimento (necromancia) Reflexos (ilusão) Sugestão (encantamento)
-
-## 3° Nível
-
-Círculo Mágico (abjuração) Contramágica (bjuração) Dissipar Magia (abjuração) Fome de Hadar (conjuração) Forma Gasosa (transmutação) Idiomas (adivinhação) Imagem Maior (ilusão) Remover Maldição (abjuração) Medo (ilusão) Padrão Hipnótico (ilusão) Toque Vampírico (necromancia) Voo (transmutação)
-
-## 4° Nível
-
-Banimento (abjuração) Porta Dimensional (conjuração) Malogro (necromancia) Terreno Alucinógeno (ilusão)
-
-## 5° Nível
-
-Contato Extraplanar (adivinhação, ritual) Imobilizar Monstro (encantamento) Sonho (ilusão) Vidência (adivinhação)
-
-## 6° Nível
-
-Ataque Visual (necromancia) Círculo da Morte (necromancia) Conjurar Fada (conjuração) Criar Mortos-Vivos (necromancia) Carne para Pedra (transmutação) Portal Arcano (conjuração) Sugestão em Massa (encantamento) Visão da Verdade (adivinhação)
-
-## 7° Nível
-
-Dedo da Morte (necromancia) Forma Etérea (transmutação) Prisão de Energia (evocação) Viagem Planar (conjuração)
-
-## 8° Nível
-
-Dominar Monstro (encantamento) Enfraquecer o Intelecto (encantamento) Loquacidade (transmutação) Palavra de Poder Atordoar (encantamento) Semiplano (conjuração)
-
-## 9° Nível
-
-Aprisionamento (abjuração) Metamorfose Verdadeira (transmutação) Palavra de Poder Matar (encantamento) Projeção Astral (necromancia) Sexto Sentido (adivinhação)
-
-## Magias De Clérigo Truques (Nível 0)
-
-Chama Sagrada (evocação) Consertar (transmutação) Estabilizar (necromancia) Luz (evocação) Orientação (adivinhação) Resistência (abjuração) Taumaturgia (transmutação)
-
-## 1° Nível
-
-Bênção (encantamento) Comando (encantamento) Criar ou Destruir Água (transmutação) Curar Ferimentos (evocação) Detectar Magia (adivinhação, ritual) Detectar o Bem e Mal (adivinhação) Detectar Veneno e Doença (adivinhação, ritual) Escudo da Fé (abjuração) Infringir Ferimentos (necromancia) Palavra Curativa (evocação) Perdição (encantamento) Proteção contra o Bem e Mal (abjuração) Purificar Alimentos (transmutação, ritual) Raio Guiador (evocação) Santuário (abjuração)
-
-## 2° Nível
-
-Acalmar Emoções (encantamento) Ajuda (abjuração) Aprimorar Habilidade (transmutação)
-
-| Arma Espiritual | (evocação) |
+| Magia | Escola |
 | --- | --- |
-| Augúrio (adivinhação, | ritual) |
-| Cegueira/Surdez | (necromancia) |
-| Chama Continua | (evocação) |
-| Encontrar Armadilhas | (adivinhação) |
-| Imobilizar Pessoa | (encantamento) |
-| Localizar Objeto | (adivinhação) |
-| Oração Curativa | (evocação) |
-| Proteção contra Veneno | (abjuração) |
-| Repouso Tranquilo (necromancia, | ritual) |
-| Restauração Menor | (abjuração) |
-| Silêncio (ilusão, | ritual) |
-| Vínculo Protetor | (abjuração) |
-| Zona da Verdade | (encantamento) |
+| [[Descrições de Magias/Armadura De Agathys\|Armadura de Agathys]] | Abjuração |
+| [[Descrições de Magias/Braços De Hadar\|Braços de Hadar]] | Conjuração |
+| [[Descrições de Magias/Bruxaria\|Bruxaria]] | Encantamento |
+| [[Descrições de Magias/Compreender Idiomas\|Compreender Idiomas]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Enfeitiçar Pessoa\|Enfeitiçar Pessoa]] | Encantamento |
+| [[Descrições de Magias/Escrita Ilusória\|Escrita ilusória]] | Ilusão (ritual) |
+| [[Descrições de Magias/Proteção Contra O Bem E Mal\|Proteção contra o Bem e Mal]] | Abjuração |
+| [[Descrições de Magias/Raio De Bruxa\|Raio de Bruxa]] | Evocação |
+| [[Descrições de Magias/Recuo Acelerado\|Recuo Acelerado]] | Transmutação |
+| [[Descrições de Magias/Repreensão Infernal\|Repreensão Infernal]] | Evocação |
+| [[Descrições de Magias/Servo Invisível\|Servo Invisível]] | Conjuração (ritual) |
 
-## 3° Nível
+### 2° Nível
 
-Andar na Água (transmutação, ritual) Animar mortos (necromancia) Círculo Mágico (abjuração) Clarividência (adivinhação) Criar Alimentos (conjuração) Dissipar Magia (abjuração) Enviar Mensagem (evocação) Espíritos Guardiões (conjuração) Falar com os Mortos (necromancia) Forjar Morte (necromancia, ritual) Glifo de Vigilância (abjuração) Idiomas (adivinhação) Luz do Dia (evocação) Mesclar-se às Rochas (transmutação, ritual) Palavra Curativa em Massa (evocação) Proteção contra Energia (abjuração) Rogar maldição (necromancia) Sinal de Esperança (abjuração) Remover Maldição (abjuração) Revivificar (necromancia)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Cativar\|Cativar]] | Encantamento |
+| [[Descrições de Magias/Coroa Da Loucura\|Coroa da Loucura]] | Encantamento |
+| [[Descrições de Magias/Despedaçar\|Despedaçar]] | Evocação |
+| [[Descrições de Magias/Escuridão\|Escuridão]] | Evocação |
+| [[Descrições de Magias/Imobilizar Pessoa\|Imobilizar Pessoa]] | Encantamento |
+| [[Descrições de Magias/Invisibilidade\|Invisibilidade]] | Ilusão |
+| [[Descrições de Magias/Nuvem De Adagas\|Nuvem de Adagas]] | Conjuração |
+| [[Descrições de Magias/Passo Nebuloso\|Passo Nebuloso]] | Conjuração |
+| [[Descrições de Magias/Patas De Aranha\|Patas de Aranha]] | Transmutação |
+| [[Descrições de Magias/Raio Do Enfraquecimento\|Raio do Enfraquecimento]] | Necromancia |
+| [[Descrições de Magias/Reflexos\|Reflexos]] | Ilusão |
+| [[Descrições de Magias/Sugestão\|Sugestão]] | Encantamento |
 
-## 4° Nível
+### 3° Nível
 
-Adivinhação (adivinhação, ritual) Banimento (abjuração) Controlar a Água (transmutação) Localizar Criatura (adivinhação) Guardião da Fé (conjuração) Moldar Rochas (transmutação) Movimentação Livre (abjuração) Proteção contra a Morte (abjuração)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Círculo Mágico\|Círculo Mágico]] | Abjuração |
+| [[Descrições de Magias/Contramágica\|Contramágica]] | Abjuração |
+| [[Descrições de Magias/Dissipar Magia\|Dissipar Magia]] | Abjuração |
+| [[Descrições de Magias/Fome De Hadar\|Fome de Hadar]] | Conjuração |
+| [[Descrições de Magias/Forma Gasosa\|Forma Gasosa]] | Transmutação |
+| [[Descrições de Magias/Idiomas\|Idiomas]] | Adivinhação |
+| [[Descrições de Magias/Imagem Maior\|Imagem Maior]] | Ilusão |
+| [[Descrições de Magias/Remover Maldição\|Remover Maldição]] | Abjuração |
+| [[Descrições de Magias/Medo\|Medo]] | Ilusão |
+| [[Descrições de Magias/Padrão Hipnótico\|Padrão Hipnótico]] | Ilusão |
+| [[Descrições de Magias/Toque Vampírico\|Toque Vampírico]] | Necromancia |
+| [[Descrições de Magias/Voo\|Voo]] | Transmutação |
+
+### 4° Nível
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Banimento\|Banimento]] | Abjuração |
+| [[Descrições de Magias/Porta Dimensional\|Porta Dimensional]] | Conjuração |
+| [[Descrições de Magias/Malogro\|Malogro]] | Necromancia |
+| [[Descrições de Magias/Terreno Alucinógeno\|Terreno Alucinógeno]] | Ilusão |
+
+### 5° Nível
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Contato Extraplanar\|Contato Extraplanar]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Imobilizar Monstro\|Imobilizar Monstro]] | Encantamento |
+| [[Descrições de Magias/Sonho\|Sonho]] | Ilusão |
+| [[Descrições de Magias/Vidência\|Vidência]] | Adivinhação |
+
+### 6° Nível
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Ataque Visual\|Ataque Visual]] | Necromancia |
+| [[Descrições de Magias/Círculo Da Morte\|Círculo da Morte]] | Necromancia |
+| [[Descrições de Magias/Conjurar Fada\|Conjurar Fada]] | Conjuração |
+| [[Descrições de Magias/Criar Mortos-Vivos\|Criar Mortos-Vivos]] | Necromancia |
+| [[Descrições de Magias/Carne Para Pedra\|Carne para Pedra]] | Transmutação |
+| [[Descrições de Magias/Portal Arcano\|Portal Arcano]] | Conjuração |
+| [[Descrições de Magias/Sugestão Em Massa\|Sugestão em Massa]] | Encantamento |
+| [[Descrições de Magias/Visão da Verdade\|Visão da Verdade]] | Adivinhação |
+
+### 7° Nível
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Dedo Da Morte\|Dedo da Morte]] | Necromancia |
+| [[Descrições de Magias/Forma Etérea\|Forma Etérea]] | Transmutação |
+| [[Descrições de Magias/Prisão De Energia\|Prisão de Energia]] | Evocação |
+| [[Descrições de Magias/Viagem Planar\|Viagem Planar]] | Conjuração |
+
+### 8° Nível
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Dominar Monstro\|Dominar Monstro]] | Encantamento |
+| [[Descrições de Magias/Enfraquecer Intelecto\|Enfraquecer o Intelecto]] | Encantamento |
+| [[Descrições de Magias/Loquacidade\|Loquacidade]] | Transmutação |
+| [[Descrições de Magias/Palavra De Poder Atordoar\|Palavra de Poder Atordoar]] | Encantamento |
+| [[Descrições de Magias/Semiplano\|Semiplano]] | Conjuração |
+
+### 9° Nível
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Aprisionamento\|Aprisionamento]] | Abjuração |
+| [[Descrições de Magias/Metamorfose Verdadeira\|Metamorfose Verdadeira]] | Transmutação |
+| [[Descrições de Magias/Palavra De Poder Matar\|Palavra de Poder Matar]] | Encantamento |
+| [[Descrições de Magias/Projeção Astral\|Projeção Astral]] | Necromancia |
+| [[Descrições de Magias/Sexto Sentido\|Sexto Sentido]] | Adivinhação |
+
+## Magias De Clérigo 
+### Truques (Nível 0)
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Chama Sagrada\|Chama Sagrada]] | Evocação |
+| [[Descrições de Magias/Consertar\|Consertar]] | Transmutação |
+| [[Descrições de Magias/Estabilizar\|Estabilizar]] | Necromancia |
+| [[Descrições de Magias/Luz\|Luz]] | Evocação |
+| [[Descrições de Magias/Orientação\|Orientação]] | Adivinhação |
+| [[Descrições de Magias/Resistência\|Resistência]] | Abjuração |
+| [[Descrições de Magias/Taumaturgia\|Taumaturgia]] | Transmutação |
+
+### 1° Nível
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Bênção\|Bênção]] | Encantamento |
+| [[Descrições de Magias/Comando\|Comando]] | Encantamento |
+| [[Descrições de Magias/Criar Ou Destruir Água\|Criar ou Destruir Água]] | Transmutação |
+| [[Descrições de Magias/Curar Ferimentos\|Curar Ferimentos]] | Evocação |
+| [[Descrições de Magias/Detectar Magia\|Detectar Magia]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Detectar O Bem E Mal\|Detectar o Bem e Mal]] | Adivinhação |
+| [[Descrições de Magias/Detectar Veneno E Doença\|Detectar Veneno e Doença]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Escudo Da Fé\|Escudo da Fé]] | Abjuração |
+| [[Descrições de Magias/Infligir Ferimentos\|Infringir Ferimentos]] | Necromancia |
+| [[Descrições de Magias/Palavra Curativa\|Palavra Curativa]] | Evocação |
+| [[Descrições de Magias/Perdição\|Perdição]] | Encantamento |
+| [[Descrições de Magias/Proteção Contra O Bem E Mal\|Proteção contra o Bem e Mal]] | Abjuração |
+| [[Descrições de Magias/Purificar Alimentos\|Purificar Alimentos]] | Transmutação (ritual) |
+| [[Descrições de Magias/Raio Guiador\|Raio Guiador]] | Evocação |
+| [[Descrições de Magias/Santuário\|Santuário]] | Abjuração |
+
+### 2° Nível
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Acalmar Emoções\|Acalmar Emoções]] | Encantamento |
+| [[Descrições de Magias/Ajuda\|Ajuda]] | Abjuração |
+| [[Descrições de Magias/Aprimorar Habilidade\|Aprimorar Habilidade]] | Transmutação |
+| [[Descrições de Magias/Arma Espiritual\|Arma Espiritual]] | Evocação |
+| [[Descrições de Magias/Augúrio\|Augúrio]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Cegueira-Surdez\|Cegueira/Surdez]] | Necromancia |
+| [[Descrições de Magias/Chama Contínua\|Chama Continua]] | Evocação |
+| [[Descrições de Magias/Encontrar Armadilhas\|Encontrar Armadilhas]] | Adivinhação |
+| [[Descrições de Magias/Imobilizar Pessoa\|Imobilizar Pessoa]] | Encantamento |
+| [[Descrições de Magias/Localizar Objeto\|Localizar Objeto]] | Adivinhação |
+| [[Descrições de Magias/Oração Curativa\|Oração Curativa]] | Evocação |
+| [[Descrições de Magias/Proteção Contra Veneno\|Proteção contra Veneno]] | Abjuração |
+| [[Descrições de Magias/Repouso Tranquilo\|Repouso Tranquilo]] | Necromancia (ritual) |
+| [[Descrições de Magias/Restauração Menor\|Restauração Menor]] | Abjuração |
+| [[Descrições de Magias/Silêncio\|Silêncio]] | Ilusão (ritual) |
+| [[Descrições de Magias/Vínculo Protetor\|Vínculo Protetor]] | Abjuração |
+| [[Descrições de Magias/Zona da Verdade\|Zona da Verdade]] | Encantamento |
+
+### 3° Nível
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Andar Na Água\|Andar na Água]] | Transmutação (ritual) |
+| [[Descrições de Magias/Animar Mortos\|Animar mortos]] | Necromancia |
+| [[Descrições de Magias/Círculo Mágico\|Círculo Mágico]] | Abjuração |
+| [[Descrições de Magias/Clarividência\|Clarividência]] | Adivinhação |
+| [[Descrições de Magias/Criar Alimentos\|Criar Alimentos]] | Conjuração |
+| [[Descrições de Magias/Dissipar Magia\|Dissipar Magia]] | Abjuração |
+| [[Descrições de Magias/Enviar Mensagem\|Enviar Mensagem]] | Evocação |
+| [[Descrições de Magias/Espíritos Guardiões\|Espíritos Guardiões]] | Conjuração |
+| [[Descrições de Magias/Falar Com Os Mortos\|Falar com os Mortos]] | Necromancia |
+| [[Descrições de Magias/Forjar Morte\|Forjar Morte]] | Necromancia (ritual) |
+| [[Descrições de Magias/Glifo De Vigilância\|Glifo de Vigilância]] | Abjuração |
+| [[Descrições de Magias/Idiomas\|Idiomas]] | Adivinhação |
+| [[Descrições de Magias/Luz Do Dia\|Luz do Dia]] | Evocação |
+| [[Descrições de Magias/Mesclar-Se Às Rochas\|Mesclar-se às Rochas]] | Transmutação (ritual) |
+| [[Descrições de Magias/Palavra Curativa Em Massa\|Palavra Curativa em Massa]] | Evocação |
+| [[Descrições de Magias/Proteção Contra Energia\|Proteção contra Energia]] | Abjuração |
+| [[Descrições de Magias/Rogar Maldição\|Rogar maldição]] | Necromancia |
+| [[Descrições de Magias/Sinal De Esperança\|Sinal de Esperança]] | Abjuração |
+| [[Descrições de Magias/Remover Maldição\|Remover Maldição]] | Abjuração |
+| [[Descrições de Magias/Revivificar\|Revivificar]] | Necromancia |
+
+### 4° Nível
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Adivinhação\|Adivinhação]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Banimento\|Banimento]] | Abjuração |
+| [[Descrições de Magias/Controlar A Água\|Controlar a Água]] | Transmutação |
+| [[Descrições de Magias/Localizar Criatura\|Localizar Criatura]] | Adivinhação |
+| [[Descrições de Magias/Guardião Da Fé\|Guardião da Fé]] | Conjuração |
+| [[Descrições de Magias/Moldar Rochas\|Moldar Rochas]] | Transmutação |
+| [[Descrições de Magias/Movimentação Livre\|Movimentação Livre]] | Abjuração |
+| [[Descrições de Magias/Proteção Contra A Morte\|Proteção contra a Morte]] | Abjuração |
 
 > Fonte: Livro do Jogador, p. 211
 
-## 5° Nível
+### 5° Nível
 
-Âncora Planar (abjuração) Coluna de Chamas (evocação) Comunhão (adivinhação, ritual) Conhecimento Lendário (adivinhação) Consagrar (evocação) Curar Ferimentos em Massa (evocação) Dissipar o Bem e Mal (abjuração) Missão (encantamento) Praga (necromancia) Praga de Insetos (conjuração) Restauração Maior (abjuração) Reviver os Mortos (necromancia) Vidência (adivinhação)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Âncora Planar\|Âncora Planar]] | Abjuração |
+| [[Descrições de Magias/Coluna De Chamas\|Coluna de Chamas]] | Evocação |
+| [[Descrições de Magias/Comunhão\|Comunhão]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Conhecimento Lendário\|Conhecimento Lendário]] | Adivinhação |
+| [[Descrições de Magias/Consagrar\|Consagrar]] | Evocação |
+| [[Descrições de Magias/Curar Ferimentos Em Massa\|Curar Ferimentos em Massa]] | Evocação |
+| [[Descrições de Magias/Dissipar O Bem E Mal\|Dissipar o Bem e Mal]] | Abjuração |
+| [[Descrições de Magias/Missão\|Missão]] | Encantamento |
+| [[Descrições de Magias/Praga\|Praga]] | Necromancia |
+| [[Descrições de Magias/Praga De Insetos\|Praga de Insetos]] | Conjuração |
+| [[Descrições de Magias/Restauração Maior\|Restauração Maior]] | Abjuração |
+| [[Descrições de Magias/Reviver Os Mortos\|Reviver os Mortos]] | Necromancia |
+| [[Descrições de Magias/Vidência\|Vidência]] | Adivinhação |
 
-## 6° Nível
+### 6° Nível
 
-Aliado Planar (conjuração) Barreira de Lâminas (evocação) Criar Mortos-Vivos (necromancia) Cura Completa (evocação) Encontrar o Caminho (adivinhação) Doença Plena (necromancia) Banquete dos Heróis (conjuração) Palavra de Recordação (conjuração) Proibição (abjuração, ritual) Visão da Verdade (adivinhação)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Aliado Planar\|Aliado Planar]] | Conjuração |
+| [[Descrições de Magias/Barreira De Lâminas\|Barreira de Lâminas]] | Evocação |
+| [[Descrições de Magias/Criar Mortos-Vivos\|Criar Mortos-Vivos]] | Necromancia |
+| [[Descrições de Magias/Cura Completa\|Cura Completa]] | Evocação |
+| [[Descrições de Magias/Encontrar O Caminho\|Encontrar o Caminho]] | Adivinhação |
+| [[Descrições de Magias/Doença Plena\|Doença Plena]] | Necromancia |
+| [[Descrições de Magias/Banquete De Heróis\|Banquete dos Heróis]] | Conjuração |
+| [[Descrições de Magias/Palavra De Recordação\|Palavra de Recordação]] | Conjuração |
+| [[Descrições de Magias/Proibição\|Proibição]] | Abjuração (ritual) |
+| [[Descrições de Magias/Visão da Verdade\|Visão da Verdade]] | Adivinhação |
 
-## 7° Nível
+### 7° Nível
 
-Conjurar Celestial (conjuração) Forma Etérea (transmutação) Palavra Divina (evocação) Regeneração (transmutação) Ressurreição (necromancia) Símbolo (abjuração) Tempestade de Fogo (evocação) Viagem Planar (conjuração)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Conjurar Celestial\|Conjurar Celestial]] | Conjuração |
+| [[Descrições de Magias/Forma Etérea\|Forma Etérea]] | Transmutação |
+| [[Descrições de Magias/Palavra Divina\|Palavra Divina]] | Evocação |
+| [[Descrições de Magias/Regeneração\|Regeneração]] | Transmutação |
+| [[Descrições de Magias/Ressurreição\|Ressurreição]] | Necromancia |
+| [[Descrições de Magias/Símbolo\|Símbolo]] | Abjuração |
+| [[Descrições de Magias/Tempestade De Fogo\|Tempestade de Fogo]] | Evocação |
+| [[Descrições de Magias/Viagem Planar\|Viagem Planar]] | Conjuração |
 
-## 8° Nível
+### 8° Nível
 
-Aura Sagrada (abjuração) Campo Antimagia (abjuração) Controlar o Clima (transmutação) Terremoto (evocação)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Aura Sagrada\|Aura Sagrada]] | Abjuração |
+| [[Descrições de Magias/Campo Antimagia\|Campo Antimagia]] | Abjuração |
+| [[Descrições de Magias/Controlar O Clima\|Controlar o Clima]] | Transmutação |
+| [[Descrições de Magias/Terremoto\|Terremoto]] | Evocação |
 
-## 9° Nível
+### 9° Nível
 
-Cura Completa em Massa (evocação) Portal (conjuração) Projeção Astral (necromancia) Ressurreição Verdadeira (necromancia)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Cura Completa Em Massa\|Cura Completa em Massa]] | Evocação |
+| [[Descrições de Magias/Portal\|Portal]] | Conjuração |
+| [[Descrições de Magias/Projeção Astral\|Projeção Astral]] | Necromancia |
+| [[Descrições de Magias/Ressurreição Verdadeira\|Ressurreição Verdadeira]] | Necromancia |
 
-## Magias De Druida Truques (Nível 0)
+## Magias De Druida 
+### Truques (Nível 0)
 
-Bordão Místico (transmutação) Chicote de Espinhos (transmutação) Consertar (transmutação) Criar Chamas (conjuração) Druidismo (transmutação) Orientação (adivinhação) Rajada de Veneno (conjuração) Resistência (abjuração)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Bordão Místico\|Bordão Místico]] | Transmutação |
+| [[Descrições de Magias/Chicote De Espinhos\|Chicote de Espinhos]] | Transmutação |
+| [[Descrições de Magias/Consertar\|Consertar]] | Transmutação |
+| [[Descrições de Magias/Criar Chamas\|Criar Chamas]] | Conjuração |
+| [[Descrições de Magias/Druidismo\|Druidismo]] | Transmutação |
+| [[Descrições de Magias/Orientação\|Orientação]] | Adivinhação |
+| [[Descrições de Magias/Rajada De Veneno\|Rajada de Veneno]] | Conjuração |
+| [[Descrições de Magias/Resistência\|Resistência]] | Abjuração |
 
-## 1° Nível
+### 1° Nível
 
-Amizade Animal (encantamento) Bom Fruto (transmutação) Constrição (conjuração) Criar ou Destruir Água (transmutação) Curar Ferimentos (evocação) Detectar Magia (adivinhação, ritual) Detectar Veneno e Doença (adivinhação, ritual) Enfeitiçar Pessoa (encantamento) Falar com Animais (adivinhação, ritual) Fogo das Fadas (evocação) Névoa Obscurecente (conjuração) Onda Trovejante (evocação) Palavra Curativa (evocação) Passos Longos (transmutação) Purificar Alimentos (transmutação, ritual) Salto (transmutação)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Amizade Animal\|Amizade Animal]] | Encantamento |
+| [[Descrições de Magias/Bom Fruto\|Bom Fruto]] | Transmutação |
+| [[Descrições de Magias/Constrição\|Constrição]] | Conjuração |
+| [[Descrições de Magias/Criar Ou Destruir Água\|Criar ou Destruir Água]] | Transmutação |
+| [[Descrições de Magias/Curar Ferimentos\|Curar Ferimentos]] | Evocação |
+| [[Descrições de Magias/Detectar Magia\|Detectar Magia]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Detectar Veneno E Doença\|Detectar Veneno e Doença]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Enfeitiçar Pessoa\|Enfeitiçar Pessoa]] | Encantamento |
+| [[Descrições de Magias/Falar Com Animais\|Falar com Animais]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Fogo Das Fadas\|Fogo das Fadas]] | Evocação |
+| [[Descrições de Magias/Névoa Obscurecente\|Névoa Obscurecente]] | Conjuração |
+| [[Descrições de Magias/Onda Trovejante\|Onda Trovejante]] | Evocação |
+| [[Descrições de Magias/Palavra Curativa\|Palavra Curativa]] | Evocação |
+| [[Descrições de Magias/Passos Longos\|Passos Longos]] | Transmutação |
+| [[Descrições de Magias/Purificar Alimentos\|Purificar Alimentos]] | Transmutação (ritual) |
+| [[Descrições de Magias/Salto\|Salto]] | Transmutação |
 
-## 2° Nível
+### 2° Nível
 
-Aprimorar Habilidade (transmutação) Crescer Espinhos (transmutação) Encontrar Armadilhas (adivinhação) Esfera Flamejante (conjuração) Esquentar Metal (transmutação) Imobilizar Pessoa (encantamento) Lâmina Flamejante (evocação) Localizar Animais ou Plantas (adivinhação, ritual) Localizar Objeto (adivinhação) Lufada de Vento (evocação) Mensageiro Animal (encantamento, ritual) Passos sem Pegadas (abjuração) Pele de Árvore (transmutação) Proteção contra Veneno (abjuração) Raio Lunar (evocação) Restauração Menor (abjuração) Sentido Bestial (adivinhação, ritual) Visão no Escuro (transmutação)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Aprimorar Habilidade\|Aprimorar Habilidade]] | Transmutação |
+| [[Descrições de Magias/Crescer Espinhos\|Crescer Espinhos]] | Transmutação |
+| [[Descrições de Magias/Encontrar Armadilhas\|Encontrar Armadilhas]] | Adivinhação |
+| [[Descrições de Magias/Esfera Flamejante\|Esfera Flamejante]] | Conjuração |
+| [[Descrições de Magias/Esquentar Metal\|Esquentar Metal]] | Transmutação |
+| [[Descrições de Magias/Imobilizar Pessoa\|Imobilizar Pessoa]] | Encantamento |
+| [[Descrições de Magias/Lâmina Flamejante\|Lâmina Flamejante]] | Evocação |
+| [[Descrições de Magias/Localizar Animais Ou Plantas\|Localizar Animais ou Plantas]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Localizar Objeto\|Localizar Objeto]] | Adivinhação |
+| [[Descrições de Magias/Lufada De Vento\|Lufada de Vento]] | Evocação |
+| [[Descrições de Magias/Mensageiro Animal\|Mensageiro Animal]] | Encantamento (ritual) |
+| [[Descrições de Magias/Passos Sem Pegadas\|Passos sem Pegadas]] | Abjuração |
+| [[Descrições de Magias/Pele De Árvore\|Pele de Árvore]] | Transmutação |
+| [[Descrições de Magias/Proteção Contra Veneno\|Proteção contra Veneno]] | Abjuração |
+| [[Descrições de Magias/Raio Lunar\|Raio Lunar]] | Evocação |
+| [[Descrições de Magias/Restauração Menor\|Restauração Menor]] | Abjuração |
+| [[Descrições de Magias/Sentido Bestial\|Sentido Bestial]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Visão no Escuro\|Visão no Escuro]] | Transmutação |
 
-## 3° Nível
+### 3° Nível
 
-Ampliar Plantas (transmutação) Andar na Água (transmutação, ritual) Conjurar Animais (conjuração) Convocar Relâmpagos (conjuração) Dissipar Magia (abjuração) Falar com Plantas (transmutação) Forjar Morte (necromancia, ritual) Luz do Dia (evocação) Mesclar-se às Rochas (transmutação, ritual) Muralha de Vento (evocação) Nevasca (conjuração) Proteção contra Energia (abjuração) Respirar na Água (transmutação, ritual)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Ampliar Plantas\|Ampliar Plantas]] | Transmutação |
+| [[Descrições de Magias/Andar Na Água\|Andar na Água]] | Transmutação (ritual) |
+| [[Descrições de Magias/Conjurar Animais\|Conjurar Animais]] | Conjuração |
+| [[Descrições de Magias/Convocar Relâmpagos\|Convocar Relâmpagos]] | Conjuração |
+| [[Descrições de Magias/Dissipar Magia\|Dissipar Magia]] | Abjuração |
+| [[Descrições de Magias/Falar Com Plantas\|Falar com Plantas]] | Transmutação |
+| [[Descrições de Magias/Forjar Morte\|Forjar Morte]] | Necromancia (ritual) |
+| [[Descrições de Magias/Luz Do Dia\|Luz do Dia]] | Evocação |
+| [[Descrições de Magias/Mesclar-Se Às Rochas\|Mesclar-se às Rochas]] | Transmutação (ritual) |
+| [[Descrições de Magias/Muralha De Vento\|Muralha de Vento]] | Evocação |
+| [[Descrições de Magias/Nevasca\|Nevasca]] | Conjuração |
+| [[Descrições de Magias/Proteção Contra Energia\|Proteção contra Energia]] | Abjuração |
+| [[Descrições de Magias/Respirar Na Água\|Respirar na Água]] | Transmutação (ritual) |
 
-## 4° Nível
+### 4° Nível
 
-Confusão (encantamento) Conjurar Elementais Menores (conjuração) Conjurar Seres da Floresta (conjuração) Controlar a Água (transmutação) Dominar Besta (encantamento) Inseto Gigante (transmutação) Localizar Criatura (adivinhação) Malogro (necromancia) Metamorfose (transmutação) Moldar Rochas (transmutação) Movimentação Livre (abjuração) Muralha de Fogo (evocação) Pele de Pedra (abjuração) Tempestade de Gelo (evocação) Terreno Alucinógeno (ilusão) Vinha Esmagadora (conjuração)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Confusão\|Confusão]] | Encantamento |
+| [[Descrições de Magias/Conjurar Elementais Menores\|Conjurar Elementais Menores]] | Conjuração |
+| [[Descrições de Magias/Conjurar Seres Da Floresta\|Conjurar Seres da Floresta]] | Conjuração |
+| [[Descrições de Magias/Controlar A Água\|Controlar a Água]] | Transmutação |
+| [[Descrições de Magias/Dominar Besta\|Dominar Besta]] | Encantamento |
+| [[Descrições de Magias/Inseto Gigante\|Inseto Gigante]] | Transmutação |
+| [[Descrições de Magias/Localizar Criatura\|Localizar Criatura]] | Adivinhação |
+| [[Descrições de Magias/Malogro\|Malogro]] | Necromancia |
+| [[Descrições de Magias/Metamorfose\|Metamorfose]] | Transmutação |
+| [[Descrições de Magias/Moldar Rochas\|Moldar Rochas]] | Transmutação |
+| [[Descrições de Magias/Movimentação Livre\|Movimentação Livre]] | Abjuração |
+| [[Descrições de Magias/Muralha De Fogo\|Muralha de Fogo]] | Evocação |
+| [[Descrições de Magias/Pele De Pedra\|Pele de Pedra]] | Abjuração |
+| [[Descrições de Magias/Tempestade De Gelo\|Tempestade de Gelo]] | Evocação |
+| [[Descrições de Magias/Terreno Alucinógeno\|Terreno Alucinógeno]] | Ilusão |
+| [[Descrições de Magias/Vinha Esmagadora\|Vinha Esmagadora]] | Conjuração |
 
-## 5° Nível
+### 5° Nível
 
-Âncora Planar (abjuração) Caminhar em Árvores (conjuração) Conjurar Elemental (conjuração) Comunhão com a Natureza (adivinhação, ritual) Cúpula Antivida (abjuração) Curar Ferimentos em Massa (evocação) Despertar (transmutação) Missão (encantamento) Muralha de Pedra (evocação) Praga (necromancia) Praga de Insetos (conjuração) Reencarnação (transmutação) Restauração Maior (abjuração) Vidência (adivinhação)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Âncora Planar\|Âncora Planar]] | Abjuração |
+| [[Descrições de Magias/Caminhar Em Árvores\|Caminhar em Árvores]] | Conjuração |
+| [[Descrições de Magias/Conjurar Elemental\|Conjurar Elemental]] | Conjuração |
+| [[Descrições de Magias/Comunhão Com A Natureza\|Comunhão com a Natureza]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Cúpula Antivida\|Cúpula Antivida]] | Abjuração |
+| [[Descrições de Magias/Curar Ferimentos Em Massa\|Curar Ferimentos em Massa]] | Evocação |
+| [[Descrições de Magias/Despertar\|Despertar]] | Transmutação |
+| [[Descrições de Magias/Missão\|Missão]] | Encantamento |
+| [[Descrições de Magias/Muralha De Pedra\|Muralha de Pedra]] | Evocação |
+| [[Descrições de Magias/Praga\|Praga]] | Necromancia |
+| [[Descrições de Magias/Praga De Insetos\|Praga de Insetos]] | Conjuração |
+| [[Descrições de Magias/Reencarnação\|Reencarnação]] | Transmutação |
+| [[Descrições de Magias/Restauração Maior\|Restauração Maior]] | Abjuração |
+| [[Descrições de Magias/Vidência\|Vidência]] | Adivinhação |
 
-## 6° Nível
+### 6° Nível
 
-Banquete de Heróis (conjuração) Caminhar no Vento (transmutação) Conjurar Fada (conjuração) Cura Completa (evocação) Encontrar o Caminho (adivinhação) Mover Terra (transmutação) Muralha de Espinhos (conjuração) Raio Solar (evocação) Teletransporte por Árvores (conjuração)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Banquete De Heróis\|Banquete de Heróis]] | Conjuração |
+| [[Descrições de Magias/Caminhar No Vento\|Caminhar no Vento]] | Transmutação |
+| [[Descrições de Magias/Conjurar Fada\|Conjurar Fada]] | Conjuração |
+| [[Descrições de Magias/Cura Completa\|Cura Completa]] | Evocação |
+| [[Descrições de Magias/Encontrar O Caminho\|Encontrar o Caminho]] | Adivinhação |
+| [[Descrições de Magias/Mover Terra\|Mover Terra]] | Transmutação |
+| [[Descrições de Magias/Muralha De Espinhos\|Muralha de Espinhos]] | Conjuração |
+| [[Descrições de Magias/Raio Solar\|Raio Solar]] | Evocação |
+| [[Descrições de Magias/Teletransporte Por Árvores\|Teletransporte por Árvores]] | Conjuração |
 
-## 7° Nível
+### 7° Nível
 
-Inverter a Gravidade (transmutação) Miragem (ilusão) Regeneração (transmutação) Tempestade de Fogo (evocação) Viagem Planar (conjuração)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Inverter A Gravidade\|Inverter a Gravidade]] | Transmutação |
+| [[Descrições de Magias/Miragem\|Miragem]] | Ilusão |
+| [[Descrições de Magias/Regeneração\|Regeneração]] | Transmutação |
+| [[Descrições de Magias/Tempestade De Fogo\|Tempestade de Fogo]] | Evocação |
+| [[Descrições de Magias/Viagem Planar\|Viagem Planar]] | Conjuração |
 
-## 8° Nível
+### 8° Nível
 
-Antipatia/Simpatia (encantamento) Controlar o Clima (transmutação) Enfraquecer o Intelecto (encantamento) Explosão Solar (evocação)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Antipatia-Simpatia\|Antipatia/Simpatia]] | Encantamento |
+| [[Descrições de Magias/Controlar O Clima\|Controlar o Clima]] | Transmutação |
+| [[Descrições de Magias/Enfraquecer Intelecto\|Enfraquecer o Intelecto]] | Encantamento |
+| [[Descrições de Magias/Explosão Solar\|Explosão Solar]] | Evocação |
+| [[Descrições de Magias/Formas Animais\|Formas Animais]] | Transmutação |
+| [[Descrições de Magias/Terremoto\|Terremoto]] | Evocação |
+| [[Descrições de Magias/Tsunami\|Tsunami]] | Conjuração |
 
 > Fonte: Livro do Jogador, p. 212
 
-Formas Animais (transmutação) Terremoto (evocação) Tsunami (conjuração)
+### 9° Nível
 
-## 9° Nível
-
-Alterar Forma (transmutação) Ressurreição Verdadeira (necromancia) Sexto Sentido (adivinhação) Tempestade da Vingança (conjuração)
-
-## Magias De Feiticeiro Truques (Nível 0)
-
-Amizade (encantamento) Ataque Certeiro (adivinhação) Consertar (transmutação) Espirro Ácido (conjuração) Globos de Luz (evocação) Ilusão Menor (ilusão) Luz (evocação) Mãos Mágicas (conjuração) Mensagem (transmutação) Prestidigitação (transmutação) Proteção contra Lâminas (abjuração) Raio de Fogo (evocação) Raio de Gelo (evocação) Rajada de Veneno (conjuração) Toque Arrepiante (necromancia) Toque Chocante (evocação)
-
-## 1° Nível
-
-| Armadura Arcana | (abjuração) |
+| Magia | Escola |
 | --- | --- |
-| Compreender Idiomas (adivinhação, | ritual) |
-| Detectar Magia (adivinhação, | ritual) |
-| Disfarçar-se | (ilusão) |
-| Enfeitiçar Pessoa | (encantamento) |
-| Escudo Arcano | (abjuração) |
-| Imagem Silenciosa | (ilusão) |
-| Leque Cromático | (ilusão) |
-| Mãos Flamejantes | (evocação) |
-| Mísseis Mágicos | (evocação) |
-| Névoa Obscurecente | (conjuração) |
-| Onda Trovejante | (evocação) |
-| Orbe Cromática | (evocação) |
-| Queda Suave | (transmutação) |
-| Raio Adoecente | (necromancia) |
-| Raio de Bruxa | (evocação) |
-| Recuo Acelerado | (transmutação) |
-| Sono | (encantamento) |
+| [[Descrições de Magias/Alterar Forma\|Alterar Forma]] | Transmutação |
+| [[Descrições de Magias/Ressurreição Verdadeira\|Ressurreição Verdadeira]] | Necromancia |
+| [[Descrições de Magias/Sexto Sentido\|Sexto Sentido]] | Adivinhação |
+| [[Descrições de Magias/Tempestade Da Vingança\|Tempestade da Vingança]] | Conjuração |
 
-Salto (transmutação) Vitalidade Falsa (necromancia)
+## Magias De Feiticeiro 
+### Truques (Nível 0)
 
-## 2° Nível
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Amizade\|Amizade]] | Encantamento |
+| [[Descrições de Magias/Ataque Certeiro\|Ataque Certeiro]] | Adivinhação |
+| [[Descrições de Magias/Consertar\|Consertar]] | Transmutação |
+| [[Descrições de Magias/Espirro Ácido\|Espirro Ácido]] | Conjuração |
+| [[Descrições de Magias/Globos De Luz\|Globos de Luz]] | Evocação |
+| [[Descrições de Magias/Ilusão Menor\|Ilusão Menor]] | Ilusão |
+| [[Descrições de Magias/Luz\|Luz]] | Evocação |
+| [[Descrições de Magias/Mãos Mágicas\|Mãos Mágicas]] | Conjuração |
+| [[Descrições de Magias/Mensagem\|Mensagem]] | Transmutação |
+| [[Descrições de Magias/Prestidigitação\|Prestidigitação]] | Transmutação |
+| [[Descrições de Magias/Proteção Contra Lâminas\|Proteção contra Lâminas]] | Abjuração |
+| [[Descrições de Magias/Raio De Fogo\|Raio de Fogo]] | Evocação |
+| [[Descrições de Magias/Raio De Gelo\|Raio de Gelo]] | Evocação |
+| [[Descrições de Magias/Rajada De Veneno\|Rajada de Veneno]] | Conjuração |
+| [[Descrições de Magias/Toque Arrepiante\|Toque Arrepiante]] | Necromancia |
+| [[Descrições de Magias/Toque Chocante\|Toque Chocante]] | Evocação |
 
-Alterar-se (transmutação) Aprimorar Habilidade (transmutação) Arrombar (transmutação) Aumentar/Reduzir (transmutação) Cegueira/Surdez (necromancia) Coroa da Loucura (encantamento) Despedaçar (evocação) Detectar Pensamentos (adivinhação) Escuridão (transmutação) Força Fantasmagórica (ilusão) Imobilizar Pessoa (encantamento) Invisibilidade (ilusão) Levitação (transmutação) Lufada de Vento (evocação) Nublar (ilusão) Nuvem de Adagas (conjuração) Passo Nebuloso (conjuração) Patas de Aranha (transmutaçõ) Raio Ardente (evocação) Reflexos (ilusão) Sugestão (encantamento) Teia (conjuração) Visão no Escuro (transmutação) Ver o Invisível (adivinhação)
+### 1° Nível
 
-## 3° Nível
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Armadura Arcana\|Armadura Arcana]] | Abjuração |
+| [[Descrições de Magias/Compreender Idiomas\|Compreender Idiomas]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Detectar Magia\|Detectar Magia]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Disfarçar-Se\|Disfarçar-se]] | Ilusão |
+| [[Descrições de Magias/Enfeitiçar Pessoa\|Enfeitiçar Pessoa]] | Encantamento |
+| [[Descrições de Magias/Escudo Arcano\|Escudo Arcano]] | Abjuração |
+| [[Descrições de Magias/Imagem Silenciosa\|Imagem Silenciosa]] | Ilusão |
+| [[Descrições de Magias/Leque Cromático\|Leque Cromático]] | Ilusão |
+| [[Descrições de Magias/Mãos Flamejantes\|Mãos Flamejantes]] | Evocação |
+| [[Descrições de Magias/Mísseis Mágicos\|Mísseis Mágicos]] | Evocação |
+| [[Descrições de Magias/Névoa Obscurecente\|Névoa Obscurecente]] | Conjuração |
+| [[Descrições de Magias/Onda Trovejante\|Onda Trovejante]] | Evocação |
+| [[Descrições de Magias/Orbe Cromática\|Orbe Cromática]] | Evocação |
+| [[Descrições de Magias/Queda Suave\|Queda Suave]] | Transmutação |
+| [[Descrições de Magias/Raio Adoecente\|Raio Adoecente]] | Necromancia |
+| [[Descrições de Magias/Raio De Bruxa\|Raio de Bruxa]] | Evocação |
+| [[Descrições de Magias/Recuo Acelerado\|Recuo Acelerado]] | Transmutação |
+| [[Descrições de Magias/Sono\|Sono]] | Encantamento |
+| [[Descrições de Magias/Salto\|Salto]] | Transmutação |
+| [[Descrições de Magias/Vitalidade Falsa\|Vitalidade Falsa]] | Necromancia |
 
-Andar na Água (transmutação, ritual) Bola de Fogo (evocação) Clarividência (adivinhação) Contramágica (abjuração) Dissipar Magia (abjuração) Forma Gasosa (transmutação) Idiomas (adivinhação) Imagem Maior (ilusão) Lentidão (transmutação) Luz do Dia (evocação) Medo (ilusão) Nevasca (conjuração) Névoa Fétida (conjuração) Padrão Hipnótico (ilusão) Piscar (transmutação) Proteção contra Energia (abjuração) Relâmpago (evocação) Respirar na Água (transmutação, ritual) Velocidade (transmutação) Voo (transmutação)
+### 2° Nível
 
-## 4° Nível
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Alterar-Se\|Alterar-se]] | Transmutação |
+| [[Descrições de Magias/Aprimorar Habilidade\|Aprimorar Habilidade]] | Transmutação |
+| [[Descrições de Magias/Arrombar\|Arrombar]] | Transmutação |
+| [[Descrições de Magias/Aumentar-Reduzir\|Aumentar/Reduzir]] | Transmutação |
+| [[Descrições de Magias/Cegueira-Surdez\|Cegueira/Surdez]] | Necromancia |
+| [[Descrições de Magias/Coroa Da Loucura\|Coroa da Loucura]] | Encantamento |
+| [[Descrições de Magias/Despedaçar\|Despedaçar]] | Evocação |
+| [[Descrições de Magias/Detectar Pensamentos\|Detectar Pensamentos]] | Adivinhação |
+| [[Descrições de Magias/Escuridão\|Escuridão]] | Transmutação |
+| [[Descrições de Magias/Força Fantasmagórica\|Força Fantasmagórica]] | Ilusão |
+| [[Descrições de Magias/Imobilizar Pessoa\|Imobilizar Pessoa]] | Encantamento |
+| [[Descrições de Magias/Invisibilidade\|Invisibilidade]] | Ilusão |
+| [[Descrições de Magias/Levitação\|Levitação]] | Transmutação |
+| [[Descrições de Magias/Lufada De Vento\|Lufada de Vento]] | Evocação |
+| [[Descrições de Magias/Nublar\|Nublar]] | Ilusão |
+| [[Descrições de Magias/Nuvem De Adagas\|Nuvem de Adagas]] | Conjuração |
+| [[Descrições de Magias/Passo Nebuloso\|Passo Nebuloso]] | Conjuração |
+| [[Descrições de Magias/Patas De Aranha\|Patas de Aranha]] | Transmutação |
+| [[Descrições de Magias/Raio Ardente\|Raio Ardente]] | Evocação |
+| [[Descrições de Magias/Reflexos\|Reflexos]] | Ilusão |
+| [[Descrições de Magias/Sugestão\|Sugestão]] | Encantamento |
+| [[Descrições de Magias/Teia\|Teia]] | Conjuração |
+| [[Descrições de Magias/Visão no Escuro\|Visão no Escuro]] | Transmutação |
+| [[Descrições de Magias/Ver O Invisível\|Ver o Invisível]] | Adivinhação |
 
-Banimento (abjuração) Confusão (encantamento) Dominar Besta (encantamento) Invisibilidade Maior (ilusão) Malogro (necromancia) Metamorfose (transmutação) Muralha de Fogo (evocação) Pele de Pedra (abjuração) Porta Dimensional (conjuração) Tempestade de Gelo (evocação)
+### 3° Nível
 
-## 5° Nível
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Andar Na Água\|Andar na Água]] | Transmutação (ritual) |
+| [[Descrições de Magias/Bola De Fogo\|Bola de Fogo]] | Evocação |
+| [[Descrições de Magias/Clarividência\|Clarividência]] | Adivinhação |
+| [[Descrições de Magias/Contramágica\|Contramágica]] | Abjuração |
+| [[Descrições de Magias/Dissipar Magia\|Dissipar Magia]] | Abjuração |
+| [[Descrições de Magias/Forma Gasosa\|Forma Gasosa]] | Transmutação |
+| [[Descrições de Magias/Idiomas\|Idiomas]] | Adivinhação |
+| [[Descrições de Magias/Imagem Maior\|Imagem Maior]] | Ilusão |
+| [[Descrições de Magias/Lentidão\|Lentidão]] | Transmutação |
+| [[Descrições de Magias/Luz Do Dia\|Luz do Dia]] | Evocação |
+| [[Descrições de Magias/Medo\|Medo]] | Ilusão |
+| [[Descrições de Magias/Nevasca\|Nevasca]] | Conjuração |
+| [[Descrições de Magias/Névoa Fétida\|Névoa Fétida]] | Conjuração |
+| [[Descrições de Magias/Padrão Hipnótico\|Padrão Hipnótico]] | Ilusão |
+| [[Descrições de Magias/Piscar\|Piscar]] | Transmutação |
+| [[Descrições de Magias/Proteção Contra Energia\|Proteção contra Energia]] | Abjuração |
+| [[Descrições de Magias/Relâmpago\|Relâmpago]] | Evocação |
+| [[Descrições de Magias/Respirar Na Água\|Respirar na Água]] | Transmutação (ritual) |
+| [[Descrições de Magias/Velocidade\|Velocidade]] | Transmutação |
+| [[Descrições de Magias/Voo\|Voo]] | Transmutação |
 
-Animar Objetos (transmutação) Círculo de Teletransporte (conjuração) Cone de Frio (evocação) Criação (ilusão) Dominar Pessoa (encantamento) Imobilizar Monstro (encantamento) Muralha de Pedra (evocação) Névoa Mortal (conjuração) Praga de Insetos (conjuração) Similaridade (ilusão) Telecinésia (transmutação)
+### 4° Nível
 
-## 6° Nível
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Banimento\|Banimento]] | Abjuração |
+| [[Descrições de Magias/Confusão\|Confusão]] | Encantamento |
+| [[Descrições de Magias/Dominar Besta\|Dominar Besta]] | Encantamento |
+| [[Descrições de Magias/Invisibilidade Maior\|Invisibilidade Maior]] | Ilusão |
+| [[Descrições de Magias/Malogro\|Malogro]] | Necromancia |
+| [[Descrições de Magias/Metamorfose\|Metamorfose]] | Transmutação |
+| [[Descrições de Magias/Muralha De Fogo\|Muralha de Fogo]] | Evocação |
+| [[Descrições de Magias/Pele De Pedra\|Pele de Pedra]] | Abjuração |
+| [[Descrições de Magias/Porta Dimensional\|Porta Dimensional]] | Conjuração |
+| [[Descrições de Magias/Tempestade De Gelo\|Tempestade de Gelo]] | Evocação |
 
-Ataque Visual (necromancia) Círculo da Morte (necromancia) Corrente de Relâmpagos (evocação) Desintegrar (transmutação) Globo de Invulnerabilidade (abjuração) Mover Terra (transmutação) Portal Arcano (conjuração) Raio Solar (evocação) Sugestão em Massa (encantamento) Visão da Verdade (adivinhação)
+### 5° Nível
 
-## 7° Nível
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Animar Objetos\|Animar Objetos]] | Transmutação |
+| [[Descrições de Magias/Círculo De Teletransporte\|Círculo de Teletransporte]] | Conjuração |
+| [[Descrições de Magias/Cone De Frio\|Cone de Frio]] | Evocação |
+| [[Descrições de Magias/Criação\|Criação]] | Ilusão |
+| [[Descrições de Magias/Dominar Pessoa\|Dominar Pessoa]] | Encantamento |
+| [[Descrições de Magias/Imobilizar Monstro\|Imobilizar Monstro]] | Encantamento |
+| [[Descrições de Magias/Muralha De Pedra\|Muralha de Pedra]] | Evocação |
+| [[Descrições de Magias/Névoa Mortal\|Névoa Mortal]] | Conjuração |
+| [[Descrições de Magias/Praga De Insetos\|Praga de Insetos]] | Conjuração |
+| [[Descrições de Magias/Similaridade\|Similaridade]] | Ilusão |
+| [[Descrições de Magias/Telecinésia\|Telecinésia]] | Transmutação |
 
-Bola de Fogo Controlável (evocação) Dedo da Morte (necromancia) Forma Etérea (transmutação) Inverter a Gravidade (transmutação) Rajada Prismática (evocação) Teletransporte (conjuração) Tempestade de Fogo (evocação) Viagem Planar (conjuração)
+### 6° Nível
 
-## 8° Nível
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Ataque Visual\|Ataque Visual]] | Necromancia |
+| [[Descrições de Magias/Círculo Da Morte\|Círculo da Morte]] | Necromancia |
+| [[Descrições de Magias/Corrente De Relâmpagos\|Corrente de Relâmpagos]] | Evocação |
+| [[Descrições de Magias/Desintegrar\|Desintegrar]] | Transmutação |
+| [[Descrições de Magias/Globo De Invulnerabilidade\|Globo de Invulnerabilidade]] | Abjuração |
+| [[Descrições de Magias/Mover Terra\|Mover Terra]] | Transmutação |
+| [[Descrições de Magias/Portal Arcano\|Portal Arcano]] | Conjuração |
+| [[Descrições de Magias/Raio Solar\|Raio Solar]] | Evocação |
+| [[Descrições de Magias/Sugestão Em Massa\|Sugestão em Massa]] | Encantamento |
+| [[Descrições de Magias/Visão da Verdade\|Visão da Verdade]] | Adivinhação |
 
-Dominar Monstro (encantamento) Explosão Solar (evocação) Nuvem Incendiária (conjuração) Palavra de Poder Atordoar (encantamento) Terremoto (evocação)
+### 7° Nível
 
-## 9° Nível
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Bola De Fogo Controlável\|Bola de Fogo Controlável]] | Evocação |
+| [[Descrições de Magias/Dedo Da Morte\|Dedo da Morte]] | Necromancia |
+| [[Descrições de Magias/Forma Etérea\|Forma Etérea]] | Transmutação |
+| [[Descrições de Magias/Inverter A Gravidade\|Inverter a Gravidade]] | Transmutação |
+| [[Descrições de Magias/Rajada Prismática\|Rajada Prismática]] | Evocação |
+| [[Descrições de Magias/Teletransporte\|Teletransporte]] | Conjuração |
+| [[Descrições de Magias/Tempestade De Fogo\|Tempestade de Fogo]] | Evocação |
+| [[Descrições de Magias/Viagem Planar\|Viagem Planar]] | Conjuração |
 
-Chuva de Meteoros (evocação) Desejo (conjuração) Palavra de Poder Matar (encantamento) Parar o Tempo (transmutação) Portal (conjuração)
+### 8° Nível
 
-## Magias De Mago Truques (Nível 0)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Dominar Monstro\|Dominar Monstro]] | Encantamento |
+| [[Descrições de Magias/Explosão Solar\|Explosão Solar]] | Evocação |
+| [[Descrições de Magias/Nuvem Incendiária\|Nuvem Incendiária]] | Conjuração |
+| [[Descrições de Magias/Palavra De Poder Atordoar\|Palavra de Poder Atordoar]] | Encantamento |
+| [[Descrições de Magias/Terremoto\|Terremoto]] | Evocação |
 
-Amizade (encantamento) Ataque Certeiro (adivinhação) Consertar (transmutação) Espirro Ácido (conjuração) Globos de Luz (evocação) Ilusão Menor (ilusão) Luz (evocação) Mãos Mágicas (conjuração) Mensagem (transmutação) Prestidigitação (transmutação) Proteção contra Lâminas (abjuração) Raio de Fogo (evocação)
+### 9° Nível
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Chuva De Meteoros\|Chuva de Meteoros]] | Evocação |
+| [[Descrições de Magias/Desejo\|Desejo]] | Conjuração |
+| [[Descrições de Magias/Palavra De Poder Matar\|Palavra de Poder Matar]] | Encantamento |
+| [[Descrições de Magias/Parar O Tempo\|Parar o Tempo]] | Transmutação |
+| [[Descrições de Magias/Portal\|Portal]] | Conjuração |
+
+## Magias De Mago 
+### Truques (Nível 0)
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Amizade\|Amizade]] | Encantamento |
+| [[Descrições de Magias/Ataque Certeiro\|Ataque Certeiro]] | Adivinhação |
+| [[Descrições de Magias/Consertar\|Consertar]] | Transmutação |
+| [[Descrições de Magias/Espirro Ácido\|Espirro Ácido]] | Conjuração |
+| [[Descrições de Magias/Globos De Luz\|Globos de Luz]] | Evocação |
+| [[Descrições de Magias/Ilusão Menor\|Ilusão Menor]] | Ilusão |
+| [[Descrições de Magias/Luz\|Luz]] | Evocação |
+| [[Descrições de Magias/Mãos Mágicas\|Mãos Mágicas]] | Conjuração |
+| [[Descrições de Magias/Mensagem\|Mensagem]] | Transmutação |
+| [[Descrições de Magias/Prestidigitação\|Prestidigitação]] | Transmutação |
+| [[Descrições de Magias/Proteção Contra Lâminas\|Proteção contra Lâminas]] | Abjuração |
+| [[Descrições de Magias/Raio De Fogo\|Raio de Fogo]] | Evocação |
+| [[Descrições de Magias/Raio De Gelo\|Raio de Gelo]] | Evocação |
+| [[Descrições de Magias/Rajada De Veneno\|Rajada de Veneno]] | Conjuração |
+| [[Descrições de Magias/Toque Arrepiante\|Toque Arrepiante]] | Necromancia |
+| [[Descrições de Magias/Toque Chocante\|Toque Chocante]] | Evocação |
 
 > Fonte: Livro do Jogador, p. 213
 
-Raio de Gelo (evocação) Rajada de Veneno (conjuração) Toque Arrepiante (necromancia) Toque Chocante (evocação)
+### 1° Nível
 
-## 1° Nível
-
-Alarme (abjuração, ritual) Área Escorregadia (conjuração)
-
-| Armadura Arcana | (abjuração) |
+| Magia | Escola |
 | --- | --- |
-| Compreender Idiomas (adivinhação, | ritual) |
-| Convocar Familiar (conjuração, | ritual) |
-| Detectar Magia (adivinhação, | ritual) |
-| Disco Flutuante de | Tenser |
-| (conjuração, | ritual) |
-| Disfarçar-se | (ilusão) |
-| Enfeitiçar Pessoa | (encantamento) |
-| Escrita Ilusória (ilusão, | ritual) |
-| Escudo Arcano | (abjuração) |
-| Identificação (adivinhação, | ritual) |
-| Imagem Silenciosa | (ilusão) |
-| Leque Cromático | (ilusão) |
-| Mãos Flamejantes | (evocação) |
-| Mísseis Mágicos | (evocação) |
-| Névoa Obscurecente | (conjuração) |
-| Onda Trovejante | (evocação) |
-| Orbe Cromática | (evocação) |
+| [[Descrições de Magias/Alarme\|Alarme]] | Abjuração (ritual) |
+| [[Descrições de Magias/Área Escorregadia\|Área Escorregadia]] | Conjuração |
+| [[Descrições de Magias/Armadura Arcana\|Armadura Arcana]] | Abjuração |
+| [[Descrições de Magias/Compreender Idiomas\|Compreender Idiomas]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Convocar Familiar\|Convocar Familiar]] | Conjuração (ritual) |
+| [[Descrições de Magias/Detectar Magia\|Detectar Magia]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Disco Flutuante De Tenser\|Disco Flutuante de Tenser]] | Conjuração (ritual) |
+| [[Descrições de Magias/Disfarçar-Se\|Disfarçar-se]] | Ilusão |
+| [[Descrições de Magias/Enfeitiçar Pessoa\|Enfeitiçar Pessoa]] | Encantamento |
+| [[Descrições de Magias/Escrita Ilusória\|Escrita Ilusória]] | Ilusão (ritual) |
+| [[Descrições de Magias/Escudo Arcano\|Escudo Arcano]] | Abjuração |
+| [[Descrições de Magias/Identificação\|Identificação]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Imagem Silenciosa\|Imagem Silenciosa]] | Ilusão |
+| [[Descrições de Magias/Leque Cromático\|Leque Cromático]] | Ilusão |
+| [[Descrições de Magias/Mãos Flamejantes\|Mãos Flamejantes]] | Evocação |
+| [[Descrições de Magias/Mísseis Mágicos\|Mísseis Mágicos]] | Evocação |
+| [[Descrições de Magias/Névoa Obscurecente\|Névoa Obscurecente]] | Conjuração |
+| [[Descrições de Magias/Onda Trovejante\|Onda Trovejante]] | Evocação |
+| [[Descrições de Magias/Orbe Cromática\|Orbe Cromática]] | Evocação |
+| [[Descrições de Magias/Passos Longos\|Passos Longos]] | Transmutação |
+| [[Descrições de Magias/Proteção Contra O Bem E Mal\|Proteção contra o Bem e Mal]] | Abjuração |
+| [[Descrições de Magias/Queda Suave\|Queda Suave]] | Transmutação |
+| [[Descrições de Magias/Raio Adoecente\|Raio Adoecente]] | Necromancia |
+| [[Descrições de Magias/Raio De Bruxa\|Raio de Bruxa]] | Evocação |
+| [[Descrições de Magias/Recuo Acelerado\|Recuo Acelerado]] | Transmutação |
+| [[Descrições de Magias/Riso Histérico De Tasha\|Riso Histérico de Tasha]] | Encantamento |
+| [[Descrições de Magias/Salto\|Salto]] | Transmutação |
+| [[Descrições de Magias/Servo Invisível\|Servo Invisível]] | Conjuração (ritual) |
+| [[Descrições de Magias/Sono\|Sono]] | Encantamento |
+| [[Descrições de Magias/Vitalidade Falsa\|Vitalidade Falsa]] | Necromancia |
 
-Passos Longos (transmutação) Proteção contra o Bem e Mal (abjuração) Queda Suave (transmutação) Raio Adoecente (necromancia) Raio de Bruxa (evocação) Recuo Acelerado (transmutação) Riso Histérico de Tasha (encantamento) Salto (transmutação) Servo Invisível (conjuração, ritual) Sono (encantamento) Vitalidade Falsa (necromancia)
+### 2° Nível
 
-## 2° Nível
-
-Alterar-se (transmutação)
-
-| Arma Mágica | (transmutação) |
+| Magia | Escola |
 | --- | --- |
-| Arrombar | (transmutação) |
-| Aumentar/Reduzir | (transmutação) |
-| Aura Mágica de | Nystul (ilusão) |
-| Boca Encantada (ilusão, | ritual) |
-| Cegueira/Surdez | (necromancia) |
-| Chama Continua | (evocação) |
-| Coroa da Loucura | (encantamento) |
-| Despedaçar | (evocação) |
-| Detectar Pensamentos | (adivinhação) |
-| Escuridão | (evocação) |
-| Esfera Flamejante | (conjuração) |
-| Flecha Ácida de | Melf (evocação) |
-| Força Fantasmagórica | (ilusão) |
-| Imobilizar Pessoa | (encantamento) |
-| Invisibilidade | (ilusão) |
-| Levitação | (transmutação) |
-| Localizar Objeto | (adivinhação) |
+| [[Descrições de Magias/Alterar-Se\|Alterar-se]] | Transmutação |
+| [[Descrições de Magias/Arma Mágica\|Arma Mágica]] | Transmutação |
+| [[Descrições de Magias/Arrombar\|Arrombar]] | Transmutação |
+| [[Descrições de Magias/Aumentar-Reduzir\|Aumentar/Reduzir]] | Transmutação |
+| [[Descrições de Magias/Aura Mágica De Nystul\|Aura Mágica de Nystul]] | Ilusão |
+| [[Descrições de Magias/Boca Encantada\|Boca Encantada]] | Ilusão (ritual) |
+| [[Descrições de Magias/Cegueira-Surdez\|Cegueira/Surdez]] | Necromancia |
+| [[Descrições de Magias/Chama Contínua\|Chama Continua]] | Evocação |
+| [[Descrições de Magias/Coroa Da Loucura\|Coroa da Loucura]] | Encantamento |
+| [[Descrições de Magias/Despedaçar\|Despedaçar]] | Evocação |
+| [[Descrições de Magias/Detectar Pensamentos\|Detectar Pensamentos]] | Adivinhação |
+| [[Descrições de Magias/Escuridão\|Escuridão]] | Evocação |
+| [[Descrições de Magias/Esfera Flamejante\|Esfera Flamejante]] | Conjuração |
+| [[Descrições de Magias/Flecha Ácida De Melf\|Flecha Ácida de Melf]] | Evocação |
+| [[Descrições de Magias/Força Fantasmagórica\|Força Fantasmagórica]] | Ilusão |
+| [[Descrições de Magias/Imobilizar Pessoa\|Imobilizar Pessoa]] | Encantamento |
+| [[Descrições de Magias/Invisibilidade\|Invisibilidade]] | Ilusão |
+| [[Descrições de Magias/Levitação\|Levitação]] | Transmutação |
+| [[Descrições de Magias/Localizar Objeto\|Localizar Objeto]] | Adivinhação |
+| [[Descrições de Magias/Lufada De Vento\|Lufada de Vento]] | Evocação |
+| [[Descrições de Magias/Nublar\|Nublar]] | Ilusão |
+| [[Descrições de Magias/Nuvem De Adagas\|Nuvem de Adagas]] | Conjuração |
+| [[Descrições de Magias/Passo Nebuloso\|Passo Nebuloso]] | Conjuração |
+| [[Descrições de Magias/Patas De Aranha\|Patas de Aranha]] | Transmutação |
+| [[Descrições de Magias/Raio Ardente\|Raio Ardente]] | Evocação |
+| [[Descrições de Magias/Raio Do Enfraquecimento\|Raio do Enfraquecimento]] | Necromancia |
+| [[Descrições de Magias/Reflexos\|Reflexos]] | Ilusão |
+| [[Descrições de Magias/Repouso Tranquilo\|Repouso Tranquilo]] | Necromancia (ritual) |
+| [[Descrições de Magias/Sugestão\|Sugestão]] | Encantamento |
+| [[Descrições de Magias/Teia\|Teia]] | Conjuração |
+| [[Descrições de Magias/Tranca Arcana\|Tranca Arcana]] | Abjuração |
+| [[Descrições de Magias/Truque De Corda\|Truque de Corda]] | Transmutação |
+| [[Descrições de Magias/Ver O Invisível\|Ver o Invisível]] | Adivinhação |
+| [[Descrições de Magias/Visão no Escuro\|Visão no Escuro]] | Transmutação |
 
-Lufada de Vento (evocação) Nublar (ilusão) Nuvem de Adagas (conjuração) Passo Nebuloso (conjuração) Patas de Aranha (transmutação) Raio Ardente (evocação) Raio do Enfraquecimento (necromancia) Reflexos (ilusão) Repouso Tranquilo (necromancia, ritual) Sugestão (encantamento) Teia (conjuração) Tranca Arcana (abjuração) Truque de Corda (transmutação) Ver o Invisível (adivinhação) Visão no Escuro (transmutação)
+### 3° Nível
 
-## 3° Nível
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Animar Mortos\|Animar Mortos]] | Necromancia |
+| [[Descrições de Magias/Bola De Fogo\|Bola de Fogo]] | Evocação |
+| [[Descrições de Magias/Círculo Mágico\|Círculo Mágico]] | Abjuração |
+| [[Descrições de Magias/Clarividência\|Clarividência]] | Adivinhação |
+| [[Descrições de Magias/Contramágica\|Contramágica]] | Abjuração |
+| [[Descrições de Magias/Dificultar Detecção\|Dificultar Detecção]] | Abjuração |
+| [[Descrições de Magias/Dissipar Magia\|Dissipar Magia]] | Abjuração |
+| [[Descrições de Magias/Enviar Mensagem\|Enviar Mensagem]] | Evocação |
+| [[Descrições de Magias/Forjar Morte\|Forjar Morte]] | Necromancia (ritual) |
+| [[Descrições de Magias/Forma Gasosa\|Forma Gasosa]] | Transmutação |
+| [[Descrições de Magias/Glifo De Vigilância\|Glifo de Vigilância]] | Abjuração |
+| [[Descrições de Magias/Idiomas\|Idiomas]] | Adivinhação |
+| [[Descrições de Magias/Imagem Maior\|Imagem Maior]] | Ilusão |
+| [[Descrições de Magias/Lentidão\|Lentidão]] | Transmutação |
+| [[Descrições de Magias/Medo\|Medo]] | Ilusão |
+| [[Descrições de Magias/Montaria Fantasmagórica\|Montaria Fantasmagórica]] | Ilusão (ritual) |
+| [[Descrições de Magias/Nevasca\|Nevasca]] | Conjuração |
+| [[Descrições de Magias/Névoa Fétida\|Névoa Fétida]] | Conjuração |
+| [[Descrições de Magias/Padrão Hipnótico\|Padrão Hipnótico]] | Ilusão |
+| [[Descrições de Magias/Pequena Cabana De Leomund\|Pequena Cabana de Leomund]] | Evocação (ritual) |
+| [[Descrições de Magias/Piscar\|Piscar]] | Transmutação |
+| [[Descrições de Magias/Proteção Contra Energia\|Proteção contra Energia]] | Abjuração |
+| [[Descrições de Magias/Relâmpago\|Relâmpago]] | Evocação |
+| [[Descrições de Magias/Remover Maldição\|Remover Maldição]] | Abjuração |
+| [[Descrições de Magias/Respirar Na Água\|Respirar na Água]] | Transmutação (ritual) |
+| [[Descrições de Magias/Rogar Maldição\|Rogar Maldição]] | Necromancia |
+| [[Descrições de Magias/Toque Vampírico\|Toque Vampírico]] | Necromancia |
+| [[Descrições de Magias/Velocidade\|Velocidade]] | Transmutação |
+| [[Descrições de Magias/Voo\|Voo]] | Transmutação |
 
-Animar Mortos (necromancia) Bola de Fogo (evocação) Círculo Mágico (abjuração) Clarividência (adivinhação) Contramágica (abjuração) Dificultar Detecção (abjuração) Dissipar Magia (abjuração) Enviar Mensagem (evocação) Forjar Morte (necromancia, ritual) Forma Gasosa (transmutação) Glifo de Vigilância (abjuração) Idiomas (adivinhação) Imagem Maior (ilusão) Lentidão (transmutação) Medo (ilusão) Montaria Fantasmagórica (ilusão, ritual) Nevasca (conjuração) Névoa Fétida (conjuração) Padrão Hipnótico (ilusão) Pequena Cabana de Leomund (evocação, ritual) Piscar (transmutação) Proteção contra Energia (abjuração) Relâmpago (evocação) Remover Maldição (abjuração) Respirar na Água (transmutação, ritual) Rogar Maldição (necromancia) Toque Vampírico (necromancia) Velocidade (transmutação) Voo (transmutação)
+### 4° Nível
 
-## 4° Nível
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Arca Secreta De Leomund\|Arca Secreta de Leomund]] | Conjuração |
+| [[Descrições de Magias/Assassino Fantasmagórico\|Assassino Fantasmagórico]] | Ilusão |
+| [[Descrições de Magias/Banimento\|Banimento]] | Abjuração |
+| [[Descrições de Magias/Cão Fiel De Mordenkainen\|Cão Fiel de Mordenkainen]] | Conjuração |
+| [[Descrições de Magias/Confusão\|Confusão]] | Encantamento |
+| [[Descrições de Magias/Conjurar Elementais Menores\|Conjurar Elementais Menores]] | Conjuração |
+| [[Descrições de Magias/Controlar A Água\|Controlar a Água]] | Transmutação |
+| [[Descrições de Magias/Escudo De Fogo\|Escudo de Fogo]] | Evocação |
+| [[Descrições de Magias/Esfera Resiliente De Otiluke\|Esfera Resiliente de Otiluke]] | Evocação |
+| [[Descrições de Magias/Fabricar\|Fabricar]] | Transmutação |
+| [[Descrições de Magias/Invisibilidade Maior\|Invisibilidade Maior]] | Ilusão |
+| [[Descrições de Magias/Localizar Criatura\|Localizar Criatura]] | Adivinhação |
+| [[Descrições de Magias/Malogro\|Malogro]] | Necromancia |
+| [[Descrições de Magias/Metamorfose\|Metamorfose]] | Transmutação |
+| [[Descrições de Magias/Moldar Rochas\|Moldar Rochas]] | Transmutação |
+| [[Descrições de Magias/Muralha De Fogo\|Muralha de Fogo]] | Evocação |
+| [[Descrições de Magias/Olho Arcano\|Olho Arcano]] | Adivinhação |
+| [[Descrições de Magias/Pele De Pedra\|Pele de Pedra]] | Abjuração |
+| [[Descrições de Magias/Porta Dimensional\|Porta Dimensional]] | Conjuração |
+| [[Descrições de Magias/Santuário Particular De Mordenkainen\|Santuário Particular de Mordenkainen]] | Abjuração |
+| [[Descrições de Magias/Tempestade De Gelo\|Tempestade de Gelo]] | Evocação |
+| [[Descrições de Magias/Tentáculos Negros De Evard\|Tentáculos Negros de Evard]] | Conjuração |
+| [[Descrições de Magias/Terreno Alucinógeno\|Terreno Alucinógeno]] | Ilusão |
 
-Arca Secreta de Leomund (conjuração) Assassino Fantasmagórico (ilusão) Banimento (abjuração) Cão Fiel de Mordenkainen (conjuração) Confusão (encantamento) Conjurar Elementais Menores (conjuração) Controlar a Água (transmutação) Escudo de Fogo (evocação) Esfera Resiliente de Otiluke (evocação) Fabricar (transmutação) Invisibilidade Maior (ilusão) Localizar Criatura (adivinhação) Malogro (necromancia) Metamorfose (transmutação) Moldar Rochas (transmutação) Muralha de Fogo (evocação) Olho Arcano (adivinhação) Pele de Pedra (abjuração) Porta Dimensional (conjuração) Santuário Particular de Mordenkainen (abjuração) Tempestade de Gelo (evocação) Tentáculos Negros de Evard (conjuração) Terreno Alucinógeno (ilusão)
+### 5° Nível
 
-## 5° Nível
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Âncora Planar\|Âncora Planar]] | Abjuração |
+| [[Descrições de Magias/Animar Objetos\|Animar Objetos]] | Transmutação |
+| [[Descrições de Magias/Círculo De Teletransporte\|Círculo de Teletransporte]] | Conjuração |
+| [[Descrições de Magias/Cone De Frio\|Cone de Frio]] | Evocação |
+| [[Descrições de Magias/Conhecimento Lendário\|Conhecimento Lendário]] | Adivinhação |
+| [[Descrições de Magias/Conjurar Elemental\|Conjurar Elemental]] | Conjuração |
+| [[Descrições de Magias/Contato Extraplanar\|Contato Extraplanar]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Criação\|Criação]] | Ilusão |
+| [[Descrições de Magias/Criar Passagem\|Criar Passagem]] | Transmutação |
+| [[Descrições de Magias/Despistar\|Despistar]] | Ilusão |
+| [[Descrições de Magias/Dominar Pessoa\|Dominar Pessoa]] | Encantamento |
+| [[Descrições de Magias/Imobilizar Monstro\|Imobilizar Monstro]] | Encantamento |
+| [[Descrições de Magias/Ligação Telepática De Rary\|Ligação Telepática de Rary]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Mão De Bigby\|Mão de Bigby]] | Evocação |
+| [[Descrições de Magias/Missão\|Missão]] | Encantamento |
+| [[Descrições de Magias/Modificar Memória\|Modificar Memória]] | Encantamento |
+| [[Descrições de Magias/Muralha De Energia\|Muralha de Energia]] | Evocação |
+| [[Descrições de Magias/Muralha De Pedra\|Muralha de Pedra]] | Evocação |
+| [[Descrições de Magias/Névoa Mortal\|Névoa Mortal]] | Conjuração |
+| [[Descrições de Magias/Similaridade\|Similaridade]] | Ilusão |
+| [[Descrições de Magias/Sonho\|Sonho]] | Ilusão |
+| [[Descrições de Magias/Telecinésia\|Telecinésia]] | Transmutação |
+| [[Descrições de Magias/Vidência\|Vidência]] | Adivinhação |
 
-Âncora Planar (abjuração) Animar Objetos (transmutação) Círculo de Teletransporte (conjuração) Cone de Frio (evocação) Conhecimento Lendário (adivinhação) Conjurar Elemental (conjuração) Contato Extraplanar (adivinhação, ritual) Criação (ilusão) Criar Passagem (transmutação) Despistar (ilusão) Dominar Pessoa (encantamento) Imobilizar Monstro (encantamento) Ligação Telepática de Rary (adivinhação, ritual) Mão de Bigby (evocação) Missão (encantamento) Modificar Memória (encantamento) Muralha de Energia (evocação) Muralha de Pedra (evocação) Névoa Mortal (conjuração) Similaridade (ilusão) Sonho (ilusão) Telecinésia (transmutação) Vidência (adivinhação)
+### 6° Nível
 
-## 6° Nível
-
-Ataque Visual (necromancia) Carne para Pedra (transmutação) Círculo da Morte (necromancia) Contingência (evocação) Corrente de Relâmpagos (evocação) Criar Mortos-Vivos (necromancia) Dança Irresistível de Otto (encantamento) Desintegrar (transmutação) Esfera Congelante de Otiluke (evocação) Globo de Invulnerabilidade (abjuração) Ilusão Programada (ilusão) Invocação Instantânea de Drawmij (conjuração, ritual) Mover Terra (transmutação) Muralha de Gelo (evocação) Portal Arcano (conjuração) Proteger Fortaleza (abjuração)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Ataque Visual\|Ataque Visual]] | Necromancia |
+| [[Descrições de Magias/Carne Para Pedra\|Carne para Pedra]] | Transmutação |
+| [[Descrições de Magias/Círculo Da Morte\|Círculo da Morte]] | Necromancia |
+| [[Descrições de Magias/Contingência\|Contingência]] | Evocação |
+| [[Descrições de Magias/Corrente De Relâmpagos\|Corrente de Relâmpagos]] | Evocação |
+| [[Descrições de Magias/Criar Mortos-Vivos\|Criar Mortos-Vivos]] | Necromancia |
+| [[Descrições de Magias/Dança Irresistível De Otto\|Dança Irresistível de Otto]] | Encantamento |
+| [[Descrições de Magias/Desintegrar\|Desintegrar]] | Transmutação |
+| [[Descrições de Magias/Esfera Congelante De Otiluke\|Esfera Congelante de Otiluke]] | Evocação |
+| [[Descrições de Magias/Globo De Invulnerabilidade\|Globo de Invulnerabilidade]] | Abjuração |
+| [[Descrições de Magias/Ilusão Programada\|Ilusão Programada]] | Ilusão |
+| [[Descrições de Magias/Invocação Instantânea De Drawmij\|Invocação Instantânea de Drawmij]] | Conjuração (ritual) |
+| [[Descrições de Magias/Mover Terra\|Mover Terra]] | Transmutação |
+| [[Descrições de Magias/Muralha De Gelo\|Muralha de Gelo]] | Evocação |
+| [[Descrições de Magias/Portal Arcano\|Portal Arcano]] | Conjuração |
+| [[Descrições de Magias/Proteger Fortaleza\|Proteger Fortaleza]] | Abjuração |
+| [[Descrições de Magias/Raio Solar\|Raio Solar]] | Evocação |
+| [[Descrições de Magias/Recipiente Arcano\|Recipiente Arcano]] | Necromancia |
+| [[Descrições de Magias/Sugestão Em Massa\|Sugestão em Massa]] | Encantamento |
+| [[Descrições de Magias/Visão da Verdade\|Visão da Verdade]] | Adivinhação |
 
 > Fonte: Livro do Jogador, p. 214
 
-Raio Solar (evocação) Recipiente Arcano (necromancia) Sugestão em Massa (encantamento) Visão da Verdade (adivinhação)
+### 7° Nível
 
-## 7° Nível
-
-Bola de Fogo Controlável (evocação) Dedo da Morte (necromancia) Espada de Mordenkainen (evocação) Inverter a Gravidade (transmutação) Isolamento (transmutação) Forma Etérea (transmutação) Mansão Magnifica de Mordenkainen (conjuração) Miragem (ilusão) Prisão de Energia (evocação) Projetar Imagem (ilusão) Rajada Prismática (evocação) Símbolo (abjuração) Simulacro (ilusão) Teletransporte (conjuração) Viagem Planar (conjuração)
-
-## 8° Nível
-
-Antipatia/Simpatia (encantamento) Campo Antimagia (abjuração) Clone (necromancia) Controlar o Clima (transmutação) Dominar Monstro (encantamento) Enfraquecer o Intelecto (encantamento) Explosão Solar (evocação) Labirinto (conjuração) Limpar a Mente (abjuração) Nuvem Incendiária (conjuração) Palavra de Poder Atordoar (encantamento) Semiplano (conjuração) Telepatia (evocação)
-
-## 9° Nível
-
-Alterar Forma (transmutação) Aprisionamento (abjuração) Chuva de Meteoros (evocação) Desejo (conjuração) Encarnação Fantasmagórica (ilusão) Metamorfose Verdadeira (transmutação) Muralha Prismática (abjuração) Palavra de Poder Matar (encantamento) Parar o Tempo (transmutação) Portal (conjuração) Projeção Astral (necromancia) Sexto Sentido (adivinhação)
-
-## Magias De Paladino 1° Nível
-
-Auxílio Divino (evocação) Bênção (encantamento) Comando (encantamento) Curar Ferimentos (evocação) Destruição Colérica (evocação) Destruição Lancinante (evocação) Destruição Trovejante (evocação) Detectar o Bem e Mal (adivinhação) Detectar Magia (adivinhação, ritual) Detectar Veneno e Doença (adivinhação, ritual) Duelo Compelido (encantamento) Escudo da Fé (abjuração) Heroísmo (encantamento) Proteção contra o Bem e Mal (abjuração) Purificar Alimentos (transmutação, ritual)
-
-## 2° Nível
-
-Ajuda (abjuração)
-
-| Arma Mágica | (transmutação) |
+| Magia | Escola |
 | --- | --- |
-| Convocar Montaria | (conjuração) |
-| Localizar Objeto | (adivinhação) |
-| Marca da Punição | (evocação) |
-| Proteção contra Veneno | (abjuração) |
-| Restauração Menor | (abjuração) |
-| Zona da Verdade | (encantamento) |
+| [[Descrições de Magias/Bola De Fogo Controlável\|Bola de Fogo Controlável]] | Evocação |
+| [[Descrições de Magias/Dedo Da Morte\|Dedo da Morte]] | Necromancia |
+| [[Descrições de Magias/Espada De Mordenkainen\|Espada de Mordenkainen]] | Evocação |
+| [[Descrições de Magias/Inverter A Gravidade\|Inverter a Gravidade]] | Transmutação |
+| [[Descrições de Magias/Isolamento\|Isolamento]] | Transmutação |
+| [[Descrições de Magias/Forma Etérea\|Forma Etérea]] | Transmutação |
+| [[Descrições de Magias/Mansão Magnífica De Mordenkainen\|Mansão Magnifica de Mordenkainen]] | Conjuração |
+| [[Descrições de Magias/Miragem\|Miragem]] | Ilusão |
+| [[Descrições de Magias/Prisão De Energia\|Prisão de Energia]] | Evocação |
+| [[Descrições de Magias/Projetar Imagem\|Projetar Imagem]] | Ilusão |
+| [[Descrições de Magias/Rajada Prismática\|Rajada Prismática]] | Evocação |
+| [[Descrições de Magias/Símbolo\|Símbolo]] | Abjuração |
+| [[Descrições de Magias/Simulacro\|Simulacro]] | Ilusão |
+| [[Descrições de Magias/Teletransporte\|Teletransporte]] | Conjuração |
+| [[Descrições de Magias/Viagem Planar\|Viagem Planar]] | Conjuração |
 
-## 3° Nível
+### 8° Nível
 
-| Arma Elemental | (transmutação) |
+| Magia | Escola |
 | --- | --- |
-| Aura de Vitalidade | (evocação) |
-| Círculo Mágico | (abjuração) |
-| Criar Alimentos | (conjuração) |
-| Destruição Cegante | (evocação) |
-| Dissipar Magia | (abjuração) |
-| Luz do Dia | (evocação) |
-| Manto do Cruzado | (evocação) |
-| Remover Maldição | (abjuração) |
-| Revivificar | (necromancia) |
+| [[Descrições de Magias/Antipatia-Simpatia\|Antipatia/Simpatia]] | Encantamento |
+| [[Descrições de Magias/Campo Antimagia\|Campo Antimagia]] | Abjuração |
+| [[Descrições de Magias/Clone\|Clone]] | Necromancia |
+| [[Descrições de Magias/Controlar O Clima\|Controlar o Clima]] | Transmutação |
+| [[Descrições de Magias/Dominar Monstro\|Dominar Monstro]] | Encantamento |
+| [[Descrições de Magias/Enfraquecer Intelecto\|Enfraquecer o Intelecto]] | Encantamento |
+| [[Descrições de Magias/Explosão Solar\|Explosão Solar]] | Evocação |
+| [[Descrições de Magias/Labirinto\|Labirinto]] | Conjuração |
+| [[Descrições de Magias/Limpar A Mente\|Limpar a Mente]] | Abjuração |
+| [[Descrições de Magias/Nuvem Incendiária\|Nuvem Incendiária]] | Conjuração |
+| [[Descrições de Magias/Palavra De Poder Atordoar\|Palavra de Poder Atordoar]] | Encantamento |
+| [[Descrições de Magias/Semiplano\|Semiplano]] | Conjuração |
+| [[Descrições de Magias/Telepatia\|Telepatia]] | Evocação |
 
-## 4° Nível
+### 9° Nível
 
-Aura de Pureza (abjuração) Aura de Vida (bjuração) Banimento (abjuração) Destruição Estonteante (evocação) Localizar Criatura (adivinhação) Proteção contra a Morte (abjuração)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Alterar Forma\|Alterar Forma]] | Transmutação |
+| [[Descrições de Magias/Aprisionamento\|Aprisionamento]] | Abjuração |
+| [[Descrições de Magias/Chuva De Meteoros\|Chuva de Meteoros]] | Evocação |
+| [[Descrições de Magias/Desejo\|Desejo]] | Conjuração |
+| [[Descrições de Magias/Encarnação Fantasmagórica\|Encarnação Fantasmagórica]] | Ilusão |
+| [[Descrições de Magias/Metamorfose Verdadeira\|Metamorfose Verdadeira]] | Transmutação |
+| [[Descrições de Magias/Muralha Prismática\|Muralha Prismática]] | Abjuração |
+| [[Descrições de Magias/Palavra De Poder Matar\|Palavra de Poder Matar]] | Encantamento |
+| [[Descrições de Magias/Parar O Tempo\|Parar o Tempo]] | Transmutação |
+| [[Descrições de Magias/Portal\|Portal]] | Conjuração |
+| [[Descrições de Magias/Projeção Astral\|Projeção Astral]] | Necromancia |
+| [[Descrições de Magias/Sexto Sentido\|Sexto Sentido]] | Adivinhação |
 
-## 5° Nível
+## Magias De Paladino 
+### 1° Nível
 
-Círculo de Poder (abjuração) Destruição Banidora (abjuração) Dissipar o Bem e Mal (abjuração) Missão (encantamento) Onda Destrutiva (evocação) Reviver os Mortos (necromancia)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Auxílio Divino\|Auxílio Divino]] | Evocação |
+| [[Descrições de Magias/Bênção\|Bênção]] | Encantamento |
+| [[Descrições de Magias/Comando\|Comando]] | Encantamento |
+| [[Descrições de Magias/Curar Ferimentos\|Curar Ferimentos]] | Evocação |
+| [[Descrições de Magias/Destruição Colérica\|Destruição Colérica]] | Evocação |
+| [[Descrições de Magias/Destruição Lancinante\|Destruição Lancinante]] | Evocação |
+| [[Descrições de Magias/Destruição Trovejante\|Destruição Trovejante]] | Evocação |
+| [[Descrições de Magias/Detectar O Bem E Mal\|Detectar o Bem e Mal]] | Adivinhação |
+| [[Descrições de Magias/Detectar Magia\|Detectar Magia]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Detectar Veneno E Doença\|Detectar Veneno e Doença]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Duelo Compelido\|Duelo Compelido]] | Encantamento |
+| [[Descrições de Magias/Escudo Da Fé\|Escudo da Fé]] | Abjuração |
+| [[Descrições de Magias/Heroísmo\|Heroísmo]] | Encantamento |
+| [[Descrições de Magias/Proteção Contra O Bem E Mal\|Proteção contra o Bem e Mal]] | Abjuração |
+| [[Descrições de Magias/Purificar Alimentos\|Purificar Alimentos]] | Transmutação (ritual) |
 
-## Magias De Patrulheiro 1° Nível
+### 2° Nível
 
-Alarme (abjuração, ritual) Amizade Animal (encantamento) Bom Fruto (transmutação) Curar Ferimentos (evocação) Detectar Magia (adivinhação, ritual) Detectar Veneno e Doença (adivinhação, ritual) Falar com Animais (adivinhação, ritual) Golpe Constritor (conjuração) Marca do Caçador (adivinhação) Névoa Obscurecente (conjuração) Passos Longos (transmutação) Salto (transmutação) Saraivada de Espinhos (conjuração)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Ajuda\|Ajuda]] | Abjuração |
+| [[Descrições de Magias/Arma Mágica\|Arma Mágica]] | Transmutação |
+| [[Descrições de Magias/Convocar Montaria\|Convocar Montaria]] | Conjuração |
+| [[Descrições de Magias/Localizar Objeto\|Localizar Objeto]] | Adivinhação |
+| [[Descrições de Magias/Marca Da Punição\|Marca da Punição]] | Evocação |
+| [[Descrições de Magias/Proteção Contra Veneno\|Proteção contra Veneno]] | Abjuração |
+| [[Descrições de Magias/Restauração Menor\|Restauração Menor]] | Abjuração |
+| [[Descrições de Magias/Zona da Verdade\|Zona da Verdade]] | Encantamento |
 
-## 2° Nível
+### 3° Nível
 
-Cordão de Flechas (transmutação) Crescer Espinhos (transmutação) Encontrar Armadilhas (adivinhação) Localizar Animais ou Plantas (adivinhação, ritual) Localizar Objeto (adivinhação) Mensageiro Animal (encantamento, ritual) Passos sem Pegadas (abjuração) Pele de Árvore (transmutação) Proteção contra Veneno (abjuração) Restauração Menor (abjuração) Sentido Bestial (adivinhação, ritual) Silêncio (ilusão, ritual) Visão no Escuro (transmutação)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Arma Elemental\|Arma Elemental]] | Transmutação |
+| [[Descrições de Magias/Aura De Vitalidade\|Aura de Vitalidade]] | Evocação |
+| [[Descrições de Magias/Círculo Mágico\|Círculo Mágico]] | Abjuração |
+| [[Descrições de Magias/Criar Alimentos\|Criar Alimentos]] | Conjuração |
+| [[Descrições de Magias/Destruição Cegante\|Destruição Cegante]] | Evocação |
+| [[Descrições de Magias/Dissipar Magia\|Dissipar Magia]] | Abjuração |
+| [[Descrições de Magias/Luz Do Dia\|Luz do Dia]] | Evocação |
+| [[Descrições de Magias/Manto Do Cruzado\|Manto do Cruzado]] | Evocação |
+| [[Descrições de Magias/Remover Maldição\|Remover Maldição]] | Abjuração |
+| [[Descrições de Magias/Revivificar\|Revivificar]] | Necromancia |
 
-## 3° Nível
+### 4° Nível
 
-Ampliar Plantas (transmutação) Andar na Água (transmutação, ritual) Conjurar Animais (conjuração) Conjurar Rajada (conjuração) Dificultar Detecção (abjuração) Falar com Plantas (transmutação) Flecha Relampejante (transmutação) Luz do Dia (evocação) Muralha de Vento (evocação) Proteção contra Energia (abjuração) Respirar na Água (transmutação, ritual)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Aura De Pureza\|Aura de Pureza]] | Abjuração |
+| [[Descrições de Magias/Aura De Vida\|Aura de Vida]] | Abjuração |
+| [[Descrições de Magias/Banimento\|Banimento]] | Abjuração |
+| [[Descrições de Magias/Destruição Estonteante\|Destruição Estonteante]] | Evocação |
+| [[Descrições de Magias/Localizar Criatura\|Localizar Criatura]] | Adivinhação |
+| [[Descrições de Magias/Proteção Contra A Morte\|Proteção contra a Morte]] | Abjuração |
 
-## 4° Nível
+### 5° Nível
 
-Conjurar Seres da Floresta (conjuração) Localizar Criatura (adivinhação) Movimentação Livre (abjuração) Pele de Pedra (abjuração) Vinha Esmagadora (conjuração)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Círculo De Poder\|Círculo de Poder]] | Abjuração |
+| [[Descrições de Magias/Destruição Banidora\|Destruição Banidora]] | Abjuração |
+| [[Descrições de Magias/Dissipar O Bem E Mal\|Dissipar o Bem e Mal]] | Abjuração |
+| [[Descrições de Magias/Missão\|Missão]] | Encantamento |
+| [[Descrições de Magias/Onda Destrutiva\|Onda Destrutiva]] | Evocação |
+| [[Descrições de Magias/Reviver Os Mortos\|Reviver os Mortos]] | Necromancia |
 
-## 5° Nível
+## Magias De Patrulheiro 
+### 1° Nível
 
-Aljava Veloz (transmutação) Caminhar em Árvores (conjuração) Comunhão com a Natureza (adivinhação, ritual) Conjurar Saraivada (conjuração)
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Alarme\|Alarme]] | Abjuração (ritual) |
+| [[Descrições de Magias/Amizade Animal\|Amizade Animal]] | Encantamento |
+| [[Descrições de Magias/Bom Fruto\|Bom Fruto]] | Transmutação |
+| [[Descrições de Magias/Curar Ferimentos\|Curar Ferimentos]] | Evocação |
+| [[Descrições de Magias/Detectar Magia\|Detectar Magia]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Detectar Veneno E Doença\|Detectar Veneno e Doença]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Falar Com Animais\|Falar com Animais]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Golpe Constritor\|Golpe Constritor]] | Conjuração |
+| [[Descrições de Magias/Marca Do Caçador\|Marca do Caçador]] | Adivinhação |
+| [[Descrições de Magias/Névoa Obscurecente\|Névoa Obscurecente]] | Conjuração |
+| [[Descrições de Magias/Passos Longos\|Passos Longos]] | Transmutação |
+| [[Descrições de Magias/Salto\|Salto]] | Transmutação |
+| [[Descrições de Magias/Saraivada De Espinhos\|Saraivada de Espinhos]] | Conjuração |
+
+### 2° Nível
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Cordão De Flechas\|Cordão de Flechas]] | Transmutação |
+| [[Descrições de Magias/Crescer Espinhos\|Crescer Espinhos]] | Transmutação |
+| [[Descrições de Magias/Encontrar Armadilhas\|Encontrar Armadilhas]] | Adivinhação |
+| [[Descrições de Magias/Localizar Animais Ou Plantas\|Localizar Animais ou Plantas]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Localizar Objeto\|Localizar Objeto]] | Adivinhação |
+| [[Descrições de Magias/Mensageiro Animal\|Mensageiro Animal]] | Encantamento (ritual) |
+| [[Descrições de Magias/Passos Sem Pegadas\|Passos sem Pegadas]] | Abjuração |
+| [[Descrições de Magias/Pele De Árvore\|Pele de Árvore]] | Transmutação |
+| [[Descrições de Magias/Proteção Contra Veneno\|Proteção contra Veneno]] | Abjuração |
+| [[Descrições de Magias/Restauração Menor\|Restauração Menor]] | Abjuração |
+| [[Descrições de Magias/Sentido Bestial\|Sentido Bestial]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Silêncio\|Silêncio]] | Ilusão (ritual) |
+| [[Descrições de Magias/Visão no Escuro\|Visão no Escuro]] | Transmutação |
+
+### 3° Nível
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Ampliar Plantas\|Ampliar Plantas]] | Transmutação |
+| [[Descrições de Magias/Andar Na Água\|Andar na Água]] | Transmutação (ritual) |
+| [[Descrições de Magias/Conjurar Animais\|Conjurar Animais]] | Conjuração |
+| [[Descrições de Magias/Conjurar Rajada\|Conjurar Rajada]] | Conjuração |
+| [[Descrições de Magias/Dificultar Detecção\|Dificultar Detecção]] | Abjuração |
+| [[Descrições de Magias/Falar Com Plantas\|Falar com Plantas]] | Transmutação |
+| [[Descrições de Magias/Flecha Relampejante\|Flecha Relampejante]] | Transmutação |
+| [[Descrições de Magias/Luz Do Dia\|Luz do Dia]] | Evocação |
+| [[Descrições de Magias/Muralha De Vento\|Muralha de Vento]] | Evocação |
+| [[Descrições de Magias/Proteção Contra Energia\|Proteção contra Energia]] | Abjuração |
+| [[Descrições de Magias/Respirar Na Água\|Respirar na Água]] | Transmutação (ritual) |
+
+### 4° Nível
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Conjurar Seres Da Floresta\|Conjurar Seres da Floresta]] | Conjuração |
+| [[Descrições de Magias/Localizar Criatura\|Localizar Criatura]] | Adivinhação |
+| [[Descrições de Magias/Movimentação Livre\|Movimentação Livre]] | Abjuração |
+| [[Descrições de Magias/Pele De Pedra\|Pele de Pedra]] | Abjuração |
+| [[Descrições de Magias/Vinha Esmagadora\|Vinha Esmagadora]] | Conjuração |
+
+### 5° Nível
+
+| Magia | Escola |
+| --- | --- |
+| [[Descrições de Magias/Aljava Veloz\|Aljava Veloz]] | Transmutação |
+| [[Descrições de Magias/Caminhar Em Árvores\|Caminhar em Árvores]] | Conjuração |
+| [[Descrições de Magias/Comunhão Com A Natureza\|Comunhão com a Natureza]] | Adivinhação (ritual) |
+| [[Descrições de Magias/Conjurar Saraivada\|Conjurar Saraivada]] | Conjuração |

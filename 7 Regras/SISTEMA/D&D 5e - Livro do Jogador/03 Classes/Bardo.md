@@ -59,7 +59,12 @@ Armaduras: Armaduras leves Armas: Armas simples, bestas de mão, espadas longas,
 
 ## Equipamento
 
-Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:  (a) uma rapieira, (b) uma espada longa ou (c) qualquer arma simples  (a) um pacote de diplomata ou (b) um pacote de artista  (a) um lute ou (b) qualquer outro instrumento musical  Armadura de couro e uma adaga
+Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:
+
+- (a) uma rapieira, (b) uma espada longa ou (c) qualquer arma simples
+- (a) um pacote de diplomata ou (b) um pacote de artista
+- (a) um lute ou (b) qualquer outro instrumento musical
+- Armadura de couro e uma adaga
 
 ## Conjuração
 

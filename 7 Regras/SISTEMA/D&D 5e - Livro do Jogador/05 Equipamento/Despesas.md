@@ -31,7 +31,15 @@ As despesas de estilo de vida fornecem uma maneira simples de explicar o custo d
 
 ## Despesas De Estilo De Vida
 
-Estilo de Vida Preço/dia Miserável – Esquálido 1 pp Pobre 2 pp Modesto 1 po Confortável 2 po Rico 4 po Aristocrático 10 po no mínimo
+| Estilo de Vida | Preço/dia |
+| --- | ---: |
+| Miserável | – |
+| Esquálido | 1 pp |
+| Pobre | 2 pp |
+| Modesto | 1 po |
+| Confortável | 2 po |
+| Rico | 4 po |
+| Aristocrático | 10 po no mínimo |
 
 > Fonte: Livro do Jogador, p. 160
 
@@ -43,4 +51,29 @@ A tabela Comida, Bebida e Hospedagem mostra os preços para itens alimentícios 
 
 ## Comida, Bebida E Hospedagem
 
-Item Custo Acomodação em estalagem (diária) Esquálida 7 pc Pobre 1 pp Modesta 5 pp Confortável 8 pp Rica 2 po Aristocrática 4 po Banquete (por pessoa) 10 po Carne, pedaço 3 pp Cerveja Galão 2 pp Caneca 4 pc Pão, pedaço 2 pc Queijo, pedaço 1 pp Refeição (diária) Esquálida 3 pc Pobre 6 pc Modesta 3 pp Confortável 5 pp Rica 8 pp Aristocrática 2 po Vinho Comum (jarra) 2 pp Fino (garrafa) 10 po
+| Item | Custo |
+| --- | ---: |
+| **Acomodação em estalagem (diária)** |  |
+| Esquálida | 7 pc |
+| Pobre | 1 pp |
+| Modesta | 5 pp |
+| Confortável | 8 pp |
+| Rica | 2 po |
+| Aristocrática | 4 po |
+| Banquete (por pessoa) | 10 po |
+| Carne, pedaço | 3 pp |
+| **Cerveja** |  |
+| Galão | 2 pp |
+| Caneca | 4 pc |
+| Pão, pedaço | 2 pc |
+| Queijo, pedaço | 1 pp |
+| **Refeição (diária)** |  |
+| Esquálida | 3 pc |
+| Pobre | 6 pc |
+| Modesta | 3 pp |
+| Confortável | 5 pp |
+| Rica | 8 pp |
+| Aristocrática | 2 po |
+| **Vinho** |  |
+| Comum (jarra) | 2 pp |
+| Fino (garrafa) | 10 po |

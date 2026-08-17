@@ -61,7 +61,12 @@ Armaduras: Nenhuma Armas: Adagas, dardos, fundas, bordões, bestas leves Ferrame
 
 ## Equipamento
 
-Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:  (a) um bordão ou (b) uma adaga  (a) uma bolsa de componentes ou (b) um foco arcano  (a) um pacote de estudioso ou (b) um pacote de explorador  Um grimório
+Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:
+
+- (a) um bordão ou (b) uma adaga
+- (a) uma bolsa de componentes ou (b) um foco arcano
+- (a) um pacote de estudioso ou (b) um pacote de explorador
+- Um grimório
 
 > Fonte: Livro do Jogador, p. 96
 
@@ -296,7 +301,10 @@ A partir do 2° nível, você ganha a habilidade de ceifar a energia vital das c
 
 ## Escravos Mortos-Vivos
 
-No 6° nível, você adiciona a magia animar mortos ao seu grimório se você ainda não a possuir. Quando você conjurar animar mortos, você pode escolher um corpo ou pilha de ossos adicional, criando outro zumbi ou esqueleto, como apropriado. Toda vez que você criar um morto-vivo através de uma magia de necromancia, ele terá benefícios adicionais:  O máximo de pontos de vida da criatura aumenta numa quantidade igual a seu nível de mago.  A criatura adiciona seu bônus de proficiência as suas jogadas de dano.
+No 6° nível, você adiciona a magia animar mortos ao seu grimório se você ainda não a possuir. Quando você conjurar animar mortos, você pode escolher um corpo ou pilha de ossos adicional, criando outro zumbi ou esqueleto, como apropriado. Toda vez que você criar um morto-vivo através de uma magia de necromancia, ele terá benefícios adicionais:
+
+- O máximo de pontos de vida da criatura aumenta numa quantidade igual a seu nível de mago.
+- A criatura adiciona seu bônus de proficiência as suas jogadas de dano.
 
 ## Acostumado À Morte-Vida
 
@@ -320,7 +328,14 @@ A partir do 2° nível, quando você escolhe essa escola, você pode alterar tem
 
 ## Pedra De Transmutador
 
-A partir do 6° nível, você pode gastar 8 horas criando uma pedra de transmutador que armazena magia de transmutação. Você pode se beneficiar da pedra ou dá-la para outra criatura. Uma criatura ganha um benefício, à sua escolha, enquanto a pedra estiver em sua posse. Quando você cria a pedra, escolha um benefício dentre as opções a seguir:  Visão no escuro com alcance de 18 metros, como descrito no capítulo 8  Um aumento de 3 metros no deslocamento enquanto a criatura não estiver sobrecarregada  Proficiência em testes de resistência de Constituição  Resistência a dano de ácido, frio, fogo, elétrico ou trovejante (escolhido por você quando escolhe esse benefício) Cada vez que você conjurar uma magia de conjuração de 1° nível ou superior, você pode mudar o efeito da sua pedra, se ela estiver em sua posse. Se você criar uma nova pedra de transmutador, a anterior para de funcionar.
+A partir do 6° nível, você pode gastar 8 horas criando uma pedra de transmutador que armazena magia de transmutação. Você pode se beneficiar da pedra ou dá-la para outra criatura. Uma criatura ganha um benefício, à sua escolha, enquanto a pedra estiver em sua posse. Quando você cria a pedra, escolha um benefício dentre as opções a seguir:
+
+- Visão no escuro com alcance de 18 metros, como descrito no capítulo 8
+- Um aumento de 3 metros no deslocamento enquanto a criatura não estiver sobrecarregada
+- Proficiência em testes de resistência de Constituição
+- Resistência a dano de ácido, frio, fogo, elétrico ou trovejante (escolhido por você quando escolhe esse benefício)
+
+Cada vez que você conjurar uma magia de conjuração de 1° nível ou superior, você pode mudar o efeito da sua pedra, se ela estiver em sua posse. Se você criar uma nova pedra de transmutador, a anterior para de funcionar.
 
 ## Metamorfo
 

@@ -79,7 +79,12 @@ Armaduras: Todas as armaduras, escudos Armas: Armas simples, armas marciais Ferr
 
 ## Equipamento
 
-Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:  (a) uma arma marcial e um escudo ou (b) duas armas marciais  (a) cinco azagaias ou (b) qualquer arma simples corpo-a-corpo  (a) um pacote de sacerdote ou (b) um pacote de aventureiro  Cota de malha e um símbolo sagrado
+Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:
+
+- (a) uma arma marcial e um escudo ou (b) duas armas marciais
+- (a) cinco azagaias ou (b) qualquer arma simples corpo-a-corpo
+- (a) um pacote de sacerdote ou (b) um pacote de aventureiro
+- Cota de malha e um símbolo sagrado
 
 ## Sentido Divino
 
@@ -255,7 +260,13 @@ A partir do 15° nível, quando você for reduzido a 0 pontos de vida, mas não 
 
 ## Campeão Dos Anciões
 
-No 20° nível, você pode assumir a forma de uma antiga força da natureza, tomando a aparência que desejar. Por exemplo, sua pele poderia ficar verde ou adquirir uma textura de casca de árvore, seu cabelo poderia ficar com aparência de folhas ou musgo ou poderia crescer galhadas ou uma juba como a de um leão. Usando sua ação, você sofre uma transformação. Por 1 minuto, você ganha os seguintes benefícios:  No início de cada um dos seus turnos, você recupera 10 pontos de vida.  Sempre que você for conjurar uma magia de paladino que tiver um tempo de conjuração de 1 ação, você pode conjurá-la usando uma ação bônus, ao invés.  Criaturas inimigas a até 3 metros de você tem desvantagem em testes de resistência contra suas magias de paladino e as opções de Canalizar Divindade. Uma vez que você use essa característica, não poderá fazê-lo novamente até ter terminado um descanso longo.
+No 20° nível, você pode assumir a forma de uma antiga força da natureza, tomando a aparência que desejar. Por exemplo, sua pele poderia ficar verde ou adquirir uma textura de casca de árvore, seu cabelo poderia ficar com aparência de folhas ou musgo ou poderia crescer galhadas ou uma juba como a de um leão. Usando sua ação, você sofre uma transformação. Por 1 minuto, você ganha os seguintes benefícios:
+
+- No início de cada um dos seus turnos, você recupera 10 pontos de vida.
+- Sempre que você for conjurar uma magia de paladino que tiver um tempo de conjuração de 1 ação, você pode conjurá-la usando uma ação bônus, ao invés.
+- Criaturas inimigas a até 3 metros de você tem desvantagem em testes de resistência contra suas magias de paladino e as opções de Canalizar Divindade.
+
+Uma vez que você use essa característica, não poderá fazê-lo novamente até ter terminado um descanso longo.
 
 > Fonte: Livro do Jogador, p. 114
 
@@ -295,4 +306,9 @@ A partir do 15° nível, a autoridade com a qual você fala seu Voto de Inimizad
 
 ## Anjo Vingador
 
-No 20° nível, você pode assumir a forma de um anjo vingador. Usando sua ação, você sofre uma transformação. Por 1 hora, você ganha os seguintes benefícios:  Asas crescem nas suas costas e lhe concedem deslocamento de voo de 18 metros.  Você emana uma aura de ameaça num raio de 9 metros. A primeira vez que qualquer criatura inimiga entrar na aura ou começar seu turno nela, durante uma batalha, a criatura deve ser bem sucedida num teste de resistência de Sabedoria ou ficará amedrontada em relação a você por 1 minuto ou até sofrer qualquer dano. Jogadas de ataque contra a criatura amedrontada tem vantagem. Uma vez que você use essa característica, não poderá fazê-lo novamente até ter terminado um descanso longo.
+No 20° nível, você pode assumir a forma de um anjo vingador. Usando sua ação, você sofre uma transformação. Por 1 hora, você ganha os seguintes benefícios:
+
+- Asas crescem nas suas costas e lhe concedem deslocamento de voo de 18 metros.
+- Você emana uma aura de ameaça num raio de 9 metros. A primeira vez que qualquer criatura inimiga entrar na aura ou começar seu turno nela, durante uma batalha, a criatura deve ser bem sucedida num teste de resistência de Sabedoria ou ficará amedrontada em relação a você por 1 minuto ou até sofrer qualquer dano. Jogadas de ataque contra a criatura amedrontada tem vantagem.
+
+Uma vez que você use essa característica, não poderá fazê-lo novamente até ter terminado um descanso longo.

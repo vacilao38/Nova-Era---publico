@@ -29,33 +29,159 @@ Esta seção descreve os itens que possuem regras especiais ou requerem mais exp
 
 ## Armas
 
-Nome Preço Dano Peso Propriedades Armas Simples Corpo-a-Corpo Adaga 2 po 1d4 perfurante 0,5 kg Acuidade, leve, arremesso (distância 6/18) Azagaia 5 pp 1d6 perfurante 1 kg Arremesso (distância 9/36) Bordão 2 pp 1d6 concussão 2 kg Versátil (1d8) Clava Grande 2 pp 1d8 concussão 5 kg Pesada, duas mãos Foice Curta 1 po 1d4 cortante 1 kg Leve Lança 1 po 1d6 perfurante 1,5 kg Arremesso (distância 6/18), versátil (1d8) Maça 5 po 1d6 concussão 2 kg – Machadinha 5 po 1d6 cortante 1 kg Leve, arremesso (distância 6/18) Martelo Leve 2 po 1d4 concussão 1 kg Leve, arremesso (distância 6/18) Porrete 1 pp 1d4 concussão 1 kg Leve Armas Simples à Distância Arco Curto 25 po 1d6 perfurante 1 kg Munição (distância 24/96), duas mãos Beste Leve 25 po 1d8 perfurante 2,5 kg Munição (distância 24/96), recarga, duas mãos Dardo 5 pc 1d4 perfurante 0,1 kg Acuidade, arremesso (distância 6/18) Funda 1 pp 1d4 concussão – Munição (distância 9/36) Armas Marciais Corpo-a-Corpo Alabarda 20 po 1d10 cortante 3 kg Pesada, alcance, duas mãos Cimitarra 25 po 1d6 cortante 1,5 kg Acuidade, leve Chicote 2 po 1d4 cortante 1,5 kg Acuidade, alcance Espada Curta 10 po 1d6 perfurante 1 kg Acuidade, leve Espada Grande 50 po 2d6 cortante 3 kg Pesada, duas mãos Espada Longa 15 po 1d8 cortante 1,5 kg Versátil (1d10) Glaive 20 po 1d10 cortante 3 kg Pesada, alcance, duas mãos Lança de Montaria 10 po 1d12 perfurante 3 kg Alcance, especial Lança Longa 5 po 1d10 perfurante 4 kg Pesada, alcance, duas mãos Maça Estrela 15 po 1d8 perfurante 2 kg – Machado Grande 30 po 1d12 cortante 3,5 kg Pesada, duas mãos Machado de Batalha 10 po 1d8 cortante 2 kg Versátil (1d10) Malho 10 po 2d6 concussão 5 kg Pesada, duas mãos Mangual 10 po 1d8 concussão 1 kg – Martelo de Guerra 15 po 1d8 concussão 1 kg Versátil (1d10) Picareta de Guerra 5 po 1d8 perfurante 1 kg – Rapieira 25 po 1d8 perfurante 1 kg Acuidade Tridente 5 po 1d6 perfurante 2 kg Arremesso (6/18), versátil (1d8) Armas Marciais à Distância Arco Longo 50 po 1d8 perfurante 1 kg Munição (distância 45/180), pesada, duas mãos Besta de Mão 75 po 1d6 perfurante 1,5 kg Munição (distância 9/36), leve, recarga Besta Pesada 50 po 1d10 perfurante 4,5 kg Munição (distância 30/120), pesada, recarga, duas mãos Rede 1 po – 1,5 kg Especial, arremesso (distância 1,5/4,5) Zarabatana 10 po 1 perfurante 0,5 kg Munição (distância 7,5/30), recarga
+| Nome                             | Preço | Dano            |   Peso | Propriedades                                           |
+| -------------------------------- | ----: | --------------- | -----: | ------------------------------------------------------ |
+| **Armas Simples Corpo-a-Corpo**  |       |                 |        |                                                        |
+| Adaga                            |  2 po | 1d4 perfurante  | 0,5 kg | Acuidade, leve, arremesso (distância 6/18)             |
+| Azagaia                          |  5 pp | 1d6 perfurante  |   1 kg | Arremesso (distância 9/36)                             |
+| Bordão                           |  2 pp | 1d6 concussão   |   2 kg | Versátil (1d8)                                         |
+| Clava Grande                     |  2 pp | 1d8 concussão   |   5 kg | Pesada, duas mãos                                      |
+| Foice Curta                      |  1 po | 1d4 cortante    |   1 kg | Leve                                                   |
+| Lança                            |  1 po | 1d6 perfurante  | 1,5 kg | Arremesso (distância 6/18), versátil (1d8)             |
+| Maça                             |  5 po | 1d6 concussão   |   2 kg | –                                                      |
+| Machadinha                       |  5 po | 1d6 cortante    |   1 kg | Leve, arremesso (distância 6/18)                       |
+| Martelo Leve                     |  2 po | 1d4 concussão   |   1 kg | Leve, arremesso (distância 6/18)                       |
+| Porrete                          |  1 pp | 1d4 concussão   |   1 kg | Leve                                                   |
+| **Armas Simples à Distância**    |       |                 |        |                                                        |
+| Arco Curto                       | 25 po | 1d6 perfurante  |   1 kg | Munição (distância 24/96), duas mãos                   |
+| Besta Leve                       | 25 po | 1d8 perfurante  | 2,5 kg | Munição (distância 24/96), recarga, duas mãos          |
+| Dardo                            |  5 pc | 1d4 perfurante  | 0,1 kg | Acuidade, arremesso (distância 6/18)                   |
+| Funda                            |  1 pp | 1d4 concussão   |      – | Munição (distância 9/36)                               |
+| **Armas Marciais Corpo-a-Corpo** |       |                 |        |                                                        |
+| Alabarda                         | 20 po | 1d10 cortante   |   3 kg | Pesada, alcance, duas mãos                             |
+| Cimitarra                        | 25 po | 1d6 cortante    | 1,5 kg | Acuidade, leve                                         |
+| Chicote                          |  2 po | 1d4 cortante    | 1,5 kg | Acuidade, alcance                                      |
+| Espada Curta                     | 10 po | 1d6 perfurante  |   1 kg | Acuidade, leve                                         |
+| Espada Grande                    | 50 po | 2d6 cortante    |   3 kg | Pesada, duas mãos                                      |
+| Espada Longa                     | 15 po | 1d8 cortante    | 1,5 kg | Versátil (1d10)                                        |
+| Glaive                           | 20 po | 1d10 cortante   |   3 kg | Pesada, alcance, duas mãos                             |
+| Lança de Montaria                | 10 po | 1d12 perfurante |   3 kg | Alcance, especial                                      |
+| Lança Longa                      |  5 po | 1d10 perfurante |   4 kg | Pesada, alcance, duas mãos                             |
+| Maça Estrela                     | 15 po | 1d8 perfurante  |   2 kg | –                                                      |
+| Machado Grande                   | 30 po | 1d12 cortante   | 3,5 kg | Pesada, duas mãos                                      |
+| Machado de Batalha               | 10 po | 1d8 cortante    |   2 kg | Versátil (1d10)                                        |
+| Malho                            | 10 po | 2d6 concussão   |   5 kg | Pesada, duas mãos                                      |
+| Mangual                          | 10 po | 1d8 concussão   |   1 kg | –                                                      |
+| Martelo de Guerra                | 15 po | 1d8 concussão   |   1 kg | Versátil (1d10)                                        |
+| Picareta de Guerra               |  5 po | 1d8 perfurante  |   1 kg | –                                                      |
+| Rapieira                         | 25 po | 1d8 perfurante  |   1 kg | Acuidade                                               |
+| Tridente                         |  5 po | 1d6 perfurante  |   2 kg | Arremesso (6/18), versátil (1d8)                       |
+| **Armas Marciais à Distância**   |       |                 |        |                                                        |
+| Arco Longo                       | 50 po | 1d8 perfurante  |   1 kg | Munição (distância 45/180), pesada, duas mãos          |
+| Besta de Mão                     | 75 po | 1d6 perfurante  | 1,5 kg | Munição (distância 9/36), leve, recarga                |
+| Besta Pesada                     | 50 po | 1d10 perfurante | 4,5 kg | Munição (distância 30/120), pesada, recarga, duas mãos |
+| Rede                             |  1 po | –               | 1,5 kg | Especial, arremesso (distância 1,5/4,5)                |
+| Zarabatana                       | 10 po | 1 perfurante    | 0,5 kg | Munição (distância 7,5/30), recarga                    |
 
 > Fonte: Livro do Jogador, p. 152
 
 ## Equipamento
 
-| Item Custo | Peso |
-| --- | --- |
-| Ábaco 2 po | 1 kg |
-| Ácido (vidro) 25 | po 0,5 kg |
-| Água benta (frasco) | 25 po 0,5 kg |
-| Algemas 2 po | 2 kg |
-| Algibeira 5 po | 0,5 kg |
-| Aljava 1 po | 0,5 kg |
-| Ampulheta 25 po | 0,5 kg |
-| Antídoto (vidro) 50 | po – |
-| Apito de advertência | 25 po 0,5 kg |
-| Aríete portátil 4 | po 17,5 kg |
-| Armadilha de caça | 5 po 12,5 kg |
-| Arpéu 2 po | 2 kg |
-| Balança de mercador | 5 po 1,5 kg |
-| Balde 5 pc | 1 kg |
-| Barril 2 po | 35 kg |
-| Baú 5 po | 12,5 kg |
-| Bolsa de componentes | 25 po 1 kg |
-
-Caixa de Fogo 5 pp 0,5 kg Caneca 2 pc 0,5 kg Caneta tinteiro 2 pc – Cantil 2 pp 2,5 kg Cesto 4pp 1 kg Cobertor de inverno 5 pp 1,5 kg Corda de cânhamo (15 metros) 1 po 5 kg Corda de seda (15 metros) 10 po 2,5 kg Corrente (3 metros) 5 po 5 kg Equipamento de pescaria 1 po 2 kg Escada (3 metros) 1 pp 12,5 kg Esferas (sacola com 1.000) 1 po 1 kg Espelho de aço 5 po 0,25 kg Estrepes (bolsa com 20) 1po 1 kg Fechadura 10 po 0,5 kg Foco arcano Bastão 10 po 1 kg Cajado 5 po 2 kg Cristal 10 po 0,5 kg Orbe 20 po 1,5 kg Varinha 10 po 0,5 kg Foco druídico Cajado de madeira 5 po 2 kg Ramo de visco 1 po – Totem 1 po – Varinha de teixo 10 po 0,5 kg Fogo alquímico (frasco) 50 po 0,5 kg Frasco 2 pc 1 kg Garrafa de vidro 1 po 1 kg Giz (1 peça) 1 pc – Grimório 50 po 1,5 kg Jarra 4 pc 2 kg Kit de escalada 25 po 6 kg Kit de primeiros-socorros 5 po 1,5 kg Item Custo Peso Lâmpada 5 pp 0,5 kg Lanterna coberta 5 po 1 kg Lanterna furta-fogo 10 po 1 kg Lente de aumento 100 po – Livro 25 po 2,5 kg Luneta 1.000 po 0,5 kg Manto 1 po 2 kg Marreta 2 po 5 kg Martelo 1 po 1,5 kg Mochila 2 po 2,5 kg Munição Balas de Funda (20) 4 pc 0,75 kg Flechas (20) 1 po 0,5 kg Virotes (20) 1 po 0,75 kg Zarabatana (50) 1 po 0,5 kg Óleo (frasco) 1 pp 0,5 kg Pá 2 po 2,5 kg Panela de ferro 2 po 5 kg Papel (uma folha) 2 pp – Parafina 5 pp – Pé de cabra 2 po 2,5 kg Pedra de amolar 1 pc – Perfume (frasco) 5 po – Pergaminho (uma folha) 1 pp – Picareta de minerador 2 po 5 kg Píton 5 pc – Poção de cura 50 po 0,25 kg Porta mapas ou pergaminhos 1 po 0,5 kg Porta virotes 1 po 0,5 kg Pregos de ferro (10) 1 po 2,5 kg Rações de viagem (1 dia) 5 pp 1 kg Robes 1 po 2 kg Roldana e polia 1 po 2,5 kg Roupas comuns 5 pp 1,5 kg Roupas de viajante 2 po 2 kg Roupas de entretenimento 5 po 2 kg Roupas finas 15 po 3 kg Sabão 2 pc – Saco 1 pc 0,25 kg Saco de dormir 1 po 3,5 kg Símbolo sagrado Amuleto 5 po 0,5 kg Emblema 5 po – Relicário 5 po 1 kg Sinete 5 po – Sino 1 po – Tenda para duas pessoas 2 po 10 kg Tocha 1 pc 0,5 kg Tinta (frasco de 30ml) 10 po – Vara (3 metros) 5 pc 3,5 kg Vela 1 pc – Veneno básico (frasco) 100 po –
+| Item | Custo | Peso |
+| --- | ---: | ---: |
+| Ábaco | 2 po | 1 kg |
+| Ácido (vidro) | 25 po | 0,5 kg |
+| Água benta (frasco) | 25 po | 0,5 kg |
+| Algemas | 2 po | 2 kg |
+| Algibeira | 5 po | 0,5 kg |
+| Aljava | 1 po | 0,5 kg |
+| Ampulheta | 25 po | 0,5 kg |
+| Antídoto (vidro) | 50 po | – |
+| Apito de advertência | 25 po | 0,5 kg |
+| Aríete portátil | 4 po | 17,5 kg |
+| Armadilha de caça | 5 po | 12,5 kg |
+| Arpéu | 2 po | 2 kg |
+| Balança de mercador | 5 po | 1,5 kg |
+| Balde | 5 pc | 1 kg |
+| Barril | 2 po | 35 kg |
+| Baú | 5 po | 12,5 kg |
+| Bolsa de componentes | 25 po | 1 kg |
+| Caixa de Fogo | 5 pp | 0,5 kg |
+| Caneca | 2 pc | 0,5 kg |
+| Caneta tinteiro | 2 pc | – |
+| Cantil | 2 pp | 2,5 kg |
+| Cesto | 4 pp | 1 kg |
+| Cobertor de inverno | 5 pp | 1,5 kg |
+| Corda de cânhamo (15 metros) | 1 po | 5 kg |
+| Corda de seda (15 metros) | 10 po | 2,5 kg |
+| Corrente (3 metros) | 5 po | 5 kg |
+| Equipamento de pescaria | 1 po | 2 kg |
+| Escada (3 metros) | 1 pp | 12,5 kg |
+| Esferas (sacola com 1.000) | 1 po | 1 kg |
+| Espelho de aço | 5 po | 0,25 kg |
+| Estrepes (bolsa com 20) | 1 po | 1 kg |
+| Fechadura | 10 po | 0,5 kg |
+| **Foco arcano** |  |  |
+| Bastão | 10 po | 1 kg |
+| Cajado | 5 po | 2 kg |
+| Cristal | 10 po | 0,5 kg |
+| Orbe | 20 po | 1,5 kg |
+| Varinha | 10 po | 0,5 kg |
+| **Foco druídico** |  |  |
+| Cajado de madeira | 5 po | 2 kg |
+| Ramo de visco | 1 po | – |
+| Totem | 1 po | – |
+| Varinha de teixo | 10 po | 0,5 kg |
+| Fogo alquímico (frasco) | 50 po | 0,5 kg |
+| Frasco | 2 pc | 1 kg |
+| Garrafa de vidro | 1 po | 1 kg |
+| Giz (1 peça) | 1 pc | – |
+| Grimório | 50 po | 1,5 kg |
+| Jarra | 4 pc | 2 kg |
+| Kit de escalada | 25 po | 6 kg |
+| Kit de primeiros-socorros | 5 po | 1,5 kg |
+| Lâmpada | 5 pp | 0,5 kg |
+| Lanterna coberta | 5 po | 1 kg |
+| Lanterna furta-fogo | 10 po | 1 kg |
+| Lente de aumento | 100 po | – |
+| Livro | 25 po | 2,5 kg |
+| Luneta | 1.000 po | 0,5 kg |
+| Manto | 1 po | 2 kg |
+| Marreta | 2 po | 5 kg |
+| Martelo | 1 po | 1,5 kg |
+| Mochila | 2 po | 2,5 kg |
+| **Munição** |  |  |
+| Balas de Funda (20) | 4 pc | 0,75 kg |
+| Flechas (20) | 1 po | 0,5 kg |
+| Virotes (20) | 1 po | 0,75 kg |
+| Zarabatana (50) | 1 po | 0,5 kg |
+| Óleo (frasco) | 1 pp | 0,5 kg |
+| Pá | 2 po | 2,5 kg |
+| Panela de ferro | 2 po | 5 kg |
+| Papel (uma folha) | 2 pp | – |
+| Parafina | 5 pp | – |
+| Pé de cabra | 2 po | 2,5 kg |
+| Pedra de amolar | 1 pc | – |
+| Perfume (frasco) | 5 po | – |
+| Pergaminho (uma folha) | 1 pp | – |
+| Picareta de minerador | 2 po | 5 kg |
+| Píton | 5 pc | – |
+| Poção de cura | 50 po | 0,25 kg |
+| Porta mapas ou pergaminhos | 1 po | 0,5 kg |
+| Porta virotes | 1 po | 0,5 kg |
+| Pregos de ferro (10) | 1 po | 2,5 kg |
+| Rações de viagem (1 dia) | 5 pp | 1 kg |
+| Robes | 1 po | 2 kg |
+| Roldana e polia | 1 po | 2,5 kg |
+| Roupas comuns | 5 pp | 1,5 kg |
+| Roupas de viajante | 2 po | 2 kg |
+| Roupas de entretenimento | 5 po | 2 kg |
+| Roupas finas | 15 po | 3 kg |
+| Sabão | 2 pc | – |
+| Saco | 1 pc | 0,25 kg |
+| Saco de dormir | 1 po | 3,5 kg |
+| **Símbolo sagrado** |  |  |
+| Amuleto | 5 po | 0,5 kg |
+| Emblema | 5 po | – |
+| Relicário | 5 po | 1 kg |
+| Sinete | 5 po | – |
+| Sino | 1 po | – |
+| Tenda para duas pessoas | 2 po | 10 kg |
+| Tocha | 1 pc | 0,5 kg |
+| Tinta (frasco de 30 ml) | 10 po | – |
+| Vara (3 metros) | 5 pc | 3,5 kg |
+| Vela | 1 pc | – |
+| Veneno básico (frasco) | 100 po | – |
 
 > Fonte: Livro do Jogador, p. 153
 
@@ -75,4 +201,20 @@ ou arremessar a até 6 metros, quebrando-o com o impacto. Você deve realizar um
 
 ## Capacidade De Recipientes
 
-Recipiente Capacidade Algibeira 15 cm³ /3 kg de equipamentos Balde 12 litros/15 cm³ sólido Barril 160 litros/1,2 m³ sólido Baú 3,5 m³/150 kg de equipamentos Caneca 500 ml Cantil 2 litros Cesto 60 cm³/20 kg de equipamentos Frasco 120 ml Garrafa 750 ml Jarra 5 litros Mochila* 30 cm³/15 kg de equipamentos Panela de Ferro 4 litros Saco 30 cm³/13kg de equipamentos * Você pode prender itens como um saco de dormir e um rolo de corda do lado de fora da mochila.
+| Recipiente | Capacidade |
+| --- | --- |
+| Algibeira | 15 cm³ / 3 kg de equipamentos |
+| Balde | 12 litros / 15 cm³ sólido |
+| Barril | 160 litros / 1,2 m³ sólido |
+| Baú | 3,5 m³ / 150 kg de equipamentos |
+| Caneca | 500 ml |
+| Cantil | 2 litros |
+| Cesto | 60 cm³ / 20 kg de equipamentos |
+| Frasco | 120 ml |
+| Garrafa | 750 ml |
+| Jarra | 5 litros |
+| Mochila* | 30 cm³ / 15 kg de equipamentos |
+| Panela de Ferro | 4 litros |
+| Saco | 30 cm³ / 13 kg de equipamentos |
+
+\* Você pode prender itens como um saco de dormir e um rolo de corda do lado de fora da mochila.

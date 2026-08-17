@@ -63,7 +63,12 @@ Armaduras: Armaduras leves Armas: Armas simples, bestas de mão, espadas longas,
 
 ## Equipamento
 
-Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:  (a) uma rapieira ou (b) uma espada longa  (a) um arco curto e uma aljava com 20 flechas ou (b) uma espada curta  (a) um pacote de assaltante ou (b) um pacote de aventureiro ou (c) um pacote de explorador  Armadura de couro, duas adagas e ferramentas de ladrão
+Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:
+
+- (a) uma rapieira ou (b) uma espada longa
+- (a) um arco curto e uma aljava com 20 flechas ou (b) uma espada curta
+- (a) um pacote de assaltante ou (b) um pacote de aventureiro ou (c) um pacote de explorador
+- Armadura de couro, duas adagas e ferramentas de ladrão
 
 ## Especialização
 
@@ -189,7 +194,13 @@ Nível de Ladino Truques Conhecidos Magias Conhecidas Espaços de Magia por Nív
 
 ## Mãos Mágicas Malabaristas
 
-A partir do 3° nível, quando você conjurar mãos mágicas, você pode fazer a mão espectral ficar invisível e poderá realizar as seguintes tarefas adicionais:  Você pode guardar um objeto que a mão estiver segurando em um recipiente vestido ou carregado por outra criatura.  Você pode recuperar um objeto guardado em um recipiente vestido ou carregado por outra criatura.  Você pode usar ferramentas de ladrão para abrir fechaduras ou desarmar armadilhas à distância. Você pode realizar qualquer dessas tarefas sem ser notado por uma criatura se for bem sucedido num teste de Destreza (Prestidigitação) resistido por um teste de Sabedoria (Percepção) da criatura. Além disso, você pode usar a ação bônus concedida por sua Ação Ardilosa para controlar a mão.
+A partir do 3° nível, quando você conjurar mãos mágicas, você pode fazer a mão espectral ficar invisível e poderá realizar as seguintes tarefas adicionais:
+
+- Você pode guardar um objeto que a mão estiver segurando em um recipiente vestido ou carregado por outra criatura.
+- Você pode recuperar um objeto guardado em um recipiente vestido ou carregado por outra criatura.
+- Você pode usar ferramentas de ladrão para abrir fechaduras ou desarmar armadilhas à distância. Você pode realizar qualquer dessas tarefas sem ser notado por uma criatura se for bem sucedido num teste de Destreza (Prestidigitação) resistido por um teste de Sabedoria (Percepção) da criatura.
+
+Além disso, você pode usar a ação bônus concedida por sua Ação Ardilosa para controlar a mão.
 
 ## Emboscada Mágica
 

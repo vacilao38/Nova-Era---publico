@@ -39,28 +39,28 @@ Como um patrulheiro, você adquire as seguintes características de classe.
 
 ### O Patrulheiro
 
-| Nível | Bônus de Proficiência | Características | Magias Conhecidas | 1º | 2º | 3º | 4º | 5º |
-|---:|:---:|---|:---:|:---:|:---:|:---:|:---:|:---:|
-| 1º | +2 | Inimigo Favorito, Explorador Natural | — | — | — | — | — | — |
-| 2º | +2 | Estilo de Luta, Conjuração | 2 | 2 | — | — | — | — |
-| 3º | +2 | Consciência Primitiva, Conclave de Patrulheiro | 3 | 3 | — | — | — | — |
-| 4º | +2 | Incremento no Valor de Habilidade | 3 | 3 | — | — | — | — |
-| 5º | +3 | Característica de Conclave de Patrulheiro | 4 | 4 | 2 | — | — | — |
-| 6º | +3 | Inimigo Favorito Maior | 4 | 4 | 2 | — | — | — |
-| 7º | +3 | Característica de Conclave de Patrulheiro | 5 | 4 | 3 | — | — | — |
-| 8º | +3 | Incremento no Valor de Habilidade, Pés Rápidos | 5 | 4 | 3 | — | — | — |
-| 9º | +4 | — | 6 | 4 | 3 | 2 | — | — |
-| 10º | +4 | Mimetismo | 6 | 4 | 3 | 2 | — | — |
-| 11º | +4 | Característica de Conclave de Patrulheiro | 7 | 4 | 3 | 3 | — | — |
-| 12º | +4 | Incremento no Valor de Habilidade | 7 | 4 | 3 | 3 | — | — |
-| 13º | +5 | — | 8 | 4 | 3 | 3 | 1 | — |
-| 14º | +5 | Desaparecer | 8 | 4 | 3 | 3 | 1 | — |
-| 15º | +5 | Característica de Conclave de Patrulheiro | 9 | 4 | 3 | 3 | 2 | — |
-| 16º | +5 | Incremento no Valor de Habilidade | 9 | 4 | 3 | 3 | 2 | — |
-| 17º | +6 | — | 10 | 4 | 3 | 3 | 3 | 1 |
-| 18º | +6 | Sentidos Selvagens | 10 | 4 | 3 | 3 | 3 | 1 |
-| 19º | +6 | Incremento no Valor de Habilidade | 11 | 4 | 3 | 3 | 3 | 2 |
-| 20º | +6 | Matador de Inimigos | 11 | 4 | 3 | 3 | 3 | 2 |
+| Nível | Bônus de Proficiência | Características                                | Magias Conhecidas | 1º  | 2º  | 3º  | 4º  | 5º  |
+| ----: | :-------------------: | ---------------------------------------------- | :---------------: | :-: | :-: | :-: | :-: | :-: |
+|    1º |          +2           | Inimigo Favorito, Explorador Natural           |         —         |  —  |  —  |  —  |  —  |  —  |
+|    2º |          +2           | Estilo de Luta, Conjuração                     |         2         |  2  |  —  |  —  |  —  |  —  |
+|    3º |          +2           | Consciência Primitiva, Conclave de Patrulheiro |         3         |  3  |  —  |  —  |  —  |  —  |
+|    4º |          +2           | Incremento no Valor de Habilidade              |         3         |  3  |  —  |  —  |  —  |  —  |
+|    5º |          +3           | Característica de Conclave de Patrulheiro      |         4         |  4  |  2  |  —  |  —  |  —  |
+|    6º |          +3           | Inimigo Favorito Maior                         |         4         |  4  |  2  |  —  |  —  |  —  |
+|    7º |          +3           | Característica de Conclave de Patrulheiro      |         5         |  4  |  3  |  —  |  —  |  —  |
+|    8º |          +3           | Incremento no Valor de Habilidade, Pés Rápidos |         5         |  4  |  3  |  —  |  —  |  —  |
+|    9º |          +4           | —                                              |         6         |  4  |  3  |  2  |  —  |  —  |
+|   10º |          +4           | Mimetismo                                      |         6         |  4  |  3  |  2  |  —  |  —  |
+|   11º |          +4           | Característica de Conclave de Patrulheiro      |         7         |  4  |  3  |  3  |  —  |  —  |
+|   12º |          +4           | Incremento no Valor de Habilidade              |         7         |  4  |  3  |  3  |  —  |  —  |
+|   13º |          +5           | —                                              |         8         |  4  |  3  |  3  |  1  |  —  |
+|   14º |          +5           | Desaparecer                                    |         8         |  4  |  3  |  3  |  1  |  —  |
+|   15º |          +5           | Característica de Conclave de Patrulheiro      |         9         |  4  |  3  |  3  |  2  |  —  |
+|   16º |          +5           | Incremento no Valor de Habilidade              |         9         |  4  |  3  |  3  |  2  |  —  |
+|   17º |          +6           | —                                              |        10         |  4  |  3  |  3  |  3  |  1  |
+|   18º |          +6           | Sentidos Selvagens                             |        10         |  4  |  3  |  3  |  3  |  1  |
+|   19º |          +6           | Incremento no Valor de Habilidade              |        11         |  4  |  3  |  3  |  3  |  2  |
+|   20º |          +6           | Matador de Inimigos                            |        11         |  4  |  3  |  3  |  3  |  2  |
 
 ### Pontos de Vida
 

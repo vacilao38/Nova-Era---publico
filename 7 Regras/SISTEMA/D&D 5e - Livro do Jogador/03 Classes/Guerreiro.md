@@ -63,7 +63,12 @@ Armaduras: Todas as armaduras, escudos Armas: Armas simples, armas marciais Ferr
 
 ## Equipamento
 
-Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:  (a) cota de malha ou (b) gibão de peles, arco longo e 20 flechas  (a) uma arma marcial e um escudo ou (b) duas armas marciais  (a) uma besta leve e 20 virotes ou (b) dois machados de arremesso  (a) um pacote de aventureiro ou (b) um pacote de explorador
+Você começa com o seguinte equipamento, além do equipamento concedido pelo seu antecedente:
+
+- (a) cota de malha ou (b) gibão de peles, arco longo e 20 flechas
+- (a) uma arma marcial e um escudo ou (b) duas armas marciais
+- (a) uma besta leve e 20 virotes ou (b) dois machados de arremesso
+- (a) um pacote de aventureiro ou (b) um pacote de explorador
 
 ## Estilo De Luta
 
@@ -197,7 +202,15 @@ No 3° nível, você ganha proficiência com um tipo de ferramenta de artesão, 
 
 ## Conheça Seu Inimigo
 
-A partir do 7° nível, se você gastar, pelo menos, 1 minuto observando ou interagindo com outra criatura fora de combate, você pode aprender certas informações sobre as capacidades dela comparadas as suas. O Mestre conta a você se a criatura é igual, superior ou inferior a você a respeito de duas das seguintes características, à sua escolha:  Valor de Força  Valor de Destreza  Valor de Constituição  Classe de Armadura  Pontos de Vida atuais  Nível total de classe (se possuir)  Níveis da classe guerreiro (se possuir)
+A partir do 7° nível, se você gastar, pelo menos, 1 minuto observando ou interagindo com outra criatura fora de combate, você pode aprender certas informações sobre as capacidades dela comparadas as suas. O Mestre conta a você se a criatura é igual, superior ou inferior a você a respeito de duas das seguintes características, à sua escolha:
+
+- Valor de Força
+- Valor de Destreza
+- Valor de Constituição
+- Classe de Armadura
+- Pontos de Vida atuais
+- Nível total de classe (se possuir)
+- Níveis da classe guerreiro (se possuir)
 
 ## Superioridade Em Combate Aprimorada
 
