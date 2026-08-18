@@ -24,4 +24,4 @@ O Festival dos [Vagalumes](Festival-dos-Vagalumes) atinge seu ápice de tensão 
 * Odr, se revela ser [[O-Colecionador]], e Felix finalmente trai o grupo, se afastando do grupo.
 * Odr, declara o grupo, de "[[Blanck]]", "[[Leif]]", "[[Cleide]]", "[[Scann]]" e "[[Aurélia]]"; como inimigos do reino.
 * Bruno, captura [[Aurélia]] e uma luz cai do ceu no formato da Lua, enquanto, se inicia uma fuga da [[Varethia]].
-* **Continuação:** Veja [[02 03 Mini arco dos Foragidos/Flecha-fogo-e-ouro_antes-da-fuga|Flecha, Fogo e Ouro, Antes da Fuga]] para os eventos imediatamente seguintes: a lua de Aurélia é destruída por [[Floorn]], Odr faz seu discurso na estátua de [[Freya]], Felix recebe uma arma de fogo, e [[Kiaut]] lidera o ataque dos renegados.
+* **Continuação:** Veja [[02 03 Mini arco dos Foragidos/Flecha-fogo-e-ouro_antes-da-fuga|Flecha, Fogo e Ouro, Antes da Fuga]] para os eventos imediatamente seguintes: a lua de Aurélia é destruída por [[Florn]], Odr faz seu discurso na estátua de [[Freya]], Felix recebe uma arma de fogo, e [[Kiaut]] lidera o ataque dos renegados.

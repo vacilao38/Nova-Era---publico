@@ -79,7 +79,7 @@ A luta contra Horis termina como vitória coletiva. Não é a fúria de Navi soz
 
 Depois do combate, todos se reúnem. A vitória tem gosto amargo, porque [[Cleide]] não está ali. O grupo tem um momento de lamento pela morte dele, e a ausência do gigante reorganiza a cena: derrotar inimigos não apaga o custo de ter precisado entregar um amigo ao descanso pelo fogo. Navi, que quase se perdeu na raiva contra Horis, é acolhido por [[Blanck]] como amigo. O gesto dela não resolve o luto, mas o puxa de volta do lugar onde a vingança começava a engolir a pessoa que ele ainda é.
 
-Para Elder, o fim da sessão não parece vitória. Depois de ver todos contribuindo para derrubar Horis, ela fica presa ao gosto amargo de ter falhado em seu próprio papel. Se não consegue ajudar nas questões reais, se sua irresponsabilidade fere o grupo, se sua leveza vira descuido e se nem como assassina conseguiu vencer o membro mais fraco do [[Círculo Dourado]], o que sobra dela? Todos venceram, exceto ela. E ainda assim Göll conseguiu mudar, conseguiu perceber alguma coisa que Elder não viu em si mesma. A pergunta que fica para Elder não é apenas "para onde Göll foi?", mas o que exatamente tocou a valquíria caída. Se Göll pôde hesitar, Elder talvez também possa ser salva; se não, talvez esteja destinada a repetir o mesmo fracasso que a fez sair dos [[Heróis-de-Vanaheim]].
+Para Elder, o fim da sessão não parece vitória. Depois de ver todos contribuindo para derrubar Horis, ela fica presa ao gosto amargo de ter falhado em seu próprio papel. Se não consegue ajudar nas questões reais, se sua irresponsabilidade fere o grupo, se sua leveza vira descuido e se nem como assassina conseguiu vencer o membro mais fraco do [[4 Elementos/conceitos/Círculo Dourado|Círculo Dourado]], o que sobra dela? Todos venceram, exceto ela. E ainda assim Göll conseguiu mudar, conseguiu perceber alguma coisa que Elder não viu em si mesma. A pergunta que fica para Elder não é apenas "para onde Göll foi?", mas o que exatamente tocou a valquíria caída. Se Göll pôde hesitar, Elder talvez também possa ser salva; se não, talvez esteja destinada a repetir o mesmo fracasso que a fez sair dos [[Heróis-de-Vanaheim]].
 
 ## Leitura de personagens
 
@@ -195,7 +195,7 @@ Para Elder, o fim da sessão não parece vitória. Depois de ver todos contribui
 - Desenvolver a relação entre Leif e [[Aurélia]] depois dos beijos privado e público.
 - Descobrir para onde [[Ghull|Göll]] foi depois de não conseguir matar [[Elder]] e o que exatamente mudou nela.
 - Entender o significado do totem do Falcão sobre Elder e do totem do Tigre após a morte de Raksha.
-- Confirmar se Göll pode ser retirada da influência de [[Odr]] e do [[Círculo Dourado]].
+- Confirmar se Göll pode ser retirada da influência de [[Odr]] e do [[4 Elementos/conceitos/Círculo Dourado|Círculo Dourado]].
 - Acompanhar se [[Navi]] conseguirá atravessar o luto de [[Cleide]] sem transformar a culpa em ódio.
 - Acompanhar o colapso íntimo de [[Elder]] após se sentir inútil, irresponsável e fracassada até mesmo como assassina.
 - Ver as consequências emocionais da morte de [[Felix]] para [[Blanck]], [[Scann]] e o grupo.
@@ -210,6 +210,6 @@ Para Elder, o fim da sessão não parece vitória. Depois de ver todos contribui
 - Evento abrangente: [[O Deus Adormecido e o Retorno a Capital]]
 - Locais: [[Varethia]], [[Palacio-dos-Vareth]], Jardim das Rainhas
 - Heróis e aliados: [[Blanck]], [[Scann]], [[Leif]], [[Aurélia]], [[Elder]], [[Navi]], [[Kaeli]], [[Harald]], [[Njord]]
-- Antagonistas e alvos: [[Felix]], [[Raksha]], [[Ghull]], [[Horis-Tuti]], [[Odr]], [[Círculo Dourado]]
+- Antagonistas e alvos: [[Felix]], [[Raksha]], [[Ghull]], [[Horis-Tuti]], [[Odr]], [[4 Elementos/conceitos/Círculo Dourado|Círculo Dourado]]
 - Relações e legados: [[Dagrin]], [[Cleide]], [[Valquírias]], [[Svava]], [[Grunde]], [[Guram]], [[Lopt]], [[Wyrrer]]
 - Conceitos: clímax de Vanaheim, execução, ritual de raízes, ouro instável, despertar, honra de valquíria, Desk, fúria solar, medo mental
