@@ -1,21 +1,21 @@
 # A Lareira Apagada e a Noite sem Sono
 
 - Projeto: Nova Era
-- Tipo: interação em andamento / cotidiano / família / heroísmo / memória
-- Estado da fonte: em andamento
+- Tipo: interação concluída / cotidiano / família / heroísmo / memória / identidade
+- Estado da fonte: concluída no export consultado
 - Data diegética: 21/07/0387, 25º dia após a derrota de [[Odr]]
 - Estação: Outono
 - Horário diegético inicial: 03h14
 - Fase da Lua: quase em transição para Lua Minguante
 - Local: sala de estar do palácio, [[Varethia|Capital de Vanaheim]]
 - Participantes centrais: [[Elder]], [[Leif]]
-- Participantes mencionados: [[Aurélia]], [[Juliet]], [[Ophelia]], [[Arsthör]], [[Yrídia]], [[Felix]], [[Blanck]], [[Scann]], [[Odr]]
+- Participantes mencionados: [[Aurélia]], [[Juliet]], [[Ophelia]], [[Arsthör]], [[Yrídia]], [[Felix]], [[Blanck]], [[Scann]], [[Odr]], [[Raksha]], [[Cleide]], [[Navi|Naví]], [[Ghull|Göll]]
 - Fonte primária: `WhatsApp Chat with (D&D) Conversas.txt`, no ZIP `WhatsApp Chat with (D&D) Conversas.zip`
-- Publicação consultada: mensagens de 15–16/08/2026, com corte às 22h37 de 16/08/2026
+- Publicação consultada: mensagens de 15–17/08/2026, com encerramento às 20h37 de 17/08/2026
 - Análise aprofundada: [[Análise da interação - A lareira apagada e a noite sem sono]]
 
 > [!note] Limite da fonte
-> O export termina logo depois de Leif reagir com “Sério!?” à afirmação de que Elder nunca conseguiu dormir. A conversa não possui despedida nem resposta posterior da anciã. As duas figuras luminosas do início não são nomeadas, e a fonte não identifica a magia ou o objeto que as produz.
+> O export consultado registra a continuação depois de “Sério!?” e encerra a cena com despedida e resposta final de Elder. As duas figuras luminosas do início, a criança posterior e a mulher alada em que ela se remodela não são nomeadas; a fonte também não identifica a magia ou o objeto que as produz.
 
 > [!info] Contexto canônico confirmado pelo criador em 16/08/2026
 > [[Odr]] era amigo de Elder. Antes da batalha, os dois tiveram uma conversa genuinamente boa, e ela desejava que aquele Odr e aquela relação tivessem permanecido, para não perder outra pessoa importante. A sobrinha comparada a Leif é [[Yrídia]], filha de [[Joppele-Lobas]], irmã de Elder. Elder nunca conheceu um sonho, nunca descansou de verdade e permanece acordada mesmo quando repousa; a exaustão e a dor de cabeça são contínuas. Esse contexto vem da confirmação do criador, não de informações explicitadas integralmente no recorte exportado.
@@ -71,7 +71,57 @@ A comparação atinge Elder. O “vocês” a inclui numa categoria à qual ela 
 
 Conforme o contexto canônico confirmado pelo criador, Elder não sabe o que é um sonho, nunca experimentou descanso verdadeiro e permanece consciente mesmo quando repousa. A exaustão e a dor de cabeça não desaparecem. A ferida da fala de Leif, portanto, também é social: enquanto os outros adormecem e compartilham uma forma comum de ausência e recuperação, Elder continua sendo a única acordada. “Vocês, elfos” a lembra de que está à parte até entre aqueles aos quais deveria pertencer.
 
-A fonte termina quando ele reage com surpresa.
+Leif reage com surpresa, mas a conversa continua. Elder parece mais tranquila ao explicar que a madrugada também possui uma paz própria: enquanto os outros dormem, restam apenas ela e os animais noturnos. A adaptação não revoga a privação descrita antes; é a forma direta como Elder afirma ocupar esse tempo.
+
+## Medo, imprevisibilidade e Aurélia
+
+Leif diz que os animais da floresta noturna lhe parecem assustadores. Elder pergunta como ele pode temer coisas incapazes de matá-lo. Ele separa medo de morte: o que assusta é não saber o que pode acontecer, como no afogamento, e não apenas o desfecho fatal.
+
+Elder pergunta então se ele sentiu medo de [[Raksha]]. Leif responde que o momento realmente assustador foi ver [[Aurélia]] colocar-se diante dele e admite que temeu perdê-la. A expressão e o tom ficam sérios. Uma luz fraca começa a subir do chão enquanto Elder o chama de o [[Lopt]] mais diferente que conheceu e pergunta como ele se tornou forte.
+
+## A procura de uma fórmula para a força
+
+Leif descreve-se como o menos talentoso de sua família e afirma ter encontrado outras formas de força ao errar muito. Compara o processo ao jogo: quanto mais tentativas, maiores as chances de alguma dar certo. Elder procura transformar a resposta em medida concreta. Pergunta quantas tentativas, quanto tempo, esforço ou conhecimento seriam necessários e declara:
+
+> **“Eu quero muito saber como ser forte.”**
+
+Leif responde que circunstância e sorte impedem uma fórmula única. Embora se considere azarado durante grande parte da vida, reconhece a sorte de ter encontrado pessoas maravilhosas. Elder conclui que o processo é mais complicado do que imaginava.
+
+Enquanto a conversa prossegue, a luz forma uma criança de aproximadamente seis a oito anos com uma espada de madeira. Uma grande mão sem corpo corrige seus movimentos. Elder desfaz a parte feita incorretamente do cachecol e considera que talvez precise de milênios para alcançar a força desejada.
+
+Leif chama as manifestações de truques interessantes e diz que a força costuma ser percebida depois de chegar. Elder responde que espera há tempo demais, pensa em fazer outro pacto e afirma que continuar como está não é possível.
+
+## A espada, a união e a derrota para Göll
+
+Depois de reconsiderar “errar” e “tentar”, Elder se levanta animada, retira da capa um objeto grande e fino e o trata como espada. Decide que deveria usar mais a arma e encarar inimigos face a face para superar sua maior fraqueza. A fonte não nomeia a espada nem confirma que seja [[Elder e sua espada Juliet|Juliet]].
+
+Leif adverte que especializar-se cria outras fraquezas. Recorda que não conseguiria derrotar [[Blanck]] somente com uma espada à distância e que confia em outras pessoas para aquilo que não alcança. Mostra as mãos e resume: um par de mãos pode fazer muitas coisas, mas não tudo; a força vem da união, não de fontes infinitas.
+
+A animação de Elder se esgota. Ela concorda que lutar em grupo ajuda, mas diz ter dependido do grupo mesmo depois de fazer o possível para estar e lutar ao lado deles. A criança luminosa se desfaz e remodela-se como uma mulher alada. Elder então afirma que, quando precisou ser forte sozinha, não tinha outro recurso ou poder e perdeu para quem chama de “a pessoa mais fraca do Círculo Dourado”. Essa avaliação de [[Ghull|Göll]] pertence a Elder; não é uma classificação objetiva confirmada pela fonte. Seu rosto parece derrotado, e a narração registra que ela não aceita inteiramente a resposta de Leif.
+
+## Derrota, perda e a recusa de ser negada
+
+Leif enumera derrotas próprias — [[Cleide]], o bardo, o primeiro encontro com [[Odr]], a bruxa e [[Navi|Naví]] — e se descreve como alguém com mais derrotas do que vitórias. Afirma que perder é normal e repete a lógica das tentativas.
+
+Elder pergunta o que ele perdeu nessas derrotas e se foram realmente derrotas. Para ela, o fato de perder é comum; o que importa é aquilo que a derrota retira. Respira, diz que seguirá adiante depois da própria queda e afirma estar aprendendo e tentando ser uma boa pessoa para o grupo. Em seguida, oferece a formulação mais direta da ferida:
+
+> **“Mas, eu não quero ser negada mais uma vez.”**
+
+O cabelo cobre os olhos luminosos, a boca fica entreaberta e a expressão permanece difícil de ler. A fonte não identifica quem ou o que a teria negado anteriormente, nem define se a negação é afetiva, social, identitária, metafísica ou uma combinação dessas dimensões.
+
+Leif responde que ninguém possui o direito de negar uma pessoa e duvida que os presentes o fariam. Acrescenta que ser bom é cansativo, mas a gratidão genuína das pessoas salvas alivia esse cansaço. Elder reconhece que eles são boas pessoas, mas esclarece que não está falando disso. Decide deixar o assunto para outra hora.
+
+## Bons sonhos e “eu só quero ser”
+
+Elder lembra Leif de que ele ainda não pegou água, manda-o voltar a dormir e diz que quer terminar o cachecol. Leif concorda e deseja boa noite. Na despedida, Elder tropeça justamente na experiência que nunca possuiu:
+
+> **“Tenha bons so- sonhos, Senhor.”**
+
+Antes de sair, Leif para à porta e pede que ela se lembre de que poder não é tudo. Elder responde:
+
+> **“eu só quero ser.”**
+
+A fala encerra o export. Ela confirma que a busca discutida não pode ser reduzida à aquisição de poder, mas não explicita por si só tudo o que Elder entende por “ser”.
 
 ## Fatos e consequências confirmados
 
@@ -87,7 +137,15 @@ A fonte termina quando ele reage com surpresa.
 - Por confirmação canônica posterior do criador, Odr era amigo de Elder; a conversa boa antes da batalha havia feito com que ela desejasse preservar aquele Odr e aquela relação. Sua morte é vivida como a perda de outra pessoa importante.
 - Elder afirma diretamente que, ao contrário dos demais elfos, nunca conseguiu dormir. O criador confirma que ela nunca sonhou nem descansou de verdade, permanece consciente durante o repouso e convive com exaustão e dor de cabeça contínuas.
 - A construção “vocês, elfos” é recebida por Elder como quase acusatória e pejorativa e reabre sua sensação de separação e não pertencimento; a intenção depreciativa de Leif não é confirmada.
-- A interação permanece em andamento no corte consultado.
+- Elder encontra alguma tranquilidade na companhia dos animais noturnos enquanto os outros dormem, sem afirmar que essa calma elimine exaustão, dor ou exclusão.
+- Leif define medo pela imprevisibilidade e pela possibilidade de perda e admite que temeu perder Aurélia diante de Raksha.
+- Elder declara querer aprender a ser forte e procura uma medida de tentativas, tempo, esforço ou conhecimento capaz de garantir esse resultado.
+- Uma figura luminosa infantil treina com espada sob a correção de uma mão sem corpo e depois se remodela como mulher alada; identidade e mecanismo permanecem abertos.
+- Elder considera outro pacto e, em seguida, o uso mais frequente da espada e o confronto corpo a corpo. Leif contrapõe especialização e fontes infinitas à força da união.
+- Elder afirma ter perdido sozinha para quem considera a pessoa mais fraca do Círculo Dourado. A referência contextual a Göll é forte, mas a hierarquia é avaliação da personagem.
+- Elder separa derrota de perda, afirma que continuará tentando ser boa para o grupo e confessa não querer ser negada mais uma vez.
+- Leif tenta responder pela aceitação do grupo e pela gratidão das pessoas salvas; Elder diz que não está falando disso e preserva o assunto para outra hora.
+- A interação se encerra com Leif dizendo que poder não é tudo e Elder respondendo “eu só quero ser”.
 
 ## Desenvolvimento dos personagens
 
@@ -98,6 +156,9 @@ A fonte termina quando ele reage com surpresa.
 - Usa a história de Arsthör para separar heroísmo de pureza ou dignidade.
 - Demonstra culpa por informações que não possuía sobre Odr e Felix e luto pelo amigo que esperava não perder logo depois de uma boa reaproximação.
 - Formula pela primeira vez em registro direto que jamais conseguiu dormir, transformando a imagem poética do Anjo desperto em condição presente declarada pela personagem. O contexto do criador especifica a ausência total de sonhos e descanso, a dor física contínua e a exclusão de permanecer acordada quando todos os outros partem para o sono.
+- Procura uma fórmula mensurável para tornar-se forte, considera novo pacto e treino de espada, mas tem a animação interrompida quando Leif associa força à união e a limites inevitáveis.
+- Expõe que a derrota para Göll permanece ligada não apenas a desempenho de combate, mas ao que Elder acredita ter perdido ao não conseguir vencer sozinha.
+- Diz diretamente que não quer ser negada mais uma vez e encerra a conversa retirando a busca do campo exclusivo do poder: “eu só quero ser”.
 
 ### [[Leif]]
 
@@ -105,18 +166,25 @@ A fonte termina quando ele reage com surpresa.
 - Mantém a autoimagem de herói indigno porque sua ética privilegia vínculos próximos.
 - Aceita a contraleitura de Elder e transforma desejo, não merecimento, em motor do heroísmo.
 - Fica apático ao falar de Felix, sem que a fonte explique se a reação vem de luto, culpa, desconforto ou outro sentimento.
+- Define medo como resposta à imprevisibilidade e à possível perda de alguém, admitindo ter temido por Aurélia.
+- Narra a própria força como resultado de erros, tentativas, circunstância, sorte e pessoas encontradas, não como talento ou fonte infinita.
+- Contesta a autossuficiência de Elder com a imagem das duas mãos e tenta acolher sua confissão pela aceitação do grupo e pelo valor de fazer o bem.
 
 ### Relação
 
 A relação deixa por uma noite o espaço de guerra e negociação política. Leif vê Elder brincando com uma lembrança, ouve uma história que questiona sua autoimagem e recebe a oferta de ajuda para a família que ainda pretende construir. Elder, por sua vez, é vista sem função heroica ou administrativa: cansada, acordada e incapaz de realizar uma ação tão comum quanto dormir.
 
+Na continuação, Leif não se limita ao espanto. Ele revela o medo de perder Aurélia, oferece sua história de fracassos e discorda da busca de Elder por força individual e fontes adicionais. Elder permite que a discordância a atinja, mas não aceita que aceitação social ou bondade esgotem o assunto. A conversa cria confiança suficiente para uma confissão central, sem criar compreensão total: Leif percebe a fixação em poder; Elder afirma que a necessidade é “ser”.
+
 ## Lacunas e pendências
 
-- Continuar a cena depois da reação de Leif e registrar sua conclusão.
 - Confirmar se as duas figuras luminosas são Juliet e Ophelia e qual magia, memória ou objeto as produz.
+- Identificar a criança com espada, a mão que a corrige e a mulher alada posterior, além de estabelecer a relação delas com as figuras iniciais.
 - Resolver a divergência sobre a morte ou petrificação de Arsthör.
 - Esclarecer a formulação ambígua de Leif sobre imaginar Aurélia como mãe.
 - Definir a origem e o mecanismo da incapacidade de Elder de dormir e sua relação possível com corpo, Hela, álcool e memória. Seus efeitos subjetivos e físicos centrais já estão confirmados.
+- Esclarecer qual espada Elder retira, se pretende de fato mudar o estilo de combate e até que ponto ainda considera outro pacto.
+- Definir, apenas se a narrativa desejar fazê-lo, a quem ou a quê se refere “negada mais uma vez”. A fala final confirma a dimensão identitária, mas não elimina outras leituras.
 
 ## Conexões
 
