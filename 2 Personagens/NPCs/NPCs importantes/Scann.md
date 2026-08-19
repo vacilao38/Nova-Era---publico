@@ -34,7 +34,7 @@ Apesar da escala pequena, Scann nao e acessorio. Ela tem dever com os [[Feérico
 
 Scann foi sequestrada por um homem de mao dourada e presa em um pote ate ser libertada por [[Blanck]] em [[O Despertar do Dragão Negro e o Encontro com Svava]]. A partir dai, entra na orbita do grupo como aliada magica e amiga.
 
-Em [[Libertação e infiltração em Oggdir]], ajuda a libertar prisioneiros e entende a estrutura dos sinos da cidade. Em [[O Encontro no Quarto e a Nova Amizade]], revela a Blanck sua origem, sua ligacao com [[Medebe]] e seu sonho de se tornar Justa. Essa conversa tambem permite que Blanck admita solidão, dificuldade com os [[Bresnver]] e desejo de ter amigas.
+Em [[Libertação e infiltração em Oggdir]], ajuda a libertar prisioneiros e entende a estrutura dos sinos da cidade. Em [[O Encontro no Quarto e a Nova Amizade]], revela a Blanck sua origem, sua ligacao com [[Medebe]] e seu sonho de se tornar Justa. Essa conversa tambem permite que Blanck admita solidão, dificuldade com os [[Brensver]] e desejo de ter amigas.
 
 Scann participa de cenas praticas importantes: compra suprimentos com [[Leif]], encontra o amuleto/projecao ligado a [[Baldur]], estabiliza [[Felix]] em combate e ajuda na infiltracao para descobrir o leilao de [[Cleide]]. Na fuga da capital, auxilia [[Blanck]] e [[Kirai]] com a flecha explosiva contra [[Ghull]] e depois ajuda na retirada desesperada.
 

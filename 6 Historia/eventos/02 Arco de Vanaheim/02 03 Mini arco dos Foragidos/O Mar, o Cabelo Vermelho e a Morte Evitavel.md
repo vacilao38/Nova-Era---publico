@@ -5,7 +5,7 @@
 - Participantes: [[Blanck]] e [[Elder]]
 - Jogadores: [[PLAYER - Ruan]] como [[Blanck]]; [[PLAYER - Pedro]] como [[Elder]]
 - Data da conversa: 04/06/2026
-- Data diegetica: aproximadamente 10/06/0387, seis dias apos a saida da [[Catacumba de Gullveig]] em 04/06/0387
+- Data diegetica: 10/06/0387, seis dias apos a saida da [[Catacumba de Gullveig]] em 04/06/0387
 - Estacao: Outono
 - Local: uma ilha a beira-mar, durante uma pausa de descanso
 
@@ -95,6 +95,6 @@ Ao fim, Blanck cobra Elder sobre "aquela espada" e sobre a magia. Elder tenta se
 - Flashback conectado: [[Velha-lembranças]]
 - Personagens centrais: [[Blanck]], [[Elder]]
 - Personagens mencionados: [[Ólfir]], [[Juliet]], [[Hela]], [[Odr]], [[Gullveig]]
-- Grupos e historia: [[Heróis-de-Vanaheim]], [[Bresnver]]
+- Grupos e historia: [[Heróis-de-Vanaheim]], [[Brensver]]
 - Itens e marcas: [[Elder e sua espada Juliet|espada de Juliet]], magia espiritual, corante vermelho da [[Catacumba de Gullveig]], mecha grisalha de [[Blanck]], anel dourado de [[Elder]]
 - Local: ilha beira-mar em [[Vanaheim|Vanaheim]]

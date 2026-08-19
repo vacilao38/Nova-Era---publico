@@ -31,7 +31,7 @@ O arco de Huli é uma ruptura com manipulação afetiva, não uma cura instantâ
 - [[Freya]] — criadora e origem felina.
 - [[Loki]] — amante ou figura amada que a manipulou por meio do Desk.
 - [[Thor]] — manifestação destruída por seu ataque final.
-- [[mane|Máni]] e [[Sterk Bresnver]] — aliados circunstanciais na ruptura da armadilha.
+- [[mane|Máni]] e [[Sterk Brensver]] — aliados circunstanciais na ruptura da armadilha.
 - [[Elder]] — narradora que preserva sua história de forma falível.
 
 ## Ambiguidades

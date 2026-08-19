@@ -173,7 +173,7 @@ Executores **não podem emitir vereditos definitivos**. O título descreve quem 
 
 ### Terceiros contratados
 
-A [[Catedral]] distribui o cumprimento material de suas decisões entre as demais Casas, conforme a competência exigida. Os [[Bresnver]] podem receber medidas de segurança, custódia, fronteira ou força bélica; os [[Vakker]], medidas dependentes de perícia, contenção ou recursos mágicos. Quando as Casas não possuírem a capacidade necessária, a Catedral também pode recorrer a pessoas externas, especialmente para perseguição de criminosos, confronto direto ou morte.
+A [[Catedral]] distribui o cumprimento material de suas decisões entre as demais Casas, conforme a competência exigida. Os [[Brensver]] podem receber medidas de segurança, custódia, fronteira ou força bélica; os [[Vakker]], medidas dependentes de perícia, contenção ou recursos mágicos. Quando as Casas não possuírem a capacidade necessária, a Catedral também pode recorrer a pessoas externas, especialmente para perseguição de criminosos, confronto direto ou morte.
 
 Esses terceiros:
 
@@ -209,7 +209,7 @@ O método de escolha, o tempo de mandato e a possibilidade de o cargo ser vital�
 
 A [[Lumína]] se aproxima de um corpo doutrinário, legislativo e burocrático hereditário. A [[Catedral]] corresponde ao corpo judicial. Essa comparação descreve funções; não transforma as instituições em cópias de governos modernos.
 
-A independência da [[Catedral]] permite que ela julgue integrantes da [[Lumína]] que não façam parte da própria Catedral. Quando a pessoa processada é integrante da Catedral, o caso sai de sua competência e passa conjuntamente aos [[Bresnver]] e aos [[Vakker]]. A relação continua deliberadamente tensa: a Catedral aplica uma doutrina preservada pela Casa que lhe deu origem histórica, mas não pertence exclusivamente a ela.
+A independência da [[Catedral]] permite que ela julgue integrantes da [[Lumína]] que não façam parte da própria Catedral. Quando a pessoa processada é integrante da Catedral, o caso sai de sua competência e passa conjuntamente aos [[Brensver]] e aos [[Vakker]]. A relação continua deliberadamente tensa: a Catedral aplica uma doutrina preservada pela Casa que lhe deu origem histórica, mas não pertence exclusivamente a ela.
 
 ## 9. Funcionamento da jurisdição
 
@@ -234,9 +234,9 @@ A definição jurídica de Pessoa Importante, a autoridade que concede as aprova
 
 ### Processo contra integrantes da Catedral
 
-A Catedral não julga os próprios integrantes. Quando qualquer membro entra em processo — seja ou não integrante da [[Lumína]] — [[Bresnver]] e [[Vakker]] formam conjuntamente o julgamento externo.
+A Catedral não julga os próprios integrantes. Quando qualquer membro entra em processo — seja ou não integrante da [[Lumína]] — [[Brensver]] e [[Vakker]] formam conjuntamente o julgamento externo.
 
-Se a decisão necessária interferir nos desejos do povo de Alfheim, o [[Conselho dos Sábios]] participa do caso. O Conselho não possui membros das Casas e atua para defender a vontade popular, sem representar os interesses familiares de Lumína, Bresnver ou Vakker.
+Se a decisão necessária interferir nos desejos do povo de Alfheim, o [[Conselho dos Sábios]] participa do caso. O Conselho não possui membros das Casas e atua para defender a vontade popular, sem representar os interesses familiares de Lumína, Brensver ou Vakker.
 
 O protocolo exato de entrada e distribuição dos demais casos ainda precisa ser definido.
 
@@ -251,7 +251,7 @@ O funcionamento básico segue estas responsabilidades:
 
 Famílias atingidas podem buscar reparação, julgamento ou vingança. A existência de uma demanda familiar não constitui, por si, sentença válida. A [[Catedral]] deve avaliar o caso, e uma vingança privada pode produzir um novo conflito jurídico em vez de encerrar o anterior.
 
-A [[Catedral]] não concede imunidade automática a seus agentes. Um Executor que ultrapasse os limites da decisão, destrua provas ou transforme interesse privado em cumprimento judicial entra em processo como qualquer outro integrante da Catedral: o caso deve ser julgado conjuntamente por [[Bresnver]] e [[Vakker]], com participação do [[Conselho dos Sábios]] quando a decisão interferir nos desejos do povo.
+A [[Catedral]] não concede imunidade automática a seus agentes. Um Executor que ultrapasse os limites da decisão, destrua provas ou transforme interesse privado em cumprimento judicial entra em processo como qualquer outro integrante da Catedral: o caso deve ser julgado conjuntamente por [[Brensver]] e [[Vakker]], com participação do [[Conselho dos Sábios]] quando a decisão interferir nos desejos do povo.
 
 O mesmo vale para terceiros contratados. O contrato define o trabalho; a sentença da [[Catedral]] define a autoridade judicial. Um pedido privado, uma recompensa ou uma solicitação da [[Lumína]] não podem ser apresentados como sentença se não tiverem passado pelo julgamento correspondente.
 
@@ -277,7 +277,7 @@ Seu significado não é exclusivamente religioso. A luz do símbolo representa c
 - A [[Lumína]] é hereditária e oligárquica, mas afirma representar todos os elfos.
 - A [[Catedral]] nasceu da tradição da [[Lumína]], mas hoje possui integrantes de outras origens.
 - A Catedral não participa dos tribunais das outras Casas, embora receba ciência de seus casos.
-- [[Bresnver]] e [[Vakker]] julgam integrantes da Catedral, criando um controle externo entre Casas.
+- [[Brensver]] e [[Vakker]] julgam integrantes da Catedral, criando um controle externo entre Casas.
 - Pessoas Importantes podem sofrer redução provisória de direitos antes do veredito, mesmo sem condenação.
 - O [[Conselho dos Sábios]] representa o desejo popular sem permitir membros das Casas.
 - A Catedral decide, mas depende das Casas para materializar decisões e execuções.
@@ -305,11 +305,11 @@ Essas contradições não tornam a instituição automaticamente corrupta ou vil
 - consequências quando reis, governos ou forças locais recusam uma decisão;
 - remuneração, sustento, privilégios, deveres e limites de recusa de integrantes e terceiros contratados;
 - critérios jurídicos para determinar quando uma sentença exige combate ou morte;
-- distribuição das decisões e execuções entre [[Bresnver]], [[Vakker]], [[Lumína]] e outras Casas ainda não identificadas;
+- distribuição das decisões e execuções entre [[Brensver]], [[Vakker]], [[Lumína]] e outras Casas ainda não identificadas;
 - forma de selecionar, instruir, fiscalizar, pagar e responsabilizar terceiros contratados;
 - definição jurídica de **estrangeiro de nome** e de **Pessoa Importante**;
 - autoridade competente para aprovar contratos e provisões durante o regime provisório de exceção;
-- procedimentos do julgamento conjunto realizado por Bresnver e Vakker;
+- procedimentos do julgamento conjunto realizado por Brensver e Vakker;
 - limites e forma de participação do [[Conselho dos Sábios]];
 - distinção prática entre contratos privados, pedidos da [[Lumína]] e sentenças da [[Catedral]];
 - limites das informações, provas e registros entregues a um terceiro para o cumprimento de cada caso;
@@ -319,7 +319,7 @@ Essas contradições não tornam a instituição automaticamente corrupta ou vil
 
 - [[Alfheim|Alfheim]]
 - [[Casas]]
-- [[Bresnver]]
+- [[Brensver]]
 - [[Vakker]]
 - [[Conselho dos Sábios]]
 - [[Freyir|Freyr]]

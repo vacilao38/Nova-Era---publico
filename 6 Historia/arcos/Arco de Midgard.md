@@ -13,7 +13,7 @@ O arco de Midgard narra o despertar desses heróis — não como lendas prontas,
 
 ### **Quem são os aventureiros**
 
-**Blanck Bresnver Vakker** — Uma maga elfa de imenso potencial e mente curiosa, mas emocionalmente instável. Busca conhecimento mágico e, ao mesmo tempo, conexões humanas que nunca teve. Carrega inseguranças profundas e, ao longo da jornada, começa a enfrentar tanto forças externas quanto fragmentos de si mesma.
+**Blanck Brensver Vakker** — Uma maga elfa de imenso potencial e mente curiosa, mas emocionalmente instável. Busca conhecimento mágico e, ao mesmo tempo, conexões humanas que nunca teve. Carrega inseguranças profundas e, ao longo da jornada, começa a enfrentar tanto forças externas quanto fragmentos de si mesma.
 
 **Leif** — Um guerreiro divino, marcado por uma presença sagrada e um instinto combativo preciso. Apesar de seu poder, demonstra traços caóticos, oportunistas e até inconvenientes. Sua conexão com o divino o coloca frequentemente como ponte entre os mortais e os deuses.
 

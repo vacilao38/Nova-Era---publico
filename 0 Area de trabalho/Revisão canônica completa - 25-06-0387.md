@@ -29,7 +29,7 @@ A história registrada termina na manhã de **25/06/0387**, depois de [[Ouro de 
 
 - estados finais de [[Felix]], [[Raksha]], [[Horis-Tuti]], [[Ghull]], [[Odr]], [[Rog]] e [[Cassius Vareth]];
 - história de [[Freya]], [[Gullveig]], [[Njord]], [[mane|Máni]], [[Aesir]], [[Vanir]] e [[Heróis-de-Vanaheim]];
-- notas vazias ou rasas de [[Bresnver]], [[Floorn]], [[Cassandra]], [[Pai-do-Leif|pai de Leif]], [[avo-do-Navi|avô de Navi]], [[Tongu]], [[Kirai]], [[Peixinho]], [[Agiota]] e [[Lorde Laranja]];
+- notas vazias ou rasas de [[Brensver]], [[Florn]], [[Cassandra]], [[Pai-do-Leif|pai de Leif]], [[avo-do-Navi|avô de Navi]], [[Tongu]], [[Kirai]], [[Peixinho]], [[Agiota]] e [[Lorde Laranja]];
 - todos os reinos e locais existentes, com destaque para [[Catacumba de Gullveig]], [[Vanaheim]], [[Varethia]], [[Palacio-dos-Vareth]], [[Festival-dos-Vagalumes]] e [[Ruinas-de-Yarn]];
 - [[Desk]], [[Sorgudra]], [[Embrulho]], [[Escudo de Wyrrer]], [[Dracolupi]], [[Kraken]], guerras e itens do arco;
 - linha do tempo, visão cronológica de Vanaheim, [[Pontos da Historia]] e [[Coisas Abertas da Campanha]].

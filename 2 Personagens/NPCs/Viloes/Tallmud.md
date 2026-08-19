@@ -31,7 +31,7 @@ Sua obsessão por beleza é cruel. Tallmud pode fazer cortes leves no rosto ou n
 
 ### O que desperta seu interesse
 
-- quem tenta se equiparar ou se assemelhar a ele ou a [[Floorn]];
+- quem tenta se equiparar ou se assemelhar a ele ou a [[Florn]];
 - pessoas que causam problemas de modo persistente e incansável;
 - seres magicamente fortes que não sejam humanos nem elfos;
 - pessoas muito bonitas e pobres;
@@ -60,7 +60,7 @@ Tallmud fundou e organizou os [[Quatro Ventos]], a elite de Alfheim, como instru
 
 - [[Elder]] — antiga comandante que Tallmud responsabiliza pela morte de seus amigos e companheira; alvo de vingança cujo nome original, **Anjo**, ele conhece.
 - [[Freyir]] — pai; a filiação divina é conhecida, ao contrário da ascendência gigante.
-- [[Floorn]] — Vento Leste e figura cuja família Tallmud trata como exceção à própria precedência social.
+- [[Florn]] — Vento Leste e figura cuja família Tallmud trata como exceção à própria precedência social.
 - [[Odr]] — aliado comercial e político anterior; morto na queda de Vanaheim.
 - [[Felix]] — recebeu materiais de Tallmud para fabricar armas destinadas a Odr; morreu na ofensiva final.
 - [[Blanck]], [[Leif]] e [[Cleide]] — nomes registrados entre seus alvos por destruírem negócios e aliados em Jotunheim e Vanaheim.
@@ -71,7 +71,7 @@ Tallmud fundou e organizou os [[Quatro Ventos]], a elite de Alfheim, como instru
 1. Destruir Muspelheim, Nidavelir, Jotunheim e Niflheim para preservar apenas a supremacia dos elfos luminosos.
 2. Vingar-se de Elder pelas mortes ocorridas sob o comando dela na guerra.
 3. Matar Cleide, Blanck e Leif por terem destruído seus negócios e aliados em Jotunheim e Vanaheim.
-4. Punir Blanck por ser irmã de Floorn e, aos olhos dele, uma maga indigna dessa linhagem.
+4. Punir Blanck por ser irmã de Florn e, aos olhos dele, uma maga indigna dessa linhagem.
 5. Criar uma arma capaz de retirar permanentemente a magia de qualquer ser.
 
 ### Estado atual dos objetivos
@@ -106,7 +106,7 @@ Um sobrevivente foge da derrota e implora ajuda a Tallmud. Enquanto o homem expl
 
 ### A tapeçaria do banquete
 
-Antes da ofensiva final, Tallmud conversaria com Floorn sobre o fracasso do cassino, do Colecionador e do Círculo Dourado. Ao ouvir os nomes de Félix e Leif, responderia com indiferença diante de uma tapeçaria que mostrava as cabeças dos aventureiros servidas num banquete. O gancho permanece útil como registro de intenção e imagem de cena; os detalhes precisam ser atualizados para o pós-guerra.
+Antes da ofensiva final, Tallmud conversaria com Florn sobre o fracasso do cassino, do Colecionador e do Círculo Dourado. Ao ouvir os nomes de Félix e Leif, responderia com indiferença diante de uma tapeçaria que mostrava as cabeças dos aventureiros servidas num banquete. O gancho permanece útil como registro de intenção e imagem de cena; os detalhes precisam ser atualizados para o pós-guerra.
 
 ## Pontos pendentes
 

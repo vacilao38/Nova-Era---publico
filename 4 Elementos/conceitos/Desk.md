@@ -12,7 +12,7 @@ Praga sobrenatural também chamada de **sopro negro**. O Desk corrói matéria, 
 - O ouro de Odr chegou a consumir o Desk em zonas de baixa mana, mas essa “cura” transformava vida e natureza em matéria estática.
 - [[Gullveig]] parece ligada a uma resposta sombria da natureza ao mal feito contra o mundo; a relação exata dela com o Desk ainda não foi explicada.
 - [[Zakna]] relata uma tradição da [[Ordem dos Escribas]] segundo a qual a ambição mortal pelo [[Título de Imperador]] fez surgir outra instância do Desk quando o nome do título se espalhou. A afirmação ainda não possui confirmação externa.
-- Em [[Colisão Injusta - A Segunda Guerra Divina]], Loki usa o Desk no centro de Asgard: a praga prende e cega [[Odin]], corrompe [[Thor]], invade memórias, reforça vínculos manipulados e tenta substituir lembranças de [[Sterk Bresnver]].
+- Em [[Colisão Injusta - A Segunda Guerra Divina]], Loki usa o Desk no centro de Asgard: a praga prende e cega [[Odin]], corrompe [[Thor]], invade memórias, reforça vínculos manipulados e tenta substituir lembranças de [[Sterk Brensver]].
 - Nem as [[Nornas]] conseguiram prever sua presença naquela assembleia, indicando que o Desk pode interferir na leitura divina do destino.
 
 ## Efeitos observados

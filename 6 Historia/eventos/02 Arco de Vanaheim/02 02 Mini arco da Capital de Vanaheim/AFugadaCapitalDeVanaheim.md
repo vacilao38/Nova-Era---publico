@@ -3,7 +3,7 @@
 
 - **Projeto:** Nova Era -  EP 14
 - **Tipo:** Roleplay / Lore / Exploração
-- **Data In-Game:** noite de 18/05/0387 (Festival dos Vagalumes)
+- **Data In-Game:** noite de 17/05/0387 (Festival dos Vagalumes)
 - **Estação:** Verão
 - **Fase da Lua:** Lua Cheia
 - **Localização:** [[Vanaheim]] / [[Subterrâneo das Raízes]] / [[Taverna]]

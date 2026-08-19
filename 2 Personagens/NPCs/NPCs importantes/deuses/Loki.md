@@ -66,7 +66,7 @@ Deus nórdico causador de caos.
 
 Em [[Colisão Injusta - A Segunda Guerra Divina]], Loki converteu uma assembleia em Asgard numa armadilha. Usou o [[Desk]] para cegar e prender [[Odin]], corromper memória e lealdade, transformar [[Thor]] em protetor involuntário e reforçar a dependência afetiva de [[Huli Jing]]. A cena confirma que Loki sabia **direcionar** a praga contra deuses e destinos, mas não confirma que a criou.
 
-[[Sterk Bresnver]], Huli e [[mane|Máni]] romperam a armadilha. Huli destruiu a manifestação de Thor, e Sterk, fortalecido pela Lua, partiu Loki ao meio e abriu o palácio de Asgard. A derrota foi corporal e temporária: Máni já sabia que Loki teria de ser encontrado e aprisionado depois. Isso conecta a colisão à punição posterior na caverna de [[Midgard]] e aos arautos que continuaram ativos até o marco zero.
+[[Sterk Brensver]], Huli e [[mane|Máni]] romperam a armadilha. Huli destruiu a manifestação de Thor, e Sterk, fortalecido pela Lua, partiu Loki ao meio e abriu o palácio de Asgard. A derrota foi corporal e temporária: Máni já sabia que Loki teria de ser encontrado e aprisionado depois. Isso conecta a colisão à punição posterior na caverna de [[Midgard]] e aos arautos que continuaram ativos até o marco zero.
 
 Loki também aparece ligado ao massacre da [[Ordem dos Escribas]]. Máni afirma diretamente que seus fiéis foram caçados pela aliança de Loki, versão que contradiz a acusação posterior de [[Zakna]] contra Thor.
 

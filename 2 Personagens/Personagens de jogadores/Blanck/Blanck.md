@@ -1,13 +1,13 @@
-# Blanck [[Bresnver]] [[Vakker]]
+# Blanck [[Brensver]] [[Vakker]]
 
-Maga elfa dos [[Bresnver]], pesquisadora obsessiva de magia e uma das principais mentes do grupo. Blanck combina inteligencia arcana, orgulho familiar, inseguranca afetiva e uma curiosidade perigosa por tudo que sustenta os Nove Reinos por baixo da superficie.
+Maga elfa dos [[Brensver]], pesquisadora obsessiva de magia e uma das principais mentes do grupo. Blanck combina inteligencia arcana, orgulho familiar, inseguranca afetiva e uma curiosidade perigosa por tudo que sustenta os Nove Reinos por baixo da superficie.
 
 ## Identidade
 
 - **Raca:** elfa
 - **Classe/funcao:** maga
-- **Nome completo:** Blanck Bresnver Vakker
-- **Familia:** [[Bresnver]] e [[Vakker]]
+- **Nome completo:** Blanck Brensver Vakker
+- **Familia:** [[Brensver]] e [[Vakker]]
 - **Montaria atual:** [[Sofandi]], seu [[Dracolupi|Pula-Nuvem]] azul
 - **Condicao atual:** infectada pelo [[Desk]] e parcialmente marcada pela maldicao de ouro
 - **Saude cotidiana:** orientada por um medico a evitar excesso de acucar e equilibrar a alimentacao para nao desfalecer
@@ -17,14 +17,14 @@ Maga elfa dos [[Bresnver]], pesquisadora obsessiva de magia e uma das principais
 
 Blanck pensa em estrutura. Diante de algo desconhecido, seu impulso e observar, nomear, copiar, desmontar e entender: runas, fluxos de mana, portais, maldicoes, historia elfica, motores, entidades vivas e ate sentimentos entram no mesmo laboratorio mental.
 
-Essa inteligencia vem acompanhada de orgulho e impaciencia. Blanck pode soar fria quando esta tentando ser precisa, e pode transformar medo em analise antes de admitir que esta com medo. Ainda assim, a frieza dela e menos ausencia de afeto e mais defesa. Em [[O Encontro no Quarto e a Nova Amizade]], ela revela a [[Scann]] que os [[Bresnver]] nao gostam muito dela e que deseja ter amigas. Desde entao, seu arco emocional tem sido aceitar que cuidado nao precisa ser sempre disfarçado de estrategia.
+Essa inteligencia vem acompanhada de orgulho e impaciencia. Blanck pode soar fria quando esta tentando ser precisa, e pode transformar medo em analise antes de admitir que esta com medo. Ainda assim, a frieza dela e menos ausencia de afeto e mais defesa. Em [[O Encontro no Quarto e a Nova Amizade]], ela revela a [[Scann]] que os [[Brensver]] nao gostam muito dela e que deseja ter amigas. Desde entao, seu arco emocional tem sido aceitar que cuidado nao precisa ser sempre disfarçado de estrategia.
 
 Nas interacoes recentes, Blanck se mostra mais aberta. Em [[O Mar, o Cabelo Vermelho e a Morte Evitavel]], conversa com [[Elder]] sobre morte, cuidado e perda, admitindo que nao sabe explicar por que se importa com o grupo, mas sabe que nao quer perde-los. Essa e uma frase pequena para outros personagens; para Blanck, e quase uma confissao de fe.
 
 ## Motivacoes
 
 - Desvendar os segredos da magia, especialmente runas, portais e estruturas profundas dos reinos.
-- Provar que nao e uma falha dentro dos [[Bresnver]].
+- Provar que nao e uma falha dentro dos [[Brensver]].
 - Proteger seus amigos, mesmo quando tenta chamar isso de logica.
 - Entender a historia dos elfos, de [[Freyir]], de [[Odr]], da ascensao divina e do [[Desk]].
 - Sobreviver e talvez curar a infeccao ligada ao ouro.
@@ -34,7 +34,7 @@ Nas interacoes recentes, Blanck se mostra mais aberta. Em [[O Mar, o Cabelo Verm
 
 Blanck entra no grupo como uma maga curiosa e orgulhosa. Em [[O Despertar do Dragão Negro e o Encontro com Svava]], demonstra fascinio por [[Tongu]], usa magia para se comunicar e liberta [[Scann]] do pote, criando uma de suas relacoes mais importantes.
 
-Em [[O Encontro no Quarto e a Nova Amizade]], sua fachada cai um pouco. Nervosa para encontrar [[Braggi]], pede ajuda a Scann para arrumar o cabelo e revela seu nome completo, sua relacao dificil com os Bresnver e o desejo de ter amigas. A cena e interrompida por [[Leif]], que invade seu quarto e e jogado do segundo andar.
+Em [[O Encontro no Quarto e a Nova Amizade]], sua fachada cai um pouco. Nervosa para encontrar [[Braggi]], pede ajuda a Scann para arrumar o cabelo e revela seu nome completo, sua relacao dificil com os Brensver e o desejo de ter amigas. A cena e interrompida por [[Leif]], que invade seu quarto e e jogado do segundo andar.
 
 Em [[Batalha contra Ather]], Blanck enfrenta copias, distorcoes e a corrupcao do [[Desk]], sendo levada para[[Vanaheim]]] infectada. Essa condicao ganha urgencia em [[A Maldição de Ouro]], quando seus dedos comecam a endurecer em ouro. [[Aurélia]] usa uma lagrima dourada para conter parte da petrificacao, e Blanck copia a tatuagem runica protetora da princesa.
 
@@ -44,7 +44,7 @@ Depois da fuga da capital e da traicao de Felix, Blanck conversa com [[Rog]] em 
 
 Dentro da masmorra, Blanck salva [[Leif]] da sombra ligada a aposta e [[Gullveig|Gveig/Gullveig]] usando agua viva, participa da derrota da guardia de fogo e encontra, ao lado de [[Elder]], o corpo de [[Wyrrer]] sustentando Vanaheim no fluxo de mana. Depois, em [[O Deus Adormecido e o Retorno a Capital]], organiza com [[Zakna]] e [[Fir]] o plano de invasao da capital: cegar [[Ghull]], usar [[Embrulho]] e agua viva contra as estruturas de ouro e enfrentar o [[Círculo Dourado]] com inteligencia, nao apenas coragem.
 
-Em [[Chá, Amor e Promessas Antes da Guerra - EP 22]], Blanck conclui a revisão das rotas e dos alvos dentro do palácio. Diante das aliadas, revela que os [[Bresnver]] protegem as fronteiras de[[Alfheim|Alfheim]]] e relembra o irmão pintor que a ensinou a buscar uma forma própria de fazer magia. Em particular, [[Aurélia]] a chama de sua primeira amiga verdadeira. Blanck admite que nunca procurou o amor romântico e ainda o trata como conhecimento a ser estudado, mas promete pensar sobre o próprio futuro e deseja que Aurélia seja feliz.
+Em [[Chá, Amor e Promessas Antes da Guerra - EP 22]], Blanck conclui a revisão das rotas e dos alvos dentro do palácio. Diante das aliadas, revela que os [[Brensver]] protegem as fronteiras de[[Alfheim|Alfheim]]] e relembra o irmão pintor que a ensinou a buscar uma forma própria de fazer magia. Em particular, [[Aurélia]] a chama de sua primeira amiga verdadeira. Blanck admite que nunca procurou o amor romântico e ainda o trata como conhecimento a ser estudado, mas promete pensar sobre o próprio futuro e deseja que Aurélia seja feliz.
 
 Em [[Acerto de Contas- Parte 1]], Blanck encontra [[Felix]] na área industrial do palácio. A conversa é menos um duelo imediato e mais uma execução moral: Felix entrega a ela um grimório de couro feito à mão, recusa uma poção que poderia lhe dar uma saída e pede que Blanck seja sua executora. Blanck tenta assumir parte da culpa pelos crimes dele como líder do grupo, mas Felix a impede, dizendo que ela confiou porque ainda era capaz de confiar e que a responsabilidade pelos atos dele não é dela.
 
@@ -66,9 +66,9 @@ Em [[Chá, Desculpas e o Peso de Liderar]], Blanck e [[Elder]] reparam o conflit
 
 No espaço privado, Elder usa uma espada de prata e miniaturas luminosas para perguntar quem cuida de Blanck fora das crises. A maga consegue nomear [[Scann]] como presença constante e recorda ajudas pontuais dos demais, mas encontra pouca reciprocidade cotidiana. Ainda assim, recusa transformar isso em condenação: afirma que o grupo precisava dela e agora está criando independência. Ao fim, decide acompanhar Naví sem prendê-lo, ajudar quando for procurada e não carregar um reino nas costas. A conversa não resolve lutos específicos, mas faz Blanck assumir em palavras a decisão de deixar os companheiros crescerem.
 
-Em [[Fajo Solar, Segredos e a Cabeça de Thor]], Blanck procura [[Zakna]] por iniciativa própria depois que os Renegados começam a deixar Vanaheim. A conversa dá forma à maneira como ela constrói confiança: oferece hospitalidade, pergunta o que a organização precisa, aceita responder questões sensíveis e revela a chacina dos [[Bresnver]] porque não quer manter uma dívida informacional. Ao mesmo tempo, controla a exposição. Interrompe o aprofundamento sobre Alfheim quando percebe risco de assassinato, admite não saber a origem exata dos poderes de Naví e mostra o artefato das catacumbas sem tirá-lo do pescoço.
+Em [[Fajo Solar, Segredos e a Cabeça de Thor]], Blanck procura [[Zakna]] por iniciativa própria depois que os Renegados começam a deixar Vanaheim. A conversa dá forma à maneira como ela constrói confiança: oferece hospitalidade, pergunta o que a organização precisa, aceita responder questões sensíveis e revela a chacina dos [[Brensver]] porque não quer manter uma dívida informacional. Ao mesmo tempo, controla a exposição. Interrompe o aprofundamento sobre Alfheim quando percebe risco de assassinato, admite não saber a origem exata dos poderes de Naví e mostra o artefato das catacumbas sem tirá-lo do pescoço.
 
-[[Colisão Injusta - A Segunda Guerra Divina]] acrescenta uma camada ancestral à identidade de Blanck. [[Sterk Bresnver]] recebeu de [[mane|Máni]] uma bênção destinada às gerações futuras e viu uma descendente cercada por magia extraordinária. A cena não pronuncia o nome de Blanck, mas a combinação de linhagem Bresnver, cabelos azuis e poder mágico funciona como forte prenúncio dela. Isso não resolve a origem específica de sua magia nem prova que a visão descrevia exclusivamente Blanck.
+[[Colisão Injusta - A Segunda Guerra Divina]] acrescenta uma camada ancestral à identidade de Blanck. [[Sterk Brensver]] recebeu de [[mane|Máni]] uma bênção destinada às gerações futuras e viu uma descendente cercada por magia extraordinária. A cena não pronuncia o nome de Blanck, mas a combinação de linhagem Brensver, cabelos azuis e poder mágico funciona como forte prenúncio dela. Isso não resolve a origem específica de sua magia nem prova que a visão descrevia exclusivamente Blanck.
 
 Ela também revela ter encontrado, nos arquivos de Odr, referências a uma antiga ordem de magos independentes cuja tradição é idêntica à sua. A ordem não é nomeada, e a conversa não esclarece se essa semelhança explica a forma de magia de Blanck, a herança Vakker, os ensinamentos do irmão ou uma linhagem ainda desconhecida.
 
@@ -104,7 +104,7 @@ Blanck passa a tratar informação como uma relação de reciprocidade, consenti
 | [[A Casa, a Chuva e a Rainha dos Mapas]] | Procura uma casa definitiva, discute vida ordinária e aprofunda a amizade com Hori |
 | [[Chá, Raízes e o Fim da Aventura]] | Assume a pesquisa das raízes do palácio e deixa de se definir como líder permanente |
 | [[Chá, Desculpas e o Peso de Liderar]] | Repara o conflito com Elder, reconhece a falta de reciprocidade fora das crises e decide deixar o grupo crescer sem carregar um reino nas costas |
-| [[Fajo Solar, Segredos e a Cabeça de Thor]] | Procura Zakna, esclarece a natureza dos Renegados, revela a chacina dos Bresnver e estabelece uma parceria limitada de informações sobre o Desk e ameaças inter-reinos |
+| [[Fajo Solar, Segredos e a Cabeça de Thor]] | Procura Zakna, esclarece a natureza dos Renegados, revela a chacina dos Brensver e estabelece uma parceria limitada de informações sobre o Desk e ameaças inter-reinos |
 
 ## Pontos altos
 
@@ -120,7 +120,7 @@ Blanck passa a tratar informação como uma relação de reciprocidade, consenti
 - Orgulho e impaciencia com quem nao acompanha seu raciocinio.
 - Tendencia a tratar sentimentos como variaveis secundarias.
 - Curiosidade perigosa diante de magia instavel.
-- Medo de rejeicao ligado aos [[Bresnver]].
+- Medo de rejeicao ligado aos [[Brensver]].
 - Risco de transformar a propria infeccao pelo [[Desk]] em obsessao intelectual.
 
 ## Relacoes
@@ -153,7 +153,7 @@ Blanck passa a tratar informação como uma relação de reciprocidade, consenti
 
 - Curar ou compreender a infeccao pelo [[Desk]] e a maldicao de ouro.
 - Entender a verdade sobre [[Freyir]], os elfos e a ascensao divina vista na [[Catacumba de Gullveig]].
-- Resolver sua relacao com a familia [[Bresnver]].
+- Resolver sua relacao com a familia [[Brensver]].
 - Processar a execução de [[Felix]] e descobrir o conteúdo do grimório entregue por ele.
 - Entender a natureza do adorno ligado a Brísingamen e o destino do Coração Esmeralda.
 - Estudar os contratos, registros e demais documentos deixados por Odr.
@@ -163,7 +163,7 @@ Blanck passa a tratar informação como uma relação de reciprocidade, consenti
 - Descobrir quem é quando não precisa liderar uma crise nem manter todos vivos.
 - Testar se conseguirá deixar os companheiros crescerem, acompanhar Naví sem prendê-lo e aceitar ajuda antes de uma nova crise.
 - Elaborar os lutos específicos que a liderança a impediu de viver; a conversa com Elder tornou o desequilíbrio visível, mas não nomeou essas perdas.
-- Investigar a chacina dos Bresnver, o apagamento do nome da avó, a aliança que formou o nome Bresnver Vakker, a bênção lunar de Sterk e a possível ligação com a antiga derrota atribuída a um arauto de Loki.
+- Investigar a chacina dos Brensver, o apagamento do nome da avó, a aliança que formou o nome Brensver Vakker, a bênção lunar de Sterk e a possível ligação com a antiga derrota atribuída a um arauto de Loki.
 - Identificar a ordem de magos independentes encontrada nos arquivos de Odr e explicar por que sua tradição é idêntica à de Blanck.
 - Determinar a função do artefato transformado em colar e dos outros oito lugares atemporais mencionados por Zakna.
 - Manter a parceria informacional com Zakna sem absorver a missão dele contra Thor nem perder o foco no Desk.

@@ -7,7 +7,7 @@
 - **Localização:** [[Vanaheim]] / Acampamento dos Refugiados
 
 ## Conteúdo
-Aurélia acorda voando nas costas de Skirnir sobre Vanaheim, rumo a um acampamento de refugiados onde encontra Zakna, um líder elfo negro com uma marreta e olhos vermelhos, que oferece uma aliança. Enquanto isso, o resto do grupo vive dias de interações, incluindo Blanck bêbada quase matando Scann e Leif queimando uma floresta.
+Aurélia acorda voando nas costas de Skirnir sobre Vanaheim, rumo a um acampamento de refugiados onde encontra Zakna, um líder elfo negro com uma marreta e olhos vermelhos, que oferece uma aliança. Enquanto isso, o resto do grupo vive dias de interações, incluindo Elder bêbada quase matando Scann e Leif queimando uma floresta.
 
 ## Tópicos
 

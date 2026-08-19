@@ -87,7 +87,7 @@ Leif descreve-se como o menos talentoso de sua família e afirma ter encontrado 
 
 Leif responde que circunstância e sorte impedem uma fórmula única. Embora se considere azarado durante grande parte da vida, reconhece a sorte de ter encontrado pessoas maravilhosas. Elder conclui que o processo é mais complicado do que imaginava.
 
-Enquanto a conversa prossegue, a luz forma uma criança de aproximadamente seis a oito anos com uma espada de madeira. Uma grande mão sem corpo corrige seus movimentos. Elder desfaz a parte feita incorretamente do cachecol e considera que talvez precise de milênios para alcançar a força desejada.
+Enquanto a conversa prossegue, a luz forma uma criança de aproximadamente seis a oito anos com uma espada de madeira. Algo grande e sem corpo corrige seus movimentos; a frase do export está truncada e não nomeia com segurança esse elemento. Elder desfaz a parte feita incorretamente do cachecol e considera que talvez precise de milênios para alcançar a força desejada.
 
 Leif chama as manifestações de truques interessantes e diz que a força costuma ser percebida depois de chegar. Elder responde que espera há tempo demais, pensa em fazer outro pacto e afirma que continuar como está não é possível.
 

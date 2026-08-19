@@ -13,12 +13,12 @@ atualizado: 2026-08-09
 ## Independência
 
 - não possui membros da [[Casas|Casas de Alfheim]];
-- não representa os interesses particulares de [[Lumína]], [[Bresnver]] ou [[Vakker]];
+- não representa os interesses particulares de [[Lumína]], [[Brensver]] ou [[Vakker]];
 - sua responsabilidade é tornar a vontade popular parte de decisões que possam afetá-la.
 
 ## Participação confirmada
 
-Quando um integrante da [[Catedral]] entra em processo, [[Bresnver]] e [[Vakker]] assumem conjuntamente o julgamento. O Conselho dos Sábios entra no caso quando a decisão necessária interferir nos desejos do povo de Alfheim.
+Quando um integrante da [[Catedral]] entra em processo, [[Brensver]] e [[Vakker]] assumem conjuntamente o julgamento. O Conselho dos Sábios entra no caso quando a decisão necessária interferir nos desejos do povo de Alfheim.
 
 Sua participação não transforma o Conselho num tribunal ordinário nem o faz participar de todos os casos da Catedral ou das Casas. Trata-se de uma intervenção excepcional vinculada ao impacto popular da decisão.
 

@@ -2,9 +2,9 @@
 
 - **Projeto:** Nova Era.
 - **Tipo:** Evento / Roleplay.
-- **Data In-Game:** 18–20/05/0387
+- **Data In-Game:** 17–19/05/0387
 - **Estação:** Verão
-- **Fases da Lua nas noites abrangidas:** Lua Cheia (18/05) e transição para Lua Minguante (19–20/05)
+- **Fases da Lua nas noites abrangidas:** Lua Cheia (17/05) e transição para Lua Minguante (18–19/05)
 - **Localização:** [[Vanaheim]] / [[Caverna-de-Rog]].
 
 --------------------------------------------------------------------------------

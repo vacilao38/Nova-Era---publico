@@ -62,7 +62,11 @@ No décimo segundo dia depois da derrota de Odr, em [[Remédio para Dormir e a F
 
 Em [[Lírios, Vinho e um Futuro sob a Lua]], Leif prepara no jardim do palácio um jantar romântico com vinho, lírios e rosas, usando uma toalha que [[Elder]] o ajudou a costurar. Ele e Aurélia conversam sobre pais, mães e irmãos, reafirmam que querem se casar e ter filhos e imaginam uma lua de mel e um reino seguro. Leif pretende procurar[[Cassius Vareth]]] para encaminhar o ducado e o casamento e levar [[Cleide]] a[[Jotunheim|Jötunheim]]] para cumprir sua promessa. A conversa termina com Aurélia tocando uma harpa dourada sob a lua; a fonte não registra casamento, viagem ou lua de mel já realizados.
 
-Em [[A Lareira Apagada e a Noite sem Sono]], às 03:14 de 21/07/387, Leif surpreende Elder costurando junto de duas figuras infantis de luz, que desaparecem quando ele chega. Ele fala abertamente do desejo de pedir a bênção para se casar com Aurélia, ter muitos filhos e conservar a proximidade entre irmãos mesmo após a morte dos pais. Elder oferece ajuda à futura família e compara a lealdade dele à de Arsthör e de [[Yrídia]], sua sobrinha. Ao falar de Felix, Odr e culpa, a conversa chega à revelação de que Elder nunca conseguiu dormir. A expressão “vocês, elfos” é recebida por ela como quase acusatória e pejorativa, acentuando a separação de Elder em relação aos demais; a intenção depreciativa de Leif não é confirmada. O recorte termina na resposta surpresa dele, antes da continuação.
+Em [[A Lareira Apagada e a Noite sem Sono]], às 03:14 de 21/07/387, Leif surpreende Elder costurando junto de duas figuras infantis de luz, que desaparecem quando ele chega. Ele fala abertamente do desejo de pedir a bênção para se casar com Aurélia, ter muitos filhos e conservar a proximidade entre irmãos mesmo após a morte dos pais. Elder oferece ajuda à futura família e compara a lealdade dele à de Arsthör e de [[Yrídia]], sua sobrinha. Ao falar de Felix, Odr e culpa, a conversa chega à revelação de que Elder nunca conseguiu dormir. A expressão “vocês, elfos” é recebida por ela como quase acusatória e pejorativa, acentuando a separação de Elder em relação aos demais; a intenção depreciativa de Leif não é confirmada.
+
+Leif transforma a surpresa em conversa. Define medo pela imprevisibilidade, admite ter temido perder Aurélia diante de Raksha e explica a própria força por fracassos, tentativas, sorte e pessoas encontradas. Quando Elder procura uma fórmula, considera outro pacto e pensa em cobrir a fraqueza com espada e combate frontal, ele contrapõe especialização e dependência mútua: um par de mãos pode fazer muitas coisas, mas não tudo; a força vem da união, não de fontes infinitas.
+
+Elder liga esse limite à derrota solitária para Göll e confessa não querer ser negada outra vez. Leif tenta acolhê-la pela aceitação do grupo e pela gratidão dos salvos, mas ela esclarece que não é disso que fala. A cena encerra com uma compreensão parcial e sincera: Leif percebe que Elder está fixada em poder e diz que poder não é tudo; ela responde “eu só quero ser”.
 
 ## Acontecimentos importantes
 
@@ -92,7 +96,7 @@ Em [[A Lareira Apagada e a Noite sem Sono]], às 03:14 de 21/07/387, Leif surpre
 | [[A Empregada e o Futuro Rei entre os Leões]] | Enfrenta os nobres com Elder, reivindica responsabilidade sem se esconder na linhagem e apresenta a primeira proposta econômica para o ducado |
 | [[Remédio para Dormir e a Fada que Escolheu Ficar]] | Procura a companhia de Scann para compras, revela a intenção de adquirir remédio para dormir e reconhece o valor da fada |
 | [[Lírios, Vinho e um Futuro sob a Lua]] | Prepara um jantar para Aurélia e transforma casamento, ducado, filhos e a promessa de levar Cleide a Jötunheim em planos explícitos |
-| [[A Lareira Apagada e a Noite sem Sono]] | Confia a Elder seus planos familiares, recebe dela uma oferta de apoio e presencia a revelação da vigília sem sonho nem descanso; “vocês, elfos” fere o pertencimento dela, embora a intenção depreciativa de Leif não esteja confirmada; fonte interrompida |
+| [[A Lareira Apagada e a Noite sem Sono]] | Confia a Elder seus planos familiares, admite o medo de perder Aurélia, oferece sua experiência de fracassos e contesta a busca por fontes infinitas; presencia a revelação da vigília e a confissão de que Elder não quer ser negada, mas compreende apenas parte do que “eu só quero ser” significa |
 
 ## Pontos altos
 
@@ -119,7 +123,7 @@ Em [[A Lareira Apagada e a Noite sem Sono]], às 03:14 de 21/07/387, Leif surpre
 - [[Navi]] — companheiro mais jovem que o ajuda a expulsar a sombra da masmorra.
 - [[Felix]] — antigo aliado; Leif decide como pretende enfrentá-lo, mas Blanck o executa antes que a escolha seja explicitada.
 - [[Rog]] — guia recente no processo de encontrar poder sem depender de pactos.
-- [[Elder]] — aliada antiga que confia sua vida a ele, critica sua irresponsabilidade e o orienta diante dos nobres; depois de ser surpreendida numa cena privada com duas crianças de luz, oferece apoio à futura família dele e revela sua vigília vitalícia.
+- [[Elder]] — aliada antiga que confia sua vida a ele, critica sua irresponsabilidade e o orienta diante dos nobres; depois de ser surpreendida numa cena privada com duas crianças de luz, oferece apoio à futura família, revela sua vigília vitalícia e o procura como interlocutor sobre medo e força. Leif consegue contrariar sua busca por autossuficiência, mas ainda não compreende por completo o que ela chama de negação.
 
 ## Ganchos pendentes
 
@@ -130,7 +134,7 @@ Em [[A Lareira Apagada e a Noite sem Sono]], às 03:14 de 21/07/387, Leif surpre
 - Concluir a recuperação da visão, energia e controle da transformação depois do clímax.
 - Concluir a negociação, definir quem explorará o território e construir legitimidade diante dos nobres sem depender apenas de casamento ou linhagem.
 - Esclarecer por que procura remédio para dormir, se a compra ocorre e se existe uma dificuldade recorrente de sono.
-- Continuar a conversa com Elder depois de “Sério!?”, permitindo que Leif reaja à incapacidade dela de dormir e, se houver abertura, pergunte pelas figuras luminosas.
+- Dar consequência futura à conversa concluída com Elder sem presumir que Leif já compreendeu “eu só quero ser”; ele pode lembrar a imagem das mãos e reconhecer quando ela volta a procurar fontes infinitas.
 - Formalizar com [[Aurélia]] o casamento e a sucessão, encaminhar o ducado com[[Cassius Vareth]]] e decidir o nome de futuros filhos.
 - Aprender a acolher o luto de Navi sem reduzi-lo a mais um fardo inevitável.
 - Cumprir a promessa de levar [[Cleide]] a[[Jotunheim|Jötunheim]]]; a fonte ainda não registra como ou quando a viagem ocorrerá.

@@ -70,7 +70,7 @@ O macaco [[Alberto]] retorna da Pixie. O grupo possui **20 milhões em platina**
 
 ---
 
-## 39. Chegada à Capital do Ouro (manhã de 18/05/0387)
+## 39. Chegada à Capital do Ouro (manhã de 17/05/0387)
 **Local:** Vanaheim / Capital de Vanaheim
 
 A carruagem toca terra firme na capital — uma metrópole de opulência absurda onde natureza e ouro coexistem em utopia artificial. [[Scann]] avista a capital ao amanhecer. O [cavalo das valquírias](Cavalo-das-Valquírias---Sligo) descansa ao tocar o solo. O grupo chega exatamente no momento em que o **Festival dos Vagalumes** é declarado aberto, com multidões aguardando a chegada do Rei [[Odr]], o arquiteto daquela utopia.

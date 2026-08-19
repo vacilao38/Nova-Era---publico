@@ -1,7 +1,7 @@
 # 📝 Bruno coloca Leif para dançar, mas Felix segue o ritmo de Odr - EP 12
 *   **Projeto:** Nova Era
 *   **Tipo:** Combate / Roleplay / Lore
-*   **Data In-Game:** noite de 18/05/0387 (Festival dos Vagalumes)
+*   **Data In-Game:** noite de 17/05/0387 (Festival dos Vagalumes)
 *   **Estação:** Verão
 *   **Fase da Lua:** Lua Cheia
 *   **Localização:** [[Vanaheim]] / [[Palacio-da-Capital-de-Vanaheim]] / Palco de Apresentações

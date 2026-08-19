@@ -1,7 +1,7 @@
 # 📝 Chegada à Capital do Ouro
 *   **Projeto:** Nova Era
 *   **Tipo:** Localização / Lore
-*   **Data In-Game:** manhã de 18/05/0387
+*   **Data In-Game:** manhã de 17/05/0387
 *   **Estação:** Verão
 *   **Localização:** [[Vanaheim]]/[[Varethia]]
 

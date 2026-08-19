@@ -21,7 +21,7 @@ fonte: SPINOFF do nova Era.vtt
 
 ## Resumo
 
-Uma assembleia divina convocada para discutir os crimes de [[Loki]], a perda de fé e o risco do [[Ragnarok]] torna-se o primeiro campo aberto da Segunda Guerra Divina. Loki já havia usado o [[Desk]] para cegar e aprisionar [[Odin]], corromper [[Thor]] e transformar a reunião em armadilha. Contra ele ficam três figuras que não formavam uma aliança natural: [[Sterk Bresnver]], representante mortal de Alfheim; [[Huli Jing]], criação de Freya e amante manipulada por Loki; e [[mane|Máni]], deus que começava a apostar o futuro nos mortais.
+Uma assembleia divina convocada para discutir os crimes de [[Loki]], a perda de fé e o risco do [[Ragnarok]] torna-se o primeiro campo aberto da Segunda Guerra Divina. Loki já havia usado o [[Desk]] para cegar e aprisionar [[Odin]], corromper [[Thor]] e transformar a reunião em armadilha. Contra ele ficam três figuras que não formavam uma aliança natural: [[Sterk Brensver]], representante mortal de Alfheim; [[Huli Jing]], criação de Freya e amante manipulada por Loki; e [[mane|Máni]], deus que começava a apostar o futuro nos mortais.
 
 A colisão termina com a manifestação de Thor destruída, Loki partido ao meio pela espada de Sterk e os sobreviventes livres do salão imediato. A vitória, contudo, não prende Loki nem cura o Desk. Ela encerra a batalha e abre a guerra.
 
@@ -29,7 +29,7 @@ A colisão termina com a manifestação de Thor destruída, Loki partido ao meio
 
 Quase quinhentos anos antes do presente, deuses e representantes reúnem-se em Asgard. O salão está cheio de bebida, orgulho e reclamações sobre a perda de fé sofrida ao longo do último século. A discussão deveria decidir como punir Loki, acusado de ultrapassar até os limites tolerados entre os deuses e de empurrar os Nove Reinos para o Ragnarok.
 
-[[Sterk Bresnver]] chega como representante de [[Freyir|Freyr]]. É um espadachim de longos cabelos azuis, armadura de Alfheim e postura severa. Freyr não abandonara a guerra élfica, paralisada num impasse, e enviara Sterk para lembrar aos deuses que as decisões tomadas naquele salão já matavam gente fora dele. Sterk denuncia crianças roubadas ou assassinadas, magos desaparecidos e uma guerra sustentada por ordens antigas enquanto os deuses discutem a própria imagem.
+[[Sterk Brensver]] chega como representante de [[Freyir|Freyr]]. É um espadachim de longos cabelos azuis, armadura de Alfheim e postura severa. Freyr não abandonara a guerra élfica, paralisada num impasse, e enviara Sterk para lembrar aos deuses que as decisões tomadas naquele salão já matavam gente fora dele. Sterk denuncia crianças roubadas ou assassinadas, magos desaparecidos e uma guerra sustentada por ordens antigas enquanto os deuses discutem a própria imagem.
 
 [[mane|Máni]] conversa com [[Braggi]] e demonstra conhecer futuros possíveis. Tem cabelos escuros como a noite, pontos semelhantes a estrelas, olhos cristalinos prateados e um manto branco como nuvens. No braço carrega a cicatriz da mordida do lobo destinado a devorá-lo. Ele e sua irmã [[Sol]] conhecem a morte que os espera, mas Máni não trata destino como desculpa para abandonar o presente.
 
@@ -51,7 +51,7 @@ Huli, criação felina de Freya, entra na batalha convencida de que Loki a ama. 
 
 Máni oferece a Sterk uma promessa: se o elfo proteger [[Sol]], a Lua abençoará sua geração e todas as que vierem depois. Se Máni quebrar a palavra, deixará de ser quem é. Sterk aceita.
 
-Quando Loki ordena que ele solte a espada, Máni mostra um futuro que a ordem divina não consegue apagar: a esposa de Sterk esperando o segundo filho, a criança de cabelos azuis e, muito adiante, uma descendente cercada por uma quantidade extraordinária de magia. A fonte não nomeia essa descendente, mas a imagem cria uma ligação direta com a sobrevivência da linhagem [[Bresnver]] e funciona como forte prenúncio de [[Blanck|Blanck Bresnver Vakker]].
+Quando Loki ordena que ele solte a espada, Máni mostra um futuro que a ordem divina não consegue apagar: a esposa de Sterk esperando o segundo filho, a criança de cabelos azuis e, muito adiante, uma descendente cercada por uma quantidade extraordinária de magia. A fonte não nomeia essa descendente, mas a imagem cria uma ligação direta com a sobrevivência da linhagem [[Brensver]] e funciona como forte prenúncio de [[Blanck|Blanck Brensver Vakker]].
 
 Sterk segura a arma antes que ela caia. Ao escolher a promessa e a família acima do comando de um deus, prova a tese de Máni: o futuro não será preservado apenas pelos imortais.
 
@@ -70,7 +70,7 @@ Assim, a história possui um fim próprio — a armadilha do salão é quebrada 
 1. **A Segunda Guerra Divina torna-se aberta.** O julgamento fracassado revela que Loki já possui aliados, vítimas manipuladas e capacidade de atingir o centro de Asgard.
 2. **O Desk alcança escala divina.** A praga prende deuses, corrompe memória, altera lealdade, cega Odin e escapa da previsão das Nornas.
 3. **A aposta de Máni nos mortais deixa de ser tradição e vira ação direta.** Sterk recebe poder, visão e responsabilidade sem ser reduzido a servo divino.
-4. **A linhagem Bresnver recebe uma bênção lunar.** A sobrevivência do sangue e o futuro de uma descendente de magia extraordinária conectam Sterk à história posterior de Blanck.
+4. **A linhagem Brensver recebe uma bênção lunar.** A sobrevivência do sangue e o futuro de uma descendente de magia extraordinária conectam Sterk à história posterior de Blanck.
 5. **A Ordem dos Escribas ganha um testemunho divino contraditório.** Máni atribui sua extinção à aliança de Loki; séculos depois, [[Zakna]] atribui a destruição a Thor. As duas versões não foram reconciliadas.
 6. **Thor cai como vítima e agente.** Ele é responsável pela devastação da batalha, mas age com memória e afeto corrompidos pelo Desk.
 7. **Huli rompe com Loki sem apagar o abuso.** A reação recupera agência, mas não cura as perdas nem transforma instantaneamente sua relação com o mundo.
@@ -81,7 +81,7 @@ Assim, a história possui um fim próprio — a armadilha do salão é quebrada 
 | Elemento | Conexão |
 |---|---|
 | [[Alfheim]] | A guerra élfica já estava em curso; desaparecimentos de magos e violência contra famílias faziam parte da crise que Sterk leva a Asgard. |
-| [[Bresnver]] e [[Blanck]] | Sterk preserva a linhagem e recebe de Máni uma bênção para as gerações futuras; a descendente de magia extraordinária sugere Blanck, sem nomeá-la. |
+| [[Brensver]] e [[Blanck]] | Sterk preserva a linhagem e recebe de Máni uma bênção para as gerações futuras; a descendente de magia extraordinária sugere Blanck, sem nomeá-la. |
 | [[Ordem dos Escribas]] | O massacre dos fiéis de Máni torna o conhecimento e o apagamento histórico parte da guerra. |
 | [[Desk]] | A batalha confirma que Loki sabia direcionar a praga contra deuses, destinos e memórias, mas não confirma que a criou. |
 | [[Loki]] | A derrota no salão precede sua prisão em Midgard e explica por que matá-lo nunca bastou. |
@@ -120,13 +120,13 @@ O sorriso que desaparece indica que Elder não narra uma lenda distante e limpa.
 
 - **00:00–00:52:** enquadramento, assembleia, Sterk, Máni e revelação de Thor/Odin;
 - **00:52–01:40:** armadilha do Desk, corrupção de Thor, manipulação de Huli e resistência de Sterk;
-- **01:40–02:03:** promessa à linhagem Bresnver, queda de Thor e golpe conjunto contra Loki;
+- **01:40–02:03:** promessa à linhagem Brensver, queda de Thor e golpe conjunto contra Loki;
 - **02:03–02:08:** consequências, início da guerra e esclarecimento de que Elder conta a história a Naví confundindo a felina com uma raposa.
 
 ## Ligações
 
 - [[guerras]]
-- [[Sterk Bresnver]]
+- [[Sterk Brensver]]
 - [[Huli Jing]]
 - [[mane|Máni]]
 - [[Loki]]
@@ -134,7 +134,7 @@ O sorriso que desaparece indica que Elder não narra uma lenda distante e limpa.
 - [[Odin]]
 - [[Freya]]
 - [[Desk]]
-- [[Bresnver]]
+- [[Brensver]]
 - [[Ordem dos Escribas]]
 - [[Elder]]
 - [[Navi|Naví]]

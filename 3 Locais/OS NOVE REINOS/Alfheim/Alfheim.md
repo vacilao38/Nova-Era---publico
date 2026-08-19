@@ -1,19 +1,19 @@
 # Alfheim
 # Alfheim
 
-Entre suas forças de elite estão os [[Quatro Ventos]], organização fundada por [[Tallmud]] que reúne prestígio, comércio, magia e poder militar. Tallmud ocupa o Norte/Provação e [[Floorn]] o Leste/Destruição; os Ventos Oeste e Sul ainda não foram identificados.
+Entre suas forças de elite estão os [[Quatro Ventos]], organização fundada por [[Tallmud]] que reúne prestígio, comércio, magia e poder militar. Tallmud ocupa o Norte/Provação e [[Florn]] o Leste/Destruição; os Ventos Oeste e Sul ainda não foram identificados.
 
-Reino de origem de parte dos elfos e das Grandes Casas [[Bresnver]], [[Vakker]] e [[Lumína]]. Alfheim é reconhecido como o pináculo da magia e da preservação histórica entre os reinos élficos. Sua organização política se apoia em grandes [[Casas]], embora a hierarquia completa e sua relação formal com a coroa ainda não tenham sido mostradas.
+Reino de origem de parte dos elfos e das Grandes Casas [[Brensver]], [[Vakker]] e [[Lumína]]. Alfheim é reconhecido como o pináculo da magia e da preservação histórica entre os reinos élficos. Sua organização política se apoia em grandes [[Casas]], embora a hierarquia completa e sua relação formal com a coroa ainda não tenham sido mostradas.
 
 ## Estrutura confirmada
 
 - grandes Casas concentram funções políticas e institucionais;
 - os [[Vakker]] respondem pela magia e por assuntos que exigem competência arcana;
-- os [[Bresnver]] respondem pela segurança, pela força bélica e pela guarda das fronteiras;
+- os [[Brensver]] respondem pela segurança, pela força bélica e pela guarda das fronteiras;
 - a [[Lumína]], descrita em [[A Casa LUMÍNA e A CATEDRAL]], preserva a legislação e a doutrina jurídica entre os três povos élficos;
 - a [[Catedral]] constitui um corpo judicial separado da Lumína, com integrantes de mais de uma origem;
 - a Catedral recebe ciência dos tribunais das Casas sem participar deles e pode comunicar restrições contra estrangeiros de nome às fronteiras;
-- quando um integrante da Catedral entra em processo, Bresnver e Vakker assumem conjuntamente o julgamento;
+- quando um integrante da Catedral entra em processo, Brensver e Vakker assumem conjuntamente o julgamento;
 - o [[Conselho dos Sábios]], sem integrantes das Casas, participa quando a decisão também interfere nos desejos do povo de Alfheim;
 - as decisões e execuções materiais da Catedral são distribuídas entre as Casas conforme suas competências;
 - [[Tallmud]], filho de [[Freyir]], ocupa uma posição próxima da realeza: não é considerado rei, apesar de sua natureza divina, mas é amplamente temido;
@@ -26,7 +26,7 @@ Reino de origem de parte dos elfos e das Grandes Casas [[Bresnver]], [[Vakker]] 
 - Elfos luminosos, da floresta e negros aparecem como clãs ou caminhos distintos na história contada por [[Rog]].
 - A fé em [[Freyir]], o abandono de seu posto, a rejeição sofrida em Vanaheim e sua ausência de cerca de quinhentos anos aprofundaram divisões e deslocamentos.
 - Anões e elfos negros se uniram em [[Svarfheim]] para proteger refugiados antes de novas derrotas e migrações.
-- Os [[Bresnver]] protegem fronteiras de Alfheim; [[Blanck]] carrega um alvo político por sua ligação familiar com o reino.
+- Os [[Brensver]] protegem fronteiras de Alfheim; [[Blanck]] carrega um alvo político por sua ligação familiar com o reino.
 
 ## Estado atual
 

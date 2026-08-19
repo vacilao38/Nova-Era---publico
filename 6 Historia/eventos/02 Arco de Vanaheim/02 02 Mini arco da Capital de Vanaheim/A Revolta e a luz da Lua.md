@@ -1,7 +1,7 @@
 # A Revolta e a luz da Lua
 - Projeto: Nova Era
 - Tipo: evento
-- Data: noite de 18/05/0387
+- Data: noite de 17/05/0387
 - Estação: Verão
 - Fase da Lua: Lua Cheia
 

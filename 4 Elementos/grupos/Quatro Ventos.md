@@ -13,7 +13,7 @@ Os **Quatro Ventos** são a organização de elite de [[Alfheim|Alfheim]], funda
 | Posição | Epíteto | Integrante | Estado do conhecimento |
 |---|---|---|---|
 | Vento Norte | A Provação | [[Tallmud]] | Confirmado; fundador e segundo membro |
-| Vento Leste | A Destruição | [[Floorn]] | Confirmado |
+| Vento Leste | A Destruição | [[Florn]] | Confirmado |
 | Vento Oeste | O Crepúsculo | Desconhecido | Identidade perdida ou ainda não revelada |
 | Vento Sul | O Relento | Desconhecido | Identidade perdida ou ainda não revelada |
 
@@ -44,7 +44,7 @@ O retorno planejado de Elder a Alfheim cria o ponto de encontro natural entre a 
 ### Recuperado como base da organização
 
 - os quatro títulos e suas direções;
-- Tallmud como Norte/Provação e Floorn como Leste/Destruição;
+- Tallmud como Norte/Provação e Florn como Leste/Destruição;
 - a fundação por Tallmud;
 - a posição de elite de Alfheim;
 - o uso de comércio, prestígio e armas como continuação da guerra.
@@ -55,5 +55,5 @@ O retorno planejado de Elder a Alfheim cria o ponto de encontro natural entre a 
 - hierarquia exata entre os quatro;
 - relação formal com a coroa e com as grandes Casas de Alfheim;
 - recursos e agentes que sobreviveram à guerra de Vanaheim;
-- quanto [[Floorn]] sabe ou aprova dos planos de Tallmud;
+- quanto [[Florn]] sabe ou aprova dos planos de Tallmud;
 - se a organização inteira compartilha o projeto genocida de Tallmud ou se existem disputas internas.

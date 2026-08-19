@@ -12,7 +12,7 @@ Deus do trovão dos [[Aesir]], descrito nas fontes antigas como guerreiro de pod
 
 Em [[Colisão Injusta - A Segunda Guerra Divina]], Thor havia sido enviado para caçar [[Loki]] e levá-lo a julgamento. Antes de cumprir a tarefa, foi corrompido pelo [[Desk]]. Disfarçou-se como [[Odin]] na assembleia enquanto o verdadeiro Pai de Todos permanecia preso e cego.
 
-A praga reorganizou memória, afeto e culpa até Thor reconhecer Loki como irmão a ser protegido. Ele atacou [[mane|Máni]], [[Sterk Bresnver]] e [[Huli Jing]] com relâmpagos negros. Huli destruiu sua manifestação corporal durante a ruptura da armadilha; a fonte não confirma morte divina permanente.
+A praga reorganizou memória, afeto e culpa até Thor reconhecer Loki como irmão a ser protegido. Ele atacou [[mane|Máni]], [[Sterk Brensver]] e [[Huli Jing]] com relâmpagos negros. Huli destruiu sua manifestação corporal durante a ruptura da armadilha; a fonte não confirma morte divina permanente.
 
 O evento o apresenta simultaneamente como agente da devastação e vítima de manipulação. Isso não o absolve automaticamente, mas impede tratar todas as ações daquela batalha como decisões tomadas em plena consciência.
 

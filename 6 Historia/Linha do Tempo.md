@@ -80,3 +80,8 @@
 79. [[Fajo Solar, Segredos e a Cabeça de Thor]]
 80. [[Mapas entre Tempos e uma Anciã Desatualizada]]
 81. [[A Lareira Apagada e a Noite sem Sono]]
+
+## Observações de continuidade
+
+- Festival dos Vagalumes: **17/05/0387**, manhã e noite — três fontes primárias concordam (`Bruno coloca Leif para dançar`, `AFugadaCapitalDeVanaheim`, `ARQUIVO - Do Projeto da Carruagem`). O 18/05 vinha só da Visão Cronológica, que é documento derivado. Resolvido em 12/08/2026.
+- [[O Mar, o Cabelo Vermelho e a Morte Evitavel]]: data diegética **10/06/0387** — seis dias após a Catacumba de Gullveig (04/06). O “04/06” do arquivo é a **data da conversa entre jogadores**, não data de ficção. Resolvido em 12/08/2026.

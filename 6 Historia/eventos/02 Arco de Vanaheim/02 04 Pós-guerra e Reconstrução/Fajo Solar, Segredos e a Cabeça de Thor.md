@@ -54,19 +54,19 @@ Zakna considera isso possível, mas descreve o conflito potencial como infinitam
 
 Zakna admite que aceitou o encontro porque também queria informações. Antes de perguntar, permite respostas incompletas e afirma que não exigirá tudo, reconhecendo a sensibilidade dos assuntos. Suas três questões são:
 
-1. o que aconteceu com os [[Bresnver]] na noite que reduziu a família e quais motivos são conhecidos;
+1. o que aconteceu com os [[Brensver]] na noite que reduziu a família e quais motivos são conhecidos;
 2. de onde Naví veio e qual é a natureza de seus poderes;
 3. o que o grupo viu na [[Catacumba de Gullveig]].
 
 Blanck responde que Naví não veio da Yggdrasil e que seus poderes parecem ligados à linhagem e ao deus dele, mas admite não saber mais. Sobre as catacumbas, diz que o grupo viu a história dos Vanir, suas guerras, ascensões e quedas, além da confirmação de que qualquer mortal pode tornar-se um deus.
 
-## O massacre dos Bresnver
+## O massacre dos Brensver
 
-Quando Zakna pergunta por que uma família tão importante parece limitada a cinco pessoas, Blanck explica que os Bresnver e as outras duas Grandes Casas sempre exerceram controle rígido sobre o próprio sangue. Depois da última grande guerra dos elfos, somente o avô dela e a família dele teriam sobrevivido entre os Bresnver.
+Quando Zakna pergunta por que uma família tão importante parece limitada a cinco pessoas, Blanck explica que os Brensver e as outras duas Grandes Casas sempre exerceram controle rígido sobre o próprio sangue. Depois da última grande guerra dos elfos, somente o avô dela e a família dele teriam sobrevivido entre os Brensver.
 
 Há 386 anos, os parentes voltavam de uma reunião sobre os próximos passos de Alfheim depois da derrota, em Vanaheim, da entidade que a tradição familiar chama de arauto de Loki. Foram emboscados por mais de cinquenta assassinos. Segundo o pai de Blanck, apenas ele e a mãe dele escaparam inicialmente; a avó de Blanck morreu pouco antes de conseguirem ajuda.
 
-O pai assumiu a reconstrução da Casa e formou uma aliança com os [[Vakker]], origem do nome composto **Blanck Bresnver Vakker**. Quem encomendou a chacina nunca foi descoberto ou nunca foi revelado. O próprio nome da avó permanece escondido, e a história foi fortemente abafada na época.
+O pai assumiu a reconstrução da Casa e formou uma aliança com os [[Vakker]], origem do nome composto **Blanck Brensver Vakker**. Quem encomendou a chacina nunca foi descoberto ou nunca foi revelado. O próprio nome da avó permanece escondido, e a história foi fortemente abafada na época.
 
 Blanck não havia nascido e conhece os fatos pelo relato familiar. Ela sempre considerou exagerada a reação provocada pela queda de um simples arauto. Zakna concorda e levanta como possibilidade que o inimigo derrotado por Wyrrer e sua equipe fosse algo maior ou um avatar, mas a conversa não confirma essa hipótese.
 
@@ -121,7 +121,7 @@ O grau literal dessa privação permanece aberto. O poema estabelece diretamente
 - Mantém controle sobre o grau de exposição. Reconhece quando saber mais pode torná-la alvo, admite o que ignora sobre Naví e mostra o artefato sem entregá-lo.
 - Trata informações como risco político, não apenas curiosidade. A ameaça de uma guerra silenciosa em Alfheim aciona memória corporal e prudência imediata.
 - Não confunde cooperação com adesão. Escuta o plano de matar Thor sem validá-lo como prioridade própria e reafirma que seu foco é o Desk.
-- Sua identidade Bresnver Vakker deixa de ser apenas nome e rejeição familiar: passa a carregar uma reconstrução deliberada depois de massacre, aliança entre Casas e apagamento histórico.
+- Sua identidade Brensver Vakker deixa de ser apenas nome e rejeição familiar: passa a carregar uma reconstrução deliberada depois de massacre, aliança entre Casas e apagamento histórico.
 - Demonstra uma forma mais madura de liderança pós-guerra: em vez de carregar a operação, cria uma ponte, delimita responsabilidades e deixa que Zakna conduza a própria missão.
 
 ### [[Zakna]]
@@ -139,7 +139,7 @@ O grau literal dessa privação permanece aberto. O poema estabelece diretamente
 - A Divisão Florescer assumirá a presença dos Renegados em Vanaheim depois da retirada da força principal.
 - A divisão de Zakna atua em espionagem e se dispersa depois das missões.
 - Zakna irá primeiro a Alfheim; Fyir e outros dois integrantes devem acompanhá-lo, enquanto os demais seguem para outros reinos.
-- Os Bresnver foram quase eliminados depois da última grande guerra élfica e sofreram uma segunda chacina há 386 anos.
+- Os Brensver foram quase eliminados depois da última grande guerra élfica e sofreram uma segunda chacina há 386 anos.
 - O pai de Blanck reconstruiu a família por meio de aliança com os Vakker.
 - A autoria da emboscada, o nome da avó de Blanck e o motivo do abafamento permanecem desconhecidos.
 - Blanck transformou o artefato das catacumbas em colar e o protegeu com uma corrente rúnica contra roubo.
@@ -161,7 +161,7 @@ O grau literal dessa privação permanece aberto. O poema estabelece diretamente
 - Definir “herdeiros da lua”, quais deuses abençoam cada núcleo e o que os jotuns desejam há séculos.
 - Determinar quem são as seis personalidades das leis de Alfheim e qual traição está sendo investigada.
 - Confirmar se os elfos vindos de Svarfheim representam o reino, uma facção, uma Casa ou uma operação independente.
-- Identificar os cinco Bresnver mencionados por Zakna e o grau de precisão dessa contagem.
+- Identificar os cinco Brensver mencionados por Zakna e o grau de precisão dessa contagem.
 - Descobrir quem encomendou a chacina, por que o caso foi abafado e por que o nome da avó de Blanck permanece oculto.
 - Confirmar se o inimigo derrotado pelos Heróis de Vanaheim era apenas um arauto de Loki, um avatar ou outra entidade.
 - Nomear a ordem de magos independentes encontrada por Blanck nos arquivos de Odr e explicar a tradição idêntica à dela.
@@ -177,5 +177,5 @@ O grau literal dessa privação permanece aberto. O poema estabelece diretamente
 - Evento anterior da relação: [[O Riacho dos Renegados]]
 - Eventos relacionados: [[O Eco do Passado na Masmorra Viva]], [[A Bruxa, a Espada e o Deus da Lua]], [[O Deus Adormecido e o Retorno a Capital]], [[Chá, Desculpas e o Peso de Liderar]]
 - Personagens: [[Blanck]], [[Zakna]], [[Fir|Fyir]], [[Scann]], [[Navi|Naví]], [[Wyrrer]]
-- Povos e lugares: [[Bresnver]], [[Vakker]], [[Alfheim]], [[Svarfheim]], [[Vanaheim]], [[Catacumba de Gullveig]], [[Ginnungagap]]
+- Povos e lugares: [[Brensver]], [[Vakker]], [[Alfheim]], [[Svarfheim]], [[Vanaheim]], [[Catacumba de Gullveig]], [[Ginnungagap]]
 - Grupos e conceitos: [[Renegados]], [[Ordem dos Escribas]], [[Título de Imperador]], [[Desk]]

@@ -10,7 +10,7 @@ Elfo negro, líder do esquadrão Leopardo dos [[Renegados]], integrante de uma d
 - nega usar Aurélia como degrau e afirma vê-la como chance de reconstruir Vanaheim de forma diferente;
 - orienta [[Kaeli|Kaelith]] antes da primeira missão e manda Temoh protegê-la à distância.
 - depois da guerra, entrega a presença em Vanaheim à Divisão Florescer e prepara uma investigação em [[Alfheim]] com [[Fir|Fyir]] e outros dois integrantes;
-- troca com Blanck informações sobre os Renegados, a crise élfica, os [[Bresnver]], a [[Catacumba de Gullveig]], o [[Desk]] e o [[Título de Imperador]].
+- troca com Blanck informações sobre os Renegados, a crise élfica, os [[Brensver]], a [[Catacumba de Gullveig]], o [[Desk]] e o [[Título de Imperador]].
 
 ## Personalidade
 
@@ -53,7 +53,7 @@ Sua explicação liga a ambição de Loki, uma viagem além de [[Ginnungagap]] e
 
 ## Relação com Blanck
 
-Antes da queda de Odr, Blanck aceita cooperar sem jurar lealdade aos Renegados. Depois da guerra, procura Zakna por vontade própria. Os dois constroem uma parceria de informação baseada em reciprocidade e limites: ela revela a história dos Bresnver e o artefato das catacumbas; ele explica parte da organização, da missão em Alfheim e da própria ambição. Zakna a reconhece como “líder dos heróis de Oggdir”, enquanto Blanck continua chamando-o de “lorde Zakna”.
+Antes da queda de Odr, Blanck aceita cooperar sem jurar lealdade aos Renegados. Depois da guerra, procura Zakna por vontade própria. Os dois constroem uma parceria de informação baseada em reciprocidade e limites: ela revela a história dos Brensver e o artefato das catacumbas; ele explica parte da organização, da missão em Alfheim e da própria ambição. Zakna a reconhece como “líder dos heróis de Oggdir”, enquanto Blanck continua chamando-o de “lorde Zakna”.
 
 ## Ambiguidades
 

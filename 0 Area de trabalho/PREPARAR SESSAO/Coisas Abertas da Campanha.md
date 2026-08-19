@@ -21,7 +21,7 @@
 - Conteúdo, custódia e uso de [[Brísingamen]], [[Coração Esmeralda]], [[Embrulho]] e [[Escudo de Wyrrer]].
 - Estrutura remanescente dos [[Renegados]] e do [[Círculo Dourado]].
 - Situação de [[Bruno]], [[Dagrin]], [[Kenji]], [[Kirai]] e [[Ather]].
-- Reação das famílias [[Vareth]], [[Lopt]] e [[Bresnver]] ao novo estado do reino.
+- Reação das famílias [[Vareth]], [[Lopt]] e [[Brensver]] ao novo estado do reino.
 
 ## Baixa Prioridade
 

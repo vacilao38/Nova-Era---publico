@@ -16,7 +16,7 @@ A [[Lumína]] e a [[Catedral]] são instituições distintas. A Casa preserva e 
 
 A Lumína forneceu historicamente muitos integrantes à Catedral, mas **a Catedral não é composta somente por membros da Casa Lumína**. Pertencer à Lumína não concede controle automático sobre um julgamento nem imunidade diante da instituição.
 
-Quando um integrante da Catedral entra em processo — seja ele Lumína ou membro de outra origem — o caso não é julgado pela própria Catedral. [[Bresnver]] e [[Vakker]] assumem conjuntamente o julgamento, com possível participação do [[Conselho dos Sábios]] quando a decisão interferir nos desejos do povo de Alfheim.
+Quando um integrante da Catedral entra em processo — seja ele Lumína ou membro de outra origem — o caso não é julgado pela própria Catedral. [[Brensver]] e [[Vakker]] assumem conjuntamente o julgamento, com possível participação do [[Conselho dos Sábios]] quando a decisão interferir nos desejos do povo de Alfheim.
 
 ## Limites
 
