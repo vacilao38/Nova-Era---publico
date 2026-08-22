@@ -99,18 +99,28 @@ if (-not (Test-Path -LiteralPath $gitDir -PathType Container)) {
 
 $estadoPath = Join-Path $gitDir 'ruan-sync-state.json'
 $estadoAnterior = @()
+$hashesAnteriores = @{}
+$possuiHashes = $false
 $possuiEstado = Test-Path -LiteralPath $estadoPath -PathType Leaf
 if ($possuiEstado) {
     $estadoLido = Get-Content -LiteralPath $estadoPath -Encoding UTF8 -Raw | ConvertFrom-Json
     if ($null -ne $estadoLido.arquivos) {
         $estadoAnterior = @($estadoLido.arquivos)
     }
+    if ($estadoLido.PSObject.Properties.Name -contains 'hashes_origem') {
+        foreach ($propriedade in $estadoLido.hashes_origem.PSObject.Properties) {
+            $hashesAnteriores[$propriedade.Name] = [string]$propriedade.Value
+        }
+        $possuiHashes = $true
+    }
 }
 
 $permitidos = [Collections.Generic.HashSet[string]]::new([StringComparer]::OrdinalIgnoreCase)
+$hashesAtuais = [ordered]@{}
 $criados = 0
 $atualizados = 0
 $inalterados = 0
+$preservados = 0
 $removidos = 0
 
 foreach ($arquivo in Get-ChildItem -LiteralPath $origemResolvida -Recurse -File -Force) {
@@ -119,6 +129,8 @@ foreach ($arquivo in Get-ChildItem -LiteralPath $origemResolvida -Recurse -File 
     if (Test-MaterialPrivado -Relativo $relativo) { continue }
 
     [void]$permitidos.Add($relativo)
+    $hashAtual = (Get-FileHash -LiteralPath $arquivo.FullName -Algorithm SHA256).Hash
+    $hashesAtuais[$relativo] = $hashAtual
     $alvo = Join-Path $destinoResolvido $relativo
 
     if (Test-ConteudoIgual -A $arquivo.FullName -B $alvo) {
@@ -127,6 +139,22 @@ foreach ($arquivo in Get-ChildItem -LiteralPath $origemResolvida -Recurse -File 
     }
 
     $jaExistia = Test-Path -LiteralPath $alvo -PathType Leaf
+
+    # Se a origem nao mudou desde a ultima sincronizacao, preserva correcoes
+    # feitas diretamente na versao compartilhavel ou incorporadas do GitHub.
+    # Ao migrar do estado antigo (sem hashes), a execucao inicial apenas cria
+    # a linha de base e tambem preserva arquivos existentes diferentes.
+    if ($jaExistia) {
+        $origemSemMudanca = $possuiHashes -and
+            $hashesAnteriores.ContainsKey($relativo) -and
+            ($hashesAnteriores[$relativo] -eq $hashAtual)
+        $semLinhaDeBase = -not $possuiHashes -or -not $hashesAnteriores.ContainsKey($relativo)
+        if ($origemSemMudanca -or $semLinhaDeBase) {
+            $preservados++
+            continue
+        }
+    }
+
     if ($PSCmdlet.ShouldProcess($alvo, "Copiar de $($arquivo.FullName)")) {
         $pastaAlvo = Split-Path -Parent $alvo
         if (-not (Test-Path -LiteralPath $pastaAlvo)) {
@@ -157,12 +185,13 @@ $estado = [ordered]@{
     destino = $destinoResolvido
     atualizado_em = (Get-Date).ToString('o')
     arquivos = @($permitidos | Sort-Object)
+    hashes_origem = $hashesAtuais
 }
 if (-not $WhatIfPreference) {
-    $estado | ConvertTo-Json -Depth 4 | Set-Content -LiteralPath $estadoPath -Encoding UTF8
+    $estado | ConvertTo-Json -Depth 6 | Set-Content -LiteralPath $estadoPath -Encoding UTF8
 }
 
-Write-Host "Sincronizacao concluida: $criados criado(s), $atualizados atualizado(s), $removidos removido(s), $inalterados inalterado(s)."
+Write-Host "Sincronizacao concluida: $criados criado(s), $atualizados atualizado(s), $removidos removido(s), $inalterados inalterado(s), $preservados correcao(oes) preservada(s)."
 
 if ($Commit -and -not $WhatIfPreference) {
     & git -C $destinoResolvido add -A

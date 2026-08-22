@@ -24,6 +24,8 @@ git pull --ff-only
 
 O estado interno da sincronização fica dentro de `.git` e nunca é publicado. Na primeira execução, arquivos curados que existem apenas nesta versão são preservados.
 
+O estado também registra o hash da última versão observada na origem. Se o arquivo de origem não mudou, correções incorporadas diretamente no Pinheral ou pelo GitHub são preservadas; quando a origem realmente muda, a atualização volta a ser aplicada.
+
 ## Limites de privacidade
 
 O filtro exclui:
