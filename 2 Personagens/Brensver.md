@@ -19,6 +19,8 @@ Grande Casa élfica de [[Alfheim]] à qual pertence [[Blanck|Blanck Brensver Vak
 
 Em [[Colisão Injusta - A Segunda Guerra Divina]], [[Sterk Brensver|Sterk Brensver]] representa Alfheim diante dos deuses enquanto a guerra élfica já estava em curso. Ao resistir a Loki e proteger a promessa feita a [[Sol]], recebe de [[mane|Máni]] uma bênção destinada à própria geração e a todas as seguintes.
 
+O relato posterior de [[Elder]], preservado em [[Flores, Escribas e o Preço das Asas de Prata]], acrescenta que Sterk a confrontou depois da batalha por não ter ajudado e pela perda do [[Cajado das Eras]]. A cena não estabelece que o cajado fosse propriedade dos Brensver, mas confirma que Sterk atribuía à perda do artefato gravidade suficiente para incluí-la em sua condenação.
+
 Máni mostra a Sterk sua esposa grávida, uma primeira criança de cabelos azuis e uma descendente futura cercada por magia extraordinária. A cena confirma que o sangue Brensver sobreviverá. A descendente não é nomeada, mas funciona como forte prenúncio de [[Blanck|Blanck Brensver Vakker]]. A bênção não explica automaticamente toda a magia da Casa nem resolve quais ramos descendem diretamente de Sterk.
 
 Em [[Fajo Solar, Segredos e a Cabeça de Thor]], [[Blanck]] apresenta a história familiar que recebeu do pai. Os Brensver, assim como as outras duas Grandes Casas, mantinham controle rígido sobre o próprio sangue. Depois da última grande guerra dos elfos, somente o avô de Blanck e a família dele teriam sobrevivido entre os membros da Casa.
@@ -47,5 +49,6 @@ O governo interno, os membros atuais, o motivo exato da rejeição de Blanck, os
 - se a reunião familiar, o ataque e a antiga derrota em Vanaheim possuem relação causal;
 - se o inimigo enfrentado pelos Heróis de Vanaheim era apenas um arauto, um avatar ou outra manifestação de Loki;
 - os termos políticos, mágicos e sucessórios da aliança com os Vakker.
+- por que Sterk responsabilizou Elder pela perda do Cajado das Eras e que vínculo ele ou sua Casa possuíam com o artefato.
 
 A nota preserva essas lacunas sem atribuir intenções não confirmadas.

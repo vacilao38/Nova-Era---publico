@@ -3,7 +3,7 @@ tipo: NPC aliada
 nome completo: Hori Turling
 origem: "[[Vanaheim|Vanaheim]]"
 estado: ativa no pós-guerra
-atualizado: 2026-08-08
+atualizado: 2026-08-21
 ---
 
 # Hori Turling
@@ -34,9 +34,13 @@ Hori mostra rascunhos com cálculos de distância, constelações e mapas de ilh
 
 Na mesma conversa, Hori descreve a aliança dos Turling com os Renegados como pragmatismo político e econômico, embora também tenha produzido amizades. Autoriza Elder a consultar mapas atuais de Midgard em troca dos mapas antigos oferecidos pela visitante, mas a fonte não registra o inventário nem uma devolução combinada.
 
+Em [[Flores, Escribas e o Preço das Asas de Prata]], Hori aparece apenas pelos relatos de Blanck e Elder. Elder acredita ter arruinado a impressão causada pela queda no escritório; Blanck discorda que a confiança esteja perdida e apresenta reparação como possível. Blanck elogia a fidelidade e a proporção dos mapas, afirma gostar de observar Hori desenhar mapas e pássaros e planeja mostrar-lhe documentos antigos da biblioteca real.
+
+Em [[Fé, Flores e a Primeira Casa]], Blanck também afirma que Hori a ajuda a agir menos como líder em relações pessoais e pretende convidá-la, junto aos demais, para conhecer a casa. As duas fontes ampliam admiração e influência, mas continuam insuficientes para confirmar romance ou reciprocidade romântica por parte de Hori.
+
 ## Relações
 
-- [[Blanck]] — amiga hospedada pela família Turling; Hori admira sua magia, percebe suas inseguranças sociais e é convidada a visitar a futura casa.
+- [[Blanck]] — amiga hospedada pela família Turling; Hori admira sua magia, percebe suas inseguranças sociais e a ajuda a agir menos como líder em relações pessoais. Blanck aprecia seu trabalho, pretende compartilhar mapas antigos e quer recebê-la na casa já ocupada.
 - [[Elder]] — encontrada debilitada antes da retomada da capital; no pós-guerra, torna-se uma possível parceira cartográfica e histórica depois de pedir atualização, oferecer mapas antigos e reconhecer a competência de Hori.
 - [[Aurélia]] — princesa apoiada pela família durante a resistência; Hori oferece mapas e ajuda sem exigir recompensa.
 - Família Turling — fonte de posição econômica, propriedades e uma herança que Hori espera não precisar assumir imediatamente.
@@ -58,3 +62,5 @@ Na mesma conversa, Hori descreve a aliança dos Turling com os Renegados como pr
 - [[A Casa que Vem Depois da Guerra]]
 - [[A Casa, a Chuva e a Rainha dos Mapas]]
 - [[Mapas entre Tempos e uma Anciã Desatualizada]]
+- [[Flores, Escribas e o Preço das Asas de Prata]]
+- [[Fé, Flores e a Primeira Casa]]

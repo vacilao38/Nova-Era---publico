@@ -74,6 +74,14 @@ Ela também revela ter encontrado, nos arquivos de Odr, referências a uma antig
 
 Blanck passa a tratar informação como uma relação de reciprocidade, consentimento e risco político. Ela escuta o objetivo de Zakna de matar [[Thor]] sem ridicularizá-lo, mas também sem adotá-lo: reafirma que o [[Desk]] é sua prioridade e oferece cooperação apenas quando os caminhos coincidirem. Essa postura realiza, em escala menor, a decisão tomada com Elder. Blanck não assume a missão de Zakna nem volta a carregar uma organização; cria uma ponte, delimita o que pode dar e deixa o outro responsável pelo próprio objetivo.
 
+Em [[Uma Irmã Careta e o Peso de Félix]], Blanck e [[Leif]] conversam diretamente pela primeira vez fora de crise ou mediação. Ela pede que ele diga que tipo de pessoa enxerga, recebe como resposta diplomacia, rigidez moral e justiça e devolve uma leitura de coragem, honestidade e princípios que resistem quando testados. Ao falar de [[Felix]], Blanck não afirma conhecer a motivação do arrependimento dele: distingue o reconhecimento das mortes de uma compreensão completa do que carregava. Também admite culpa contrafactual pelo leilão e pela morte de [[Cleide]]. A cena termina com um lenço oferecido e um pedido novo: se voltar a liderar, Blanck fará algumas coisas de modo diferente e espera que os companheiros também cuidem dela quando precisar.
+
+Pouco depois, em [[Flores, Escribas e o Preço das Asas de Prata]], Blanck encontra [[Elder]] no jardim do palácio. As duas falam de [[Hori Turling]], e Blanck admite gostar de observar a cartógrafa desenhar mapas e pássaros, além de planejar mostrar-lhe mapas antigos da biblioteca. A admiração e a influência pessoal são diretas; romance continua sem confirmação. Elder então conta a abertura da Segunda Guerra Divina como testemunha, descreve a acusação de [[Sterk Brensver]] depois da batalha, identifica Blanck como maga da [[Ordem dos Escribas]] e revela o [[Cajado das Eras]]. Blanck não conhecia conscientemente a Ordem, registra as informações e promete reconhecer pistas do artefato perdido. A identificação de Elder sugere uma herança de tradição, não filiação institucional demonstrada.
+
+Em [[Fé, Flores e a Primeira Casa]], o projeto com [[Scann]] torna-se residência ocupada. A casa próxima a uma vila, estradas e floresta foi organizada para permitir natureza sem isolamento, a cerca de uma hora de voo da capital. Blanck descobre que é a primeira casa de Scann e ouve a fada estimar 1.500 anos, narrar sua origem como luz alimentada por mana e pólen e afirmar que só continua existindo enquanto houver fé ou importância atribuída a ela. O primeiro impulso de Blanck é imaginar a própria divindade como proteção contra a solidão futura; depois, aceita que mortalidade e despedida não podem ser totalmente administradas.
+
+Na mesma conversa, Blanck pergunta sobre desejo romântico e formula preferências próprias. Mais importante que aparência, afirma que uma pessoa precisa gostar dela como existe agora, não apenas de uma versão futura melhorada. Ao perceber que Scann ainda depende quase exclusivamente dela para ser reconhecida como pessoa, propõe visitar a vila e ampliar a comunidade. A antiga líder transforma comando em arquitetura de pertencimento: casa, vizinhança, convites e espaço para que a melhor amiga tenha outras relações.
+
 ## Acontecimentos importantes
 
 | Evento | Participacao |
@@ -105,6 +113,9 @@ Blanck passa a tratar informação como uma relação de reciprocidade, consenti
 | [[Chá, Raízes e o Fim da Aventura]] | Assume a pesquisa das raízes do palácio e deixa de se definir como líder permanente |
 | [[Chá, Desculpas e o Peso de Liderar]] | Repara o conflito com Elder, reconhece a falta de reciprocidade fora das crises e decide deixar o grupo crescer sem carregar um reino nas costas |
 | [[Fajo Solar, Segredos e a Cabeça de Thor]] | Procura Zakna, esclarece a natureza dos Renegados, revela a chacina dos Brensver e estabelece uma parceria limitada de informações sobre o Desk e ameaças inter-reinos |
+| [[Uma Irmã Careta e o Peso de Félix]] | Revê Leif, conversa diretamente sobre Felix e Cleide, pede reciprocidade futura e reconhece a mudança moral do companheiro |
+| [[Flores, Escribas e o Preço das Asas de Prata]] | Recebe de Elder o testemunho sobre Sterk, a Ordem dos Escribas e o Cajado das Eras; registra a nova herança sem presumir filiação consciente |
+| [[Fé, Flores e a Primeira Casa]] | Conclui a mudança com Scann, conhece a origem feérica e a dependência de fé da amiga e transforma a casa em base para uma comunidade maior |
 
 ## Pontos altos
 
@@ -125,13 +136,13 @@ Blanck passa a tratar informação como uma relação de reciprocidade, consenti
 
 ## Relacoes
 
-- [[Scann]] — melhor amiga, confidente e futura companheira de casa; as duas escolhem permanecer juntas em Vanaheim.
+- [[Scann]] — melhor amiga, confidente e companheira de casa; Blanck organiza a primeira residência da fada perto da natureza e da vila, aprende que sua existência depende de fé e propõe ampliar a comunidade para que Scann não dependa apenas dela para ser reconhecida.
 - [[Navi]] — protegido importante; Blanck impede que se perca no ódio, torna-se responsável legal temporária e lhe oferece uma casa afetiva mesmo quando ele escolhe o quartel.
-- [[Leif]] — relacao caotica de atrito, humor e parceria; ela participa diretamente de sua libertacao na masmorra.
+- [[Leif]] — relação de atrito, humor e parceria mágica transformados em reconhecimento direto; Blanck reconhece sua coragem e seus princípios, recebe dele admiração pela magia e liderança e compartilha culpa, luto e um compromisso de enfrentar também os “inimigos sentimentais”.
 - [[Cleide]] — comeca em conflito, amadurece em confianca; ela o liberta no festival.
 - [[Aurélia]] — primeira amiga verdadeira e aliada política; Aurélia conteve sua petrificação e agora confia a ela a pesquisa das raízes, enquanto Blanck oferece aconselhamento sem assumir o governo.
-- [[Elder]] — espelho sobre morte, cuidado e liderança; no pós-guerra, Blanck pede que ela permaneça sem função, repara o conflito da guerra e permite que a velha confronte a falta de reciprocidade ao redor de seu comando sem ceder a própria decisão.
-- [[Hori Turling]] — amiga que a hospeda e acompanha na busca da casa; percebe suas inseguranças sociais e oferece uma aproximação ainda sem definição romântica.
+- [[Elder]] — espelho sobre morte, cuidado e liderança; no pós-guerra, Blanck pede que ela permaneça sem função, repara o conflito da guerra e permite que a velha confronte a falta de reciprocidade ao redor de seu comando. Depois, converte o testemunho de Elder sobre Sterk, a Ordem dos Escribas e o Cajado das Eras em registro, sem tratar a memória da anciã como infalível.
+- [[Hori Turling]] — amiga que a hospeda e acompanha na busca da casa; percebe suas inseguranças sociais e ajuda Blanck a agir menos como líder em relações pessoais. Blanck gosta de observá-la desenhar mapas e pássaros e pretende compartilhar arquivos antigos; a aproximação continua sem definição romântica.
 - [[Felix]] — antigo parceiro intelectual; sua traicao transforma respeito em ameaca, mas no clímax ele ainda a reconhece como boa amiga e entrega um grimório antes de aceitar a própria sentença.
 - [[Rog]] — fonte de conhecimento sobre elfos, [[Odr]], [[Wyrrer]] e a historia divina de Vanaheim.
 - [[Zakna]] — parceiro cauteloso de inteligência; Blanck testa suas intenções antes da guerra e, depois da vitória, procura-o para trocar informações sem aderir aos Renegados nem assumir o objetivo dele contra Thor.
@@ -154,10 +165,10 @@ Blanck passa a tratar informação como uma relação de reciprocidade, consenti
 - Curar ou compreender a infeccao pelo [[Desk]] e a maldicao de ouro.
 - Entender a verdade sobre [[Freyir]], os elfos e a ascensao divina vista na [[Catacumba de Gullveig]].
 - Resolver sua relacao com a familia [[Brensver]].
-- Processar a execução de [[Felix]] e descobrir o conteúdo do grimório entregue por ele.
+- Continuar processando a execução de [[Felix]] e descobrir o conteúdo do grimório entregue por ele; a conversa com Leif tornou culpa e arrependimento discutíveis, mas não revelou a motivação final de Felix.
 - Entender a natureza do adorno ligado a Brísingamen e o destino do Coração Esmeralda.
 - Estudar os contratos, registros e demais documentos deixados por Odr.
-- Escolher e organizar a casa que pretende comprar com Scann perto da natureza.
+- Integrar a casa já ocupada com Scann à vila próxima, receber a empregada planejada e transformar convites aos companheiros em convivência efetiva.
 - Formar a equipe de magos e druidas e descobrir se as raízes do palácio podem ser controladas.
 - Equilibrar a investigação do Desk, a reconstrução e a responsabilidade assumida por Navi.
 - Descobrir quem é quando não precisa liderar uma crise nem manter todos vivos.
@@ -165,5 +176,7 @@ Blanck passa a tratar informação como uma relação de reciprocidade, consenti
 - Elaborar os lutos específicos que a liderança a impediu de viver; a conversa com Elder tornou o desequilíbrio visível, mas não nomeou essas perdas.
 - Investigar a chacina dos Brensver, o apagamento do nome da avó, a aliança que formou o nome Brensver Vakker, a bênção lunar de Sterk e a possível ligação com a antiga derrota atribuída a um arauto de Loki.
 - Identificar a ordem de magos independentes encontrada nos arquivos de Odr e explicar por que sua tradição é idêntica à de Blanck.
+- Verificar a identificação feita por Elder de Blanck como maga da [[Ordem dos Escribas]], distinguindo herança de tradição, sobrevivência de conhecimento e filiação institucional.
+- Investigar o paradeiro do [[Cajado das Eras]] e sua relação com magia selvagem, Asgard, Helheim e as asas feridas de Elder.
 - Determinar a função do artefato transformado em colar e dos outros oito lugares atemporais mencionados por Zakna.
 - Manter a parceria informacional com Zakna sem absorver a missão dele contra Thor nem perder o foco no Desk.

@@ -24,12 +24,22 @@ O testemunho de Máni entra em conflito direto com a acusação de Zakna. Uma fo
 
 Ainda é possível que as fontes descrevam ataques diferentes — caça aos membros, destruição de depósitos ou apagamento posterior —, mas isso não foi demonstrado. Até nova revelação, nenhuma síntese deve transformar Thor ou Loki em responsável exclusivo por todas as etapas.
 
+Em [[Flores, Escribas e o Preço das Asas de Prata]], [[Elder]] oferece uma terceira formulação próxima à de Zakna: ao recontar a assembleia como testemunha, diz que [[mane|Máni]] afirmou que Thor matou seus servos, identificados como a Ordem. O resumo oral continua divergindo da fonte completa de [[Colisão Injusta - A Segunda Guerra Divina]], que registra a aliança de Loki. A nova fala fortalece a possibilidade de participação direta de Thor, mas não reconcilia caça, massacre, depósitos e apagamento.
+
+## Blanck e uma tradição sobrevivente
+
+Na mesma interação, Elder se surpreende porque [[Blanck]] não conhece o [[Cajado das Eras]] e a chama de “Maga da Ordem dos Escribas”. Blanck responde que nem sabia da existência da organização, pois todos haviam sido mortos.
+
+A identificação é direta, mas não demonstra iniciação, cadeia institucional ou consciência de pertencimento. Antes disso, Blanck havia encontrado nos arquivos de [[Odr]] uma ordem de magos independentes cuja tradição era idêntica à sua. É fortemente plausível que as duas referências apontem para a Ordem dos Escribas, mas a equivalência documental e a origem da transmissão ainda precisam ser verificadas.
+
 ## Relações abertas
 
 - esclarecer se a Ordem era religiosa, mágica, histórica ou uma combinação dessas funções;
 - identificar os depósitos, os escribas e a época de atividade;
 - determinar como seus ensinamentos chegaram ao Povo do Sol;
 - reconciliar o massacre atribuído à aliança de Loki com a destruição por Thor narrada por Zakna;
+- verificar se Thor executou uma etapa específica da caça atribuída à aliança de Loki;
+- explicar por que Elder identifica Blanck como maga da Ordem e por qual linhagem, professor ou arquivo a tradição sobreviveu;
 - descobrir qual informação sobre o título foi ocultada e se algum registro sobreviveu.
 
 ## Conexões
@@ -41,3 +51,5 @@ Ainda é possível que as fontes descrevam ataques diferentes — caça aos memb
 - [[Desk]]
 - [[Loki]]
 - [[Thor]]
+- [[Blanck]]
+- [[Cajado das Eras]]

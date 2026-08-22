@@ -12,6 +12,10 @@ Divindade ligada a [[Helheim]], à morte, aos cães e ao pacto de [[Elder]].
 - o pacto participa da magia espiritual e da forma ligada à espada [[Elder e sua espada Juliet|Juliet]]; suas manifestações usam prata fria, cinza, preto, silêncio, espíritos e marcas de julgamento;
 - Elder acredita que não pode simplesmente voltar a Helheim.
 
+## Contraste trazido por Scann
+
+Em [[Fé, Flores e a Primeira Casa]], [[Scann]] recorda [[Donn]] como a figura da morte conhecida em sua origem e percebe que, em Vanaheim, esse lugar é associado a Hela. Ela afirma que Hela não se parece em nada com Donn. A comparação confirma uma diferença na experiência de Scann, mas não estabelece que os dois tenham a mesma função cosmológica, sejam rivais ou governem o mesmo destino dos mortos.
+
 ## Estado do cânone
 
-Hela ainda não apareceu diretamente nas sessões registradas. A origem do corpo de Elder está confirmada, mas o que Hela quer, a identidade da entidade que enviou Anjo, quantas vezes Elder morreu e quais são as regras e o preço do retorno permanecem desconhecidos. Essas questões serão tratadas com o mestre. Hela não deve ser tratada automaticamente como protetora benevolente nem como antagonista até que a campanha revele sua intenção.
+Hela ainda não apareceu diretamente nas sessões registradas. A origem do corpo de Elder está confirmada, mas o que Hela quer, a identidade da entidade que enviou Anjo, quantas vezes Elder morreu e quais são as regras e o preço do retorno permanecem desconhecidos. Sua relação, se alguma, com Donn também não foi revelada. Essas questões serão tratadas com o mestre. Hela não deve ser tratada automaticamente como protetora benevolente nem como antagonista até que a campanha revele sua intenção.

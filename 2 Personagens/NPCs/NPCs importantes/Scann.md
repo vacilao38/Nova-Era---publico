@@ -9,9 +9,10 @@ Fada [[Pixie]] das [[ilhas celtas]], serva de [[Medebe]] e uma das presencas mai
 - **Tribo:** [[Feéricos]]
 - **Lealdade antiga:** rainha [[Medebe]]
 - **Natureza declarada:** espírito sustentado pela crença
-- **Idade declarada:** mais de setecentos anos; outras cenas sugerem uma escala superior a mil anos, sem número exato consolidado
+- **Idade declarada:** aproximadamente 1.500 anos, estimativa feita por Scann ao reconstruir a própria cronologia
+- **Reconhecimento divino:** afirma ter sido reconhecida pela deusa [[Áine]] depois de crescer como luz ligada a mana, pólen e plantas
 - **Objetivo declarado:** tornar-se uma **Justa**, criatura da natureza de altissimo nivel, comparavel a uma divindade protetora da propria tribo
-- **Estado atual:** escolheu permanecer em Vanaheim, construir uma casa com [[Blanck]] e não deseja retornar à terra natal no presente
+- **Estado atual:** vive com [[Blanck]] na primeira casa que considera sua, perto de uma vila e da floresta de Vanaheim; não deseja retornar à terra natal no presente
 - **Tema central:** cuidado pequeno que muda cenas grandes
 
 ## Personalidade
@@ -50,6 +51,14 @@ Em [[A Mão Negra e a Fada que Cresceu]], Scann já está fisicamente maior e n�
 
 Em [[Remédio para Dormir e a Fada que Escolheu Ficar]], [[Leif]] a convida para uma noite comum de compras. Scann afirma que não deseja voltar para casa: não gosta especialmente de Vanaheim, mas permanece porque seus amigos só existem ali. Quando Leif a infantiliza pela aparência, ela declara ter mais de setecentos anos, ser um espírito e viver pela crença. A cena confirma pertencimento escolhido e natureza espiritual, mas não explica quem sustenta essa crença nem como ela se relaciona com [[Medebe]], Pixie ou os [[Feéricos]].
 
+Em [[Fé, Flores e a Primeira Casa]], Scann e Blanck terminam de limpar e organizar a nova residência, próxima a uma vila, estradas e floresta e a aproximadamente uma hora de voo da capital. Scann afirma que é sua primeira casa; antes, sempre se percebeu como hóspede. Assume o futuro jardim, pensa em flores e aceita visitar a vila no dia seguinte para que as duas se apresentem.
+
+Ao recalcular a idade, Scann chega a aproximadamente 1.500 anos. Explica que passou mais da metade desse tempo sem corpo, como pequena luz que recolhia mana e pólen até crescer, adquirir consciência e ser reconhecida por [[Áine]]. Afirma ter aprendido essa história falando com as plantas e diz continuar crescendo.
+
+A mesma conversa torna precisa sua relação com crença. Segundo Scann, se deixar de ter importância para as pessoas, retorna à estaca zero; sem fé, deixa de existir. Ela confirma a Blanck que se considera imortal enquanto houver quem a reconheça, embora também diga que fadas que não amadurecem podem morrer. A condição é autodescrição canônica e não deve ser transformada sem confirmação em regra universal de todos os feéricos.
+
+Scann também distingue [[Hela]] de [[Donn|Senhor Donn]], figura da morte conhecida em sua origem, e descreve a morte como necessidade natural. Ao falar de amor, admite nunca ter se apaixonado, rejeita exibicionismo, preguiça e o comportamento antigo de Leif e confessa ter se considerado inútil poucos dias antes. Deseja ser vista como pessoa por mais gente e reconhece que ainda depende de Blanck para isso. A visita à vila torna-se primeiro passo para ampliar pertencimento e fé sem abandonar a amizade central.
+
 ## Acontecimentos importantes
 
 | Evento | Participacao |
@@ -73,6 +82,7 @@ Em [[Remédio para Dormir e a Fada que Escolheu Ficar]], [[Leif]] a convida para
 | [[A Casa que Vem Depois da Guerra]] | Escolhe permanecer com Blanck e construir uma casa em Vanaheim |
 | [[A Mão Negra e a Fada que Cresceu]] | Tem seu amadurecimento reconhecido por Elder e confirma uma origem externa a Yggdrasil compartilhada com Navi |
 | [[Remédio para Dormir e a Fada que Escolheu Ficar]] | Escolhe permanecer com os amigos, revela ser um espírito sustentado pela crença e retoma com Leif uma convivência sem missão |
+| [[Fé, Flores e a Primeira Casa]] | Ocupa sua primeira casa, estima ter 1.500 anos, explica a origem como luz reconhecida por Áine e afirma que fé e importância sustentam sua existência |
 
 ## Pontos altos
 
@@ -91,7 +101,7 @@ Em [[Remédio para Dormir e a Fada que Escolheu Ficar]], [[Leif]] a convida para
 
 ## Relacoes
 
-- [[Blanck]] — melhor amiga, confidente e futura companheira de casa; a relação tornou-se um projeto de vida no pós-guerra.
+- [[Blanck]] — melhor amiga, confidente e companheira de casa; Blanck a libertou do pote, organiza um lar que considera natureza e comunidade e propõe ampliar os vínculos quando Scann admite depender quase exclusivamente dela para ser vista como pessoa.
 - [[Leif]] — parceiro caotico de compras, riscos e salvamentos; no pós-guerra, ele procura sua companhia e reconhece sua força, embora continue infantilizando-a pela aparência.
 - [[Navi]] — companheiro jovem, tambem ligado a vulnerabilidade e coragem.
 - [[Cleide]] — contraste fisico e aliado de linha de frente.
@@ -104,7 +114,9 @@ Em [[Remédio para Dormir e a Fada que Escolheu Ficar]], [[Leif]] a convida para
 - Definir o caminho para se tornar uma Justa.
 - Explorar a relacao futura com [[Medebe]] e os [[Feéricos]].
 - Entender que papel a natureza da [[Catacumba de Gullveig]] e de [[Gullveig|Gveig/Gullveig]] pode ter no crescimento dela.
-- Escolher com Blanck a casa e a forma de vida próxima da natureza.
+- Integrar a casa já ocupada à vila, construir o jardim, receber a empregada planejada e transformar o espaço em comunidade além da dupla.
 - Esclarecer a relação entre Scann, Navi, a Pixie, a ilha verde e a origem externa a Yggdrasil.
-- Explicar como uma fada que se define como espírito vive pela crença, quem a sustenta e quais limites isso impõe.
+- Explicar como fé e importância são medidas, quem sustenta Scann, o que significa “voltar à estaca zero” e quais limites sua imortalidade condicional possui.
+- Desenvolver a ligação com [[Áine]], a fase anterior ao corpo e o conhecimento que Scann diz ter recebido das plantas.
+- Esclarecer quem é [[Donn]], por que Scann o conhece como figura da morte e como sua função se relaciona — ou não — com [[Hela]] e as cosmologias dos Nove Reinos.
 - Definir se e como poderá reencontrar [[Medebe]] e os [[Feéricos]] sem abandonar a vida escolhida em Vanaheim; no presente, Scann afirma não desejar retornar.

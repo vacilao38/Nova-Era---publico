@@ -14,7 +14,8 @@ Deus da Lua, também registrado nas notas como **mane**. Está ligado à lua azu
 - Símbolos lunares aparecem em [[Aurélia]], nos Renegados, na ferida de [[Odr]], em Brísingamen e no Coração Esmeralda.
 - A [[Catacumba de Gullveig]] termina revelando Wyrrer adormecido dentro do fluxo de mana que sustenta Vanaheim, mas não confirma se ele é Máni, avatar, receptáculo ou aliado.
 - Durante a queda de Odr, a luz lunar sustentada por Aurélia permite que [[Navi]] execute o golpe final.
+- Em [[Flores, Escribas e o Preço das Asas de Prata]], [[Elder]] afirma ter sido convidada por Freyr à assembleia e diz que Máni e [[Sterk Brensver]] a procuraram depois da batalha. Ambos foram firmes; a acusação de inação, indignidade e perda do [[Cajado das Eras]] é atribuída especificamente a Sterk.
 
 ## Ambiguidades
 
-A identidade do “Rei da Noite”, a relação com [[O-Coruja]] e a natureza exata de Máni ainda não foram confirmadas. Também não está estabelecido se a descendente de magia extraordinária mostrada a Sterk era [[Blanck]], embora a ligação seja fortemente sugerida.
+A identidade do “Rei da Noite”, a relação com [[O-Coruja]] e a natureza exata de Máni ainda não foram confirmadas. Também não está estabelecido se a descendente de magia extraordinária mostrada a Sterk era [[Blanck]], embora a ligação seja fortemente sugerida. A recontagem de Elder atribui a Máni a afirmação de que Thor matou a Ordem dos Escribas, enquanto a fonte completa registra a aliança de Loki; as versões permanecem sem reconciliação.

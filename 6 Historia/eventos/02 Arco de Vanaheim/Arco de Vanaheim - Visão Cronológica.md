@@ -272,6 +272,24 @@ Blanck procura Zakna na Taverna Peixinho quando os Renegados começam a se retir
 
 Às três da tarde de um dia chuvoso, Elder visita [[Hori Turling]], pede desculpas ao mordomo em quem pisou anteriormente e desorganiza o escritório ao cair diante das muitas trancas. Entre mapas, arquivos e provocações, ela rejeita o título de heroína, admite estar desatualizada e descreve o álcool contínuo como forma de não perder a razão. A hipótese de Hori sobre lacunas ou censura nos registros de Svarfheim provoca uma reação silenciosa que Elder não explica. Hori mostra rascunhos e um mapa concluído, recebe elogio sincero e permite que Elder escolha mapas atuais de Midgard; a fonte não identifica o inventário retirado nem registra a devolução.
 
+### Madrugada de 21/07/0387 — [[A Lareira Apagada e a Noite sem Sono]]
+
+Às 03:14, Elder costura diante de uma lareira apagada enquanto duas figuras infantis de luz brincam e chamam pela mãe. As figuras desaparecem quando Leif chega. Ele fala do desejo de casar com Aurélia, ter muitos filhos e manter os irmãos unidos; Elder oferece ajuda à família futura e compara sua lealdade à de Arsthör e [[Yrídia]]. A conversa passa por Felix, culpa e luto por Odr como amigo que Elder desejava conservar. Depois de receber “vocês, elfos” como fronteira quase acusatória, ela revela que nunca conseguiu dormir; o criador confirma ausência de sonhos e descanso, consciência durante o repouso, exaustão e dor de cabeça contínuas.
+
+Na continuação, Leif define medo pela imprevisibilidade e admite ter temido perder Aurélia. Elder procura uma fórmula para tornar-se forte, considera outro pacto e o uso mais frequente de uma espada. Leif contrapõe fontes infinitas à força da união; Elder relaciona dependência à derrota para Göll, pergunta o que se perde numa derrota e confessa não querer ser negada mais uma vez. Ele responde pela aceitação do grupo, mas ela diz que não é disso que fala. A fonte, identificada também como o 25º dia após Odr, encerra com Leif afirmando que poder não é tudo e Elder respondendo “eu só quero ser”.
+
+### Manhã de 23/07/0387 — [[Uma Irmã Careta e o Peso de Félix]]
+
+Diante da biblioteca, Blanck e Leif reconhecem que quase nunca conversaram diretamente. Ele a descreve como diplomática, firme e orientada pela justiça; ela o considera corajoso, honesto e sustentado por princípios que resistem quando testados. Ao falar de Félix, Blanck separa reconhecimento do dano de motivação e admite culpa contrafactual pelo leilão e pela morte de Cleide. Leif reconhece semelhanças com o inventor, mas diferencia escolha de salvar da necessidade de salvar e punir a qualquer custo. A cena termina com um lenço, um pedido de reciprocidade e a disposição de enfrentar também “inimigos sentimentais”.
+
+### Manhã de 23/07/0387 — [[Flores, Escribas e o Preço das Asas de Prata]]
+
+Meia hora depois, Elder encontra Blanck enquanto rega o jardim do palácio. A anciã havia ajudado na mudança e aceita um convite futuro para jantar. Ao contar a Segunda Guerra Divina, confirma que foi convidada por Freyr e presenciou a assembleia, descreve a condenação recebida de Sterk por não agir e pela perda do Cajado das Eras e identifica Blanck como maga da Ordem dos Escribas. Elder revela ter usado o cajado uma vez; magia selvagem plena produziu asas de prata que rasgaram suas costas. O artefato permanece perdido, e Blanck transforma a memória em registro e pista.
+
+### Tarde de 24/07/0387 — [[Fé, Flores e a Primeira Casa]]
+
+Blanck e Scann concluem a organização da casa perto de uma vila e da floresta, a aproximadamente uma hora de voo da capital. Scann afirma que é sua primeira casa, estima ter 1.500 anos e explica que passou grande parte da vida como luz alimentada por mana e pólen antes de ser reconhecida por Áine. Sua existência depende de fé ou importância para outras pessoas. A conversa passa por morte, divindade, amor, autonomia e dependência; quando Scann admite precisar de Blanck para ser vista como pessoa, a maga propõe visitar a vila e ampliar a comunidade. A fonte chama a estação de verão, em conflito com o calendário consolidado de Outono.
+
 ### Calendário da retomada da capital
 
 | Data | Preparação | Estação | Fase da Lua, quando noturno |
@@ -300,6 +318,9 @@ Blanck procura Zakna na Taverna Peixinho quando os Renegados começam a se retir
 | Provavelmente 15–18/07/0387 | [[Lírios, Vinho e um Futuro sob a Lua]] | Outono | Lua Cheia, explícita na fonte |
 | Noite de 16/07/0387 | [[Fajo Solar, Segredos e a Cabeça de Thor]]; 20º dia após a derrota de Odr | Outono | provavelmente Lua Cheia; encoberta por nuvens |
 | Tarde de 20/07/0387 | [[Mapas entre Tempos e uma Anciã Desatualizada]] | Outono | — |
+| 03:14 de 21/07/0387 | [[A Lareira Apagada e a Noite sem Sono]]; 25º dia após a derrota de Odr | Outono | indeterminada; luz semelhante ao luar descrita na fonte |
+| Manhã de 23/07/0387 | [[Uma Irmã Careta e o Peso de Félix]]; [[Flores, Escribas e o Preço das Asas de Prata]]; 27º dia após Odr | Outono | — |
+| Tarde de 24/07/0387 | [[Fé, Flores e a Primeira Casa]]; 28º dia após Odr | **Contraditória:** fonte diz Verão; calendário diz Outono | — |
 
 ---
 
@@ -368,6 +389,10 @@ Todas as datas abaixo pertencem ao ano 0387. Maio está no **Verão**; junho e j
 | Provavelmente 15–18/07 | [[Lírios, Vinho e um Futuro sob a Lua]] | Leif e Aurélia convertem o futuro desejado em planos explícitos; Lua Cheia descrita pela fonte |
 | Noite de 16/07 | [[Fajo Solar, Segredos e a Cabeça de Thor]] | Blanck e Zakna transformam a aliança de guerra em parceria informacional; surgem a chacina dos Brensver, a crise de Alfheim, os nove lugares atemporais e o título de Imperador |
 | Tarde de 20/07 | [[Mapas entre Tempos e uma Anciã Desatualizada]] | Elder e Hori abrem uma parceria por mapas; 24º dia após Odr |
+| 03:14 de 21/07 | [[A Lareira Apagada e a Noite sem Sono]] | Leif surpreende Elder com figuras infantis de luz; os dois falam de família, Odr, vigília, medo, força e derrota; Elder confessa não querer ser negada e encerra em “eu só quero ser”; 25º dia após Odr |
+| 11h de 23/07 | [[Uma Irmã Careta e o Peso de Félix]] | Blanck e Leif revisam como se enxergam, discutem Félix, Cleide, culpa e princípios e transformam o lenço em pedido de reciprocidade |
+| 11h30 de 23/07 | [[Flores, Escribas e o Preço das Asas de Prata]] | Elder confirma presença em Colisão Injusta, revela a condenação de Sterk, identifica Blanck com a Ordem e liga o Cajado das Eras às asas feridas |
+| Tarde de 24/07 | [[Fé, Flores e a Primeira Casa]] | Blanck e Scann ocupam a primeira casa da fada; origem feérica, fé, mortalidade, desejo e comunidade reorganizam o vínculo |
 
 ---
 
@@ -398,3 +423,4 @@ Todas as datas abaixo pertencem ao ano 0387. Maio está no **Verão**; junho e j
 - [[4 Elementos/abrolho|abrolho]] / possível forma ou fragmento do [[Escudo-de-Wyrrer|Escudo de Wyrrer]]
 - [[Brísingamen]] e [[Coração Esmeralda]]
 - Água viva e runas da [[3 Locais/Catacumba de Gullveig|Catacumba de Gullveig]]
+- [[Cajado das Eras]] — artefato perdido que Elder afirma ter usado uma única vez; a magia selvagem resultante se manifestou como asas de prata que rasgaram suas costas

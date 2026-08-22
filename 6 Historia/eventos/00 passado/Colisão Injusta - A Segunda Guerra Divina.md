@@ -3,7 +3,7 @@ tipo: evento histórico canônico
 status: cânone confirmado
 data_diegetica: c. 113 AV
 local: Asgard
-atualizado: 2026-08-12
+atualizado: 2026-08-21
 fonte: SPINOFF do nova Era.vtt
 ---
 
@@ -18,6 +18,9 @@ fonte: SPINOFF do nova Era.vtt
 
 > [!info] Enquadramento do relato
 > No presente pós-guerra, [[Elder]] conta esta história a [[Navi|Naví]] em Vanaheim. Ela começa sorrindo, mas o sorriso desaparece conforme a lembrança avança. Elder descreve [[Huli Jing]] como uma raposa — e por vezes como se fosse um cachorro —, porém isso é um erro da narradora: Huli é uma criação **felina** de [[Freya]]. A confusão é canônica como parte do relato de Elder; não altera a natureza de Huli.
+
+> [!info] Confirmação posterior da presença de Elder
+> Em [[Flores, Escribas e o Preço das Asas de Prata]], Elder afirma diretamente a [[Blanck]] que foi convidada por [[Freyir|Freyr]] e presenciou a assembleia. A declaração torna canônica sua condição de testemunha segundo o próprio relato, sem eliminar a falibilidade demonstrada nos detalhes sobre Huli e sobre a responsabilidade pela Ordem dos Escribas.
 
 ## Resumo
 
@@ -65,6 +68,14 @@ Loki é derrotado fisicamente, mas não encerrado. Máni já compreende que mat�
 
 Assim, a história possui um fim próprio — a armadilha do salão é quebrada e Sterk pode retornar a Alfheim —, mas seu desfecho é também o começo histórico da Segunda Guerra Divina.
 
+## Depois da batalha — a condenação de Elder
+
+Na recontagem feita a Blanck, Elder descreve um trecho posterior ao encerramento do spinoff. [[Sterk Brensver]] e [[mane|Máni]] foram falar com ela. Os dois teriam sido firmes, mas Elder atribui a Sterk a reação rancorosa: ele a acusou de possuir poder e não agir enquanto enfrentavam Thor e Loki.
+
+Sterk declarou que Elder não era digna de carregar a espada de Freyr, responsabilizou-a pela perda do [[Cajado das Eras]] e passou a evitá-la. Elder recorda a condenação com o corpo fechado e insatisfação, embora demonstre entender por que ele reagiu daquela forma.
+
+O relato não esclarece onde Elder permaneceu durante o combate mostrado no spinoff, qual intervenção era esperada, quando o cajado foi perdido ou se Máni endossou as acusações específicas de Sterk.
+
 ## Consequências históricas
 
 1. **A Segunda Guerra Divina torna-se aberta.** O julgamento fracassado revela que Loki já possui aliados, vítimas manipuladas e capacidade de atingir o centro de Asgard.
@@ -75,6 +86,7 @@ Assim, a história possui um fim próprio — a armadilha do salão é quebrada 
 6. **Thor cai como vítima e agente.** Ele é responsável pela devastação da batalha, mas age com memória e afeto corrompidos pelo Desk.
 7. **Huli rompe com Loki sem apagar o abuso.** A reação recupera agência, mas não cura as perdas nem transforma instantaneamente sua relação com o mundo.
 8. **Loki continua sendo problema histórico.** Sua prisão na caverna de [[Midgard]] acontece depois desta batalha. Mesmo preso, seus servos e arautos persistem até a vitória dos Heróis de Vanaheim em 01/01/0001 DV.
+9. **Elder carrega a batalha como omissão pessoal.** A testemunha foi condenada por Sterk por não intervir e pela perda do Cajado das Eras; a ruptura torna a abertura da guerra também parte da história de inadequação, asas e autoridade de Elder.
 
 ## Conexões com a história maior
 
@@ -102,9 +114,9 @@ A desigualdade não está apenas no nível de poder. Os deuses discutem fé como
 
 Máni conecta as três respostas ao futuro. Ele não nega o destino da própria morte, mas se recusa a tratar destino como obediência. Sua bênção não recompensa apenas força; recompensa a decisão mortal de segurar a espada quando um deus manda soltá-la.
 
-### Elder como guardiã imperfeita da memória
+### Elder como testemunha e guardiã imperfeita da memória
 
-O sorriso que desaparece indica que Elder não narra uma lenda distante e limpa. Ela carrega o peso do que sabe, mas também erra: transforma uma felina em raposa. A cena preserva simultaneamente seu valor como transmissora e sua falibilidade. Contar a Naví é um gesto de permanência: em vez de deixar outra geração caminhar apenas entre versões apagadas, Elder entrega a história — inclusive com a marca humana de quem a conta.
+O sorriso que desaparece indica que Elder não narra uma lenda distante e limpa. A confirmação de que esteve na assembleia transforma o peso em testemunho pessoal, agravado pela condenação posterior de Sterk. Ainda assim, ela erra: transforma uma felina em raposa e, em outro resumo, atribui a Thor uma responsabilidade que a fonte completa formula como aliança de Loki. As cenas preservam simultaneamente seu valor como testemunha e sua falibilidade. Contar a Naví e a Blanck é um gesto de permanência: em vez de deixar outra geração caminhar apenas entre versões apagadas, Elder entrega a história — inclusive com a marca de quem a viveu e não conseguiu agir como os demais esperavam.
 
 ## Ambiguidades preservadas
 
@@ -115,6 +127,8 @@ O sorriso que desaparece indica que Elder não narra uma lenda distante e limpa.
 - Loki é partido ao meio, mas seu retorno e a prisão posterior demonstram que o confronto não o encerrou;
 - a versão de Máni sobre a Ordem dos Escribas contradiz a acusação posterior de Zakna contra Thor;
 - Huli é felina; as formas e comparações de raposa pertencem ao erro de Elder ao narrar.
+- a recontagem a Blanck resume Máni como se ele tivesse acusado diretamente Thor pelo massacre; isso diverge da fonte completa e pode refletir compressão, etapas diferentes do ataque ou memória imprecisa;
+- não se sabe que ação Elder poderia ter realizado, por que possuía o Cajado das Eras nem como o perdeu.
 
 ## Fonte
 
@@ -122,6 +136,7 @@ O sorriso que desaparece indica que Elder não narra uma lenda distante e limpa.
 - **00:52–01:40:** armadilha do Desk, corrupção de Thor, manipulação de Huli e resistência de Sterk;
 - **01:40–02:03:** promessa à linhagem Brensver, queda de Thor e golpe conjunto contra Loki;
 - **02:03–02:08:** consequências, início da guerra e esclarecimento de que Elder conta a história a Naví confundindo a felina com uma raposa.
+- **Fonte complementar:** `8 INPUT/Fontes WhatsApp 2026-08-21/Nova Era - conversas 3.txt`, linhas 3530–3627; presença de Elder, resumo a Blanck, confronto posterior com Sterk e revelação do Cajado das Eras.
 
 ## Ligações
 
@@ -138,3 +153,5 @@ O sorriso que desaparece indica que Elder não narra uma lenda distante e limpa.
 - [[Ordem dos Escribas]]
 - [[Elder]]
 - [[Navi|Naví]]
+- [[Cajado das Eras]]
+- [[Flores, Escribas e o Preço das Asas de Prata]]

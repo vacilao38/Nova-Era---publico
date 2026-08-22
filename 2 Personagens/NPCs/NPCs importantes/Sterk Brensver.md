@@ -24,6 +24,14 @@ Durante a batalha, viu a esposa grávida do segundo filho, a primeira criança d
 - a visão de uma descendente de poder mágico extraordinário cria forte prenúncio de [[Blanck|Blanck Brensver Vakker]], embora a fonte não diga o nome dela;
 - a bênção lunar oferece uma origem histórica possível para a persistência, o talento e os vínculos celestes dos Brensver, sem explicar sozinha todas as capacidades da Casa.
 
+## Depois da batalha — testemunho de Elder
+
+Em [[Flores, Escribas e o Preço das Asas de Prata]], [[Elder]] afirma ter presenciado a assembleia e descreve Sterk como rígido, convicto, gentil e amante de doces. A avaliação positiva convive com uma ruptura pessoal depois da vitória.
+
+Segundo Elder, Sterk e [[mane|Máni]] foram falar com ela quando a luta terminou. Sterk estava rancoroso, embora isso não combinasse com o comportamento que ela conhecia. Acusou-a de possuir poder e ter apenas observado enquanto os outros lutavam, declarou-a indigna de carregar a espada de [[Freyir|Freyr]] e a responsabilizou pela perda do [[Cajado das Eras]]. Depois disso, passou a evitá-la.
+
+O relato confirma a condenação como memória de Elder. A fonte não apresenta a resposta de Sterk, não esclarece que ação ele esperava durante a batalha e não estabelece se possuía autoridade formal sobre a espada ou sobre o cajado.
+
 ## Relações
 
 - [[mane|Máni]] — aliado divino e autor da promessa feita à linhagem.
@@ -33,6 +41,7 @@ Durante a batalha, viu a esposa grávida do segundo filho, a primeira criança d
 - [[Thor]] — adversário corrompido pelo Desk.
 - [[Ordem dos Escribas]] — mortos cuja vingança também move Sterk durante o confronto.
 - [[Blanck]] — descendente sugerida pela visão, mas não identificada nominalmente.
+- [[Elder]] — testemunha da assembleia segundo declaração posterior; depois da luta, Sterk condenou sua inação e a perda do Cajado das Eras e passou a evitá-la.
 
 ## Ambiguidades
 
@@ -40,3 +49,4 @@ Durante a batalha, viu a esposa grávida do segundo filho, a primeira criança d
 - a posição formal de Sterk dentro da Casa Brensver ainda não foi definida;
 - não está confirmado se a descendente mostrada por Máni era Blanck ou outra Brensver;
 - a fonte não estabelece como Sterk cumpriu a proteção de Sol depois de deixar Asgard.
+- não está esclarecido por que Sterk responsabilizou Elder pelo Cajado das Eras nem qual era a custódia formal do artefato.

@@ -80,8 +80,12 @@
 79. [[Fajo Solar, Segredos e a Cabeça de Thor]]
 80. [[Mapas entre Tempos e uma Anciã Desatualizada]]
 81. [[A Lareira Apagada e a Noite sem Sono]]
+82. [[Uma Irmã Careta e o Peso de Félix]]
+83. [[Flores, Escribas e o Preço das Asas de Prata]]
+84. [[Fé, Flores e a Primeira Casa]]
 
 ## Observações de continuidade
 
 - Festival dos Vagalumes: **17/05/0387**, manhã e noite — três fontes primárias concordam (`Bruno coloca Leif para dançar`, `AFugadaCapitalDeVanaheim`, `ARQUIVO - Do Projeto da Carruagem`). O 18/05 vinha só da Visão Cronológica, que é documento derivado. Resolvido em 12/08/2026.
 - [[O Mar, o Cabelo Vermelho e a Morte Evitavel]]: data diegética **10/06/0387** — seis dias após a Catacumba de Gullveig (04/06). O “04/06” do arquivo é a **data da conversa entre jogadores**, não data de ficção. Resolvido em 12/08/2026.
+- [[Fé, Flores e a Primeira Casa]]: a fonte chama 24/07/0387 de “tarde quente de verão” e diz que o verão está acabando, enquanto o calendário consolidado classifica julho como Outono. Divergência preservada em 21/08/2026.

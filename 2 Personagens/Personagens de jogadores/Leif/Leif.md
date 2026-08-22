@@ -68,6 +68,12 @@ Leif transforma a surpresa em conversa. Define medo pela imprevisibilidade, admi
 
 Elder liga esse limite à derrota solitária para Göll e confessa não querer ser negada outra vez. Leif tenta acolhê-la pela aceitação do grupo e pela gratidão dos salvos, mas ela esclarece que não é disso que fala. A cena encerra com uma compreensão parcial e sincera: Leif percebe que Elder está fixada em poder e diz que poder não é tudo; ela responde “eu só quero ser”.
 
+Em [[Uma Irmã Careta e o Peso de Félix]], Leif encontra [[Blanck]] diante da biblioteca no 27º dia após Odr. Os dois reconhecem que quase nunca conversaram diretamente. Leif primeiro a provoca como “irmã chata” e “careta”, mas depois a descreve como diplomática, moralmente firme e orientada pela justiça. Admite ter invejado sua magia e sua capacidade de liderar. Blanck, por sua vez, reconhece nele coragem, honestidade e princípios que se mantêm quando testados.
+
+Leif finalmente pergunta se Felix estava arrependido. Diante da resposta incerta de Blanck, reconhece que os dois poderiam ter percorrido caminhos semelhantes, mas distingue sua vontade de salvar da necessidade de Felix de ajudar os frágeis e punir os fortes a qualquer custo. A formulação é uma leitura de Leif, não verdade confirmada sobre Felix. Ele condena a culpa que não devolve os mortos, mas também imagina que mais força talvez o tivesse feito chegar a tempo, mostrando que ainda tenta responder à perda pela potência.
+
+Quando Blanck oferece um lenço e pede que o grupo também cuide dela, Leif aceita o gesto e declara disposição para enfrentar ao lado dos companheiros até inimigos emocionais. A relação deixa de ser apenas caos, resgate e bronca: ele recebe vulnerabilidade da antiga líder sem transformá-la em fraqueza e oferece continuidade, ainda que a cena não demonstre como agirá quando ela realmente pedir ajuda.
+
 ## Acontecimentos importantes
 
 | Evento | Participacao |
@@ -97,6 +103,7 @@ Elder liga esse limite à derrota solitária para Göll e confessa não querer s
 | [[Remédio para Dormir e a Fada que Escolheu Ficar]] | Procura a companhia de Scann para compras, revela a intenção de adquirir remédio para dormir e reconhece o valor da fada |
 | [[Lírios, Vinho e um Futuro sob a Lua]] | Prepara um jantar para Aurélia e transforma casamento, ducado, filhos e a promessa de levar Cleide a Jötunheim em planos explícitos |
 | [[A Lareira Apagada e a Noite sem Sono]] | Confia a Elder seus planos familiares, admite o medo de perder Aurélia, oferece sua experiência de fracassos e contesta a busca por fontes infinitas; presencia a revelação da vigília e a confissão de que Elder não quer ser negada, mas compreende apenas parte do que “eu só quero ser” significa |
+| [[Uma Irmã Careta e o Peso de Félix]] | Conversa diretamente com Blanck sobre admiração, Félix, culpa e reciprocidade; aceita o lenço e se dispõe a enfrentar com o grupo também conflitos emocionais |
 
 ## Pontos altos
 
@@ -117,7 +124,7 @@ Elder liga esse limite à derrota solitária para Göll e confessa não querer s
 ## Relacoes
 
 - [[Aurélia]] — paixão antiga e companheira assumida; depois dos beijos antes e após Odr, os dois reafirmam num jantar íntimo que querem casamento, filhos e uma vida compartilhada.
-- [[Blanck]] — atrito, humor e parceria magica; ela participa diretamente de sua libertacao na masmorra.
+- [[Blanck]] — atrito, humor e parceria mágica transformados em reconhecimento direto; Leif admite inveja de sua magia e liderança, recebe dela uma leitura positiva de seus princípios e aceita um compromisso de reciprocidade fora do combate.
 - [[Cleide]] — companheiro de linha de frente; Leif guarda suas cinzas e transforma a despedida numa promessa de revanche futura.
 - [[Scann]] — parceira de compras, infiltrações e perigos; no pós-guerra, Leif retoma a convivência cotidiana, pergunta por sua casa e reconhece sua força, embora ainda a trate como criança pela aparência.
 - [[Navi]] — companheiro mais jovem que o ajuda a expulsar a sombra da masmorra.
@@ -130,7 +137,8 @@ Elder liga esse limite à derrota solitária para Göll e confessa não querer s
 - Entender a nova magia de Leif e sua relacao com fe em si mesmo.
 - Entender o que o despertar completo revela sobre sua linhagem, [[Loki]] e o "chakar" citado por Raksha.
 - Definir o que significa ser um [[Lopt]] fora do molde da familia.
-- Revelar qual decisão tomou sobre [[Felix]] e como reage à execução realizada por [[Blanck]].
+- Revelar qual decisão tomou sobre [[Felix]] antes da invasão; no pós-guerra, Leif já perguntou por seu arrependimento, reconheceu semelhanças e diferenciou os próprios princípios, mas a decisão original continua oculta.
+- Acompanhar se Leif transforma a promessa de enfrentar “inimigos sentimentais” em cuidado real quando Blanck ou outro companheiro pedir ajuda.
 - Concluir a recuperação da visão, energia e controle da transformação depois do clímax.
 - Concluir a negociação, definir quem explorará o território e construir legitimidade diante dos nobres sem depender apenas de casamento ou linhagem.
 - Esclarecer por que procura remédio para dormir, se a compra ocorre e se existe uma dificuldade recorrente de sono.
