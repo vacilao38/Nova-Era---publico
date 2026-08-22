@@ -39,6 +39,8 @@ function Test-MaterialPrivado {
     # O padrao de Exportacoes e propositalmente ASCII para funcionar no Windows PowerShell 5.1.
     if ($r -match '^0 Area de trabalho/(Backups|Exporta[^/]*)/') { return $true }
     if ($r -match '^8 INPUT/(Fontes WhatsApp [^/]+/|Temp(?: 2)?\.md$)') { return $true }
+    # Apenas ASCII no padrao: Windows PowerShell 5.1 pode interpretar scripts UTF-8 sem BOM como ANSI.
+    if ($r -match '(^|/)Anota[^/]*pedro\.md$') { return $true }
 
     # Todo o ramo de Pedro permanece na versao curada do destino e nunca e sobrescrito.
     if ($r -match '^1 Jogadores/Pedro(?:/|$)') { return $true }

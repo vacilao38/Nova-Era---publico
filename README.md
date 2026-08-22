@@ -32,6 +32,7 @@ O filtro exclui:
 - pastas `notas - <jogador>`;
 - cânone privado, planejamento, mecânicas, arquivos e materiais de apoio ainda privados da Elder;
 - ideias pessoais, análises privadas, backups, exportações e fontes brutas de WhatsApp.
+- arquivos pessoais chamados `Anotações pedro.md`.
 
 Os registros públicos da Elder e sua história ocorrida em sessão continuam incluídos na forma curada que já existe nesta versão. Como a origem contém versões mais extensas e privadas desses mesmos arquivos, todo o ramo Pedro/Elder é protegido contra sobrescrita automática.
 
